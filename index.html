@@ -1,28 +1,29 @@
-<!DOCTYPE html>
 <html>
-	<head>
-		<title>Map Indian Archaeology</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/mina.github.io/css/main.css">
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/mina.github.io">Home</a></li>
-        		<li><a href="/mina.github.io/Project">Project</a></li>
-        		<li><a href="/mina.github.io/blog>Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Welcome! This is the landing page for Map Indian Archaeology</h1>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:dngupta@mun.ca">email</a></li>
-        		<li><a href="https://github.com/dngupta/mina.github.io">github.com/dngupta/mina</a></li>
-			</ul>
-		</footer>
-	</body>
+<head>
+  <title>A Leaflet map!</title>
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <style>
+    #map{ height: 100% }
+  </style>
+</head>
+<body>
+
+  <div id="map"></div>
+
+  <script>
+
+  // initialize the map
+  var map = L.map('map').setView([22.41, 82.77], 4.4);
+
+  // load a tile layer
+  L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
+    {
+      attribution: 'Tiles by <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a>a>',
+      maxZoom: 15,
+      minZoom: 4.4
+    }).addTo(map);
+
+  </script>
+</body>
 </html>
