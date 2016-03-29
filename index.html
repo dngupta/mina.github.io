@@ -27,16 +27,12 @@ var customLayer = L.geoJson(null, {
     }
 });
 
-  // initialize the map
-
-  // load a tile layer
- // L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
-  //  {
-      attribution: 'Tiles by <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a>a>',
-      maxZoom: 15,
-      minZoom: 4.4
-    }).addTo(map); //
-//
+var runLayer = omnivore.kml('/mapbox.js/assets/data/line.kml', null, customLayer)
+    .on('ready', function() {
+        // http://leafletjs.com/reference.html#map-fitbounds
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
   </script>
 </body>
 </html>
