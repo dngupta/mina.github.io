@@ -1,49 +1,28 @@
 <html>
 <head>
-  <title>A Leaflet map from Mapbox!</title>
-  <script src='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.js'></script>
-<link href='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.css' rel='stylesheet' />
-<style>
+  <title>A Leaflet map!</title>
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
   <style>
     #map{ height: 100% }
   </style>
 </head>
 <body>
 
-  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
-  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-
   <div id="map"></div>
+
   <script>
- 
-var map = L.map('map').setView([82.77, 22.41], 4.4);
 
-            L.tileLayer('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18,
-    id: 'dngupta.8866385d',
-    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'
-}).addTo(map);
+  // initialize the map
+  var map = L.map('map').setView([42.35, -71.08], 13);
 
-// Omnivore will AJAX-request this file behind the scenes and parse it:
-// note that there are considerations:
-// - The file must either be on the same domain as the page that requests it,
-//   or both the server it is requested from and the user's browser must
-//   support CORS.
-
-// The omnivore functions take three arguments:
-//
-// - a URL of the file to fetch
-// - options to the parser
-// - a custom layer
-//
-// And they return the custom layer, which is by default an L.geoJson layer.
-//
-// The second two arguments are each optional. In this case we're supplying
-// no arguments to the parser (null), but supplying a custom layer
-// with custom styles. These styles are the same as any styles you would
-// use with the default Leaflet API for L.geoJson, so read the documentation
-// at http://leafletjs.com/reference.html#geojson for the full details.
+  // load a tile layer
+  L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
+    {
+      attribution: 'Tiles by <a href="http://mapc.org">MAPC</a>, Data by <a href="http://mass.gov/mgis">MassGIS</a>',
+      maxZoom: 17,
+      minZoom: 9
+    }).addTo(map);
 
   </script>
 </body>
