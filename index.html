@@ -1,29 +1,42 @@
 <html>
 <head>
   <title>A Leaflet map!</title>
-  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
-  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <script src='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.css' rel='stylesheet' />
+<style>
   <style>
     #map{ height: 100% }
   </style>
 </head>
 <body>
 
-  <div id="map"></div>
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 
+  <div id="map"></div>
   <script>
+  L.mapbox.accessToken = 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw';
+var map = L.mapbox.map('map', 'mapbox.streets');
+
+var customLayer = L.geoJson(null, {
+    // http://leafletjs.com/reference.html#geojson-style
+    style: function(feature) {
+        return {
+            color: '#f00'
+        };
+    }
+});
 
   // initialize the map
-  var map = L.map('map').setView([22.41, 82.77], 4.4);
 
   // load a tile layer
-  L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
-    {
+ // L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
+  //  {
       attribution: 'Tiles by <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a>a>',
       maxZoom: 15,
       minZoom: 4.4
-    }).addTo(map);
-
+    }).addTo(map); //
+//
   </script>
 </body>
 </html>
