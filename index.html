@@ -1,6 +1,8 @@
 <html>
 <head>
-  <title>A Leaflet map!</title>
+  <title>Map Indian Archaeology</title>
+  <script src='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.css' rel='stylesheet' />
   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
   <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
   <style>
@@ -10,20 +12,34 @@
 <body>
 
   <div id="map"></div>
-
   <script>
 
-  // initialize the map
-  var map = L.map('map').setView([42.35, -71.08], 13);
+            var map = L.map('Emerald').setView([82.77, 22.41], 4.4);
 
-  // load a tile layer
-  L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
-    {
-      attribution: 'Tiles by <a href="http://mapc.org">MAPC</a>, Data by <a href="http://mass.gov/mgis">MassGIS</a>',
-      maxZoom: 17,
-      minZoom: 9
-    }).addTo(map);
+            L.tileLayer('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+    id: 'dngupta/cim2bga3y008za0m4kbadgih8',
+    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'
+}).addTo(map);
 
-  </script>
+            //enter path for .csv here
+            //omnivore.csv('sites/aa-sites-popup.csv')
+             //.on('ready', function(layer) {
+       
+        //this.eachLayer(function(marker) {
+          
+            // Bind a popup to each icon based on the same properties
+            // Adds coloumns of extra info to marker popup
+            //marker.bindPopup(marker.toGeoJSON().properties.timePeriod +
+              //  marker.toGeoJSON().properties.siteName + '<br><br> ' +
+              //  marker.toGeoJSON().properties.info + '<br><br> ' +
+              //  marker.toGeoJSON().properties.link, {autoPanPadding: [5,55]});
+        });
+    })
+            //.addTo(map);
+            
+</script>
+
 </body>
 </html>
