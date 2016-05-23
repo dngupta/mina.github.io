@@ -9,7 +9,6 @@
 
     <title>Map Indian Archaeology</title>
 
-    
     <!-- Bootstrap core CSS -->
     <link href="/css/bootstrap.css" rel="stylesheet">
 
@@ -23,10 +22,13 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 	<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.16.0/mapbox-gl.js"></script>
+	<style>
+        body { margin:0; padding:0; }
+		#map { position:absolute; top:60px; bottom:0; width:100%; }
+    </style>
   </head>
 
   <body>
-    
     <!-- Fixed navbar -->
     <div class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
@@ -41,14 +43,13 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/index">Map</a></li>
+            <li><a href="/mina/index">Map</a></li>
             <li><a href="/project">The Project</a></li>
 			<li><a href="/contact">Contact</a></li>
               </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
-
     <!-- MAP -->
      <div id="map"></div>
 	 <script>
@@ -56,10 +57,12 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmM
 var map = new mapboxgl.Map({
     container: 'map', // container id
     style: 'mapbox://styles/dngupta/cijkc4d51008492kf4u9ukchs', // your style URL
+	//style: 'mapbox://styles/mapbox/streets-v8',//
     center: [80.042289, 23.268807], // starting position
     zoom: 3.65 // starting zoom
 });
 </script>
+
  
     <!-- FOOTER -->  
     <div class="footer">
@@ -72,9 +75,10 @@ var map = new mapboxgl.Map({
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.2.1/mapbox-gl.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/leaflet-omnivore-master/leaflet-omnivore.js"></script>
+	<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.2.2/mapbox-gl.css"></script>
 	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
 	<script type="text/javascript">
 	$(document).ready(function(){
@@ -99,9 +103,6 @@ var map = new mapboxgl.Map({
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'
 }).addTo(map); -->
                      
-</script>
-      
-
-
+     
 
 </body></html>
