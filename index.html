@@ -51,14 +51,15 @@
       </div>
     </div>
     <!-- MAP -->
+<div>
      <div id="map"></div>
 	 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'; // your access token
 var map = new mapboxgl.Map({
     container: 'map', // container id
-    style: 'mapbox://styles/dngupta/cijkc4d51008492kf4u9ukchs', // your style URL
-    center: [80.042289, 23.268807], // starting position
-    zoom: 3.65 // starting zoom
+    style: 'mapbox://styles/dngupta/cipa1j2gf001abrnrk8xj0o7w', // your style URL
+    center: [80.042289, 21.5000], // starting position
+    zoom: 4.1 // starting zoom
 	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>' // standard attribution
 });
 </script>
@@ -96,7 +97,7 @@ var map = new mapboxgl.Map({
       
 <!-- Initiates Map and pulls data from .CSV --> 
 
-<!--L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+<!-- L.tileLayer('https://api.mapbox.com/styles/v1/dngupta/cipa1j2gf001abrnrk8xj0o7w/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw, {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
     id: 'mapbox://styles/dngupta/cijkc4d51008492kf4u9ukchs',
