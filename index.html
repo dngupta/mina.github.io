@@ -10,10 +10,10 @@
     <title>Map Indian Archaeology</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="dngupta/mina.github.io/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="dngupta/mina.github.io/css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css"/>
     
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -57,7 +57,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'; // your access token
 var map = new mapboxgl.Map({
     container: 'map', // container id
-    style: 'mapbox://styles/dngupta/cipa1j2gf001abrnrk8xj0o7w', // your style URL
+    style: 'mapbox://styles/dngupta/cipa4hz260012bknlg4pqs9ov', // your style URL
     center: [80.042289, 21.5000], // starting position
     zoom: 4.1 // starting zoom
 	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>' // standard attribution
@@ -68,7 +68,7 @@ var map = new mapboxgl.Map({
     <!-- FOOTER -->  
     <div class="footer">
     <div class="container">
-    <p class="text-muted">This footer will say something on hosting</p> 
+    <p class="text-muted">Hosting is provided by the Matrix Lab, Michigan State University</p> 
     </div>
     </div>
 
@@ -82,17 +82,6 @@ var map = new mapboxgl.Map({
 	<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.2.2/mapbox-gl.css"></script>
 	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
 	<script type="text/javascript">
-	//$(document).ready(function(){
-			$("a[rel=citation]").popover({
-				placement : 'top'
-			}).click(function (p) {
-				p.preventDefault();
-				var $self = $(this);
-				setTimeout(function () {
-					$self.popover('hide');
-				}, 4000);
-			});//
-		});//
 	</script>
       
 <!-- Initiates Map and pulls data from .CSV --> 
@@ -100,7 +89,7 @@ var map = new mapboxgl.Map({
 <!-- L.tileLayer('https://api.mapbox.com/styles/v1/dngupta/cipa1j2gf001abrnrk8xj0o7w/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw, {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
-    id: 'mapbox://styles/dngupta/cijkc4d51008492kf4u9ukchs',
+    id: 'mapbox://styles/dngupta/cipa4hz260012bknlg4pqs9ov',
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'
 }).addTo(map); -->
                      
