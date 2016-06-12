@@ -71,7 +71,7 @@ var map = new mapboxgl.Map({
     <!-- FOOTER -->  
     <div class="footer">
     <div class="container">
-    <p class="text-muted">Hosted by the Matrix Lab, Michigan State University</p> 
+    <p class="text-muted">Hosted by the <a href="http://www2.matrix.msu.edu/">Matrix Lab</a>, Michigan State University</p> 
     </div>
     </div>
 
@@ -101,10 +101,10 @@ accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTB
           
             // Bind a popup to each icon based on the same properties
             // Adds coloumns of extra info to marker popup
-            marker.bindPopup(marker.toGeoJSON().properties.timePeriod +
-                marker.toGeoJSON().properties.siteName + '<br><br> ' +
-                marker.toGeoJSON().properties.info + '<br><br> ' +
-                marker.toGeoJSON().properties.link, {autoPanPadding: [5,55]});
+            marker.bindPopup(marker.toGeoJSON().properties.Dated +
+                marker.toGeoJSON().properties.Site + '<br><br> ' +
+                marker.toGeoJSON().properties.Acc + '<br><br> ' +
+                marker.toGeoJSON().properties.Institue, {autoPanPadding: [5,55]});
         });
     })
             .addTo(map);
