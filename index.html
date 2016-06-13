@@ -88,21 +88,9 @@ var map = new mapboxgl.Map({
  var gl = L.mapboxGL({
      accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw',
      style: 'mapbox://styles/dngupta/cipa4hz260012bknlg4pqs9ov',
-	 maxZoom: 18,
+	 maxZoom: 17,
 	 attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>'
  }).addTo(map);
- 
- var markers = L.markerClusterGroup();
- 
- for (var i = 0; i < addressPoints.length; i++) {
-     var a = addressPoints[i];
-     var title = a[2];
-     var marker = L.marker(new L.LatLng(a[0], a[1]), { title: title });
-     marker.bindPopup(title);
-     markers.addLayer(marker);
- }
- 
- map.addLayer(markers);
  
 </script>
 
