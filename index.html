@@ -27,7 +27,7 @@
 	<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.16.0/mapbox-gl.js"></script>
 	<style>
         body { margin:0; padding:0; }
-		#map { position:absolute; top:50px; bottom:40px; width:100%; }
+		#map { position:absolute; top:10px; bottom:20px; width:100%; }
     </style>
   </head>
 
@@ -85,30 +85,8 @@ var map = new mapboxgl.Map({
 	<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.16.0/mapbox-gl.css"></script>
 	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
 
-	<script>
-var map = L.map('map').setView([80.042289, 21.5000], 4);
-L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}',{
-attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-maxZoom: 18,
-id: 'mapbox://styles/dngupta/cipa4hz260012bknlg4pqs9ov',
-accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'
-    }).addTo(map);
-//enter path for .csv here
-            omnivore.csv('/mina.github.io/IAR1950s_160611.csv')
-             .on('ready', function(layer) {
-       
-        this.eachLayer(function(marker) {
-          
-            // Bind a popup to each icon based on the same properties
-            // Adds coloumns of extra info to marker popup
-            marker.bindPopup(marker.toGeoJSON().properties.Dated +
-                marker.toGeoJSON().properties.Site + '<br><br> ' +
-                marker.toGeoJSON().properties.Acc + '<br><br> ' +
-                marker.toGeoJSON().properties.Institue, {autoPanPadding: [5,55]});
-        });
-    })
-            .addTo(map);
-</script>
+	
+ 
 
                     
 </body></html>
