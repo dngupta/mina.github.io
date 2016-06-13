@@ -1,0 +1,41 @@
+<html>
+<head>
+    <title>WebGL</title>
+    <meta charset="utf-8">
+    <style>#map { width: 800px; height: 600px; }</style>
+
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+
+    <!-- Mapbox GL -->
+    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.14.3/mapbox-gl.css" rel='stylesheet' />
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.14.3/mapbox-gl.js"></script>
+</head>
+
+<body>
+<div id="map"></div>
+
+<script src="../leaflet-mapbox-gl.js"></script>
+<script>
+
+var token = location.hash.replace('#', '');
+if (!token) {
+    token = prompt('Mapbox Access Token');
+}
+
+var map = L.map('map').setView([38.912753, -77.032194], 15);
+
+L.marker([38.912753, -77.032194])
+    .bindPopup("Hello <b>Leaflet GL</b>!<br>Whoa, it works!")
+    .addTo(map)
+    .openPopup();
+
+var gl = L.mapboxGL({
+    accessToken: token,
+    style: 'mapbox://styles/mapbox/streets-v8'
+}).addTo(map);
+
+</script>
+</body>
+</html>
