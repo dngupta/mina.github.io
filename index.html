@@ -29,7 +29,7 @@
 	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.14.3/mapbox-gl.js'></script>
 	
 	<!-- loads Leaflet -->
-	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.7/leaflet.js"></script>
 	
   </head>
 
@@ -64,7 +64,7 @@ var map = new mapboxgl.Map({
     container: 'map', // container id
     style: 'mapbox://styles/dngupta/cipa4hz260012bknlg4pqs9ov', // your style URL
     center: [80.042289, 23.215757], // starting position
-    zoom: 4.2 // starting zoom
+    zoom: 4 // starting zoom
 });
 </script>
 </div>
@@ -85,15 +85,16 @@ var map = new mapboxgl.Map({
 	<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.14.3/mapbox-gl.css"></script>
 	<script src="/mina.github.io/mapbox-gl-leaflet-master/leaflet-mapbox-gl.js"></script>
 <script>
- var map = L.map('map').setView([23.215757, 80.042289], 4.2);
+ var map = L.map('map').setView([23.215757, 80.042289], 4);
 
 var gl = L.mapboxGL({
 maxZoom: 18,
+minZoom: 4,
 id: 'mapbox://styles/dngupta/cipa4hz260012bknlg4pqs9ov',
 accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw',
 attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
  }).addTo(map);
- 
+
 //enter path for .csv here
             omnivore.csv('/mina.github.io/IAR1950s_160611.csv')
              .on('ready', function(layer) {
@@ -102,8 +103,8 @@ attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</
           
             // Bind a popup to each icon based on the same properties
             // Adds coloumns of extra info to marker popup
-				marker.bindPopup(marker.toGeoJSON().properties.Year +
-                marker.toGeoJSON().properties.Site + '<br><br> ' +
+				marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><br>' +
+                marker.toGeoJSON().properties.Year + '<br><br> ' +
                 marker.toGeoJSON().properties.Acc + '<br><br> ' +
                 marker.toGeoJSON().properties.Institue, {autoPanPadding: [5,55]});
         });
@@ -111,6 +112,5 @@ attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</
             .addTo(map);
  
  </script>
-
-                   
+          
 </body></html>
