@@ -21,13 +21,6 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-	
-	<!-- loads jQuery -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	
-	<!-- loads Leaflet -->
-	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-	
   </head>
 
   <body>
@@ -65,6 +58,10 @@
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
+	<!-- loads jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<!-- loads Leaflet -->
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/mina.github.io/js/bootstrap.min.js"></script>
     <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
@@ -75,7 +72,7 @@ var map = L.map('map').setView([23.215757, 80.042289], 5);
 
 L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
-	id: 'dngupta.8866385d',
+	id: 'dngupta.0hm7jnc4',
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'  } ).addTo(map);
 	//enter path for .csv here
             omnivore.csv('/mina.github.io/IAR1950s_160611.csv')
