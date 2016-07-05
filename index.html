@@ -76,7 +76,7 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'  } ).addTo(map);
 
 var markers = new L.markerClusterGroup ();
-var addressPoints = omnivore.csv('/mina.github.io/IAR1950s_160611.csv').on('ready', function(layer);
+var addressPoints = omnivore.csv('/mina.github.io/IAR1950s_160611.csv').on('ready', function(layer),
 
   for (var i = 0; i < addressPoints.length; i++) {
     var a = addressPoints[i];
