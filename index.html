@@ -15,6 +15,8 @@
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/mina.github.io/css/style.css"  />
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+	<!-- loads Leaflet -->
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -60,8 +62,6 @@
     ================================================== -->
 	<!-- loads jQuery -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<!-- loads Leaflet -->
-	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/mina.github.io/js/bootstrap.min.js"></script>
     <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
@@ -74,18 +74,19 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
     maxZoom: 18,
 	id: 'dngupta.0hm7jnc4',
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'  } ).addTo(map);
+
 	//enter path for .csv here
             omnivore.csv('/mina.github.io/IAR1950s_160611.csv')
              .on('ready', function(layer) {
        
-			this.eachLayer(function(circle) {
+			this.eachLayer(function(circleMarker) {
           
             // Bind a popup to each icon based on the same properties
-            // Adds coloumns of extra info to circle popup
-				circle.bindPopup(circle.toGeoJSON().properties.Site + '<br><br>' +
-                circle.toGeoJSON().properties.Year + '<br><br> ' +
-                cirlce.toGeoJSON().properties.Acc + '<br><br> ' +
-                circle.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
+            // Adds coloumns of extra info to circleMarker popup
+				circle.bindPopup(marker.toGeoJSON().properties.Site + '<br><br>' +
+                marker.toGeoJSON().properties.Year + '<br><br> ' +
+                marker.toGeoJSON().properties.Acc + '<br><br> ' +
+                marker.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
         });
     })
             .addTo(map);
