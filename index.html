@@ -78,17 +78,17 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
             omnivore.csv('/mina.github.io/IAR1950s_160611.csv')
              .on('ready', function(layer) {
        
-			this.eachLayer(function(marker) {
+			this.eachLayer(function(circle) {
           
             // Bind a popup to each icon based on the same properties
-            // Adds coloumns of extra info to marker popup
-				marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><br>' +
-                marker.toGeoJSON().properties.Year + '<br><br> ' +
-                marker.toGeoJSON().properties.Acc + '<br><br> ' +
-                marker.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
+            // Adds coloumns of extra info to circle popup
+				circle.bindPopup(circle.toGeoJSON().properties.Site + '<br><br>' +
+                circle.toGeoJSON().properties.Year + '<br><br> ' +
+                cirlce.toGeoJSON().properties.Acc + '<br><br> ' +
+                circle.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
         });
     })
-            .addTo(map);
+            .openOn(map);
 			
 </script>
           
