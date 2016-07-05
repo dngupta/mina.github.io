@@ -91,10 +91,11 @@ var markerClusters = L.markerClusterGroup();
 for ( var i = 0; i < markers.length; ++i )
 {
 
-var popup = markers[i].Site +
-              '<br><b>Name: </b><br>' + markers[i].Year + '<br><br>' +
-              '<br/><b>Accuracy: </b> ' + markers[i].Acc +
-              '<br/><b>Institute: </b> ' + markers[i].Institute, {autoPanPadding: [5,55]};
+var popup = markers.Site +
+              '<br><b>Name: </b><br>' + markers.State + '<br><br>' + 
+			 '<br/><b>Year: </b>' + markers.Year +
+              '<br/><b>Accuracy: </b> ' + markers.Acc +
+              '<br/><b>Institute: </b> ' + markers.Institute, {autoPanPadding: [5,55]};
 	
 	//enter path for .csv here
 var markers = omnivore.csv('/mina.github.io/IAR1950s_160611.csv', { 
@@ -104,6 +105,7 @@ var markers = omnivore.csv('/mina.github.io/IAR1950s_160611.csv', {
 	}
 map.addLayer(markerClusters); 
     )
+	}
             .addTo(map);		
 </script>
           
