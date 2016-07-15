@@ -90,14 +90,13 @@ var myIcon = L.icon({
 var markerClusters = L.markerClusterGroup();
 for ( var i = 0; i < markers.length; ++i )
 {
-
-var popup = markers[i].Site +
+	var popup = markers[i].Site +
               '<br><b>Name: </b><br>' + markers[i].State + '<br><br>' + 
 			 '<br/><b>Year: </b>' + markers[i].Year +
               '<br/><b>Accuracy: </b> ' + markers[i].Acc +
-              '<br/><b>Institute: </b> ' + markers[i].Institute, {autoPanPadding: [5,55]};
+              '<br/><b>Institute: </b> ' + markers[i].Institute;
 
-var m = L.marker( [markers[i].lat, markers[i].lng], {icon: myIcon} )
+	var m = L.marker( [markers[i].Latitude, markers[i].Longitude], {icon: myIcon} )
                   .bindPopup( popup );
 
 markerClusters.addLayer( m );
@@ -111,7 +110,7 @@ var markers = omnivore.csv('/mina.github.io/IAR1950s_160611.csv', {
 	}
 map.addLayer(markerClusters); 
     )
-	}
+
             .addTo(map);		
 </script>
           
