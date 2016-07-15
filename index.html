@@ -77,37 +77,24 @@ var map = L.map('map').setView([23.215757, 80.042289], 5);
 L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
 	id: 'dngupta.0hm7jnc4',
-    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'  } ).addTo(map);
-
-var myIcon = L.icon({
-	iconUrl: '/mina.github.io/images/pin24.png',
-	iconRetinaUrl: '/mina.github.io/images/pin48.png',
-	iconSize: [29, 24],
-	iconAnchor: [9, 21],
-	popupAnchor: [0, -14]
-});
+    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
 //enter path for .csv here
-var markers = omnivore.csv('/mina.github.io/IAR1950s_160611.csv', { 
-	icon: L.marker ({myIcon})
-	}).on('ready', function() {map.fitBounds(markers.getBounds());
-	markerClusters.addLayer(markers);
+var marker = omnivore.csv('/mina.github.io/IAR1950s_160611.csv')
+	.on('ready', function(layer) {
+	
+	this.eachLayer(function(marker) {
+	// Bind a popup to each icon based on the same properties
+    // Adds coloumns of extra info to marker popup
+				marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>Name: </b><br>' +
+				marker.toGeoJSON().properties.State + '<br><br> ' +
+                marker.toGeoJSON().properties.Year + '<br><b>Year: </b><br> ' +
+                marker.toGeoJSON().properties.Acc + '<br><br> ' +
+                marker.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
+
+markerClusters.addLayer(marker);
+	});
+});				
 	map.addLayer(markerClusters); 
-    });
-
-var markerClusters = L.markerClusterGroup();
-for (var i = 0; i < markers.length; ++i)
-{
-	var popup = markers[i].Site +
-              '<br><b>Name: </b><br>' + markers[i].State + '<br><br>' + 
-			 '<br/><b>Year: </b>' + markers[i].Year +
-              '<br/><b>Accuracy: </b> ' + markers[i].Acc +
-              '<br/><b>Institute: </b> ' + markers[i].Institute;
-
-	var m = L.marker([markers[i].Latitude, markers[i].Longitude], {icon: myIcon})
-                  .bindPopup(popup);
-markerClusters.addLayer(m);
-}
-map.addLayer(markerClusters);
 	
 </script>
           
