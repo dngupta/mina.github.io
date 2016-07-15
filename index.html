@@ -88,12 +88,12 @@ var myIcon = L.icon({
 });
 //enter path for .csv here
 var markers = omnivore.csv('/mina.github.io/IAR1950s_160611.csv', { 
-	icon: L.marker,({icon: myIcon})
+	icon: L.marker.icon({myIcon})
 	}).on('ready', function() {map.fitBounds(markers.getBounds());
 	markerClusters.addLayer(markers);
 	map.addLayer(markerClusters); 
     });
-	
+
 var markerClusters = L.markerClusterGroup();
 for (var i = 0; i < markers.length; ++i)
 {
