@@ -88,7 +88,7 @@ var myIcon = L.icon({
 });
 
 var markerClusters = L.markerClusterGroup();
-for ( var i = 0; i < markers.length; ++i )
+for (var i = 0; i < markers.length; ++i)
 {
 	var popup = markers[i].Site +
               '<br><b>Name: </b><br>' + markers[i].State + '<br><br>' + 
@@ -96,22 +96,18 @@ for ( var i = 0; i < markers.length; ++i )
               '<br/><b>Accuracy: </b> ' + markers[i].Acc +
               '<br/><b>Institute: </b> ' + markers[i].Institute;
 
-	var m = L.marker( [markers[i].Latitude, markers[i].Longitude], {icon: myIcon} )
-                  .bindPopup( popup );
-
-markerClusters.addLayer( m );
+	var m = L.marker([markers[i].Latitude, markers[i].Longitude], {icon: myIcon})
+                  .bindPopup(popup);
+markerClusters.addLayer(m);
 }
-map.addLayer( markerClusters );
+map.addLayer(markerClusters);
 	//enter path for .csv here
 var markers = omnivore.csv('/mina.github.io/IAR1950s_160611.csv', { 
-	icon: L.mapbox.marker.icon({icon: myIcon}).bindPopup(popup);
-
+	icon: L.mapbox.marker.icon({icon: myIcon});
 	markerClusters.addLayer (markers);
-	}
-map.addLayer(markerClusters); 
-    )
+	map.addLayer(markerClusters); 
+    }).addTo(map);	
 
-            .addTo(map);		
 </script>
           
 </body></html>
