@@ -103,11 +103,11 @@ markerClusters.addLayer(m);
 map.addLayer(markerClusters);
 	//enter path for .csv here
 var markers = omnivore.csv('/mina.github.io/IAR1950s_160611.csv', { 
-	icon: L.mapbox.marker.icon({icon: myIcon});
-	markerClusters.addLayer (markers);
+	icon: L.mapbox.marker.icon({icon: myIcon})
+	}).on('ready', function() {map.fitBounds(markers.getBounds());
+	markerClusters.addLayer(markers);
 	map.addLayer(markerClusters); 
-    }).addTo(map);	
-
+    });
 </script>
           
 </body></html>
