@@ -82,19 +82,23 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 var marker = omnivore.csv('/mina.github.io/IAR1950s_160611.csv')
 	.on('ready', function(layer) {
 	
+	var markerClusters = L.markerClusterGroup();
+for (var i = 0; i < markers.length; ++i) {
 	this.eachLayer(function(marker) {
 	// Bind a popup to each icon based on the same properties
     // Adds coloumns of extra info to marker popup
 				marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>Name: </b><br>' +
-				marker.toGeoJSON().properties.State + '<br><br> ' +
-                marker.toGeoJSON().properties.Year + '<br><b>Year: </b><br> ' +
-                marker.toGeoJSON().properties.Acc + '<br><br> ' +
+				marker.toGeoJSON().properties.State + '<br><b>Year: </b><br> ' +
+                marker.toGeoJSON().properties.Year + '<br>Accuracy: <br> ' +
+                marker.toGeoJSON().properties.Acc + '<br><b>Institute: </b><br> ' +
                 marker.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
-
 markerClusters.addLayer(marker);
-	});
-});				
-	map.addLayer(markerClusters); 
+map.addLayer(markerClusters);
+});
+
+};
+});
+
 	
 </script>
           
