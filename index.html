@@ -83,7 +83,7 @@ var marker = omnivore.csv('/mina.github.io/IAR1950s_160611.csv')
 	.on('ready', function(layer) {
 	
 	var markerClusters = L.markerClusterGroup();
-for (var i = 0; i < markers.length; ++i) {
+for (var i = 0; i < marker.length; ++i) {
 	this.eachLayer(function(marker) {
 	// Bind a popup to each icon based on the same properties
     // Adds coloumns of extra info to marker popup
