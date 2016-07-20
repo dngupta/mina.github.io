@@ -87,7 +87,7 @@ var markers = omnivore.csv('/mina.github.io/IAR1950s_160719.csv')
 	map.addLayer(markerClusters); 
 	this.eachLayer(function(marker) {
 	
-	marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b><br>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b><br>' + 
+	marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b>' + 
 	marker.toGeoJSON().properties.Year +  '<br/><b>Institution: </b> ' + 
 	marker.toGeoJSON().properties.Institute + '<br/><b>Precision: </b> ' + 
 	marker.toGeoJSON().properties.Precision, {autoPanPadding: [5,55]});
