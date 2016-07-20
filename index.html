@@ -90,10 +90,9 @@ var markers = omnivore.csv('/mina.github.io/IAR1950s_160719.csv')
 	marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b><br>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b><br>' + 
 	marker.toGeoJSON().properties.Year +  '<br/><b>Institution: </b> ' + 
 	marker.toGeoJSON().properties.Institute + '<br/><b>Precision: </b> ' + 
-	marker.toGEOJSON().properties.Precision, {autoPanPadding: [5,55]});
+	marker.toGeoJSON().properties.Precision, {autoPanPadding: [5,55]});
 		});
-}).addTo(map);
-					
+	});	
 var markerClusters = L.markerClusterGroup();
 for (var i = 0; i < markers.length; ++i)
 {
