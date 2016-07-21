@@ -68,7 +68,8 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/mina.github.io/js/bootstrap.min.js"></script>
     <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+	<script src="/mina.github.io/js/leaflet-heat.js"></script>
   </head>
 	<!-- Pulls data from csv and intitiates map -->
 	<script>
@@ -99,7 +100,8 @@ for (var i = 0; i < markers.length; ++i)
 }
 map.addLayer(markerClusters);
 
-	
+var heat = L.heatLayer(marker).addTo(map);
+
 </script>
           
 </body></html>
