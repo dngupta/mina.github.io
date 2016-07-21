@@ -92,7 +92,7 @@ var markers = omnivore.csv('/mina.github.io/IAR1950s_160719.csv')
 	marker.toGeoJSON().properties.Precision, {autoPanPadding: [5,55]});
 		});
 	});
-markers = markers.map(function (p) { return [p[0], p[1]]; });
+markers = marker.map(function (p) { return [p[0], p[1]]; });
 var heat = L.heatLayer(markers).addTo(map);
 	
 </script>
