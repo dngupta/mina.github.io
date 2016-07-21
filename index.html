@@ -85,6 +85,7 @@ var markers = omnivore.csv('/mina.github.io/IAR1950s_160719.csv')
 	.on('ready', function(layer) {
 	map.fitBounds(markers.getBounds());
 	heat.addLayer(markers);
+	map.addLayer(heat);
 	this.eachLayer(function(marker) {
 	
 	marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b>' + 
@@ -93,8 +94,11 @@ var markers = omnivore.csv('/mina.github.io/IAR1950s_160719.csv')
 	marker.toGeoJSON().properties.Precision, {autoPanPadding: [5,55]});
 		});
 	});
-markers = markers.map(function (p) {return [p[0], p[1]]; });
-var heat = L.heatLayer(markers).addTo(map);
+
+var heat = L.heatLayer();
+for (var i -0; i < markers.length; ++i)
+{}
+map.addLayer(heat);
 	
 </script>
           
