@@ -68,8 +68,7 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/mina.github.io/js/bootstrap.min.js"></script>
     <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
-	<script src="/mina.github.io/js/leaflet-heat.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
   </head>
 	<!-- Pulls data from csv and intitiates map -->
 	<script>
@@ -84,8 +83,8 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 var markers = omnivore.csv('/mina.github.io/IAR1950s_160719.csv')
 	.on('ready', function(layer) {
 	map.fitBounds(markers.getBounds());
-	heat.addLayer(markers);
-	map.addLayer(heat);
+	markerClusters.addLayer(markers);
+	map.addLayer(markerClusters); 
 	this.eachLayer(function(marker) {
 	
 	marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b>' + 
@@ -93,13 +92,13 @@ var markers = omnivore.csv('/mina.github.io/IAR1950s_160719.csv')
 	marker.toGeoJSON().properties.Institute + '<br/><b>Precision: </b> ' + 
 	marker.toGeoJSON().properties.Precision, {autoPanPadding: [5,55]});
 		});
-	});
-
-var heat = L.heatLayer();
+	});	
+var markerClusters = L.markerClusterGroup();
 for (var i = 0; i < markers.length; ++i)
-{}
-map.addLayer(heat);
-	
+{
+}
+map.addLayer(markerClusters);
+
 </script>
           
 </body></html>
