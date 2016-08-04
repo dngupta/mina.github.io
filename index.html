@@ -56,7 +56,7 @@
     <!-- FOOTER -->  
     <div class="footer">
     <div class="container">
-    <p class="text-muted">Hosted by the <a href="http://www2.matrix.msu.edu/" target="_blank">Matrix Lab</a>, Michigan State University</p> 
+    <p class="text-muted">Hosted by <a href="http://www2.matrix.msu.edu/" target="_blank">Matrix</a>, Michigan State University</p> 
     </div>
     </div>
 
@@ -69,7 +69,7 @@
     <script src="/mina.github.io/js/bootstrap.min.js"></script>
     <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
-	<script src="/mina.github.io/js/leaflet-heat.js"></script>
+	<script src="/mina.github.io/js/leaflet-heatmap.js"></script>
   </head>
 	<!-- Pulls data from csv and intitiates map -->
 	<script>
@@ -78,17 +78,17 @@
 
 //adds map scale
 	L.control.scale().addTo(map);
+	
+//creates layer with mapbox access and displays it
+var baseLayer = L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+	id: 'dngupta.0hm7jnc4',
+    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
 
 var testData = {
   max: 8,
   data: [{lat: 23.232513, lng:87.863419, count: 3},{lat: 30.965871, lng:76.523284, count: 1}, {lat: 23.799868, lng: 72.563368, count: 5}, {lat: 22.110005, lng: 75.347806, count: 1}, {lat:23.447089, lng: 72.498298, count: 10}]
 };
-	
-//creates layer with mapbox access and displays it
-L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18,
-	id: 'dngupta.0hm7jnc4',
-    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
 
 var cfg = {
   // radius should be small ONLY if scaleRadius is true (or small radius is intended)
@@ -108,7 +108,6 @@ var cfg = {
   // which field name in your data represents the data value - default "value"
   valueField: 'count'
 };
-
 
 var heatmapLayer = new HeatmapOverlay(cfg);
 
