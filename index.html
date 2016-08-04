@@ -68,37 +68,59 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/mina.github.io/js/bootstrap.min.js"></script>
     <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+	<script src="/mina.github.io/js/leaflet-heat.js"></script>
   </head>
 	<!-- Pulls data from csv and intitiates map -->
 	<script>
-var map = L.map('map').setView([23.215757, 80.042289], 5);
+//defines map with center on India on set zoom
+	var map = L.map('map').setView([23.215757, 80.042289], 5);
 
+//adds map scale
+	L.control.scale().addTo(map);
+
+var testData = {
+  max: 8,
+  data: [{lat: 23.232513, lng:87.863419, count: 3},{lat: 30.965871, lng:76.523284, count: 1}, {lat: 23.799868, lng: 72.563368, count: 5}, {lat: 22.110005, lng: 75.347806, count: 1}, {lat:23.447089, lng: 72.498298, count: 10}]
+};
+	
+//creates layer with mapbox access and displays it
 L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
 	id: 'dngupta.0hm7jnc4',
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
 
-//enter path for .csv here
-var markers = omnivore.csv('/mina.github.io/IAR1950s_160719.csv')
-	.on('ready', function(layer) {
-	map.fitBounds(markers.getBounds());
-	markerClusters.addLayer(markers);
-	map.addLayer(markerClusters); 
-	this.eachLayer(function(marker) {
-	
-	marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b>' + 
-	marker.toGeoJSON().properties.Year +  '<br/><b>Institution: </b> ' + 
-	marker.toGeoJSON().properties.Institute + '<br/><b>Precision: </b> ' + 
-	marker.toGeoJSON().properties.Precision, {autoPanPadding: [5,55]});
-		});
-	});	
-var markerClusters = L.markerClusterGroup();
-for (var i = 0; i < markers.length; ++i)
-{
-}
-map.addLayer(markerClusters);
+var cfg = {
+  // radius should be small ONLY if scaleRadius is true (or small radius is intended)
+  // if scaleRadius is false it will be the constant radius used in pixels
+  "radius": 2,
+  "maxOpacity": .8, 
+  // scales the radius based on map zoom
+  "scaleRadius": true, 
+  // if set to false the heatmap uses the global maximum for colorization
+  // if activated: uses the data maximum within the current map boundaries 
+  //   (there will always be a red spot with useLocalExtremas true)
+  "useLocalExtrema": true,
+  // which field name in your data represents the latitude - default "lat"
+  latField: 'lat',
+  // which field name in your data represents the longitude - default "lng"
+  lngField: 'lng',
+  // which field name in your data represents the data value - default "value"
+  valueField: 'count'
+};
 
+
+var heatmapLayer = new HeatmapOverlay(cfg);
+
+var map = new L.Map('map-canvas', {
+  center: new L.LatLng(23.215757, 80.042289),
+  zoom: 5,
+  layers: [baseLayer, heatmapLayer]
+});
+
+heatmapLayer.setData(testData);
+
+	
 </script>
           
 </body></html>
