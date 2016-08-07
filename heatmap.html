@@ -84,12 +84,7 @@
 	id: 'dngupta.0hm7jnc4',
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
 
-	
-var heat = L.heatLayer(heat_points, {radius:12,blur:25,maxZoom:18}).addTo(map);
-/*for (i = 0; i < heat_points.length;i++){
-				L.circle([heat_points[i][0],heat_points[i][1]],250,{color: "black", weight:2,fillColor:"green"}).addTo(map);
-}*/
-
+var heat = L.heatLayer(heat_points, {radius:12,blur:25,maxZoom:6}).addTo(map);
 
 </script>
           
