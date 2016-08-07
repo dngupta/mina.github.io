@@ -27,8 +27,7 @@ LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2] =
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[3] = "22.110005	75.347806	Maheswar	Khargone	Madhya Pradesh	1953	Excavation	Harappan	2	Deccan College	HD Sankalia";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[4] = "23.447089	72.498298	Langhnaj	Ahmedabad	Gujarat	1953	Excavation	Microlithic	2	MS University";
-Col1[4] = "Baroda	B Subbarao";
+LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[4] = "23.447089	72.498298	Langhnaj	Ahmedabad	Gujarat	1953	Excavation	Microlithic	2	MS University Baroda	B Subbarao";
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[5] = "15.96	76.65	Maski	Raichur	Andhra Pradesh	1953	Excavation	Chalcolithic	1	Survey";
 
@@ -38,8 +37,7 @@ LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[7] =
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[8] = "25.6011326	85.1890094	Kumrahar	Patna	Bihar	1953	Excavation	Sunga	2	KP Jayaswal Research Institute	Viyayakanta Mishra";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[9] = "23.787177	72.6478508	Vadnagar	Mehsana	Gujarat	1953	Excavation	2nd-3rd	2	MS University";
-Col1[9] = "Baroda	B Subbarao";
+LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[9] = "23.787177	72.6478508	Vadnagar	Mehsana	Gujarat	1953	Excavation	2nd-3rd	2	MS University Baroda	B Subbarao";
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[10] = "30.3616249	77.9296253	Jagatgram	Dehradun	Uttarakhand	1953	Excavation	3rd-4th	1	Survey	Excavation Branch";
 
@@ -2590,8 +2588,7 @@ LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1282
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1283] = "21.705136	72.995875	Broach	Broach	Gujarat	1959	Excavation	NBPW	1	Survey	KV Soundara Rajan";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1284] = "23.84767	72.993297	Devimori	Sabarkantha	Gujarat	1959	Excavation	Early Historical	2	MS University";
-Col1[1284] = "Baroda	B Subbarao";
+LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1284] = "23.84767	72.993297	Devimori	Sabarkantha	Gujarat	1959	Excavation	Early Historical	2	MS University Baroda	B Subbarao";
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1285] = "25.412442	78.485279	Lalitpur	Jhansi	Uttar Pradesh	1959	Exploration	Prehistoric	2	Deccan College	AP Khatri";
 
@@ -3632,8 +3629,7 @@ LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1802
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1803] = "22.303895	70.80216	Khakhra Bela-3	Rajkot	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1804] = "23.670614	73.397394	Devnimori	Sabarkantha	Gujarat	1960	Excavation	Vihara	2	MS University";
-Col1[1804] = "Baroda	B Subbarao";
+LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1804] = "23.670614	73.397394	Devnimori	Sabarkantha	Gujarat	1960	Excavation	Vihara	2	MS University Baroda  B Subbarao";
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1805] = "34.125541	74.944258	Burzahom	Srinagar	Jammu and Kashmir	1960	Excavation	Megalithic	1	Survey	TN Khazanchi";
 
