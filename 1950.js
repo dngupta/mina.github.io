@@ -1574,7 +1574,6 @@ LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[775]
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[776] = "18.78264	74.295687	Karegaon	Pune	Maharashtra	1957	Exploration	Chalcolithic	2	Deccan College	HD Sankalia";
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[777] = "18.542093	73.8816	Bund Garden	Pune	Maharashtra	1957	Exploration	Paleolithic	2	Deccan College	HD Sankalia";
-Col1[777] = "Dr";
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[778] = "18.752416	73.86346	Shikarpur	Pune	Maharashtra	1957	Exploration		2	Deccan College	HD Sankalia";
 
@@ -2954,8 +2953,7 @@ LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1465
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1466] = "25.224762	74.63126	Sarupganj	Bhilwara	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1467] = "24.888744	74.626922	Chitorgarh	Chittorgarh	Rajasthan	1959	Exploration	Paleolithic I";
-Col1[1467] = "III	2	Deccan College	VN Mishra";
+LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1467] = "24.888744	74.626922	Chitorgarh	Chittorgarh	Rajasthan	1959	Exploration	Paleolithic III 2	Deccan College	VN Mishra";
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1468] = "26.224483	73.055177	Bhetanda	Jodhpur	Rajasthan	1959	Exploration	Paleolithic II	2	Deccan College	VN Mishra";
 
@@ -4457,8 +4455,7 @@ LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2216
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2217] = "26.912434	75.787271	Bhandarej	Jaipur	Rajasthan	1960	Exploration	Sculptures	1	Survey";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2218] = "23.941011	75.621536	Gangadhar	Jhalawar	Rajasthan	1960	Exploration	Ring Wells	3	Archaeology and Museums";
-Col1[2218] = "Udaipur";
+LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2218] = "23.941011	75.621536	Gangadhar	Jhalawar	Rajasthan	1960	Exploration	Ring Wells	3	Archaeology and Museums Udaipur";
 
 LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2219] = "27.402762	72.721538	Chakhu	Jodhpur	Rajasthan	1960	Exploration	Cenotaph	1	Survey	NM Ganam";
 
