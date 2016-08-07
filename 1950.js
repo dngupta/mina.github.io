@@ -17,4552 +17,4552 @@
 
 var lsz = 2274;
 
-var LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist = Array([lsz]);
+var LatitudeLongitude = Array([lsz]);
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[0] = "23.232513	87.863419	Birbhanpur	Burdwan	West Bengal	1953	Excavation	Microlithic	1	Survey";
+LatitudeLongitude[0] = "23.232513	87.863419";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1] = "30.965871	76.523284	Rupar	Ambala	Punjab	1953	Excavation	Harappan	1	Survey";
+LatitudeLongitude[1] = "30.965871	76.523284";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2] = "23.799868	72.563368	Rangpur	Jhalawar	Rajasthan	1953	Excavation	Harappan	1	Survey";
+LatitudeLongitude[2] = "23.799868	72.563368";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[3] = "22.110005	75.347806	Maheswar	Khargone	Madhya Pradesh	1953	Excavation	Harappan	2	Deccan College	HD Sankalia";
+LatitudeLongitude[3] = "22.110005	75.347806";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[4] = "23.447089	72.498298	Langhnaj	Ahmedabad	Gujarat	1953	Excavation	Microlithic	2	MS University Baroda	B Subbarao";
+LatitudeLongitude[4] = "23.447089	72.498298";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[5] = "15.96	76.65	Maski	Raichur	Andhra Pradesh	1953	Excavation	Chalcolithic	1	Survey";
+LatitudeLongitude[5] = "15.96	76.65";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[6] = "25.03	85.42	Rajgir	Patna	Bihar	1953	Excavation	NBPW	1	Survey";
+LatitudeLongitude[6] = "25.03	85.42";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[7] = "25.361054	81.4031707	Kausambi	Allahabad	Uttar Pradesh	1953	Excavation	1st-2nd BC	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[7] = "25.361054	81.4031707";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[8] = "25.6011326	85.1890094	Kumrahar	Patna	Bihar	1953	Excavation	Sunga	2	KP Jayaswal Research Institute	Viyayakanta Mishra";
+LatitudeLongitude[8] = "25.6011326	85.1890094";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[9] = "23.787177	72.6478508	Vadnagar	Mehsana	Gujarat	1953	Excavation	2nd-3rd	2	MS University Baroda	B Subbarao";
+LatitudeLongitude[9] = "23.787177	72.6478508";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[10] = "30.3616249	77.9296253	Jagatgram	Dehradun	Uttarakhand	1953	Excavation	3rd-4th	1	Survey	Excavation Branch";
+LatitudeLongitude[10] = "30.3616249	77.9296253";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[11] = "18.3333384	84.047806	Salihundam	Srikakulam	Andhra Pradesh	1953	Excavation	Buddhist	1	Survey	South-eastern";
+LatitudeLongitude[11] = "18.3333384	84.047806";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[12] = "12.8299303	79.67679	Pallavamedu	Kanchipuram	Tamil Nadu	1953	Excavation	Pallavas	1	Survey	Southern Circle";
+LatitudeLongitude[12] = "12.8299303	79.67679";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[13] = "21.825895	76.634425	Sirpur	Raipur	Madhya Pradesh	1953	Excavation	Medieval	2	University of Saugor	Moreshwar G Dikshit";
+LatitudeLongitude[13] = "21.825895	76.634425";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[14] = "25.0025658	72.2417917	Bhinmal	Jodhpur	Rajasthan	1953	Excavation	Medieval	3	Rajasthan State";
+LatitudeLongitude[14] = "25.0025658	72.2417917";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[15] = "34.0943784	74.7967519	Mumma Khan	Srinagar	Jammu and Kashmir	1953	Excavation	Pravarasena	3	Kashmir State";
+LatitudeLongitude[15] = "34.0943784	74.7967519";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[16] = "19.1881514	75.0592987	Tisgaon	Ahmednagar	Maharashtra	1953	Exploration	Paleolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[16] = "19.1881514	75.0592987";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[17] = "18.7481355	74.6292471	Ghargaon	Ahmednagar	Maharashtra	1953	Exploration	Microlithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[17] = "18.7481355	74.6292471";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[18] = "19.5761245	74.1905878	Sangamner	Ahmednagar	Maharashtra	1953	Exploration	Microlithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[18] = "19.5761245	74.1905878";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[19] = "19.551177	74.928106	Nevasa	Ahmednagar	Maharashtra	1953	Exploration	Chalcolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[19] = "19.551177	74.928106";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[20] = "19.5867979	74.8850902	Pravara Sangam	Ahmednagar	Maharashtra	1953	Exploration	Chalcolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[20] = "19.5867979	74.8850902";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[21] = "19.095208	74.749592	Bhojapuri	Ahmednagar	Maharashtra	1953	Exploration	Chalcolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[21] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[22] = "19.4383375	73.8795146	Paithan	Ahmednagar	Maharashtra	1953	Exploration	Chalcolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[22] = "19.4383375	73.8795146";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[23] = "24.9049106	74.5864889	Chitorgarh	Chittorgarh	Rajasthan	1953	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[23] = "24.9049106	74.5864889";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[24] = "20.35035	74.974942	Patan	Jalgaon	Maharashtra	1953	Exploration	Microlithic	1	Survey";
+LatitudeLongitude[24] = "20.35035	74.974942";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[25] = "22.744108	77.736967	Adamgarh	Hoshangabad	Madhya Pradesh	1953	Exploration	?	1	Survey";
+LatitudeLongitude[25] = "22.744108	77.736967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[26] = "30.093381	76.610258	Bikkun	Ambala	Punjab	1953	Exploration	Harappan	1	Survey";
+LatitudeLongitude[26] = "30.093381	76.610258";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[27] = "30.9198129	76.5101506	Bara	Ambala	Punjab	1953	Exploration	Harappan	1	Survey";
+LatitudeLongitude[27] = "30.9198129	76.5101506";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[28] = "30.919093	76.525339	Salaura	Ambala	Punjab	1953	Exploration	Harappan	1	Survey";
+LatitudeLongitude[28] = "30.919093	76.525339";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[29] = "30.2843045	76.6329256	Talapura	Ambala	Punjab	1953	Exploration	Harappan	1	Survey";
+LatitudeLongitude[29] = "30.2843045	76.6329256";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[30] = "30.8919	76.4242	Chamkaur	Ambala	Punjab	1953	Exploration	Harappan	1	Survey";
+LatitudeLongitude[30] = "30.8919	76.4242";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[31] = "30.093381	76.610258	Hawara	Ambala	Punjab	1953	Exploration	Harappan	1	Survey";
+LatitudeLongitude[31] = "30.093381	76.610258";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[32] = "21.641707	69.629265	Gop	Porbandar	Gujarat	1953	Exploration	Rangpur	1	Survey";
+LatitudeLongitude[32] = "21.641707	69.629265";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[33] = "26.636613	80.31574	Pariar	Unao	Uttar Pradesh	1953	Exploration	PGW	1	Survey";
+LatitudeLongitude[33] = "26.636613	80.31574";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[34] = "17.8447	78.48	Topran	Medak	Andhra Pradesh	1953	Exploration	Megalithic	3	Hyderabad State";
+LatitudeLongitude[34] = "17.8447	78.48";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[35] = "16.572983	80.357513	Amaravati	Guntur	Andhra Pradesh	1953	Exploration	NBPW	1	Survey";
+LatitudeLongitude[35] = "16.572983	80.357513";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[36] = "23.583582	72.140132	Modhera	Mehsana	Gujarat	1953	Exploration	Chaulukya	1	Survey";
+LatitudeLongitude[36] = "23.583582	72.140132";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[37] = "25.1562506	86.7822408	Kherhi Hill	Bhagalpur	Bihar	1953	Exploration	Pala	1	Survey";
+LatitudeLongitude[37] = "25.1562506	86.7822408";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[38] = "27.2474507	76.349686	Nilkantha	Alwar	Rajasthan	1953	Exploration	Medieval	1	Survey";
+LatitudeLongitude[38] = "27.2474507	76.349686";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[39] = "12.6174307	76.0634738	Kudalur	Mysore	Karnataka	1953	Exploration	Medieval	3	Mysore State";
+LatitudeLongitude[39] = "12.6174307	76.0634738";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[40] = "26.0441937	74.0118372	Raipur	Kota	Rajasthan	1953	Exploration	Gupta	3	Rajasthan State";
+LatitudeLongitude[40] = "26.0441937	74.0118372";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[41] = "19.546888	74.9207034	Nevasa	Ahmednagar	Maharashtra	1954	Excavation	Neolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[41] = "19.546888	74.9207034";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[42] = "30.093381	76.610258	Rupar	Ambala	Punjab	1954	Excavation	Harappan	1	Survey	YD Sharma";
+LatitudeLongitude[42] = "30.093381	76.610258";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[43] = "30.296242	76.798567	Bara	Ambala	Punjab	1954	Excavation	Harappan	1	Survey	YD Sharma";
+LatitudeLongitude[43] = "30.296242	76.798567";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[44] = "30.093381	76.610258	Salaura	Ambala	Punjab	1954	Excavation	Harappan	1	Survey	YD Sharma";
+LatitudeLongitude[44] = "30.093381	76.610258";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[45] = "23.799868	72.563368	Rangpur	Jhalawar	Rajasthan	1954	Excavation	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[45] = "23.799868	72.563368";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[46] = "22.5213938	72.2472504	Lothal	Ahmedabad	Gujarat	1954	Excavation	Harappan	1	Survey	 SR Rao";
+LatitudeLongitude[46] = "22.5213938	72.2472504";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[47] = "20.8858018	74.7287555	Prakash	Dhule	Maharashtra	1954	Excavation	Chalcolithic	1	Survey	BK Thapar";
+LatitudeLongitude[47] = "20.8858018	74.7287555";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[48] = "28.6095791	77.2415431	Purana Qila	New Delhi	New Delhi	1954	Excavation	PGW	1	Survey	BB Lal";
+LatitudeLongitude[48] = "28.6095791	77.2415431";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[49] = "24.5863946	73.7189702	Ahar	Udaipur	Rajasthan	1954	Excavation	Microlithic	3	Rajasthan State";
+LatitudeLongitude[49] = "24.5863946	73.7189702";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[50] = "27.492413	77.673673	Mathura	Mathura	Uttar Pradesh	1954	Excavation	NBPW	1	Survey	M Venkataramayya";
+LatitudeLongitude[50] = "27.492413	77.673673";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[51] = "25.596956	85.18411	Rajgir	Patna	Bihar	1954	Excavation	post-NBPW	1	Survey	DR Patil";
+LatitudeLongitude[51] = "25.596956	85.18411";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[52] = "25.435801	81.846311	Kausambi	Allahabad	Uttar Pradesh	1954	Excavation	?	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[52] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[53] = "25.592766	85.186814	Kumrahar	Patna	Bihar	1954	Excavation	Mauryan	2	KP Jayaswal Research Institute	Viyayakanta Mishra";
+LatitudeLongitude[53] = "25.592766	85.186814";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[54] = "22.278784	87.918771	Tamluk	Midnapore	West Bengal	1954	Excavation	Neolithic	1	Survey	MN Deshpande";
+LatitudeLongitude[54] = "22.278784	87.918771";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[55] = "12.683995	79.983348	Amirthamangalam	Chingleput	Tamil Nadu	1954	Excavation	Megalithic	1	Survey	NR Banerjee";
+LatitudeLongitude[55] = "12.683995	79.983348";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[56] = "12.683995	79.983348	Nagarjunakonda	Chingleput	Tamil Nadu	1954	Excavation	2nd-5th	1	Survey";
+LatitudeLongitude[56] = "12.683995	79.983348";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[57] = "22.408038	87.381073	Tildah	Midnapore	West Bengal	1954	Excavation	Gupta	2	University of Calcutta	KG Goswami";
+LatitudeLongitude[57] = "22.408038	87.381073";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[58] = "17.524865	82.901069	Kotturu	Visakhapatnam	Andhra Pradesh	1954	Excavation	?	1	Survey	RC Kar";
+LatitudeLongitude[58] = "17.524865	82.901069";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[59] = "22.751069	77.780967	Sirpur	Raipur	Madhya Pradesh	1954	Excavation		2	University of Saugor	Moreshwar G Dikshit";
+LatitudeLongitude[59] = "22.751069	77.780967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[60] = "25.910928	85.995572	Karian	Darbhanga	Bihar	1954	Excavation	900-1800	2	KP Jayaswal Research Institute	Viyayakanta Mishra";
+LatitudeLongitude[60] = "25.910928	85.995572";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[61] = "30.207984	74.937463	Bhatinda Fort	Bhatinda	Punjab	1954	Excavation	Medieval	1	Survey	North-western Circle";
+LatitudeLongitude[61] = "30.207984	74.937463";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[62] = "25.029119	74.612037	Dodha	Chittorgarh	Rajasthan	1954	Exploration	Paleolithic	1	Survey	Western Circle";
+LatitudeLongitude[62] = "25.029119	74.612037";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[63] = "25.108222	74.884337	Parsoli	Chittorgarh	Rajasthan	1954	Exploration	Paleolithic	1	Survey	Western Circle";
+LatitudeLongitude[63] = "25.108222	74.884337";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[64] = "24.888744	74.626922	Bichore	Chittorgarh	Rajasthan	1954	Exploration	Paleolithic	1	Survey	Western Circle";
+LatitudeLongitude[64] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[65] = "25.044605	74.828781	Haripura	Chittorgarh	Rajasthan	1954	Exploration	Paleolithic	1	Survey	Western Circle";
+LatitudeLongitude[65] = "25.044605	74.828781";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[66] = "24.888744	74.626922	Rathanjna	Chittorgarh	Rajasthan	1954	Exploration	Paleolithic	1	Survey	Western Circle";
+LatitudeLongitude[66] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[67] = "24.888744	74.626922	Sigoh	Chittorgarh	Rajasthan	1954	Exploration	Paleolithic	1	Survey	Western Circle";
+LatitudeLongitude[67] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[68] = "24.888744	74.626922	Tajpura	Chittorgarh	Rajasthan	1954	Exploration	Paleolithic	1	Survey	Western Circle";
+LatitudeLongitude[68] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[69] = "24.888744	74.626922	Dhangadman	Chittorgarh	Rajasthan	1954	Exploration	Paleolithic	1	Survey	Western Circle";
+LatitudeLongitude[69] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[70] = "31.029186	76.621561	Dher Majra	Shimla	Himachal Pradesh	1954	Exploration	Paleolithic	1	Survey	North-western";
+LatitudeLongitude[70] = "31.029186	76.621561";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[71] = "31.104815	77.173403	Shang	Shimla	Himachal Pradesh	1954	Exploration	Paleolithic	1	Survey	North-western";
+LatitudeLongitude[71] = "31.104815	77.173403";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[72] = "31.143354	77.760943	Dadhi	Shimla	Himachal Pradesh	1954	Exploration	Paleolithic	1	Survey	North-western";
+LatitudeLongitude[72] = "31.143354	77.760943";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[73] = "31.104815	77.173403	Merhanwala	Shimla	Himachal Pradesh	1954	Exploration	Paleolithic	1	Survey	North-western";
+LatitudeLongitude[73] = "31.104815	77.173403";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[74] = "31.706204	75.804002	Daulatpur	Hoshiarpur	Punjab	1954	Exploration	Paleolithic	1	Survey	North-western";
+LatitudeLongitude[74] = "31.706204	75.804002";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[75] = "20.35035	74.974942	Patan	Jalgaon	Maharashtra	1954	Exploration	Microlithic	1	Survey	Northern";
+LatitudeLongitude[75] = "20.35035	74.974942";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[76] = "22.744108	77.736967	Adamgarh	Hoshangabad	Madhya Pradesh	1954	Exploration	Microlithic	1	Survey	Northern";
+LatitudeLongitude[76] = "22.744108	77.736967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[77] = "31.091295	76.039191	Dhang	Nawanshahr	Punjab	1954	Exploration	Harappan	1	Survey	North-western";
+LatitudeLongitude[77] = "31.091295	76.039191";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[78] = "31.091295	76.039191	Merhanwala	Nawanshahr	Punjab	1954	Exploration	Harappan	1	Survey	North-western";
+LatitudeLongitude[78] = "31.091295	76.039191";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[79] = "31.149466	76.038466	Manguwal	Nawanshahr	Punjab	1954	Exploration	Harappan	1	Survey	North-western";
+LatitudeLongitude[79] = "31.149466	76.038466";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[80] = "31.135142	76.358664	Baddi	Nawanshahr	Punjab	1954	Exploration	Harappan	1	Survey	North-western";
+LatitudeLongitude[80] = "31.135142	76.358664";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[81] = "21.468982	70.370291	Beran	Sorath	Gujarat	1954	Exploration	Microlithic	1	Survey	Western Circle";
+LatitudeLongitude[81] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[82] = "21.468982	70.370291	Keshav	Sorath	Gujarat	1954	Exploration	Microlithic	1	Survey	Western Circle";
+LatitudeLongitude[82] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[83] = "24.597349	76.160984	Kaero Timbo	Jhalawar	Rajasthan	1954	Exploration	Harappan	1	Survey	Western Circle";
+LatitudeLongitude[83] = "24.597349	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[84] = "24.597349	76.160984	Goni Timbo	Jhalawar	Rajasthan	1954	Exploration	Harappan	1	Survey	Western Circle";
+LatitudeLongitude[84] = "24.597349	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[85] = "24.597349	76.160984	Samadhiala	Jhalawar	Rajasthan	1954	Exploration	Harappan	1	Survey	Western Circle";
+LatitudeLongitude[85] = "24.597349	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[86] = "24.597349	76.160984	Chashiana	Jhalawar	Rajasthan	1954	Exploration	Harappan	1	Survey	Western Circle";
+LatitudeLongitude[86] = "24.597349	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[87] = "22.553712	72.223735	Lothal	Ahmedabad	Gujarat	1954	Exploration	Harappan	1	Survey	Western Circle";
+LatitudeLongitude[87] = "22.553712	72.223735";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[88] = "23.022505	72.571362	Kana Sutaria	Ahmedabad	Gujarat	1954	Exploration	Harappan	1	Survey	Western Circle";
+LatitudeLongitude[88] = "23.022505	72.571362";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[89] = "27.430998	76.189966	Bairat	Jaipur	Rajasthan	1954	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[89] = "27.430998	76.189966";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[90] = "27.631348	76.851916	Bijwa	Alwar	Rajasthan	1954	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[90] = "27.631348	76.851916";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[91] = "28.459497	77.026638	Bhadasa	Gurgaon	Haryana	1954	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[91] = "28.459497	77.026638";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[92] = "28.459497	77.026638	Malab	Gurgaon	Haryana	1954	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[92] = "28.459497	77.026638";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[93] = "28.459497	77.026638	Gohana	Gurgaon	Haryana	1954	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[93] = "28.459497	77.026638";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[94] = "27.605621	78.053781	Hathras	Aligarh	Uttar Pradesh	1954	Exploration	NBPW	1	Survey	KN Puri";
+LatitudeLongitude[94] = "27.605621	78.053781";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[95] = "17.42427	78.434694	South Hyderabad	Hyderabad	Andhra Pradesh	1954	Exploration	Microlithic	3	Hyderabad State";
+LatitudeLongitude[95] = "17.42427	78.434694";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[96] = "16.904936	80.102026	Ter	Hyderabad	Andhra Pradesh	1954	Exploration	Andhra	3	Hyderabad State";
+LatitudeLongitude[96] = "16.904936	80.102026";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[97] = "26.111868	85.896004	Baligarh	Darbhanga	Bihar	1954	Exploration	NBPW	2	KP Jayaswal Research Institute	Viyayakanta Mishra";
+LatitudeLongitude[97] = "26.111868	85.896004";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[98] = "25.916245	87.164727	Dharhara	Purnia	Bihar	1954	Exploration	NBPW	2	KP Jayaswal Research Institute	Viyayakanta Mishra";
+LatitudeLongitude[98] = "25.916245	87.164727";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[99] = "25.996113	85.115518	Chakramdas	Muzaffarpur	Bihar	1954	Exploration	NBPW	2	KP Jayaswal Research Institute	Viyayakanta Mishra";
+LatitudeLongitude[99] = "25.996113	85.115518";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[100] = "25.374756	86.473525	Pirnagara	Munger	Bihar	1954	Exploration	NBPW	2	KP Jayaswal Research Institute	Viyayakanta Mishra";
+LatitudeLongitude[100] = "25.374756	86.473525";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[101] = "22.21481988	70.38256737	Kalavad	Halar	Gujarat	1954	Exploration	?	3	Gujarat State";
+LatitudeLongitude[101] = "22.21481988	70.38256737";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[102] = "21.468982	70.370291	Arena	Sorath	Gujarat	1954	Exploration	?	3	Gujarat State";
+LatitudeLongitude[102] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[103] = "21.468982	70.370291	Boricha	Sorath	Gujarat	1954	Exploration	?	3	Gujarat State";
+LatitudeLongitude[103] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[104] = "20.843683	70.475919	Sutrapada	Sorath	Gujarat	1954	Exploration	?	3	Gujarat State";
+LatitudeLongitude[104] = "20.843683	70.475919";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[105] = "21.468982	70.370291	Bhadaria	Sorath	Gujarat	1954	Exploration	?	3	Gujarat State";
+LatitudeLongitude[105] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[106] = "17.32125	82.040714	Yegumalli Tatakonda	East Godavari	Andhra Pradesh	1954	Exploration	?	1	Survey	AS Gadre";
+LatitudeLongitude[106] = "17.32125	82.040714";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[107] = "14.681888	77.600591	Lingarau-palem	Anantapur	Andhra Pradesh	1954	Exploration	?	2	Kannada Research Institute	BK Thapar";
+LatitudeLongitude[107] = "14.681888	77.600591";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[108] = "15.458924	75.007808	Herakal	Dharwar	Karnataka	1954	Exploration	Andhra	2	Kannada Research Institute	BK Thapar";
+LatitudeLongitude[108] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[109] = "15.342263	75.143463	Ittagi	Dharwar	Karnataka	1954	Exploration	Megalithic	2	Kannada Research Institute	BK Thapar";
+LatitudeLongitude[109] = "15.342263	75.143463";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[110] = "16.830171	75.710031	Pattadakal	Bijapur	Karnataka	1954	Exploration	Megalithic	2	Kannada Research Institute	BK Thapar";
+LatitudeLongitude[110] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[111] = "24.513182	75.747324	Bhanpura	Mandasor	Madhya Pradesh	1954	Exploration	10th-11th	3	Madhya Pradesh State";
+LatitudeLongitude[111] = "24.513182	75.747324";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[112] = "24.615873	75.742964	Navli	Mandasor	Madhya Pradesh	1954	Exploration	10th-11th	3	Madhya Pradesh State";
+LatitudeLongitude[112] = "24.615873	75.742964";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[113] = "24.626864	75.827248	Kethuli	Mandasor	Madhya Pradesh	1954	Exploration	10th-11th	3	Madhya Pradesh State";
+LatitudeLongitude[113] = "24.626864	75.827248";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[114] = "24.076836	75.069295	Taksake-swar	Mandasor	Madhya Pradesh	1954	Exploration	10th-11th	3	Madhya Pradesh State";
+LatitudeLongitude[114] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[115] = "24.718522	75.783659	Hinglagarh	Mandasor	Madhya Pradesh	1954	Exploration	10th-11th	3	Madhya Pradesh State";
+LatitudeLongitude[115] = "24.718522	75.783659";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[116] = "24.076836	75.069295	Chainpur	Mandasor	Madhya Pradesh	1954	Exploration	10th-11th	3	Madhya Pradesh State";
+LatitudeLongitude[116] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[117] = "24.076836	75.069295	Sheopur	Mandasor	Madhya Pradesh	1954	Exploration	10th-11th	3	Madhya Pradesh State";
+LatitudeLongitude[117] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[118] = "19.626291	76.540875	Charthana	Parbhani	Maharashtra	1954	Exploration	?	3	Hyderabad State";
+LatitudeLongitude[118] = "19.626291	76.540875";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[119] = "17.094416	79.775032	Madharam	Nalgonda	Andhra Pradesh	1954	Exploration	?	3	Hyderabad State";
+LatitudeLongitude[119] = "17.094416	79.775032";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[120] = "17.528743	78.266725	Patancheru	Medak	Andhra Pradesh	1954	Exploration	?	3	Hyderabad State";
+LatitudeLongitude[120] = "17.528743	78.266725";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[121] = "17.380686	78.324479	Gandipet	Hyderabad	Andhra Pradesh	1954	Exploration	?	3	Hyderabad State";
+LatitudeLongitude[121] = "17.380686	78.324479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[122] = "17.91488	77.50461	Kalyani	Bidar	Karnataka	1954	Exploration	?	3	Hyderabad State";
+LatitudeLongitude[122] = "17.91488	77.50461";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[123] = "20.888211	70.405998	Prabhas Patan	Gir Somnath	Gujarat	1954	Exploration	?	3	Gujarat State";
+LatitudeLongitude[123] = "20.888211	70.405998";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[124] = "26.645819	76.268187	Abaneri	Dausa	Rajasthan	1954	Exploration	?	3	Rajasthan State";
+LatitudeLongitude[124] = "26.645819	76.268187";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[125] = "25.75464	71.098497	Kiradu	Barmer	Rajasthan	1954	Exploration	?	3	Rajasthan State";
+LatitudeLongitude[125] = "25.75464	71.098497";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[126] = "25.240847	80.386742	Bariyari	Banda	Uttar Pradesh	1955	Exploration	Stone Age	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[126] = "25.240847	80.386742";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[127] = "25.479622	80.338021	Siddapura	Banda	Uttar Pradesh	1955	Exploration	Microlithic	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[127] = "25.479622	80.338021";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[128] = "25.479622	80.338021	Khoh	Banda	Uttar Pradesh	1955	Exploration	?	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[128] = "25.479622	80.338021";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[129] = "25.391276	80.929068	Agarhunda	Banda	Uttar Pradesh	1955	Exploration	?	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[129] = "25.391276	80.929068";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[130] = "25.479622	80.338021	Marjadpura	Banda	Uttar Pradesh	1955	Exploration	?	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[130] = "25.479622	80.338021";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[131] = "25.479622	80.338021	Chakond	Banda	Uttar Pradesh	1955	Exploration	?	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[131] = "25.479622	80.338021";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[132] = "19.551177	74.928106	Nevasa	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[132] = "19.551177	74.928106";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[133] = "19.54063	74.005428	Akola	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[133] = "19.54063	74.005428";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[134] = "19.532021	74.118857	Dhandharphal	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[134] = "19.532021	74.118857";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[135] = "19.574869	74.645899	Belapur	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[135] = "19.574869	74.645899";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[136] = "19.204544	74.888722	Kolhar	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[136] = "19.204544	74.888722";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[137] = "19.095208	74.749592	Kadit Khurd	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[137] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[138] = "19.350367	75.219372	Shenvadigaon	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[138] = "19.350367	75.219372";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[139] = "19.512185	74.784176	Kopare	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[139] = "19.512185	74.784176";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[140] = "19.568904	74.854368	Punatgaon	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[140] = "19.568904	74.854368";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[141] = "18.880233	74.697126	Chikhali	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[141] = "18.880233	74.697126";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[142] = "19.095208	74.749592	Vanghikhurd	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[142] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[143] = "19.2424	73.1639	Sangam	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[143] = "19.2424	73.1639";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[144] = "19.606494	74.87447	Belpandhari	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[144] = "19.606494	74.87447";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[145] = "19.330649	75.361622	Warkhed	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[145] = "19.330649	75.361622";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[146] = "19.524963	74.968367	Kalegaon	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[146] = "19.524963	74.968367";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[147] = "19.095208	74.749592	Shivyogamandir	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Kannada Research Institute	SS Malwad";
+LatitudeLongitude[147] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[148] = "19.56047	74.625249	Angavadi	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Kannada Research Institute	SS Malwad";
+LatitudeLongitude[148] = "19.56047	74.625249";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[149] = "19.095208	74.749592	Bagalkot	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Kannada Research Institute	SS Malwad";
+LatitudeLongitude[149] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[150] = "19.095208	74.749592	Kerkal	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Kannada Research Institute	SS Malwad";
+LatitudeLongitude[150] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[151] = "19.204544	74.888722	Kolhar	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Kannada Research Institute	SS Malwad";
+LatitudeLongitude[151] = "19.204544	74.888722";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[152] = "19.095208	74.749592	Almatti	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Kannada Research Institute	SS Malwad";
+LatitudeLongitude[152] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[153] = "19.095208	74.749592	Bilgi	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Kannada Research Institute	SS Malwad";
+LatitudeLongitude[153] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[154] = "19.095208	74.749592	Shidlaphadi	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Kannada Research Institute	SS Malwad";
+LatitudeLongitude[154] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[155] = "19.095208	74.749592	Hangal	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Kannada Research Institute	SS Malwad";
+LatitudeLongitude[155] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[156] = "19.095208	74.749592	Banavasi	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Kannada Research Institute	SS Malwad";
+LatitudeLongitude[156] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[157] = "19.095208	74.749592	Hale-Bankapur	Ahmednagar	Maharashtra	1955	Exploration	Stone Age	2	Kannada Research Institute	SS Malwad";
+LatitudeLongitude[157] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[158] = "22.553712	72.223735	Lothal	Ahmedabad	Gujarat	1955	Excavation	Harappan	1	Survey	Western Circle";
+LatitudeLongitude[158] = "22.553712	72.223735";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[159] = "21.6618788	69.8909454	Amra	Halar	Gujarat	1955	Excavation	Harappan	3	Saurashtra State	PP Pandya";
+LatitudeLongitude[159] = "21.6618788	69.8909454";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[160] = "21.481794	70.350758	Somnath	Sorath	Gujarat	1955	Excavation	Harappan	3	Saurashtra State	PP Pandya";
+LatitudeLongitude[160] = "21.481794	70.350758";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[161] = "19.551177	74.928106	Nevasa	Ahmednagar	Maharashtra	1955	Excavation	Neolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[161] = "19.551177	74.928106";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[162] = "24.587982	73.720755	Ahar	Udaipur	Rajasthan	1955	Excavation	Chalcolithic	3	Rajasthan State	RC Agrawala";
+LatitudeLongitude[162] = "24.587982	73.720755";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[163] = "23.44546	75.416992	Nagda	Ujjain	Madhya Pradesh	1955	Excavation	Chalcolithic	1	Survey	Excavations Branch";
+LatitudeLongitude[163] = "23.44546	75.416992";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[164] = "23.179301	75.78491	Ujjain	Ujjain	Madhya Pradesh	1955	Excavation	Chalcolithic	1	Survey	Excavations Branch";
+LatitudeLongitude[164] = "23.179301	75.78491";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[165] = "27.168117	79.517785	Kanauj	Farrukhabad	Uttar Pradesh	1955	Excavation	PGW	1	Survey	Excavations Branch";
+LatitudeLongitude[165] = "27.168117	79.517785";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[166] = "25.435801	81.846311	Kausambi	Allahabad	Uttar Pradesh	1955	Excavation	NBPW	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[166] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[167] = "25.594095	85.137565	Pataliputra	Patna	Bihar	1955	Excavation	NBPW	2	KP Jayaswal Research Institute	Viyayakanta Mishra";
+LatitudeLongitude[167] = "25.594095	85.137565";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[168] = "12.683995	79.983348	Kunnattur	Chingleput	Tamil Nadu	1955	Excavation	Megalithic	1	Survey	Southern Circle";
+LatitudeLongitude[168] = "12.683995	79.983348";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[169] = "16.52249	79.240886	Nagarjunakonda	Guntur	Andhra Pradesh	1955	Excavation	Ikshvakus	1	Survey";
+LatitudeLongitude[169] = "16.52249	79.240886";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[170] = "22.751069	77.780967	Sirpur	Raipur	Madhya Pradesh	1955	Excavation	Sarabhapura	2	University of Saugor	MG Dikshit";
+LatitudeLongitude[170] = "22.751069	77.780967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[171] = "11.36623	79.657228	Nanjalur	Cuddalore	Tamil Nadu	1955	Exploration	Megalithic	1	Survey	Ballabh Saran";
+LatitudeLongitude[171] = "11.36623	79.657228";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[172] = "11.279966	79.551914	Kattumannargudi	Cuddalore	Tamil Nadu	1955	Exploration	Megalithic	1	Survey	Ballabh Saran";
+LatitudeLongitude[172] = "11.279966	79.551914";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[173] = "11.489819	79.386302	Kumaramangalam	Cuddalore	Tamil Nadu	1955	Exploration	Megalithic	1	Survey	Ballabh Saran";
+LatitudeLongitude[173] = "11.489819	79.386302";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[174] = "11.037168	79.586649	Therazhandur	Thanjavur	Tamil Nadu	1955	Exploration	Megalithic	1	Survey	Ballabh Saran";
+LatitudeLongitude[174] = "11.037168	79.586649";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[175] = "10.786999	79.137827	Kandhahai	Thanjavur	Tamil Nadu	1955	Exploration	Megalithic	1	Survey	Ballabh Saran";
+LatitudeLongitude[175] = "10.786999	79.137827";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[176] = "10.786999	79.137827	Pittachcheri	Thanjavur	Tamil Nadu	1955	Exploration	Megalithic	1	Survey	Ballabh Saran";
+LatitudeLongitude[176] = "10.786999	79.137827";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[177] = "10.786999	79.137827	Perumkadambalur	Thanjavur	Tamil Nadu	1955	Exploration	Megalithic	1	Survey	Ballabh Saran";
+LatitudeLongitude[177] = "10.786999	79.137827";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[178] = "10.597244	79.023539	Palaya-gandharyakottai	Thanjavur	Tamil Nadu	1955	Exploration	Megalithic	1	Survey	Ballabh Saran";
+LatitudeLongitude[178] = "10.597244	79.023539";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[179] = "11.501157	79.63056	Nattamedu	Cuddalore	Tamil Nadu	1955	Exploration	Roman	1	Survey	Ballabh Saran";
+LatitudeLongitude[179] = "11.501157	79.63056";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[180] = "10.790483	78.704673	Gangaikondacholpuram	Tiruchirapalli	Tamil Nadu	1955	Exploration	Rajendra I	1	Survey	Ballabh Saran";
+LatitudeLongitude[180] = "10.790483	78.704673";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[181] = "10.786999	79.137827	Tanjore	Thanjavur	Tamil Nadu	1955	Exploration	?	1	Survey	Ballabh Saran";
+LatitudeLongitude[181] = "10.786999	79.137827";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[182] = "16.306652	80.43654	Nagarjunakonda Valley	Guntur	Andhra Pradesh	1955	Exploration	Stone Age	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[182] = "16.306652	80.43654";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[183] = "13.339168	77.113998	Banasandra Hill	Tumkur	Karnataka	1955	Exploration	Paleolithic	1	Survey	M Seshadri";
+LatitudeLongitude[183] = "13.339168	77.113998";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[184] = "16.830171	75.710031	Nandikeswar	Bijapur	Karnataka	1955	Exploration	Paleolithic	1	Survey	MN Deshpande";
+LatitudeLongitude[184] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[185] = "18.34401	73.843009	Khed	Pune	Maharashtra	1955	Exploration	Paleolithic	2	Deccan College	Zainuddin Ansari";
+LatitudeLongitude[185] = "18.34401	73.843009";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[186] = "18.733959	73.721306	Induri	Pune	Maharashtra	1955	Exploration	Paleolithic	2	Deccan College	Zainuddin Ansari";
+LatitudeLongitude[186] = "18.733959	73.721306";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[187] = "18.66005	74.492859	Chinchani	Pune	Maharashtra	1955	Exploration	Paleolithic	2	Deccan College	Zainuddin Ansari";
+LatitudeLongitude[187] = "18.66005	74.492859";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[188] = "24.076836	75.069295	Mandasor	Mandasor	Madhya Pradesh	1955	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[188] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[189] = "24.076836	75.069295	Sonita	Mandasor	Madhya Pradesh	1955	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[189] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[190] = "24.076836	75.069295	Chittorgarh	Mandasor	Madhya Pradesh	1955	Exploration	Paleolithic	1	Survey	SR Rao";
+LatitudeLongitude[190] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[191] = "24.076836	75.069295	Nagari	Mandasor	Madhya Pradesh	1955	Exploration	Paleolithic	1	Survey	SR Rao";
+LatitudeLongitude[191] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[192] = "27.09441	76.324652	Bhangarh	Alwar	Rajasthan	1955	Exploration	Paleolithic	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[192] = "27.09441	76.324652";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[193] = "11.454776	76.597945	Pykara	Nilgiris	Tamil Nadu	1955	Exploration	Microlithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[193] = "11.454776	76.597945";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[194] = "18.520708	74.050575	Theur	Pune	Maharashtra	1955	Exploration	Microlithic	2	Deccan College	MS Mate";
+LatitudeLongitude[194] = "18.520708	74.050575";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[195] = "23.733733	69.859741	Ladai	Kutch	Gujarat	1955	Exploration	Microlithic	1	Survey	SR Rao";
+LatitudeLongitude[195] = "23.733733	69.859741";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[196] = "23.733733	69.859741	Rambhau	Kutch	Gujarat	1955	Exploration	Microlithic	1	Survey	SR Rao";
+LatitudeLongitude[196] = "23.733733	69.859741";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[197] = "22.871425	69.811345	Luni	Kutch	Gujarat	1955	Exploration	Microlithic	1	Survey	SR Rao";
+LatitudeLongitude[197] = "22.871425	69.811345";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[198] = "23.746601	70.684879	Desalpar	Kutch	Gujarat	1955	Exploration	Microlithic	1	Survey	SR Rao";
+LatitudeLongitude[198] = "23.746601	70.684879";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[199] = "23.733733	69.859741	Kabra Pahar	Kutch	Gujarat	1955	Exploration	Microlithic	1	Survey	MG Dikshit";
+LatitudeLongitude[199] = "23.733733	69.859741";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[200] = "24.916356	79.581183	Ponr-ka-data	Chhatarpur	Madhya Pradesh	1955	Exploration	Microlithic	1	Survey	SK Dikshit";
+LatitudeLongitude[200] = "24.916356	79.581183";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[201] = "24.916356	79.581183	Putli-ka-data	Chhatarpur	Madhya Pradesh	1955	Exploration	Microlithic	1	Survey	SK Dikshit";
+LatitudeLongitude[201] = "24.916356	79.581183";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[202] = "27.553964	77.19165	Khera	Bharatpur	Rajasthan	1955	Exploration	Microlithic	1	Survey	SR Rao";
+LatitudeLongitude[202] = "27.553964	77.19165";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[203] = "24.888744	74.626922	Chittorgarh	Chittorgarh	Rajasthan	1955	Exploration	Microlithic	1	Survey	SR Rao";
+LatitudeLongitude[203] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[204] = "24.540264	76.172577	Jhalrapatan	Jhalawar	Rajasthan	1955	Exploration	Microlithic	1	Survey	SP Srivastava";
+LatitudeLongitude[204] = "24.540264	76.172577";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[205] = "26.167195	79.968229	Musanagar	Kanpur	Uttar Pradesh	1955	Exploration	NBPW	1	Survey	MM Nagar";
+LatitudeLongitude[205] = "26.167195	79.968229";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[206] = "22.408038	87.381073	Deulbarh	Midnapore	West Bengal	1955	Exploration	Neolithic	1	Survey	SK Mukherji";
+LatitudeLongitude[206] = "22.408038	87.381073";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[207] = "23.733733	69.859741	Todia Timbo	Kutch	Gujarat	1955	Exploration	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[207] = "23.733733	69.859741";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[208] = "22.2592	71.567203	Babarkot	Bhavnagar	Gujarat	1955	Exploration	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[208] = "22.2592	71.567203";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[209] = "21.76909	71.687304	Devalia	Bhavnagar	Gujarat	1955	Exploration	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[209] = "21.76909	71.687304";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[210] = "21.468982	70.370291	Kinner Kheda	Sorath	Gujarat	1955	Exploration	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[210] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[211] = "22.007302	71.92976	Moti Dharai	Bhavnagar	Gujarat	1955	Exploration	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[211] = "22.007302	71.92976";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[212] = "21.468982	70.370291	Una	Sorath	Gujarat	1955	Exploration	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[212] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[213] = "21.522184	70.457877	Alau	Junagadh	Gujarat	1955	Exploration	Chalcolithic	1	Survey	SR Rao";
+LatitudeLongitude[213] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[214] = "21.522184	70.457877	Bhimpatal	Junagadh	Gujarat	1955	Exploration	Chalcolithic	1	Survey	SR Rao";
+LatitudeLongitude[214] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[215] = "21.522184	70.457877	Kanjetar	Junagadh	Gujarat	1955	Exploration	Chalcolithic	1	Survey	SR Rao";
+LatitudeLongitude[215] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[216] = "21.522184	70.457877	Takriada	Junagadh	Gujarat	1955	Exploration	Chalcolithic	1	Survey	NR Banerjee";
+LatitudeLongitude[216] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[217] = "21.522184	70.457877	Bhilsura	Junagadh	Gujarat	1955	Exploration	Chalcolithic	1	Survey	NR Banerjee";
+LatitudeLongitude[217] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[218] = "18.321801	76.142142	Ter	Osmanabad	Maharashtra	1955	Exploration	Chalcolithic	1	Survey	P Sreenivasachar";
+LatitudeLongitude[218] = "18.321801	76.142142";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[219] = "12.29581	76.639381	Narasamantala	Mysore	Karnataka	1955	Exploration	Megalithic	1	Survey	M Seshadri";
+LatitudeLongitude[219] = "12.29581	76.639381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[220] = "11.774935	76.870655	Arakalavadi	Mysore	Karnataka	1955	Exploration	Megalithic	1	Survey	M Seshadri";
+LatitudeLongitude[220] = "11.774935	76.870655";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[221] = "13.360543	78.032381	Chinnasandra	Mysore	Karnataka	1955	Exploration	Megalithic	1	Survey	M Seshadri";
+LatitudeLongitude[221] = "13.360543	78.032381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[222] = "12.607939	76.133445	Konganahalli	Mysore	Karnataka	1955	Exploration	Megalithic	1	Survey	M Seshadri";
+LatitudeLongitude[222] = "12.607939	76.133445";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[223] = "13.051599	77.852451	Jedigenhalli	Mysore	Karnataka	1955	Exploration	Megalithic	1	Survey	M Seshadri";
+LatitudeLongitude[223] = "13.051599	77.852451";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[224] = "12.29581	76.639381	Kongarajapalli	Mysore	Karnataka	1955	Exploration	Megalithic	1	Survey	M Seshadri";
+LatitudeLongitude[224] = "12.29581	76.639381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[225] = "27.262828	78.036661	Poiya	Agra	Uttar Pradesh	1955	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[225] = "27.262828	78.036661";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[226] = "27.897394	78.088013	Renuka	Aligarh	Uttar Pradesh	1955	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[226] = "27.897394	78.088013";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[227] = "27.14785	77.829581	Mahuar	Agra	Uttar Pradesh	1955	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[227] = "27.14785	77.829581";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[228] = "27.204763	77.557643	Noh	Bharatpur	Rajasthan	1955	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[228] = "27.204763	77.557643";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[229] = "27.492413	77.673673	Aring	Mathura	Uttar Pradesh	1955	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[229] = "27.492413	77.673673";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[230] = "27.382613	79.594054	Sankethan	Farrukhabad	Uttar Pradesh	1955	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[230] = "27.382613	79.594054";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[231] = "27.325737	79.351386	Sankisa	Farrukhabad	Uttar Pradesh	1955	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[231] = "27.325737	79.351386";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[232] = "27.382613	79.594054	Farrukhabad	Farrukhabad	Uttar Pradesh	1955	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[232] = "27.382613	79.594054";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[233] = "26.846694	80.946166	Lucknow	Lucknow	Uttar Pradesh	1955	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[233] = "26.846694	80.946166";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[234] = "27.521662	77.467329	Sakhitara	Mathura	Uttar Pradesh	1955	Exploration	PGW	1	Survey	BB Lal";
+LatitudeLongitude[234] = "27.521662	77.467329";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[235] = "25.786308	79.089925	Erachh	Jhansi	Uttar Pradesh	1955	Exploration	NBPW	1	Survey	BB Lal";
+LatitudeLongitude[235] = "25.786308	79.089925";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[236] = "25.795891	78.909021	Chhota Belma	Jhansi	Uttar Pradesh	1955	Exploration	NBPW	1	Survey	BB Lal";
+LatitudeLongitude[236] = "25.795891	78.909021";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[237] = "26.343042	79.962581	Mati Kisanpur	Kanpur	Uttar Pradesh	1955	Exploration	NBPW	1	Survey	BB Lal";
+LatitudeLongitude[237] = "26.343042	79.962581";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[238] = "26.605735	80.269765	Bithur	Kanpur	Uttar Pradesh	1955	Exploration	NBPW	1	Survey	BB Lal";
+LatitudeLongitude[238] = "26.605735	80.269765";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[239] = "26.46985	80.322181	Ayodhya	Kanpur	Uttar Pradesh	1955	Exploration	NBPW	1	Survey	BB Lal";
+LatitudeLongitude[239] = "26.46985	80.322181";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[240] = "27.503543	82.036461	Shravasti	Gonda	Uttar Pradesh	1955	Exploration	NBPW	1	Survey	BB Lal";
+LatitudeLongitude[240] = "27.503543	82.036461";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[241] = "25.589545	81.654212	Singraur	Allahabad	Uttar Pradesh	1955	Exploration	NBPW	1	Survey	BB Lal";
+LatitudeLongitude[241] = "25.589545	81.654212";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[242] = "25.758438	84.148732	Lakueswar Dih	Ballia	Uttar Pradesh	1955	Exploration	NBPW	1	Survey	MM Nagar";
+LatitudeLongitude[242] = "25.758438	84.148732";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[243] = "25.374756	86.473525	Bodh Gaya	Munger	Bihar	1955	Exploration	NBPW	1	Survey	DR Patil";
+LatitudeLongitude[243] = "25.374756	86.473525";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[244] = "25.374756	86.473525	Pirnagara	Munger	Bihar	1955	Exploration	NBPW	1	Survey	DR Patil";
+LatitudeLongitude[244] = "25.374756	86.473525";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[245] = "24.795452	84.999431	Sonitpur	Gaya	Bihar	1955	Exploration	NBPW	1	Survey	VK Mishra";
+LatitudeLongitude[245] = "24.795452	84.999431";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[246] = "22.678213	88.693067	Chandraketur-garh	24 Parganas	West Bengal	1955	Exploration	NBPW	1	Survey	D Mitra";
+LatitudeLongitude[246] = "22.678213	88.693067";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[247] = "22.538754	88.290057	Basti	24 Parganas	West Bengal	1955	Exploration	Askoha	1	Survey	MM Nagar";
+LatitudeLongitude[247] = "22.538754	88.290057";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[248] = "18.528793	73.857925	Bhaja	Pune	Maharashtra	1955	Exploration	?	1	Survey	MN Deshpande";
+LatitudeLongitude[248] = "18.528793	73.857925";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[249] = "18.468727	73.860495	Ajanta	Pune	Maharashtra	1955	Exploration	2nd BC	1	Survey	Abdul Waheed Khan";
+LatitudeLongitude[249] = "18.468727	73.860495";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[250] = "21.002009	70.562562	Uparkot	Junagadh	Gujarat	1955	Exploration		1	Survey";
+LatitudeLongitude[250] = "21.002009	70.562562";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[251] = "21.522184	70.457877	Ranapara	Junagadh	Gujarat	1955	Exploration		1	Survey";
+LatitudeLongitude[251] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[252] = "23.095908	79.84648	Balpur	Seoni	Madhya Pradesh	1955	Exploration	Early Historical	1	Survey	MG Dikshit";
+LatitudeLongitude[252] = "23.095908	79.84648";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[253] = "22.25466	71.559042	Paliad	Bhavnagar	Gujarat	1955	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[253] = "22.25466	71.559042";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[254] = "21.764473	72.15193	Taraghra	Bhavnagar	Gujarat	1955	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[254] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[255] = "23.733733	69.859741	Nagini	Kutch	Gujarat	1955	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[255] = "23.733733	69.859741";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[256] = "21.468982	70.370291	Khengarpur	Sorath	Gujarat	1955	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[256] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[257] = "21.468982	70.370291	Talala	Sorath	Gujarat	1955	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[257] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[258] = "21.468982	70.370291	Divrana	Sorath	Gujarat	1955	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[258] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[259] = "21.468982	70.370291	Kadvar	Sorath	Gujarat	1955	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[259] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[260] = "21.468982	70.370291	Khalej	Sorath	Gujarat	1955	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[260] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[261] = "21.468982	70.370291	Una	Sorath	Gujarat	1955	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[261] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[262] = "19.418668	72.801302	Sopara	Thane	Maharashtra	1955	Exploration	Early Historical	2	Deccan College	DB Chitale";
+LatitudeLongitude[262] = "19.418668	72.801302";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[263] = "14.681888	77.600591	Sasankota	Anantapur	Andhra Pradesh	1955	Exploration	Early Historical	1	Survey	BK Thapar";
+LatitudeLongitude[263] = "14.681888	77.600591";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[264] = "16.169339	80.944273	Ghantasala	Krishna	Andhra Pradesh	1955	Exploration	Early Historical	1	Survey	BK Thapar";
+LatitudeLongitude[264] = "16.169339	80.944273";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[265] = "18.05077	83.262643	Jami	Visakhapatnam	Andhra Pradesh	1955	Exploration	Early Historical	1	Survey	BK Thapar";
+LatitudeLongitude[265] = "18.05077	83.262643";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[266] = "18.296975	83.896781	Gunanupuram	Srikakulam	Andhra Pradesh	1955	Exploration	Early Historical	1	Survey	BK Thapar";
+LatitudeLongitude[266] = "18.296975	83.896781";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[267] = "10.851459	79.106867	Kandiyr	Thanjavur	Tamil Nadu	1955	Exploration	Medieval	1	Survey	PR Srinivasan";
+LatitudeLongitude[267] = "10.851459	79.106867";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[268] = "10.786999	79.137827	Tiruppunturutti	Thanjavur	Tamil Nadu	1955	Exploration	Medieval	1	Survey	PR Srinivasan";
+LatitudeLongitude[268] = "10.786999	79.137827";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[269] = "10.786999	79.137827	Ugramahli	Thanjavur	Tamil Nadu	1955	Exploration	Medieval	1	Survey	PR Srinivasan";
+LatitudeLongitude[269] = "10.786999	79.137827";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[270] = "12.636837	76.337679	Arakere	Mysore	Karnataka	1955	Exploration	Medieval	1	Survey	M Seshadri";
+LatitudeLongitude[270] = "12.636837	76.337679";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[271] = "11.977456	76.382539	Narasipura	Mysore	Karnataka	1955	Exploration	Medieval	1	Survey	M Seshadri";
+LatitudeLongitude[271] = "11.977456	76.382539";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[272] = "12.29581	76.639381	Bhairavangudda	Mysore	Karnataka	1955	Exploration	Medieval	1	Survey	M Seshadri";
+LatitudeLongitude[272] = "12.29581	76.639381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[273] = "12.219606	76.450524	Kyathanahalli	Mysore	Karnataka	1955	Exploration	Medieval	1	Survey	M Seshadri";
+LatitudeLongitude[273] = "12.219606	76.450524";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[274] = "12.29581	76.639381	Ballesvara	Mysore	Karnataka	1955	Exploration	Medieval	1	Survey	M Seshadri";
+LatitudeLongitude[274] = "12.29581	76.639381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[275] = "14.188814	75.518207	Belagutti	Mysore	Karnataka	1955	Exploration	Medieval	1	Survey	M Seshadri";
+LatitudeLongitude[275] = "14.188814	75.518207";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[276] = "12.29581	76.639381	Byadamalalu	Mysore	Karnataka	1955	Exploration	Medieval	1	Survey	M Seshadri";
+LatitudeLongitude[276] = "12.29581	76.639381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[277] = "19.095208	74.749592	Ram Doh	Ahmednagar	Maharashtra	1955	Exploration	Medieval	2	Deccan College	HD Sankalia";
+LatitudeLongitude[277] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[278] = "19.626291	76.540875	Charthana	Parbhani	Maharashtra	1955	Exploration	Medieval	1	Survey	P Sreenivasachar";
+LatitudeLongitude[278] = "19.626291	76.540875";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[279] = "24.600508	80.832243	Naro Pahad	Satna	Madhya Pradesh	1955	Exploration	Medieval	1	Survey	SK Dikshit";
+LatitudeLongitude[279] = "24.600508	80.832243";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[280] = "25.321377	74.586953	Eklingji	Bhilwara	Rajasthan	1955	Exploration	Medieval	1	Survey	SP Srivastava";
+LatitudeLongitude[280] = "25.321377	74.586953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[281] = "25.321377	74.586953	Bayana	Bhilwara	Rajasthan	1955	Exploration	Medieval	1	Survey	SP Srivastava";
+LatitudeLongitude[281] = "25.321377	74.586953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[282] = "25.135674	75.35142	Kama	Bhilwara	Rajasthan	1955	Exploration	Medieval	1	Survey	SP Srivastava";
+LatitudeLongitude[282] = "25.135674	75.35142";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[283] = "25.168373	74.976402	Singoli	Bhilwara	Rajasthan	1955	Exploration	Medieval	1	Survey	SP Srivastava";
+LatitudeLongitude[283] = "25.168373	74.976402";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[284] = "26.111868	85.896004	Uchaitha	Darbhanga	Bihar	1955	Exploration	Medieval	2	KP Jayaswal Research Institute";
+LatitudeLongitude[284] = "26.111868	85.896004";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[285] = "21.161267	72.842689	Rayon	Kutch	Gujarat	1955	Exploration	Medieval	1	Survey	SP Srivastava";
+LatitudeLongitude[285] = "21.161267	72.842689";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[286] = "26.912434	75.787271	Bhaupur	Jaipur	Rajasthan	1955	Exploration	Medieval	1	Survey	SP Srivastava";
+LatitudeLongitude[286] = "26.912434	75.787271";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[287] = "26.790327	76.932617	Badoli	Dausa	Rajasthan	1956	Exploration	Paleolithic	1	Survey	SR Rao";
+LatitudeLongitude[287] = "26.790327	76.932617";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[288] = "24.8621	74.619	Sonita	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	1	Survey	SR Rao";
+LatitudeLongitude[288] = "24.8621	74.619";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[289] = "24.967309	75.552416	Bhainsrorgarh	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	1	Survey	SR Rao";
+LatitudeLongitude[289] = "24.967309	75.552416";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[290] = "24.888744	74.626922	Chittorgarh	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	1	Survey	KN Puri";
+LatitudeLongitude[290] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[291] = "24.812574	74.656145	Khor	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	1	Survey	KN Puri";
+LatitudeLongitude[291] = "24.812574	74.656145";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[292] = "24.888744	74.626922	Biawar	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	1	Survey	KN Puri";
+LatitudeLongitude[292] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[293] = "24.949655	74.681027	Nagri	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	1	Survey	KN Puri";
+LatitudeLongitude[293] = "24.949655	74.681027";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[294] = "24.646944	73.694823	Bara Bedla	Udaipur	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[294] = "24.646944	73.694823";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[295] = "24.585445	73.712479	Bichri	Udaipur	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[295] = "24.585445	73.712479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[296] = "24.585445	73.712479	Garua	Udaipur	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[296] = "24.585445	73.712479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[297] = "24.625606	73.865952	Dabok	Udaipur	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[297] = "24.625606	73.865952";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[298] = "24.033889	74.223802	Mander	Udaipur	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[298] = "24.033889	74.223802";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[299] = "24.567899	73.775732	Kanpur	Udaipur	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[299] = "24.567899	73.775732";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[300] = "24.641404	73.985941	Bijana	Udaipur	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[300] = "24.641404	73.985941";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[301] = "24.585445	73.712479	Mordai	Udaipur	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[301] = "24.585445	73.712479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[302] = "24.009004	73.927899	Intali	Udaipur	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[302] = "24.009004	73.927899";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[303] = "24.888744	74.626922	Bari Achnar	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[303] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[304] = "24.824281	74.560975	Deori	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[304] = "24.824281	74.560975";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[305] = "24.888744	74.626922	Darauli	Chittorgarh	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[305] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[306] = "24.888744	74.626922	Hingwanio	Chittorgarh	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[306] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[307] = "24.775676	74.320621	Umand	Chittorgarh	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[307] = "24.775676	74.320621";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[308] = "24.888744	74.626922	Nangauli	Chittorgarh	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[308] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[309] = "24.737365	74.449632	Bansen	Chittorgarh	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[309] = "24.737365	74.449632";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[310] = "24.912129	74.667855	Sirdi	Chittorgarh	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[310] = "24.912129	74.667855";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[311] = "24.623766	74.774668	Keli	Chittorgarh	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[311] = "24.623766	74.774668";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[312] = "24.076836	75.069295	Jawad	Mandasor	Madhya Pradesh	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[312] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[313] = "24.587982	73.720755	Ahar	Udaipur	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[313] = "24.587982	73.720755";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[314] = "24.585445	73.712479	Sialpura	Udaipur	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[314] = "24.585445	73.712479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[315] = "24.585445	73.712479	Farchar	Udaipur	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[315] = "24.585445	73.712479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[316] = "24.686912	74.059387	Tarawat	Udaipur	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[316] = "24.686912	74.059387";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[317] = "24.585445	73.712479	Joera	Udaipur	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[317] = "24.585445	73.712479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[318] = "24.888744	74.626922	Undala	Chittorgarh	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[318] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[319] = "24.734597	74.314754	Viroli	Chittorgarh	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[319] = "24.734597	74.314754";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[320] = "24.347758	74.765892	Hironji-ka-khera	Chittorgarh	Rajasthan	1956	Exploration	Chalcolithic	1	Survey	KN Puri";
+LatitudeLongitude[320] = "24.347758	74.765892";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[321] = "24.183652	74.854987	Tarra	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[321] = "24.183652	74.854987";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[322] = "24.888744	74.626922	Bamini	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[322] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[323] = "24.888744	74.626922	Kalikunya	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	1	Survey	KN Puri";
+LatitudeLongitude[323] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[324] = "24.020594	74.970558	Kanthar	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[324] = "24.020594	74.970558";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[325] = "24.888744	74.626922	Multanpura	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[325] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[326] = "24.888744	74.626922	Mahadeo-Ghat	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[326] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[327] = "25.021815	74.118376	Smasan-Ghat	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[327] = "25.021815	74.118376";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[328] = "24.888744	74.626922	Dhikola	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[328] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[329] = "24.888744	74.626922	Chikla	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[329] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[330] = "24.761868	74.507143	Nahargarh	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[330] = "24.761868	74.507143";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[331] = "24.888744	74.626922	Alvi-Mahadeo	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[331] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[332] = "24.888744	74.626922	Itali	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[332] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[333] = "25.013471	74.765892	Basai	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[333] = "25.013471	74.765892";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[334] = "24.603877	74.322087	Morwan	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[334] = "24.603877	74.322087";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[335] = "24.888744	74.626922	Ratanzana	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[335] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[336] = "25.128897	75.285231	Kalyanpura	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[336] = "25.128897	75.285231";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[337] = "24.888744	74.626922	Chittorgarh	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[337] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[338] = "24.888744	74.626922	Bagh Caves	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[338] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[339] = "24.888744	74.626922	Navda Toli	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[339] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[340] = "25.169753	74.936151	Maheswar	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[340] = "25.169753	74.936151";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[341] = "24.888744	74.626922	Mandaleswar	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[341] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[342] = "24.888744	74.626922	Kharki-Mata	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[342] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[343] = "24.509777	74.471613	Khanpura	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[343] = "24.509777	74.471613";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[344] = "24.888744	74.626922	Suara	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[344] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[345] = "24.642088	74.727854	Borkheri	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[345] = "24.642088	74.727854";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[346] = "24.538387	74.648826	Narsinga	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[346] = "24.538387	74.648826";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[347] = "24.888744	74.626922	Choli	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[347] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[348] = "24.888744	74.626922	Sanjit	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[348] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[349] = "24.888744	74.626922	Sonkatch	Chittorgarh	Rajasthan	1956	Exploration	Paleolithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[349] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[350] = "24.888744	74.626922	Ram-Ghat	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[350] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[351] = "25.08517	74.969097	Parmar-Kheri	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[351] = "25.08517	74.969097";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[352] = "24.888744	74.626922	Deoguraria	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[352] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[353] = "24.888744	74.626922	Patalpani	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[353] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[354] = "24.888744	74.626922	Kalikund	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[354] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[355] = "24.623582	74.800996	Nagda	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[355] = "24.623582	74.800996";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[356] = "24.888744	74.626922	Tungni	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[356] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[357] = "24.888744	74.626922	Metwas	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[357] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[358] = "24.888744	74.626922	Takraoda	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[358] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[359] = "24.888744	74.626922	Maori	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[359] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[360] = "24.888744	74.626922	Ghata-Buod	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[360] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[361] = "24.888744	74.626922	Betnia	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[361] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[362] = "24.579449	73.72511	Pseva	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[362] = "24.579449	73.72511";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[363] = "24.888744	74.626922	Kasrawad	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[363] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[364] = "24.347758	74.765892	Khera	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[364] = "24.347758	74.765892";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[365] = "24.888744	74.626922	Lohari	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[365] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[366] = "24.888744	74.626922	Dhodhar	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[366] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[367] = "24.888744	74.626922	Badnawar	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[367] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[368] = "24.888744	74.626922	Kanwan	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[368] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[369] = "24.888744	74.626922	Bilawadi	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[369] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[370] = "24.888744	74.626922	Dharhara	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[370] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[371] = "24.888744	74.626922	Ashta	Chittorgarh	Rajasthan	1956	Exploration	Microlithic	2	Deccan College	AP Khatri";
+LatitudeLongitude[371] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[372] = "20.903098	74.750092	Prakashe	Dhule	Maharashtra	1956	Exploration	Paleolithic	2	Deccan College	SB Deo";
+LatitudeLongitude[372] = "20.903098	74.750092";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[373] = "19.706908	74.480392	Pimplas	Dhule	Maharashtra	1956	Exploration	Paleolithic	2	Deccan College	SB Deo";
+LatitudeLongitude[373] = "19.706908	74.480392";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[374] = "20.811643	74.223802	Eklahre	Dhule	Maharashtra	1956	Exploration	Paleolithic	2	Deccan College	PV Sovani";
+LatitudeLongitude[374] = "20.811643	74.223802";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[375] = "20.977756	74.38807	Gangapur	Dhule	Maharashtra	1956	Exploration	Paleolithic	2	Deccan College	PV Sovani";
+LatitudeLongitude[375] = "20.977756	74.38807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[376] = "19.395657	74.648983	Nevasa	Dhule	Maharashtra	1956	Exploration	Paleolithic	2	Deccan College	PV Sovani";
+LatitudeLongitude[376] = "19.395657	74.648983";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[377] = "25.133699	82.564434	Barkacha	Mirzapur	Uttar Pradesh	1956	Exploration	Microlithic	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[377] = "25.133699	82.564434";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[378] = "25.790678	83.843096	Kotwa	Mirzapur	Uttar Pradesh	1956	Exploration	Microlithic	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[378] = "25.790678	83.843096";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[379] = "24.810673	83.201069	Basauli	Mirzapur	Uttar Pradesh	1956	Exploration	Paleolithic	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[379] = "24.810673	83.201069";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[380] = "24.901271	82.358751	Dhobaha	Mirzapur	Uttar Pradesh	1956	Exploration	Paleolithic	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[380] = "24.901271	82.358751";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[381] = "25.133699	82.564434	Kandakot Hill	Mirzapur	Uttar Pradesh	1956	Exploration	Paleolithic	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[381] = "25.133699	82.564434";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[382] = "25.133699	82.564434	Lekhania	Mirzapur	Uttar Pradesh	1956	Exploration	Paleolithic	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[382] = "25.133699	82.564434";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[383] = "23.484887	87.302234	Birbhanpur	Burdwan	West Bengal	1956	Excavation	Microlithic	1	Survey	BB Lal";
+LatitudeLongitude[383] = "23.484887	87.302234";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[384] = "22.553712	72.223735	Lothal	Ahmedabad	Gujarat	1956	Excavation	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[384] = "22.553712	72.223735";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[385] = "20.888211	70.405998	Prabhas Patan	Sorath	Gujarat	1956	Excavation	Chalcolithic	3	Bombay State	PP Pandya";
+LatitudeLongitude[385] = "20.888211	70.405998";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[386] = "20.58754	75.046512	Bahal	Jalgaon	Maharashtra	1956	Excavation	Chalcolithic	1	Survey	South-western Circle";
+LatitudeLongitude[386] = "20.58754	75.046512";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[387] = "21.007658	75.562604	Tekwada	Jalgaon	Maharashtra	1956	Excavation	Chalcolithic	1	Survey	South-western Circle";
+LatitudeLongitude[387] = "21.007658	75.562604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[388] = "24.965648	84.949239	Sonepur	Gaya	Bihar	1956	Excavation	NBPW	2	KP Jayaswal Research Institute	Vijayakanta Mishra";
+LatitudeLongitude[388] = "24.965648	84.949239";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[389] = "23.179301	75.78491	Ujjain	Ujjain	Madhya Pradesh	1956	Excavation	PGW	1	Survey	Excavations Branch";
+LatitudeLongitude[389] = "23.179301	75.78491";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[390] = "25.435801	81.846311	Kausambi	Allahabad	Uttar Pradesh	1956	Excavation	NBPW	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[390] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[391] = "26.423456	80.402048	Jajmau	Kanpur	Uttar Pradesh	1956	Excavation	NBPW	3	Uttar Pradesh State	MM Nagar";
+LatitudeLongitude[391] = "26.423456	80.402048";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[392] = "27.489502	81.411414	Unchgaon	Sitapur	Uttar Pradesh	1956	Excavation	Medieval	3	Uttar Pradesh State	MM Nagar";
+LatitudeLongitude[392] = "27.489502	81.411414";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[393] = "27.746713	80.496606	Baragaon	Sitapur	Uttar Pradesh	1956	Excavation	Medieval	3	Uttar Pradesh State	MM Nagar";
+LatitudeLongitude[393] = "27.746713	80.496606";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[394] = "25.758438	84.148732	Ashtabhuja	Ballia	Uttar Pradesh	1956	Excavation	9th-10th	3	Uttar Pradesh State	MM Nagar";
+LatitudeLongitude[394] = "25.758438	84.148732";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[395] = "25.758438	84.148732	Lakhneswar-dih	Ballia	Uttar Pradesh	1956	Excavation	NBPW	3	Uttar Pradesh State	MM Nagar";
+LatitudeLongitude[395] = "25.758438	84.148732";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[396] = "22.678213	88.693067	Chandraketur-garh	24 Parganas	West Bengal	1956	Excavation	Mauryan	2	University of Calcutta	G Goswami";
+LatitudeLongitude[396] = "22.678213	88.693067";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[397] = "19.387389	85.051541	Jaugada	Ganjam	Orissa	1956	Excavation	Mauryan	1	Survey	Eastern Circle";
+LatitudeLongitude[397] = "19.387389	85.051541";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[398] = "12.683995	79.983348	Kunnattur	Chingleput	Tamil Nadu	1956	Excavation	Megalithic	1	Survey	Southern Circle";
+LatitudeLongitude[398] = "12.683995	79.983348";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[399] = "13.051599	77.852451	Jadigenahalli	Bangalore	Karnataka	1956	Excavation	Megalithic	3	Mysore State	M Seshadri";
+LatitudeLongitude[399] = "13.051599	77.852451";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[400] = "21.6300589	75.2232703	Dhanora	Drug	Madhya Pradesh	1956	Excavation	Megalithic	3	Madhya Pradesh State	MG Dikshit";
+LatitudeLongitude[400] = "21.6300589	75.2232703";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[401] = "16.52249	79.240886	Nagarjunakonda	Guntur	Andhra Pradesh	1956	Excavation	Neolithic	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[401] = "16.52249	79.240886";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[402] = "16.430345	79.718954	Karempudi	Guntur	Andhra Pradesh	1956	Exploration	Paleolithic	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[402] = "16.430345	79.718954";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[403] = "18.548867	73.870963	Deccan College	Pune	Maharashtra	1956	Exploration	Paleolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[403] = "18.548867	73.870963";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[404] = "18.34401	73.843009	Khed	Pune	Maharashtra	1956	Exploration	Paleolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[404] = "18.34401	73.843009";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[405] = "18.93164	72.832644	Bombay area	Bombay	Maharashtra	1956	Exploration	Paleolithic	2	Deccan College	SC Malik";
+LatitudeLongitude[405] = "18.93164	72.832644";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[406] = "17.674554	75.323726	Pandharpur	Sholapur	Maharashtra	1956	Exploration	Paleolithic	1	Survey	BB Lal";
+LatitudeLongitude[406] = "17.674554	75.323726";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[407] = "22.177285	75.582978	Maheswar	Khargone	Madhya Pradesh	1956	Exploration	Paleolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[407] = "22.177285	75.582978";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[408] = "24.392326	75.153254	Neemuch	Mandasor	Madhya Pradesh	1956	Exploration	Paleolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[408] = "24.392326	75.153254";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[409] = "23.181467	79.986407	Katni	Jabalpur	Madhya Pradesh	1956	Exploration	Paleolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[409] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[410] = "25.412442	78.485279	Lalitpur	Jhansi	Uttar Pradesh	1956	Exploration	Paleolithic	1	Survey	Klaus Bruhn";
+LatitudeLongitude[410] = "25.412442	78.485279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[411] = "23.84767	72.993297	Banas	Sabarkantha	Gujarat	1956	Exploration	Microlithic	1	Survey	SN Chowdhary";
+LatitudeLongitude[411] = "23.84767	72.993297";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[412] = "17.117115	75.859932	Nimbal	Bijapur	Karnataka	1956	Exploration	Microlithic	1	Survey	BB Lal";
+LatitudeLongitude[412] = "17.117115	75.859932";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[413] = "19.876165	75.343314	Baitalwadi	Aurangabad	Maharashtra	1956	Exploration	Microlithic	1	Survey	BB Lal";
+LatitudeLongitude[413] = "19.876165	75.343314";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[414] = "19.095208	74.749592	Pednagar	Ahmednagar	Maharashtra	1956	Exploration	Microlithic	1	Survey	BB Lal";
+LatitudeLongitude[414] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[415] = "23.179301	75.78491	Kaluji-ka-Barda	Ujjain	Madhya Pradesh	1956	Exploration	Microlithic	1	Survey	NR Banerjee";
+LatitudeLongitude[415] = "23.179301	75.78491";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[416] = "23.179301	75.78491	Delcha	Ujjain	Madhya Pradesh	1956	Exploration	Microlithic	1	Survey	NR Banerjee";
+LatitudeLongitude[416] = "23.179301	75.78491";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[417] = "23.179301	75.78491	Banjara Barda	Ujjain	Madhya Pradesh	1956	Exploration	Microlithic	1	Survey	NR Banerjee";
+LatitudeLongitude[417] = "23.179301	75.78491";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[418] = "23.637596	75.125964	Jaora	Ratlam	Gujarat	1956	Exploration	Microlithic	1	Survey	SR Rao";
+LatitudeLongitude[418] = "23.637596	75.125964";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[419] = "26.976774	73.403287	Khinsvar	Jodhpur	Rajasthan	1956	Exploration	Microlithic	3	Rajasthan State";
+LatitudeLongitude[419] = "26.976774	73.403287";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[420] = "26.238947	73.024309	Bairagarh	Jodhpur	Rajasthan	1956	Exploration	Microlithic	1	Survey	VS Wakankar";
+LatitudeLongitude[420] = "26.238947	73.024309";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[421] = "25.435787	77.665066	Chorpura	Shivpuri	Madhya Pradesh	1956	Exploration	1st-2nd AD	1	Survey	VS Wakankar";
+LatitudeLongitude[421] = "25.435787	77.665066";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[422] = "23.181467	79.986407	Katni	Jabalpur	Madhya Pradesh	1956	Exploration	?	1	Survey	VS Wakankar";
+LatitudeLongitude[422] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[423] = "31.402036	75.635356	Dhogri	Jalandhar	Punjab	1956	Exploration	Harappan	1	Survey	YD Sharma";
+LatitudeLongitude[423] = "31.402036	75.635356";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[424] = "31.577146	75.669538	Madhopur	Jalandhar	Punjab	1956	Exploration	PGW	1	Survey	YD Sharma";
+LatitudeLongitude[424] = "31.577146	75.669538";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[425] = "17.275984	74.200323	Karad	Satara	Maharashtra	1956	Exploration	Microlithic	1	Survey	BB Lal";
+LatitudeLongitude[425] = "17.275984	74.200323";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[426] = "18.75906	73.479155	Karla	Pune	Maharashtra	1956	Exploration	Microlithic	1	Survey	BB Lal";
+LatitudeLongitude[426] = "18.75906	73.479155";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[427] = "23.799868	72.563368	Devalia	Rangpur	Gujarat	1956	Exploration	Microlithic	1	Survey	SR Rao";
+LatitudeLongitude[427] = "23.799868	72.563368";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[428] = "22.011894	71.147112	Atkot	Atkot	Gujarat	1956	Exploration	Harappan	1	Survey	PP Pandya";
+LatitudeLongitude[428] = "22.011894	71.147112";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[429] = "22.009851	71.147822	Pithadia	Atkot	Gujarat	1956	Exploration	Harappan	1	Survey	PP Pandya";
+LatitudeLongitude[429] = "22.009851	71.147822";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[430] = "23.583582	72.140132	Modhera	Mehsana	Gujarat	1956	Exploration	Harappan	1	Survey	SN Chowdhary";
+LatitudeLongitude[430] = "23.583582	72.140132";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[431] = "23.271418	72.314471	Ashta	Mehsana	Gujarat	1956	Exploration	Chalcolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[431] = "23.271418	72.314471";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[432] = "24.076836	75.069295	Qila mound	Mandasor	Madhya Pradesh	1956	Exploration	Chalcolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[432] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[433] = "9.866637	78.147179	Samanattam	Madurai	Tamil Nadu	1956	Exploration	Megalithic	1	Survey	KS Ramachandran";
+LatitudeLongitude[433] = "9.866637	78.147179";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[434] = "9.903551	78.096941	Palangunattam	Madurai	Tamil Nadu	1956	Exploration	Megalithic	1	Survey	KS Ramachandran";
+LatitudeLongitude[434] = "9.903551	78.096941";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[435] = "9.946413	78.08994	Old Vilangudi	Madurai	Tamil Nadu	1956	Exploration	Megalithic	1	Survey	KS Ramachandran";
+LatitudeLongitude[435] = "9.946413	78.08994";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[436] = "9.964581	78.06662	Paravai	Madurai	Tamil Nadu	1956	Exploration	Megalithic	1	Survey	KS Ramachandran";
+LatitudeLongitude[436] = "9.964581	78.06662";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[437] = "9.925201	78.119775	Koilmedu	Madurai	Tamil Nadu	1956	Exploration	Megalithic	1	Survey	KS Ramachandran";
+LatitudeLongitude[437] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[438] = "9.873225	78.197765	Silayuman	Madurai	Tamil Nadu	1956	Exploration	Megalithic	1	Survey	KS Ramachandran";
+LatitudeLongitude[438] = "9.873225	78.197765";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[439] = "9.918135	78.080537	Madakkulam	Madurai	Tamil Nadu	1956	Exploration	Megalithic	1	Survey	KS Ramachandran";
+LatitudeLongitude[439] = "9.918135	78.080537";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[440] = "9.925201	78.119775	Nattamedu	Madurai	Tamil Nadu	1956	Exploration	Megalithic	1	Survey	KS Ramachandran";
+LatitudeLongitude[440] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[441] = "9.925201	78.119775	Kundalanaickenpatti	Madurai	Tamil Nadu	1956	Exploration	Megalithic	1	Survey	KS Ramachandran";
+LatitudeLongitude[441] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[442] = "12.683995	79.983348	Perumbair	Chingleput	Tamil Nadu	1956	Exploration	Megalithic	1	Survey	KS Ramachandran";
+LatitudeLongitude[442] = "12.683995	79.983348";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[443] = "18.34401	73.843009	Khed	Pune	Maharashtra	1956	Exploration	Early Historical	1	Survey	SB Deo";
+LatitudeLongitude[443] = "18.34401	73.843009";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[444] = "16.988118	73.995094	Nerle	Satara	Maharashtra	1956	Exploration	Early Historical	1	Survey	MS Mate";
+LatitudeLongitude[444] = "16.988118	73.995094";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[445] = "21.515471	70.456444	Junagardh	Junagardh	Gujarat	1956	Exploration	Early Historical	1	Survey	PP Pandya";
+LatitudeLongitude[445] = "21.515471	70.456444";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[446] = "20.888211	70.405998	Hirnay	Prabhas Patan	Gujarat	1956	Exploration	Early Historical	1	Survey	PP Pandya";
+LatitudeLongitude[446] = "20.888211	70.405998";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[447] = "21.881705	70.401081	Jam Kandorna	Rajkot	Gujarat	1956	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[447] = "21.881705	70.401081";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[448] = "31.580865	75.642454	Dasuya	Jalandhar	Punjab	1956	Exploration	Early Historical	1	Survey	YD Sharma";
+LatitudeLongitude[448] = "31.580865	75.642454";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[449] = "22.223711	88.460978	Harinarayanpur	24 Parganas	West Bengal	1956	Exploration	Early Historical	3	Asutosh Museum";
+LatitudeLongitude[449] = "22.223711	88.460978";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[450] = "22.607084	88.688018	Atghara	24 Parganas	West Bengal	1956	Exploration	Early Historical	1	Survey	PC Dasgupta";
+LatitudeLongitude[450] = "22.607084	88.688018";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[451] = "22.403769	86.886005	Bahiri	Midnapore	West Bengal	1956	Exploration	Early Historical	1	Survey	PC Dasgupta";
+LatitudeLongitude[451] = "22.403769	86.886005";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[452] = "22.223711	88.460978	Harinarayanpur	24 Parganas	West Bengal	1956	Exploration	Early Historical	1	Survey	D Mitra";
+LatitudeLongitude[452] = "22.223711	88.460978";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[453] = "17.420827	74.440106	Mhasorne	Satara	Maharashtra	1956	Exploration	Traikutaka	1	Survey	SB Deo";
+LatitudeLongitude[453] = "17.420827	74.440106";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[454] = "16.959929	80.092601	Tekkellapadu	Krishna	Andhra Pradesh	1956	Exploration	Early Historical	1	Survey";
+LatitudeLongitude[454] = "16.959929	80.092601";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[455] = "16.457886	81.183018	Alluru	Krishna	Andhra Pradesh	1956	Exploration	Early Historical	1	Survey";
+LatitudeLongitude[455] = "16.457886	81.183018";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[456] = "17.686816	83.218482	Ramatirham	Visakhapatnam	Andhra Pradesh	1956	Exploration	Early Historical	1	Survey";
+LatitudeLongitude[456] = "17.686816	83.218482";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[457] = "21.468982	70.370291	Navdra	Sorath	Gujarat	1956	Exploration	Early Historical	1	Survey	MA Dhanki";
+LatitudeLongitude[457] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[458] = "21.468982	70.370291	Savni	Sorath	Gujarat	1956	Exploration	Early Historical	1	Survey	MA Dhanki";
+LatitudeLongitude[458] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[459] = "18.189371	74.118123	Harni	Pune	Maharashtra	1956	Exploration	Chalukya	1	Survey	KR Kapre";
+LatitudeLongitude[459] = "18.189371	74.118123";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[460] = "18.193717	74.084352	Parinche	Pune	Maharashtra	1956	Exploration	Chalukya	1	Survey	KR Kapre";
+LatitudeLongitude[460] = "18.193717	74.084352";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[461] = "26.612913	92.936871	Devasthan	Nagaon	Assam	1956	Exploration	10-11th	3	Assam State	State Museum";
+LatitudeLongitude[461] = "26.612913	92.936871";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[462] = "12.878767	77.637668	Begur	Bangalore	Karnataka	1956	Exploration	Medieval	1	Survey	M Seshadri";
+LatitudeLongitude[462] = "12.878767	77.637668";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[463] = "13.315258	75.775402	Hirenallur	Chikmagalur	Karnataka	1956	Exploration	Isvara	1	Survey	M Seshadri";
+LatitudeLongitude[463] = "13.315258	75.775402";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[464] = "13.693641	75.973175	Baggavalli	Chikmagalur	Karnataka	1956	Exploration	Isvara	1	Survey	M Seshadri";
+LatitudeLongitude[464] = "13.693641	75.973175";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[465] = "13.315258	75.775402	Hanni	Chikmagalur	Karnataka	1956	Exploration	Isvara	1	Survey	M Seshadri";
+LatitudeLongitude[465] = "13.315258	75.775402";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[466] = "13.82418	75.980431	Bukkambudi	Chikmagalur	Karnataka	1956	Exploration	Isvara	1	Survey	M Seshadri";
+LatitudeLongitude[466] = "13.82418	75.980431";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[467] = "14.93921	75.963741	Sogi	Bellary	Karnataka	1956	Exploration	Isvara	1	Survey	M Seshadri";
+LatitudeLongitude[467] = "14.93921	75.963741";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[468] = "13.333166	76.385433	Honnavalli	Tumkur	Karnataka	1956	Exploration	Isvara	1	Survey	M Seshadri";
+LatitudeLongitude[468] = "13.333166	76.385433";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[469] = "13.339168	77.113998	Basti	Tumkur	Karnataka	1956	Exploration	Isvara	1	Survey	M Seshadri";
+LatitudeLongitude[469] = "13.339168	77.113998";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[470] = "13.339168	77.113998	Balabanerlu	Tumkur	Karnataka	1956	Exploration	Isvara	1	Survey	M Seshadri";
+LatitudeLongitude[470] = "13.339168	77.113998";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[471] = "13.339168	77.113998	Karodi	Tumkur	Karnataka	1956	Exploration	Isvara	1	Survey	M Seshadri";
+LatitudeLongitude[471] = "13.339168	77.113998";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[472] = "24.392499	73.880865	Jagat	Udaipur	Rajasthan	1956	Exploration	Medieval	3	Rajasthan State";
+LatitudeLongitude[472] = "24.392499	73.880865";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[473] = "24.180737	73.838966	Kejad	Udaipur	Rajasthan	1956	Exploration	Medieval	3	Rajasthan State";
+LatitudeLongitude[473] = "24.180737	73.838966";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[474] = "23.894905	73.89483	Hathai	Dungarpur	Rajasthan	1956	Exploration	Medieval	3	Rajasthan State";
+LatitudeLongitude[474] = "23.894905	73.89483";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[475] = "23.844019	73.71733	Amihar	Dungarpur	Rajasthan	1956	Exploration	Medieval	3	Rajasthan State";
+LatitudeLongitude[475] = "23.844019	73.71733";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[476] = "26.486015	76.053696	Narhad	Jaipur	Rajasthan	1956	Exploration	Medieval	3	Rajasthan State";
+LatitudeLongitude[476] = "26.486015	76.053696";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[477] = "26.912434	75.787271	Baya	Jaipur	Rajasthan	1956	Exploration	Medieval	3	Rajasthan State";
+LatitudeLongitude[477] = "26.912434	75.787271";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[478] = "26.976774	73.403287	Khinsvar	Jodhpur	Rajasthan	1956	Exploration	Medieval	3	Rajasthan State";
+LatitudeLongitude[478] = "26.976774	73.403287";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[479] = "30.533925	77.826007	Tons	Dehradun	Uttarakhand	1956	Exploration	Medieval	1	Survey	YD Sharma";
+LatitudeLongitude[479] = "30.533925	77.826007";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[480] = "30.460132	77.908175	Barwa	Dehradun	Uttarakhand	1956	Exploration	Medieval	1	Survey	YD Sharma";
+LatitudeLongitude[480] = "30.460132	77.908175";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[481] = "30.506348	77.856738	Kata Patthar	Dehradun	Uttarakhand	1956	Exploration	Medieval	1	Survey	YD Sharma";
+LatitudeLongitude[481] = "30.506348	77.856738";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[482] = "30.448365	77.798127	Prithipur	Dehradun	Uttarakhand	1956	Exploration	Medieval	1	Survey	YD Sharma";
+LatitudeLongitude[482] = "30.448365	77.798127";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[483] = "11.016845	76.955832	Coimbatore	Coimbatore	Tamil Nadu	1956	Exploration	10-11th	1	Survey	PR Srinivasan";
+LatitudeLongitude[483] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[484] = "13.582351	79.304666	Chandragiri Fort	Chittoor	Andhra Pradesh	1956	Exploration	Mughal	1	Survey	PR Srinivasan";
+LatitudeLongitude[484] = "13.582351	79.304666";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[485] = "21.833524	75.614989	Navdatoli	Khargone	Madhya Pradesh	1957	Excavation	Chalcolithic	2	Deccan College";
+LatitudeLongitude[485] = "21.833524	75.614989";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[486] = "16.52249	79.240886	Nagarjunakonda	Guntur	Andhra Pradesh	1957	Excavation	Megalithic	1	Survey	R Subrahmanyam";
+LatitudeLongitude[486] = "16.52249	79.240886";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[487] = "15.828126	78.037279	Billa Surgam	Kurnool	Andhra Pradesh	1957	Exploration	Paleolithic	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[487] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[488] = "15.828126	78.037279	Galaru Valley	Kurnool	Andhra Pradesh	1957	Exploration	Paleolithic	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[488] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[489] = "17.079649	79.989902	Kistnapuram	Nalgonda	Andhra Pradesh	1957	Excavation	Iron Age	3	Andhra State	P Sreenivasachar";
+LatitudeLongitude[489] = "17.079649	79.989902";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[490] = "26.003818	85.081783	Vaisali	Muzaffarpur	Bihar	1957	Excavation	Lichchhavis	2	KP Jayaswal Research Institute	AS Altekar";
+LatitudeLongitude[490] = "26.003818	85.081783";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[491] = "25.596956	85.18411	Rajgir	Patna	Bihar	1957	Excavation	Pali	1	Survey	Mid-eastern Circle";
+LatitudeLongitude[491] = "25.596956	85.18411";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[492] = "22.553712	72.223735	Lothal	Ahmedabad	Gujarat	1957	Excavation	Harappan	1	Survey	Western Circle";
+LatitudeLongitude[492] = "22.553712	72.223735";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[493] = "18.994367	74.903339	Chichondi Patil	Ahmednagar	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[493] = "18.994367	74.903339";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[494] = "21.705136	72.995875	Bhagatrav	Broach	Gujarat	1957	Exploration	Harappan	1	Survey	Western Circle";
+LatitudeLongitude[494] = "21.705136	72.995875";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[495] = "21.674199	72.758849	Mehgam	Broach	Gujarat	1957	Exploration	Harappan	1	Survey	Western Circle";
+LatitudeLongitude[495] = "21.674199	72.758849";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[496] = "21.977263	73.008058	Telod	Broach	Gujarat	1957	Exploration	Harappan	1	Survey	Western Circle";
+LatitudeLongitude[496] = "21.977263	73.008058";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[497] = "21.4483153	72.7966708	Hasanpur	Surat	Gujarat	1957	Exploration	Chalcolithic	1	Survey	Western Circle";
+LatitudeLongitude[497] = "21.4483153	72.7966708";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[498] = "22.303895	70.80216	Rojdi	Rajkot	Gujarat	1957	Exploration	Stone Age	1	Survey";
+LatitudeLongitude[498] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[499] = "24.597349	76.160984	Sajakpur	Jhalawar	Rajasthan	1957	Exploration	Stone Age	1	Survey";
+LatitudeLongitude[499] = "24.597349	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[500] = "21.742553	72.080888	Khodiyar	Bhavnagar	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[500] = "21.742553	72.080888";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[501] = "20.604502	72.92683	Kuthriwad	Halar	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[501] = "20.604502	72.92683";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[502] = "22.009851	71.147822	Adkot	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[502] = "22.009851	71.147822";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[503] = "23.849325	72.126626	Nanavati	Patan	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[503] = "23.849325	72.126626";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[504] = "22.303895	70.80216	Deshamari	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[504] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[505] = "22.083178	70.816455	Ardoi	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[505] = "22.083178	70.816455";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[506] = "20.389316	72.91062	Vaori	Valsad	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[506] = "20.389316	72.91062";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[507] = "22.094787	70.774641	Pipaliya Raj	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[507] = "22.094787	70.774641";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[508] = "22.303895	70.80216	Koha	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[508] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[509] = "23.841668	73.714662	Dungarpur	Dungarpur	Rajasthan	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[509] = "23.841668	73.714662";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[510] = "22.303895	70.80216	Mavaohabha	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[510] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[511] = "22.303895	70.80216	Godhapadar	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[511] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[512] = "22.303895	70.80216	Bhamandharo	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[512] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[513] = "22.303895	70.80216	Malgodh	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[513] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[514] = "22.303895	70.80216	Timaram	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[514] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[515] = "22.303895	70.80216	Jalansar	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[515] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[516] = "22.303895	70.80216	Belora	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[516] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[517] = "22.303895	70.80216	Hamaji	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[517] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[518] = "26.238947	73.024309	Jodhpur	Jodhpur	Rajasthan	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[518] = "26.238947	73.024309";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[519] = "21.625749	71.935688	Khari	Bhavnagar	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[519] = "21.625749	71.935688";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[520] = "21.388403	70.460735	Padar	Junagadh	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[520] = "21.388403	70.460735";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[521] = "20.758886	71.076519	Kalapan	Junagadh	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[521] = "20.758886	71.076519";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[522] = "23.976062	71.816926	Deodar	Banaskantha	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[522] = "23.976062	71.816926";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[523] = "26.449895	74.639916	Ajmer	Ajmer	Rajasthan	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[523] = "26.449895	74.639916";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[524] = "23.022505	72.571362	Dad	Ahmedabad	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[524] = "23.022505	72.571362";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[525] = "23.288978	71.917639	Mandal	Ahmedabad	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[525] = "23.288978	71.917639";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[526] = "22.888272	71.60355	Bharad	Surendranagar	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[526] = "22.888272	71.60355";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[527] = "21.522184	70.457877	Chaparda	Junagadh	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[527] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[528] = "21.522184	70.457877	Haramatala	Junagadh	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[528] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[529] = "21.594201	70.853616	Khakharba	Junagadh	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[529] = "21.594201	70.853616";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[530] = "21.522184	70.457877	Dhankani	Junagadh	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[530] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[531] = "21.522184	70.457877	Sasu	Junagadh	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[531] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[532] = "22.157389	73.811028	Kundanpur	Vadodara	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[532] = "22.157389	73.811028";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[533] = "21.795399	70.653652	Pithadia	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[533] = "21.795399	70.653652";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[534] = "22.243792	70.924353	Dobaria	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[534] = "22.243792	70.924353";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[535] = "22.470702	70.05773	Rajathali	Jamnagar	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[535] = "22.470702	70.05773";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[536] = "22.470702	70.05773	Bhamakdal	Jamnagar	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[536] = "22.470702	70.05773";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[537] = "22.303895	70.80216	Khetiwadi	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[537] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[538] = "22.236384	70.8826	Kalipat	Rajkot	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[538] = "22.236384	70.8826";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[539] = "21.468982	70.370291	Vikamsinh	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[539] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[540] = "21.468982	70.370291	Asakada	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[540] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[541] = "21.468982	70.370291	Bharwada	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[541] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[542] = "21.468982	70.370291	Somadwip	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[542] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[543] = "21.468982	70.370291	Bhuwara	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[543] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[544] = "21.468982	70.370291	Chara	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[544] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[545] = "21.463664	70.371098	Bodka	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[545] = "21.463664	70.371098";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[546] = "21.468982	70.370291	Dhingeshwar	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[546] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[547] = "21.468982	70.370291	Lavadia	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[547] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[548] = "21.468982	70.370291	Bhimadenal	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[548] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[549] = "21.468982	70.370291	Timli	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[549] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[550] = "21.468982	70.370291	Tithad	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[550] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[551] = "21.468982	70.370291	Harmatia	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[551] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[552] = "21.468982	70.370291	Bhoji	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[552] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[553] = "21.468982	70.370291	Kaj	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[553] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[554] = "21.468982	70.370291	Khambhodar	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[554] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[555] = "21.468982	70.370291	Charchanes	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[555] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[556] = "21.468982	70.370291	Kharapiaparnes	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[556] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[557] = "21.468982	70.370291	Malsaram	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[557] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[558] = "21.468982	70.370291	Dhrosan	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[558] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[559] = "21.468982	70.370291	Khadakli	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[559] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[560] = "21.468982	70.370291	Ramlechi	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[560] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[561] = "21.468982	70.370291	Jardeshwar	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[561] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[562] = "21.468982	70.370291	Renawara	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[562] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[563] = "21.468982	70.370291	Devkapatna	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[563] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[564] = "21.468982	70.370291	Simoni	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[564] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[565] = "21.468982	70.370291	Jilada	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[565] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[566] = "21.468982	70.370291	Hirneshwar	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[566] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[567] = "21.468982	70.370291	Bhutda	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[567] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[568] = "21.468982	70.370291	Tumada	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[568] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[569] = "21.468982	70.370291	Vachhoda	Sorath	Gujarat	1957	Exploration	Harappan	1	Survey";
+LatitudeLongitude[569] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[570] = "19.2096557	72.811429	Khandivli	Kolaba	Maharashtra	1957	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[570] = "19.2096557	72.811429";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[571] = "18.186066	76.041941	Atter	Osmanabad	Maharashtra	1957	Excavation	NBPW	3	Bombay State	PM Joshi";
+LatitudeLongitude[571] = "18.186066	76.041941";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[572] = "20.90422	74.774898	Kirvada	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[572] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[573] = "21.064441	74.200323	Bhondgaon	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[573] = "21.064441	74.200323";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[574] = "20.90422	74.774898	Amoda	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[574] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[575] = "20.992605	74.314074	Sakri	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[575] = "20.992605	74.314074";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[576] = "21.259152	74.953263	Thalner	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[576] = "21.259152	74.953263";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[577] = "21.460624	74.587335	Kothali	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[577] = "21.460624	74.587335";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[578] = "21.226256	74.982976	Manjrod	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[578] = "21.226256	74.982976";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[579] = "20.90422	74.774898	Chorgapn	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[579] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[580] = "21.349598	74.879713	Shjipur	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[580] = "21.349598	74.879713";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[581] = "20.90422	74.774898	Mudavad	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[581] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[582] = "21.021299	75.520299	Yadhoda	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[582] = "21.021299	75.520299";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[583] = "20.90422	74.774898	Vadhbda	Dhule	Maharashtra	1957	Exploration	Paleolithic	1	Survey	South-western";
+LatitudeLongitude[583] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[584] = "20.90422	74.774898	Dhamdai	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[584] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[585] = "20.90422	74.774898	Patharai	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[585] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[586] = "20.90422	74.774898	Nijhar	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[586] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[587] = "20.90422	74.774898	Grhuh	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[587] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[588] = "20.90422	74.774898	Palasi	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[588] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[589] = "20.937599	74.018652	Shinda	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[589] = "20.937599	74.018652";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[590] = "20.467037	74.975612	Khodasgaon	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[590] = "20.467037	74.975612";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[591] = "20.90422	74.774898	Sarvala	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[591] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[592] = "20.90422	74.774898	Devhala	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[592] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[593] = "20.90422	74.774898	Shelu	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[593] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[594] = "20.90422	74.774898	Rakasvada	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[594] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[595] = "20.90422	74.774898	Kathoda	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[595] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[596] = "20.90422	74.774898	Pimplod	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[596] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[597] = "20.90422	74.774898	Nalvak Khurd	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[597] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[598] = "20.90422	74.774898	Karanjakupa	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[598] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[599] = "20.905825	74.782896	Patonda	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[599] = "20.905825	74.782896";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[600] = "20.90422	74.774898	Pimplod (Shinda)	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[600] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[601] = "20.90422	74.774898	Loy	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[601] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[602] = "20.90422	74.774898	Takli Pada	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[602] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[603] = "20.90422	74.774898	Ujnbar Pada	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[603] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[604] = "20.90422	74.774898	Dhulod	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[604] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[605] = "21.276753	74.701516	Varul	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[605] = "21.276753	74.701516";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[606] = "20.90422	74.774898	Shahada	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[606] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[607] = "20.90422	74.774898	Kolda	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[607] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[608] = "20.90422	74.774898	Dahidula Budruk	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[608] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[609] = "20.90422	74.774898	Dahidula Khurd	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[609] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[610] = "20.90422	74.774898	Lonkhed	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[610] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[611] = "21.391355	74.716149	Anturli	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[611] = "21.391355	74.716149";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[612] = "20.90422	74.774898	Veka	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[612] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[613] = "20.90422	74.774898	Nalayak	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[613] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[614] = "20.90403	74.460623	Budruk	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[614] = "20.90403	74.460623";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[615] = "20.94601	74.141922	Chikse	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[615] = "20.94601	74.141922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[616] = "20.90422	74.774898	Hagri Pada	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[616] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[617] = "20.90422	74.774898	Chinchoda	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[617] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[618] = "20.90422	74.774898	Kolda	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[618] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[619] = "21.223408	74.689809	Hatnur	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[619] = "21.223408	74.689809";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[620] = "21.229424	74.969828	Bhortek	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[620] = "21.229424	74.969828";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[621] = "20.90422	74.774898	Dliadne	Dhule	Maharashtra	1957	Exploration	Microlithic	1	Survey	South-western";
+LatitudeLongitude[621] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[622] = "28.528824	77.180868	Lal-kot	Delhi	Delhi	1957	Excavation	Medieval	1	Survey	North-western";
+LatitudeLongitude[622] = "28.528824	77.180868";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[623] = "28.519233	77.193087	Qila Rai Pithora	Delhi	Delhi	1957	Excavation	Medieval	1	Survey	North-western";
+LatitudeLongitude[623] = "28.519233	77.193087";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[624] = "23.838099	79.442173	Bariarpur	Damoh	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[624] = "23.838099	79.442173";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[625] = "23.838099	79.442173	Kohari	Damoh	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[625] = "23.838099	79.442173";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[626] = "24.187835	79.464763	Ramnagar	Damoh	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[626] = "24.187835	79.464763";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[627] = "23.838099	79.442173	Chorhat	Damoh	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[627] = "23.838099	79.442173";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[628] = "23.838099	79.442173	Deoland Bridge	Damoh	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[628] = "23.838099	79.442173";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[629] = "24.537293	81.30418	Govindgarh Tank	Rewa	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[629] = "24.537293	81.30418";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[630] = "24.85339	80.525786	Pahari-Khera	Panna	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[630] = "24.85339	80.525786";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[631] = "23.838099	79.442173	Kojkheri	Damoh	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[631] = "23.838099	79.442173";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[632] = "24.134541	79.543484	Harat	Damoh	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[632] = "24.134541	79.543484";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[633] = "23.502494	77.134135	Pilukheri	Rajgarh	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[633] = "23.502494	77.134135";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[634] = "23.633333	77.1	Kotada	Rajgarh	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[634] = "23.633333	77.1";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[635] = "23.162949	76.565271	Ashta	Shajapur	Madhya Pradesh	1957	Exploration	Stone Age	1	Survey	Prehistory Branch";
+LatitudeLongitude[635] = "23.162949	76.565271";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[636] = "24.076836	75.069295	Mori	Mandasor	Madhya Pradesh	1957	Exploration	Paleolithic	3	Madhya Pradesh State	MG Dikshit";
+LatitudeLongitude[636] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[637] = "24.076836	75.069295	Chibbarnala	Mandasor	Madhya Pradesh	1957	Exploration	Paleolithic	3	Madhya Pradesh State	MG Dikshit";
+LatitudeLongitude[637] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[638] = "24.076836	75.069295	Sitakhardi	Mandasor	Madhya Pradesh	1957	Exploration	Paleolithic	3	Madhya Pradesh State	MG Dikshit";
+LatitudeLongitude[638] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[639] = "24.076836	75.069295	Deopur	Mandasor	Madhya Pradesh	1957	Exploration	Microlithic	3	Madhya Pradesh State	MG Dikshit";
+LatitudeLongitude[639] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[640] = "24.208862	75.408251	Awra	Mandasor	Madhya Pradesh	1957	Exploration	Microlithic	3	Madhya Pradesh State	MG Dikshit";
+LatitudeLongitude[640] = "24.208862	75.408251";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[641] = "24.076836	75.069295	Pasewa	Mandasor	Madhya Pradesh	1957	Excavation	Microlithic	3	Madhya Pradesh State	MG Dikshit";
+LatitudeLongitude[641] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[642] = "21.833524	75.614989	Navdatoli	Khargone	Madhya Pradesh	1957	Excavation	Chalcolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[642] = "21.833524	75.614989";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[643] = "23.179301	75.78491	Ujjain	Ujjain	Madhya Pradesh	1957	Excavation	Iron Age	1	Survey";
+LatitudeLongitude[643] = "23.179301	75.78491";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[644] = "12.683995	79.983348	Kunnattur	Chingleput	Tamil Nadu	1957	Excavation	Megalithic	1	Survey	Southern";
+LatitudeLongitude[644] = "12.683995	79.983348";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[645] = "11.172059	76.972947	Virapandi	Coimbatore	Tamil Nadu	1957	Exploration	Megalithic	1	Survey	Southern";
+LatitudeLongitude[645] = "11.172059	76.972947";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[646] = "11.151008	76.935498	Gudalur	Coimbatore	Tamil Nadu	1957	Exploration	Megalithic	1	Survey	Southern";
+LatitudeLongitude[646] = "11.151008	76.935498";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[647] = "11.206863	76.965654	Billichi	Coimbatore	Tamil Nadu	1957	Exploration	Megalithic	1	Survey	Southern";
+LatitudeLongitude[647] = "11.206863	76.965654";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[648] = "11.163178	76.991667	Vellamadai	Coimbatore	Tamil Nadu	1957	Exploration	Megalithic	1	Survey	Southern";
+LatitudeLongitude[648] = "11.163178	76.991667";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[649] = "11.086146	77.036297	Kalapatti	Coimbatore	Tamil Nadu	1957	Exploration	Megalithic	1	Survey	Southern";
+LatitudeLongitude[649] = "11.086146	77.036297";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[650] = "11.151008	76.935498	Periyanayakanpalayam	Coimbatore	Tamil Nadu	1957	Exploration	Megalithic	1	Survey	Southern";
+LatitudeLongitude[650] = "11.151008	76.935498";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[651] = "11.016845	76.955832	Nattamedu	Coimbatore	Tamil Nadu	1957	Exploration	Megalithic	1	Survey	Southern";
+LatitudeLongitude[651] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[652] = "11.016845	76.955832	Ottakalmantapan	Coimbatore	Tamil Nadu	1957	Exploration	Megalithic	1	Survey	Southern";
+LatitudeLongitude[652] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[653] = "11.136064	77.006812	Sircarsamakkulam	Coimbatore	Tamil Nadu	1957	Exploration	Megalithic	1	Survey	Southern";
+LatitudeLongitude[653] = "11.136064	77.006812";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[654] = "9.925201	78.119775	Kollanpatrai	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[654] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[655] = "9.925201	78.119775	Karuvelampatti	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[655] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[656] = "9.925201	78.119775	Thathanodaimedu	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[656] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[657] = "9.925201	78.119775	Nagamalai Pudukkottai	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[657] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[658] = "9.781041	78.187792	Sengulam	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[658] = "9.781041	78.187792";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[659] = "9.925201	78.119775	Vedar Puliangulam	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[659] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[660] = "9.924669	78.036619	Melakuyilkudi	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[660] = "9.924669	78.036619";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[661] = "9.903551	78.096941	Palanganattam	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[661] = "9.903551	78.096941";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[662] = "9.964581	78.06662	Paravai	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[662] = "9.964581	78.06662";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[663] = "9.977276	78.038088	Samayanallur	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[663] = "9.977276	78.038088";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[664] = "9.947614	78.090865	Vilangudi	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[664] = "9.947614	78.090865";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[665] = "9.98651	78.008836	Tenur	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[665] = "9.98651	78.008836";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[666] = "9.985126	78.084448	Podumbu	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[666] = "9.985126	78.084448";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[667] = "9.967846	78.100134	Sikandar Chavadi	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[667] = "9.967846	78.100134";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[668] = "9.925201	78.119775	Karuppannaswamikoilmedu	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[668] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[669] = "9.925201	78.119775	Rishaban Tidal	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[669] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[670] = "9.802384	77.958874	Alampatti	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[670] = "9.802384	77.958874";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[671] = "9.943139	78.080882	Kochchadai	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[671] = "9.943139	78.080882";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[672] = "9.925201	78.119775	Playanattam	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[672] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[673] = "9.925201	78.119775	Samattivaram	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[673] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[674] = "9.927184	78.009192	Vadapalanji	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[674] = "9.927184	78.009192";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[675] = "9.88279	78.119382	Avaniapuram	Madurai	Tamil Nadu	1957	Exploration	Microlithic	1	Survey	Southern";
+LatitudeLongitude[675] = "9.88279	78.119382";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[676] = "16.830171	75.710031	Indihalla	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[676] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[677] = "16.830171	75.710031	Doddahalla	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[677] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[678] = "16.830171	75.710031	Navilehalla	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[678] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[679] = "16.830171	75.710031	Dulakheda	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[679] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[680] = "17.204131	75.998569	Ingalgi	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[680] = "17.204131	75.998569";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[681] = "17.273265	75.673173	Jirankalgi	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[681] = "17.273265	75.673173";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[682] = "16.830171	75.710031	Indihalla	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[682] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[683] = "16.830171	75.710031	Gugihal	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[683] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[684] = "16.830171	75.710031	Kenginal	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[684] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[685] = "16.830171	75.710031	Masali Khurd	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[685] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[686] = "17.235467	75.789472	Ballolli	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[686] = "17.235467	75.789472";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[687] = "16.830171	75.710031	Bhairangi	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[687] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[688] = "17.002966	75.928905	Benkanhalli	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[688] = "17.002966	75.928905";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[689] = "16.997434	75.994216	Tamba	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[689] = "16.997434	75.994216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[690] = "16.873747	75.731334	Hanchinal	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[690] = "16.873747	75.731334";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[691] = "16.830171	75.710031	Rodgi	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[691] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[692] = "16.527164	75.829427	Khydgi	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[692] = "16.527164	75.829427";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[693] = "17.056576	75.870824	Lingadhalli	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[693] = "17.056576	75.870824";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[694] = "16.986259	75.886073	Atharga	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[694] = "16.986259	75.886073";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[695] = "16.830171	75.710031	Shivpur Khurd	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[695] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[696] = "16.830171	75.710031	Inchgeri	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[696] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[697] = "16.830171	75.710031	Satalga	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[697] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[698] = "16.830171	75.710031	Taddevadi	Bijapur	Karnataka	1957	Exploration	Chalcolithic	1	Survey	South-western";
+LatitudeLongitude[698] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[699] = "15.458924	75.007808	Akkur	Dharwar	Karnataka	1957	Exploration	Early Historical	1	Survey	South-western";
+LatitudeLongitude[699] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[700] = "20.655784	86.342746	Ratnagiri	Cuttack	Orissa	1957	Excavation	Early Historical	1	Survey	Eastern Circle";
+LatitudeLongitude[700] = "20.655784	86.342746";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[701] = "20.650346	85.597222	Bhimkand	Dhenkanal	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[701] = "20.650346	85.597222";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[702] = "20.650346	85.597222	Chakrasil	Dhenkanal	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[702] = "20.650346	85.597222";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[703] = "20.667183	86.081631	Harichandanpur	Dhenkanal	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[703] = "20.667183	86.081631";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[704] = "20.613114	85.202357	Hindol	Dhenkanal	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[704] = "20.613114	85.202357";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[705] = "20.650346	85.597222	Kaliakata	Dhenkanal	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[705] = "20.650346	85.597222";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[706] = "20.809236	85.308452	Kharagprasad	Dhenkanal	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[706] = "20.809236	85.308452";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[707] = "20.989808	85.280007	Kulei	Dhenkanal	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[707] = "20.989808	85.280007";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[708] = "20.650346	85.597222	Pallahara	Dhenkanal	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[708] = "20.650346	85.597222";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[709] = "20.650346	85.597222	Parang	Dhenkanal	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[709] = "20.650346	85.597222";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[710] = "20.950103	85.216816	Talcher	Dhenkanal	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[710] = "20.950103	85.216816";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[711] = "22.008698	86.418731	Banspal	Mayurbhanj	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[711] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[712] = "22.008698	86.418731	Bonaikala	Mayurbhanj	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[712] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[713] = "22.099324	86.924848	Barasol	Mayurbhanj	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[713] = "22.099324	86.924848";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[714] = "22.080632	86.236548	Bar Manda	Mayurbhanj	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[714] = "22.080632	86.236548";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[715] = "22.21108	86.284413	Bijatala	Mayurbhanj	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[715] = "22.21108	86.284413";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[716] = "22.008698	86.418731	Domuhani	Mayurbhanj	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[716] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[717] = "21.730694	86.648514	Ghantasila	Mayurbhanj	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[717] = "21.730694	86.648514";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[718] = "21.89318	86.734093	Mahulia	Mayurbhanj	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[718] = "21.89318	86.734093";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[719] = "22.008698	86.418731	Naujora	Mayurbhanj	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[719] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[720] = "21.797304	86.703906	Pratappur	Mayurbhanj	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[720] = "21.797304	86.703906";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[721] = "22.270932	86.170089	Rairangpur	Mayurbhanj	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[721] = "22.270932	86.170089";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[722] = "22.124003	84.043175	Bhalundungri	Sundargarh	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[722] = "22.124003	84.043175";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[723] = "22.124003	84.043175	Bhanjgarh	Sundargarh	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[723] = "22.124003	84.043175";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[724] = "22.124003	84.043175	Bishalburv	Sundargarh	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[724] = "22.124003	84.043175";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[725] = "22.124003	84.043175	Jangra	Sundargarh	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[725] = "22.124003	84.043175";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[726] = "22.182997	84.032603	Khuntagaon	Sundargarh	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[726] = "22.182997	84.032603";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[727] = "22.124003	84.043175	Kurbadi	Sundargarh	Orissa	1957	Exploration	Paleolithic	2	Deccan College	GD Mohaptra";
+LatitudeLongitude[727] = "22.124003	84.043175";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[728] = "32.324617	75.710981	Nagrota	Kangra	Punjab	1957	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[728] = "32.324617	75.710981";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[729] = "32.001745	76.139243	Guler	Kangra	Punjab	1957	Exploration	Stone Age	2	Deccan College	HD Sankalia";
+LatitudeLongitude[729] = "32.001745	76.139243";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[730] = "25.321377	74.586953	Bilio	Bhilwara	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[730] = "25.321377	74.586953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[731] = "25.321377	74.586953	Kurias	Bhilwara	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[731] = "25.321377	74.586953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[732] = "25.758218	75.381816	Deoli	Bhilwara	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[732] = "25.758218	75.381816";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[733] = "25.227138	74.681027	Mangrup	Bhilwara	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[733] = "25.227138	74.681027";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[734] = "24.347758	74.765892	Ballu Khera	Chittorgarh	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[734] = "24.347758	74.765892";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[735] = "25.321377	74.586953	Duria	Bhilwara	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[735] = "25.321377	74.586953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[736] = "25.321377	74.586953	Giga Khera	Bhilwara	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[736] = "25.321377	74.586953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[737] = "25.258354	74.566833	Kumaria	Bhilwara	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[737] = "25.258354	74.566833";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[738] = "24.586218	74.607834	Uncha	Chittorgarh	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[738] = "24.586218	74.607834";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[739] = "25.094417	74.437907	Purani Marmi	Chittorgarh	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[739] = "25.094417	74.437907";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[740] = "24.585445	73.712479	Goga Thala	Udaipur	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[740] = "24.585445	73.712479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[741] = "25.321377	74.586953	Kadukota	Bhilwara	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[741] = "25.321377	74.586953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[742] = "25.321377	74.586953	Joashia	Bhilwara	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[742] = "25.321377	74.586953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[743] = "25.31569	74.836092	Dhelana	Bhilwara	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[743] = "25.31569	74.836092";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[744] = "24.888744	74.626922	Meroli	Chittorgarh	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[744] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[745] = "24.978803	75.046512	Bhagwanpura	Chittorgarh	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[745] = "24.978803	75.046512";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[746] = "25.159766	75.217276	Chhatri Khera	Chittorgarh	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[746] = "25.159766	75.217276";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[747] = "24.888744	74.626922	Pachimto	Chittorgarh	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[747] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[748] = "24.5438	73.7173	Kotharia	Udaipur	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[748] = "24.5438	73.7173";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[749] = "24.585445	73.712479	Mangas	Udaipur	Rajasthan	1957	Exploration	?	1	Survey";
+LatitudeLongitude[749] = "24.585445	73.712479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[750] = "24.888744	74.626922	Bichore	Chittorgarh	Rajasthan	1957	Exploration	Paleolithic	1	Survey	Western Circle";
+LatitudeLongitude[750] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[751] = "24.888744	74.626922	Shamaria	Chittorgarh	Rajasthan	1957	Exploration	Paleolithic	1	Survey	Western Circle";
+LatitudeLongitude[751] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[752] = "25.435801	81.846311	Kausambi	Allahabad	Uttar Pradesh	1957	Excavation	Early Historical	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[752] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[753] = "26.423456	80.402048	Jajmau	Kanpur	Uttar Pradesh	1957	Excavation	?	3	Uttar Pradesh State	MM Nagar";
+LatitudeLongitude[753] = "26.423456	80.402048";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[754] = "25.33131	83.040165	Rajghat	Varanasi	Uttar Pradesh	1957	Excavation	Early Historical	2	BHU	AK. Narain";
+LatitudeLongitude[754] = "25.33131	83.040165";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[755] = "14.466756	78.969831	Chandraketur-garh	24 Parganas	West Bengal	1957	Excavation		2	University of Calcutta	KG Goswami";
+LatitudeLongitude[755] = "14.466756	78.969831";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[756] = "22.678213	88.693067	Hindupur	Anantapur	Andhra Pradesh	1957	Exploration	Early Historical	1	Survey	M. Venkataramayya";
+LatitudeLongitude[756] = "22.678213	88.693067";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[757] = "13.818538	77.498875	Nandalur	Cuddapah	Andhra Pradesh	1957	Exploration	Paleolithic	1	Survey	M. Venkataramayya";
+LatitudeLongitude[757] = "13.818538	77.498875";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[758] = "14.270951	79.106867	Siddhavattam	Cuddapah	Andhra Pradesh	1957	Exploration	Paleolithic	1	Survey	M. Venkataramayya";
+LatitudeLongitude[758] = "14.270951	79.106867";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[759] = "16.457886	81.183018	Alluru	Krishna	Andhra Pradesh	1957	Exploration	Ikshvaku	1	Survey	M. Venkataramayya";
+LatitudeLongitude[759] = "16.457886	81.183018";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[760] = "15.231671	77.570539	Jonnagiri	Kurnool	Andhra Pradesh	1957	Exploration	Megalithic	1	Survey	M. Venkataramayya";
+LatitudeLongitude[760] = "15.231671	77.570539";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[761] = "15.858832	78.127936	Singhvaram	Mahbubnagar	Andhra Pradesh	1957	Exploration	Palaeolithic	1	Survey	KM Srivastava";
+LatitudeLongitude[761] = "15.858832	78.127936";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[762] = "16.15	77.833333	Podur	Mahbubnagar	Andhra Pradesh	1957	Exploration	Medieval	1	Survey	P Sreenivasachar";
+LatitudeLongitude[762] = "16.15	77.833333";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[763] = "18.601469	83.971781	Mukhalingam	Srikakulam	Andhra Pradesh	1957	Exploration	Megalithic	1	Survey	M. Venkataramayya";
+LatitudeLongitude[763] = "18.601469	83.971781";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[764] = "25.777139	87.475255	Sikligarh	Purnia	Bihar	1957	Exploration	Early Historical	1	Survey	AC Banerji";
+LatitudeLongitude[764] = "25.777139	87.475255";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[765] = "19.876165	75.343314	Pitalkhora	Aurangabad	Maharashtra	1957	Exploration	Buddhist	1	Survey	MN Deshpande";
+LatitudeLongitude[765] = "19.876165	75.343314";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[766] = "21.705136	72.995875	Juni Andhi	Broach	Gujarat	1957	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[766] = "21.705136	72.995875";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[767] = "21.705136	72.995875	Kantyajala	Broach	Gujarat	1957	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[767] = "21.705136	72.995875";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[768] = "21.764473	72.15193	Akrau	Bhavnagar	Gujarat	1957	Exploration	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[768] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[769] = "21.764473	72.15193	Pavateswar Mahadev	Bhavnagar	Gujarat	1957	Exploration	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[769] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[770] = "24.597349	76.160984	Sejakpur	Jhalawar	Rajasthan	1957	Exploration	Microlithic	1	Survey	SR Rao";
+LatitudeLongitude[770] = "24.597349	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[771] = "20.563235	74.138677	Pimpaldar	Nashik	Maharashtra	1957	Exploration	Chalcolithic	1	Survey	MK Dhavalikar";
+LatitudeLongitude[771] = "20.563235	74.138677";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[772] = "17.909385	76.355046	Vadgaon	Osmanabad	Maharashtra	1957	Exploration	Early Historical	1	Survey	BB Lal";
+LatitudeLongitude[772] = "17.909385	76.355046";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[773] = "18.733959	73.721306	Induri	Pune	Maharashtra	1957	Exploration	Buddhist	1	Survey	RL Bhide";
+LatitudeLongitude[773] = "18.733959	73.721306";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[774] = "18.844975	73.86837	Chandoli	Pune	Maharashtra	1957	Exploration	Chalcolithic	1	Survey	SB Deo";
+LatitudeLongitude[774] = "18.844975	73.86837";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[775] = "19.203184	73.87425	Junnar	Pune	Maharashtra	1957	Exploration	Early Historical	2	Deccan College	HD Sankalia";
+LatitudeLongitude[775] = "19.203184	73.87425";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[776] = "18.78264	74.295687	Karegaon	Pune	Maharashtra	1957	Exploration	Chalcolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[776] = "18.78264	74.295687";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[777] = "18.542093	73.8816	Bund Garden	Pune	Maharashtra	1957	Exploration	Paleolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[777] = "18.542093	73.8816";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[778] = "18.752416	73.86346	Shikarpur	Pune	Maharashtra	1957	Exploration		2	Deccan College	HD Sankalia";
+LatitudeLongitude[778] = "18.752416	73.86346";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[779] = "19.240331	73.130539	Kalyan	Thane	Maharashtra	1957	Exploration	Early Historical	1	Survey	MN Deshpande";
+LatitudeLongitude[779] = "19.240331	73.130539";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[780] = "28.613939	77.209021	Delhi	Delhi	Delhi	1957	Exploration	Medieval	1	Survey	Rameshwar Dayal";
+LatitudeLongitude[780] = "28.613939	77.209021";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[781] = "26.193891	78.944381	Lahar	Bhind	Madhya Pradesh	1957	Exploration	Early Historical	1	Survey	JP Srivastava";
+LatitudeLongitude[781] = "26.193891	78.944381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[782] = "22.607435	75.320811	Prakash	Dhar	Madhya Pradesh	1957	Exploration	Protohistoric	1	Survey	RB Narain";
+LatitudeLongitude[782] = "22.607435	75.320811";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[783] = "22.697113	75.195029	Kanwan	Dhar	Madhya Pradesh	1957	Exploration	Protohistoric	1	Survey	RB Narain";
+LatitudeLongitude[783] = "22.697113	75.195029";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[784] = "22.75	75.416667	Kesur	Dhar	Madhya Pradesh	1957	Exploration	Protohistoric	1	Survey	RB Narain";
+LatitudeLongitude[784] = "22.75	75.416667";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[785] = "22.715125	75.917432	Bichauli Tekri	Indore	Madhya Pradesh	1957	Exploration	?	1	Survey	RB Narain";
+LatitudeLongitude[785] = "22.715125	75.917432";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[786] = "22.503089	75.807019	Patalpani	Indore	Madhya Pradesh	1957	Exploration	?	1	Survey	RB Narain";
+LatitudeLongitude[786] = "22.503089	75.807019";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[787] = "22.452601	75.941969	Choral	Indore	Madhya Pradesh	1957	Exploration	?	1	Survey	RB Narain";
+LatitudeLongitude[787] = "22.452601	75.941969";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[788] = "23.181467	79.986407	Hantala	Jabalpur	Madhya Pradesh	1957	Exploration	?	1	Survey	CB Trivedi";
+LatitudeLongitude[788] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[789] = "23.181467	79.986407	Dongaria Rajaram	Jabalpur	Madhya Pradesh	1957	Exploration	?	1	Survey	CB Trivedi";
+LatitudeLongitude[789] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[790] = "23.181467	79.986407	Dabkia	Jabalpur	Madhya Pradesh	1957	Exploration	?	1	Survey	CB Trivedi";
+LatitudeLongitude[790] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[791] = "23.345352	80.296239	Sahajpuri	Jabalpur	Madhya Pradesh	1957	Exploration	?	1	Survey	CB Trivedi";
+LatitudeLongitude[791] = "23.345352	80.296239";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[792] = "23.14302	79.84648	Tewar	Jabalpur	Madhya Pradesh	1957	Exploration	Early Historical	1	Survey	CB Trivedi";
+LatitudeLongitude[792] = "23.14302	79.84648";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[793] = "24.201723	75.457299	Awara	Mandasor	Madhya Pradesh	1957	Exploration	Chalcolithic	1	Survey	BK Thapar";
+LatitudeLongitude[793] = "24.201723	75.457299";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[794] = "21.833524	75.614989	Kodri	Khargone	Madhya Pradesh	1957	Exploration	?	1	Survey	C Krishna";
+LatitudeLongitude[794] = "21.833524	75.614989";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[795] = "21.252626	76.18417	Ner	Burhanpur	Madhya Pradesh	1957	Exploration	?	1	Survey	C Krishna";
+LatitudeLongitude[795] = "21.252626	76.18417";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[796] = "21.833524	75.614989	Raverkhedi	Khargone	Madhya Pradesh	1957	Exploration		1	Survey	BB Lal";
+LatitudeLongitude[796] = "21.833524	75.614989";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[797] = "23.259933	77.412615	Bhopal	Sehore	Madhya Pradesh	1957	Exploration		1	Survey";
+LatitudeLongitude[797] = "23.259933	77.412615";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[798] = "12.710526	77.691129	Anekal	Bangalore	Karnataka	1957	Exploration	Early Historical	1	Survey	M Seshadri";
+LatitudeLongitude[798] = "12.710526	77.691129";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[799] = "15.948818	75.816352	Pattadakal	Bagalkot	Karnataka	1957	Exploration	Palaeolithic	1	Survey	MN Deshpande";
+LatitudeLongitude[799] = "15.948818	75.816352";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[800] = "27.656761	77.269002	Kaman	Bharatpur	Rajasthan	1957	Exploration	PGW	1	Survey	DP Agarwala";
+LatitudeLongitude[800] = "27.656761	77.269002";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[801] = "25.213816	75.864753	Kakoni	Kota	Rajasthan	1957	Exploration	?	1	Survey	BK Thapar";
+LatitudeLongitude[801] = "25.213816	75.864753";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[802] = "27.094529	77.667929	Fatehpur Sikri	Agra	Uttar Pradesh	1957	Exploration	Early Historical	1	Survey	SC Chandra";
+LatitudeLongitude[802] = "27.094529	77.667929";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[803] = "29.231043	78.483009	Daulatabad	Bijnor	Uttar Pradesh	1957	Exploration	PGW	1	Survey	SC Chandra";
+LatitudeLongitude[803] = "29.231043	78.483009";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[804] = "29.635916	78.384934	Samipur	Bijnor	Uttar Pradesh	1957	Exploration	PGW	1	Survey	SC Chandra";
+LatitudeLongitude[804] = "29.635916	78.384934";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[805] = "27.851759	78.648562	Nokhas	Etah	Uttar Pradesh	1957	Exploration	Medieval	1	Survey	SC Chandra";
+LatitudeLongitude[805] = "27.851759	78.648562";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[806] = "27.558751	78.662567	Nokhera	Etah	Uttar Pradesh	1957	Exploration	Medieval	1	Survey	SC Chandra";
+LatitudeLongitude[806] = "27.558751	78.662567";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[807] = "27.382613	79.594054	Bahua	Farrukhabad	Uttar Pradesh	1957	Exploration	NBPW	1	Survey	SC Chandra";
+LatitudeLongitude[807] = "27.382613	79.594054";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[808] = "27.382613	79.594054	Pama	Farrukhabad	Uttar Pradesh	1957	Exploration	NBPW	1	Survey	SC Chandra";
+LatitudeLongitude[808] = "27.382613	79.594054";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[809] = "26.449923	80.331874	Ujhan	Kanpur	Uttar Pradesh	1957	Exploration	NBPW	1	Survey	SC Chandra";
+LatitudeLongitude[809] = "26.449923	80.331874";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[810] = "26.449923	80.331874	Umaragarh	Kanpur	Uttar Pradesh	1957	Exploration	NBPW	1	Survey	SC Chandra";
+LatitudeLongitude[810] = "26.449923	80.331874";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[811] = "22.94851	86.74038	Chiadah	Bankura	West Bengal	1957	Exploration	Neolithic	1	Survey	D. Mitra";
+LatitudeLongitude[811] = "22.94851	86.74038";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[812] = "23.145283	88.027749	Sanchra	Burdwan	West Bengal	1957	Exploration	Medieval	1	Survey	Gour Mohan Ganguly";
+LatitudeLongitude[812] = "23.145283	88.027749";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[813] = "22.628771	87.698786	Panna	Midnapore	West Bengal	1957	Exploration	Medieval	1	Survey	Gour Mohan Ganguly";
+LatitudeLongitude[813] = "22.628771	87.698786";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[814] = "21.885661	87.309068	Contai	Midnapore	West Bengal	1957	Exploration	Medieval	1	Survey	Gour Mohan Ganguly";
+LatitudeLongitude[814] = "21.885661	87.309068";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[815] = "22.246378	87.9256	Byabetterhat	Midnapore	West Bengal	1957	Exploration	Medieval	1	Survey	Gour Mohan Ganguly";
+LatitudeLongitude[815] = "22.246378	87.9256";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[816] = "22.607084	88.688018	Atghara	24 Parganas	West Bengal	1957	Exploration	Medieval	1	Survey	PG Dasgupta";
+LatitudeLongitude[816] = "22.607084	88.688018";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[817] = "22.678213	88.693067	Chandraketugarh	24 Parganas	West Bengal	1957	Exploration	Medieval	1	Survey	P Shome";
+LatitudeLongitude[817] = "22.678213	88.693067";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[818] = "22.223711	88.460978	Harinarayanpur	24 Parganas	West Bengal	1957	Exploration	Medieval	1	Survey	PC Dasgupta";
+LatitudeLongitude[818] = "22.223711	88.460978";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[819] = "22.569244	88.916622	Baral	24 Parganas	West Bengal	1957	Exploration	Medieval	1	Survey	PC Dasgupta";
+LatitudeLongitude[819] = "22.569244	88.916622";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[820] = "16.572983	80.357513	Amaravati	Guntur	Andhra Pradesh	1958	Excavation	NBPW	1	Survey	Krishna Murty";
+LatitudeLongitude[820] = "16.572983	80.357513";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[821] = "16.52249	79.240886	Nagarjunakonda	Guntur	Andhra Pradesh	1958	Excavation	Prehistoric	1	Survey	R. Subrahmanyam";
+LatitudeLongitude[821] = "16.52249	79.240886";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[822] = "16.013978	78.974072	Nallamala Hills	Kurnool	Andhra Pradesh	1958	Exploration	Stone Age	2	Deccan College	N Isaac";
+LatitudeLongitude[822] = "16.013978	78.974072";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[823] = "15.632223	77.272837	Hattibellagallu	Adoni	Andhra Pradesh	1958	Exploration	Prehistoric	1	Survey	B Raja Rao";
+LatitudeLongitude[823] = "15.632223	77.272837";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[824] = "15.735905	77.24452	Kuppagallu	Adoni	Andhra Pradesh	1958	Exploration	Prehistoric	1	Survey	B Raja Rao";
+LatitudeLongitude[824] = "15.735905	77.24452";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[825] = "17.6753651	77.5959419	Appareddipalli	Medak	Andhra Pradesh	1958	Exploration	Prehistoric	1	Survey	AV Narasimhamurty";
+LatitudeLongitude[825] = "17.6753651	77.5959419";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[826] = "17.701496	77.53328	Satwar	Medak	Andhra Pradesh	1958	Exploration	Prehistoric	1	Survey	AV Narasimhamurty";
+LatitudeLongitude[826] = "17.701496	77.53328";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[827] = "17.62837	78.157868	Ismailkhanpet	Medak	Andhra Pradesh	1958	Exploration	Prehistoric	1	Survey	AV Narasimhamurty";
+LatitudeLongitude[827] = "17.62837	78.157868";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[828] = "19.371804	78.778789	Utnoor	Mahbubnagar	Andhra Pradesh	1958	Excavation	Prehistoric	3	Government of AP	P Sreenivasachar";
+LatitudeLongitude[828] = "19.371804	78.778789";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[829] = "26.003818	85.081783	Vaisali	Muzaffarpur	Bihar	1958	Excavation	Sunga	2	KP Jayaswal Research Institute	AS Altekar";
+LatitudeLongitude[829] = "26.003818	85.081783";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[830] = "25.596956	85.18411	Rajgir	Patna	Bihar	1958	Excavation	Historical	1	Survey	KC Panigrahi";
+LatitudeLongitude[830] = "25.596956	85.18411";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[831] = "22.553712	72.223735	Lothal	Ahmedabad	Gujarat	1958	Excavation	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[831] = "22.553712	72.223735";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[832] = "19.42965	74.6718102	Tandulwadi	Ahmednagar	Maharashtra	1958	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[832] = "19.42965	74.6718102";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[833] = "19.282998	75.073526	Khurd	Ahmednagar	Maharashtra	1958	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[833] = "19.282998	75.073526";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[834] = "19.4590306	74.6937276	Musalewadi	Ahmednagar	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[834] = "19.4590306	74.6937276";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[835] = "19.2417255	74.671347	Dehre	Ahmednagar	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[835] = "19.2417255	74.671347";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[836] = "19.3777951	74.6454851	Rahuri Budruk	Ahmednagar	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[836] = "19.3777951	74.6454851";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[837] = "19.4094098	74.6643302	Deswandi	Ahmednagar	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[837] = "19.4094098	74.6643302";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[838] = "19.3992745	74.6881604	Shilegaon	Ahmednagar	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[838] = "19.3992745	74.6881604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[839] = "19.4283707	74.692397	Aaradgaon	Ahmednagar	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[839] = "19.4283707	74.692397";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[840] = "19.3510046	74.6638154	Sade	Ahmednagar	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[840] = "19.3510046	74.6638154";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[841] = "19.4205796	74.7039003	Kendal Budruk	Ahmednagar	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[841] = "19.4205796	74.7039003";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[842] = "19.2888333	74.7274062	Vambori	Ahmednagar	Maharashtra	1958	Exploration	Early Historical	1	Survey	BP Bopardikar";
+LatitudeLongitude[842] = "19.2888333	74.7274062";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[843] = "19.363617	74.933752	Nagaram	Chanda	Maharashtra	1958	Exploration	Prehistoric	1	Survey	LK Srinivasan";
+LatitudeLongitude[843] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[844] = "19.363617	74.933752	Sironcha	Chanda	Maharashtra	1958	Exploration	Prehistoric	1	Survey	LK Srinivasan";
+LatitudeLongitude[844] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[845] = "19.363617	74.933752	Chakalpet	Chanda	Maharashtra	1958	Exploration	Prehistoric	1	Survey	LK Srinivasan";
+LatitudeLongitude[845] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[846] = "19.363617	74.933752	Amgaon	Chanda	Maharashtra	1958	Exploration	Prehistoric	1	Survey	LK Srinivasan";
+LatitudeLongitude[846] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[847] = "19.363617	74.933752	Junona	Chanda	Maharashtra	1958	Exploration	Prehistoric	1	Survey	LK Srinivasan";
+LatitudeLongitude[847] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[848] = "24.597349	76.160984	Kotada	Jhalawar	Rajasthan	1958	Exploration	Prehistoric	1	Survey	SR Rao";
+LatitudeLongitude[848] = "24.597349	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[849] = "24.597349	76.160984	Rangpur	Jhalawar	Rajasthan	1958	Exploration	Prehistoric	1	Survey	SR Rao";
+LatitudeLongitude[849] = "24.597349	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[850] = "24.597349	76.160984	Thoriali	Jhalawar	Rajasthan	1958	Exploration	Prehistoric	1	Survey	SR Rao";
+LatitudeLongitude[850] = "24.597349	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[851] = "22.303895	70.80216	Rojdi	Rajkot	Gujarat	1958	Excavation	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[851] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[852] = "22.303895	70.80216	Randal Dadwa	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[852] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[853] = "22.303895	70.80216	Bodiyo	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[853] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[854] = "22.303895	70.80216	Dhankanio-2	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[854] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[855] = "22.303895	70.80216	Dhutar-pur	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[855] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[856] = "22.303895	70.80216	Dumiani	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[856] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[857] = "22.303895	70.80216	Ghorwada	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[857] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[858] = "22.839036	70.644241	Kerali	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[858] = "22.839036	70.644241";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[859] = "22.303895	70.80216	Lukhela	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[859] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[860] = "22.303895	70.80216	Ran-daliyo	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[860] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[861] = "22.372054	70.691839	Taraghada	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[861] = "22.372054	70.691839";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[862] = "22.303895	70.80216	Tetariyo	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[862] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[863] = "21.784551	70.753273	Vadasada	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[863] = "21.784551	70.753273";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[864] = "21.794597	70.482613	Vegadi	Rajkot	Gujarat	1958	Exploration	Harappan	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[864] = "21.794597	70.482613";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[865] = "22.083178	70.816455	Ardoi	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[865] = "22.083178	70.816455";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[866] = "22.303895	70.80216	Devalka	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[866] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[867] = "22.303895	70.80216	Gadhiyo	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[867] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[868] = "22.303895	70.80216	Gardo	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[868] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[869] = "22.303895	70.80216	Goriya	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[869] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[870] = "22.303895	70.80216	Gundai-ni-dhar	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[870] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[871] = "22.303895	70.80216	Hanuman-valo	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[871] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[872] = "22.230665	70.817941	Kotharia	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[872] = "22.230665	70.817941";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[873] = "22.303895	70.80216	Madhi	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[873] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[874] = "22.303895	70.80216	Mochiwadar	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[874] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[875] = "22.094787	70.774641	Pipalia	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[875] = "22.094787	70.774641";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[876] = "22.303895	70.80216	Rajkot	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[876] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[877] = "21.658613	70.068178	Roghada	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[877] = "21.658613	70.068178";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[878] = "22.511818	71.129998	Satapar	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[878] = "22.511818	71.129998";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[879] = "22.303895	70.80216	Simoi	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[879] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[880] = "22.013305	70.913068	Vadia	Rajkot	Gujarat	1958	Exploration	Early Historical	3	Government of Bombay	PP Pandya";
+LatitudeLongitude[880] = "22.013305	70.913068";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[881] = "21.1458	79.088155	Mahajari	Nagpur	Maharashtra	1958	Exploration	Megalithic	1	Survey	NR Banerjee";
+LatitudeLongitude[881] = "21.1458	79.088155";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[882] = "20.90422	74.774898	Ubvjpur	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[882] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[883] = "20.90422	74.774898	Chopte	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[883] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[884] = "20.90422	74.774898	Gangta	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[884] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[885] = "20.90422	74.774898	Uddamgadh	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[885] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[886] = "20.90422	74.774898	Lekurvali	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[886] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[887] = "20.90422	74.774898	Kuxurmunda	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[887] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[888] = "19.706908	74.480392	Pimplas	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[888] = "19.706908	74.480392";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[889] = "20.90422	74.774898	Ashrava	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[889] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[890] = "20.90422	74.774898	Kothu	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[890] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[891] = "20.90422	74.774898	Hatoda	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[891] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[892] = "20.90422	74.774898	Bahurupa	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[892] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[893] = "20.90422	74.774898	Satola	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[893] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[894] = "20.903098	74.750092	Prakash	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[894] = "20.903098	74.750092";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[895] = "21.421554	74.426915	Koparli	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[895] = "21.421554	74.426915";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[896] = "20.90422	74.774898	Amlotha	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[896] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[897] = "21.229424	74.969828	Bhortek	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[897] = "21.229424	74.969828";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[898] = "20.90422	74.774898	Mariado	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[898] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[899] = "20.891531	74.786244	Harat	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[899] = "20.891531	74.786244";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[900] = "19.75416	74.476884	Sita Nagar	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[900] = "19.75416	74.476884";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[901] = "20.90422	74.774898	Naraginghgarh	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[901] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[902] = "20.90422	74.774898	Aglana	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[902] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[903] = "20.90422	74.774898	Ghogra	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[903] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[904] = "20.90422	74.774898	Garha Kota	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[904] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[905] = "20.90422	74.774898	Rehli	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[905] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[906] = "20.90422	74.774898	Gorwasa	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[906] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[907] = "20.924757	74.757813	Kethuri	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[907] = "20.924757	74.757813";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[908] = "20.90422	74.774898	Korwai	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[908] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[909] = "20.90422	74.774898	Gamakar	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[909] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[910] = "20.90422	74.774898	Khejuri	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[910] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[911] = "20.90422	74.774898	Pagnesar	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[911] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[912] = "20.90422	74.774898	Gaisabad	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[912] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[913] = "20.895136	74.744236	Tardehi	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[913] = "20.895136	74.744236";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[914] = "20.90422	74.774898	Bangaon	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[914] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[915] = "20.90422	74.774898	Piparia	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[915] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[916] = "20.90422	74.774898	Bihcupur	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[916] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[917] = "20.90422	74.774898	Piparia Maria	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[917] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[918] = "20.90422	74.774898	Basa	Dhule	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	RV Joshi";
+LatitudeLongitude[918] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[919] = "28.528824	77.180868	Lal-kot	Delhi	Delhi	1958	Excavation	Historical	1	Survey	YD Sharma";
+LatitudeLongitude[919] = "28.528824	77.180868";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[920] = "31.342943	76.762507	Haritalyngar	Bilaspur	Himachal Pradesh	1958	Exploration	Prehistoric	1	Survey	 AP Khatri";
+LatitudeLongitude[920] = "31.342943	76.762507";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[921] = "23.067753	79.41975	Rehli	Damoh	Madhya Pradesh	1958	Exploration	Paleolithic	1	Survey	RV Joshi";
+LatitudeLongitude[921] = "23.067753	79.41975";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[922] = "24.014558	79.171784	Ghogra	Damoh	Madhya Pradesh	1958	Exploration	Paleolithic	1	Survey	RV Joshi";
+LatitudeLongitude[922] = "24.014558	79.171784";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[923] = "25.3191006	78.6962523	Betwa	Bhilsa	Madhya Pradesh	1958	Exploration	Paleolithic	1	Survey	RV Joshi";
+LatitudeLongitude[923] = "25.3191006	78.6962523";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[924] = "17.7481601	83.21979968	Barehat	Bhind	Madhya Pradesh	1958	Exploration	NBPW	1	Survey	MP Shrivastava";
+LatitudeLongitude[924] = "17.7481601	83.21979968";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[925] = "25.998879	78.873649	Daboh	Bhind	Madhya Pradesh	1958	Exploration	NBPW	1	Survey	MP Shrivastava";
+LatitudeLongitude[925] = "25.998879	78.873649";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[926] = "26.169829	78.911013	Jamuha	Bhind	Madhya Pradesh	1958	Exploration	NBPW	1	Survey	MP Shrivastava";
+LatitudeLongitude[926] = "26.169829	78.911013";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[927] = "26.122204	78.903363	Kaitha	Bhind	Madhya Pradesh	1958	Exploration	NBPW	1	Survey	MP Shrivastava";
+LatitudeLongitude[927] = "26.122204	78.903363";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[928] = "26.362815	78.794369	Mehara-Buzurg	Bhind	Madhya Pradesh	1958	Exploration	NBPW	1	Survey	MP Shrivastava";
+LatitudeLongitude[928] = "26.362815	78.794369";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[929] = "26.090502	78.795786	Sirsa	Bhind	Madhya Pradesh	1958	Exploration	NBPW	1	Survey	MP Shrivastava";
+LatitudeLongitude[929] = "26.090502	78.795786";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[930] = "26.558735	78.787288	Barata	Bhind	Madhya Pradesh	1958	Exploration	NBPW	1	Survey	MP Shrivastava";
+LatitudeLongitude[930] = "26.558735	78.787288";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[931] = "26.019546	78.858082	Rur	Bhind	Madhya Pradesh	1958	Exploration	?	1	Survey	MP Shrivastava";
+LatitudeLongitude[931] = "26.019546	78.858082";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[932] = "22.744108	77.736967	Ajhera	Hoshangabad	Madhya Pradesh	1958	Exploration		1	Survey	AP Khatri";
+LatitudeLongitude[932] = "22.744108	77.736967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[933] = "22.864984	78.219132	Bhatgaon	Hoshangabad	Madhya Pradesh	1958	Exploration		1	Survey	AP Khatri";
+LatitudeLongitude[933] = "22.864984	78.219132";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[934] = "22.744108	77.736967	Tugaria	Hoshangabad	Madhya Pradesh	1958	Exploration		1	Survey	AP Khatri";
+LatitudeLongitude[934] = "22.744108	77.736967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[935] = "22.470606	75.654266	Janapv	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[935] = "22.470606	75.654266";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[936] = "22.452601	75.941969	Choral	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[936] = "22.452601	75.941969";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[937] = "22.719569	75.857726	Hatyarakoh	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[937] = "22.719569	75.857726";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[938] = "22.719569	75.857726	Keoreswar	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[938] = "22.719569	75.857726";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[939] = "22.719569	75.857726	Hingwania	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[939] = "22.719569	75.857726";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[940] = "22.448825	75.719704	Tinchha	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[940] = "22.448825	75.719704";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[941] = "22.719569	75.857726	Kanaria	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[941] = "22.719569	75.857726";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[942] = "22.719569	75.857726	Marod	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[942] = "22.719569	75.857726";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[943] = "22.627259	76.079076	Undel	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[943] = "22.627259	76.079076";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[944] = "22.719569	75.857726	Khagaria	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[944] = "22.719569	75.857726";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[945] = "22.792834	75.738603	Hatod	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[945] = "22.792834	75.738603";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[946] = "23.08539	75.928905	Narwar	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[946] = "23.08539	75.928905";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[947] = "22.802617	75.976803	Panod	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[947] = "22.802617	75.976803";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[948] = "22.70027	76.088501	Arandya	Indore	Madhya Pradesh	1958	Exploration		1	Survey	RB Narain";
+LatitudeLongitude[948] = "22.70027	76.088501";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[949] = "23.224364	80.246072	Negai	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[949] = "23.224364	80.246072";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[950] = "23.122413	80.312954	Kashtara	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[950] = "23.122413	80.312954";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[951] = "23.138377	80.285093	Jamgaon	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[951] = "23.138377	80.285093";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[952] = "23.181467	79.986407	Kundan	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[952] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[953] = "23.152918	80.329666	Dargarh	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[953] = "23.152918	80.329666";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[954] = "23.181467	79.986407	Lakhanvara	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[954] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[955] = "23.22981	80.42987	Supawara	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[955] = "23.22981	80.42987";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[956] = "23.265459	80.482707	Chhirpani	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[956] = "23.265459	80.482707";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[957] = "23.191996	80.438215	Sarangpur	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[957] = "23.191996	80.438215";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[958] = "23.128633	80.560511	Bisanpura	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[958] = "23.128633	80.560511";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[959] = "23.181467	79.986407	Saroli	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[959] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[960] = "23.208938	80.474367	Chaurai Kalan	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[960] = "23.208938	80.474367";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[961] = "23.216184	80.496606	Chaurai Khurd	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[961] = "23.216184	80.496606";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[962] = "23.169241	80.26001	Doonda	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[962] = "23.169241	80.26001";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[963] = "23.181467	79.986407	Marai Kalan	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[963] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[964] = "23.181467	79.986407	Marai Khurd	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[964] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[965] = "23.107832	79.780638	Sakri	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[965] = "23.107832	79.780638";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[966] = "23.147944	80.440997	Chhita Khudri	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[966] = "23.147944	80.440997";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[967] = "23.181467	79.986407	Kahnwara	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[967] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[968] = "23.347642	79.734379	Sakra	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[968] = "23.347642	79.734379";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[969] = "23.181467	79.986407	Tamer	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[969] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[970] = "23.181467	79.986407	Rima	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[970] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[971] = "23.156405	80.290666	Amera	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[971] = "23.156405	80.290666";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[972] = "23.13489	80.324096	Rampuri Kalan	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[972] = "23.13489	80.324096";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[973] = "23.122413	80.312954	Kashtara	Jabalpur	Madhya Pradesh	1958	Exploration		1	Survey	CB Trivedi";
+LatitudeLongitude[973] = "23.122413	80.312954";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[974] = "24.497677	75.495481	Jalod	Mandasor	Madhya Pradesh	1958	Exploration		3	Government of Madhya Pradesh	HV Trivedi";
+LatitudeLongitude[974] = "24.497677	75.495481";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[975] = "24.076836	75.069295	Shankhudhar	Mandasor	Madhya Pradesh	1958	Exploration		3	Government of Madhya Pradesh	HV Trivedi";
+LatitudeLongitude[975] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[976] = "24.478	75.638266	Modi	Mandasor	Madhya Pradesh	1958	Excavation		3	Government of Madhya Pradesh	HV Trivedi";
+LatitudeLongitude[976] = "24.478	75.638266";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[977] = "24.076836	75.069295	Kedareswar	Mandasor	Madhya Pradesh	1958	Exploration		3	Government of Madhya Pradesh	HV Trivedi";
+LatitudeLongitude[977] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[978] = "24.718522	75.783659	Hinglajgarh	Mandasor	Madhya Pradesh	1958	Exploration		3	Government of Madhya Pradesh	HV Trivedi";
+LatitudeLongitude[978] = "24.718522	75.783659";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[979] = "24.076836	75.069295	Indragarh	Mandasor	Madhya Pradesh	1958	Excavation		3	Government of Madhya Pradesh	HV Trivedi";
+LatitudeLongitude[979] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[980] = "24.076836	75.069295	Sitakhardi	Mandasor	Madhya Pradesh	1958	Exploration		3	Government of Madhya Pradesh	HV Trivedi";
+LatitudeLongitude[980] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[981] = "24.422165	75.437363	Manoti	Mandasor	Madhya Pradesh	1958	Exploration		3	Government of Madhya Pradesh	HV Trivedi";
+LatitudeLongitude[981] = "24.422165	75.437363";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[982] = "24.076836	75.069295	Shankhudhar	Mandasor	Madhya Pradesh	1958	Exploration		3	Government of Madhya Pradesh	HV Trivedi";
+LatitudeLongitude[982] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[983] = "21.825733	76.352571	Ghandwa	Khandwa	Madhya Pradesh	1958	Exploration		1	Survey	C Krishna";
+LatitudeLongitude[983] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[984] = "22.077181	76.479444	Mundi	Khandwa	Madhya Pradesh	1958	Exploration		1	Survey	C Krishna";
+LatitudeLongitude[984] = "22.077181	76.479444";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[985] = "21.825733	76.352571	Richpal	Khandwa	Madhya Pradesh	1958	Exploration		1	Survey	C Krishna";
+LatitudeLongitude[985] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[986] = "21.825733	76.352571	Kamri	Khandwa	Madhya Pradesh	1958	Exploration		1	Survey	C Krishna";
+LatitudeLongitude[986] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[987] = "22.388109	76.35794	Ratanpur	Khandwa	Madhya Pradesh	1958	Exploration		1	Survey	C Krishna";
+LatitudeLongitude[987] = "22.388109	76.35794";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[988] = "21.825733	76.352571	Lakkangaon	Khandwa	Madhya Pradesh	1958	Exploration		1	Survey	C Krishna";
+LatitudeLongitude[988] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[989] = "21.825733	76.352571	Nandhkheda	Khandwa	Madhya Pradesh	1958	Exploration		1	Survey	C Krishna";
+LatitudeLongitude[989] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[990] = "21.825733	76.352571	Mosai	Khandwa	Madhya Pradesh	1958	Exploration		1	Survey	C Krishna";
+LatitudeLongitude[990] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[991] = "22.028718	76.285563	Kirgaon	Khandwa	Madhya Pradesh	1958	Exploration		1	Survey	C Krishna";
+LatitudeLongitude[991] = "22.028718	76.285563";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[992] = "22.119526	76.496792	Hardi	Khandwa	Madhya Pradesh	1958	Exploration		1	Survey	C Krishna";
+LatitudeLongitude[992] = "22.119526	76.496792";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[993] = "22.177285	75.582978	Maheswar	Khargone	Madhya Pradesh	1958	Exploration		2	Deccan College	HD Sankalia";
+LatitudeLongitude[993] = "22.177285	75.582978";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[994] = "21.833524	75.614989	Navdatoli	Khargone	Madhya Pradesh	1958	Excavation	Harappan	2	Deccan College	HD Sankalia";
+LatitudeLongitude[994] = "21.833524	75.614989";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[995] = "9.839568	77.8696	Tangalacheri	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[995] = "9.839568	77.8696";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[996] = "9.739625	77.983858	Sivarakkottai	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[996] = "9.739625	77.983858";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[997] = "9.838941	77.739486	Tirumanikkam	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[997] = "9.838941	77.739486";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[998] = "9.802384	77.958874	Alampatti	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[998] = "9.802384	77.958874";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[999] = "9.721362	77.855309	T. Kallupatti	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[999] = "9.721362	77.855309";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1000] = "10.01157	77.97739	Prayer	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1000] = "10.01157	77.97739";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1001] = "9.770583	77.921388	Gopalapuram	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1001] = "9.770583	77.921388";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1002] = "9.829907	77.670435	Mallapuram	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1002] = "9.829907	77.670435";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1003] = "9.925201	78.119775	Sangappadai	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1003] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1004] = "9.798882	77.842446	Madippanur	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1004] = "9.798882	77.842446";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1005] = "10.028074	78.085517	Kottaimedu	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1005] = "10.028074	78.085517";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1006] = "9.925201	78.119775	Amattiapatti	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1006] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1007] = "9.925201	78.119775	Periakattalai	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1007] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1008] = "9.779075	77.730186	Vandari	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1008] = "9.779075	77.730186";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1009] = "11.574794	78.143705	Parapatti	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1009] = "11.574794	78.143705";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1010] = "9.658283	77.888175	Velambur	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1010] = "9.658283	77.888175";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1011] = "10.006103	78.238715	Perumalpatti	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1011] = "10.006103	78.238715";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1012] = "9.925201	78.119775	Mattakari	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1012] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1013] = "9.696697	77.954836	Kalligudi	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1013] = "9.696697	77.954836";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1014] = "9.803317	77.941918	Tirali	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	KV Raman";
+LatitudeLongitude[1014] = "9.803317	77.941918";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1015] = "17.392295	75.882442	Chanegaon	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1015] = "17.392295	75.882442";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1016] = "17.333986	75.90023	Hingni	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1016] = "17.333986	75.90023";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1017] = "17.23832	76.074	Bhuyar	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1017] = "17.23832	76.074";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1018] = "16.830171	75.710031	Chikmannur	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1018] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1019] = "17.348754	75.879538	Anachi	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1019] = "17.348754	75.879538";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1020] = "17.433216	75.649903	Umraj	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1020] = "17.433216	75.649903";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1021] = "17.237667	76.1059	Nagarhalli	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1021] = "17.237667	76.1059";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1022] = "16.830171	75.710031	Hathalli	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1022] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1023] = "16.830171	75.710031	Nivalkhodi	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1023] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1024] = "16.859048	76.148864	Kannoli	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1024] = "16.859048	76.148864";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1025] = "16.830171	75.710031	Othikal	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1025] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1026] = "16.785778	76.115096	Mannur	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1026] = "16.785778	76.115096";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1027] = "16.771172	76.079801	Devur	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1027] = "16.771172	76.079801";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1028] = "16.830171	75.710031	Bhudihaldon	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1028] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1029] = "16.830171	75.710031	Hondguli	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1029] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1030] = "16.826566	75.718187	Madbhal	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1030] = "16.826566	75.718187";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1031] = "16.830171	75.710031	Antargaugi	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1031] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1032] = "16.830171	75.710031	Jalpuri	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1032] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1033] = "16.830171	75.710031	Marihal	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1033] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1034] = "16.519183	76.103001	Byakod	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1034] = "16.519183	76.103001";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1035] = "16.830171	75.710031	Gubewad	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1035] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1036] = "16.816842	76.242119	Borgi	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1036] = "16.816842	76.242119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1037] = "16.830171	75.710031	Hathahalli	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1037] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1038] = "16.830171	75.710031	Musalwadi	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1038] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1039] = "16.830171	75.710031	Yarual	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1039] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1040] = "16.814769	76.063848	Hippargi	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1040] = "16.814769	76.063848";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1041] = "16.830171	75.710031	Kauroli	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1041] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1042] = "16.830171	75.710031	Vaskannalli	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1042] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1043] = "16.830171	75.710031	Chikallapur	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1043] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1044] = "16.740753	76.311624	Yalgod	Bijapur	Karnataka	1958	Exploration	Prehistoric	1	Survey	A Sundara";
+LatitudeLongitude[1044] = "16.740753	76.311624";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1045] = "14.960692	75.405337	Jallapur	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1045] = "14.960692	75.405337";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1046] = "15.458924	75.007808	Channur	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1046] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1047] = "15.458924	75.007808	Mannur	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1047] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1048] = "15.458924	75.007808	Tallihalli	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1048] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1049] = "15.458924	75.007808	Kadarmandalgi	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1049] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1050] = "15.458924	75.007808	Tadao	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1050] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1051] = "15.054167	75.299672	Madapur	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1051] = "15.054167	75.299672";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1052] = "15.458924	75.007808	Bidarkatti	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1052] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1053] = "15.458924	75.007808	Sidenur	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1053] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1054] = "15.458924	75.007808	Chinnikatti	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1054] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1055] = "15.458924	75.007808	Kerwadi	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1055] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1056] = "15.458924	75.007808	Udagatti	Dharwar	Karnataka	1958	Exploration	Prehistoric	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1056] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1057] = "15.458924	75.007808	Handignur	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1057] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1058] = "15.458924	75.007808	Sangur	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1058] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1059] = "15.458924	75.007808	Hosritti	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1059] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1060] = "15.458924	75.007808	Haralhalli	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1060] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1061] = "15.458924	75.007808	Kanchargatti	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1061] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1062] = "15.458924	75.007808	Kolur	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1062] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1063] = "15.458924	75.007808	Narasipur	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1063] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1064] = "15.125801	75.12389	Tadas	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1064] = "15.125801	75.12389";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1065] = "15.345587	75.103089	Anur	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1065] = "15.345587	75.103089";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1066] = "15.458924	75.007808	Motibennur	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1066] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1067] = "15.458924	75.007808	Belkeri	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1067] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1068] = "15.392214	75.077346	Kummur	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1068] = "15.392214	75.077346";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1069] = "15.458924	75.007808	Honatti	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1069] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1070] = "15.002301	75.15016	Yattinhalli	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1070] = "15.002301	75.15016";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1071] = "15.458924	75.007808	Gudgur	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1071] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1072] = "15.458924	75.007808	Kudrihal	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1072] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1073] = "15.458924	75.007808	Hildahalli	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1073] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1074] = "15.529449	74.909916	Belur	Dharwar	Karnataka	1958	Exploration	Early Historical	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1074] = "15.529449	74.909916";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1075] = "13.737886	75.368909	Kaveri	Mysore	Karnataka	1958	Exploration	Prehistoric	1	Survey	C Krishnamurthi";
+LatitudeLongitude[1075] = "13.737886	75.368909";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1076] = "12.309318	76.689431	Kapila	Mysore	Karnataka	1958	Exploration	Prehistoric	1	Survey	C Krishnamurthi";
+LatitudeLongitude[1076] = "12.309318	76.689431";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1077] = "11.899774	77.715162	Kaveripuram	Mysore	Karnataka	1958	Exploration	Prehistoric	1	Survey	C Krishnamurthi";
+LatitudeLongitude[1077] = "11.899774	77.715162";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1078] = "12.3023	76.692345	T. Narasipur	Mysore	Karnataka	1958	Excavation	Prehistoric	3	Government of Mysore	M Seshadri";
+LatitudeLongitude[1078] = "12.3023	76.692345";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1079] = "20.655784	86.342746	Ratnagiri	Cuttack	Orissa	1958	Excavation	Early Historical	1	Survey	D Mitra";
+LatitudeLongitude[1079] = "20.655784	86.342746";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1080] = "20.667183	86.081631	Harichandanpur	Dhenkanal	Orissa	1958	Exploration	Prehistoric	1	Survey	D Mitra";
+LatitudeLongitude[1080] = "20.667183	86.081631";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1081] = "20.650346	85.597222	Kaniha	Dhenkanal	Orissa	1958	Exploration	Prehistoric	1	Survey	S. Ghosh";
+LatitudeLongitude[1081] = "20.650346	85.597222";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1082] = "22.064992	85.666605	Champua	Kendujhar	Orissa	1958	Exploration	Prehistoric	2	Deccan College	SC Mohapatra";
+LatitudeLongitude[1082] = "22.064992	85.666605";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1083] = "21.628933	85.581685	Ramla	Kendujhar	Orissa	1958	Exploration	Prehistoric	2	Deccan College	SC Mohapatra";
+LatitudeLongitude[1083] = "21.628933	85.581685";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1084] = "22.169653	86.603777	Kandalia	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	2	Deccan College	SC Mohapatra";
+LatitudeLongitude[1084] = "22.169653	86.603777";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1085] = "21.62883	85.899811	Patna	Kendujhar	Orissa	1958	Exploration	Prehistoric	2	Deccan College	SC Mohapatra";
+LatitudeLongitude[1085] = "21.62883	85.899811";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1086] = "21.152842	86.278069	Jagannathpur	Kendujhar	Orissa	1958	Exploration	Prehistoric	2	Deccan College	SC Mohapatra";
+LatitudeLongitude[1086] = "21.152842	86.278069";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1087] = "22.401522	86.083629	Bahalda	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	2	Deccan College	SC Mohapatra";
+LatitudeLongitude[1087] = "22.401522	86.083629";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1088] = "22.270932	86.170089	Rairangpur	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	2	Deccan College	SC Mohapatra";
+LatitudeLongitude[1088] = "22.270932	86.170089";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1089] = "21.628933	85.581685	Udaipur	Kendujhar	Orissa	1958	Exploration	Prehistoric	2	Deccan College	SC Mohapatra";
+LatitudeLongitude[1089] = "21.628933	85.581685";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1090] = "21.628933	85.581685	Ramla	Kendujhar	Orissa	1958	Exploration	Prehistoric	2	Deccan College	SC Mohapatra";
+LatitudeLongitude[1090] = "21.628933	85.581685";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1091] = "22.008698	86.418731	Baidyapur	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1091] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1092] = "22.011473	86.693839	Kuchai	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1092] = "22.011473	86.693839";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1093] = "22.008698	86.418731	Amsikra	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1093] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1094] = "22.008698	86.418731	Silipunji	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1094] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1095] = "21.623812	86.663627	Jaipur	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1095] = "21.623812	86.663627";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1096] = "22.008698	86.418731	Patwa	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1096] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1097] = "22.008698	86.418731	Bonaikala	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1097] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1098] = "22.008698	86.418731	Danguapasi	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1098] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1099] = "22.008698	86.418731	Chiadah	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1099] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1100] = "22.080632	86.236548	Bara Manda	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1100] = "22.080632	86.236548";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1101] = "22.008698	86.418731	Radiabindha	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1101] = "22.008698	86.418731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1102] = "21.797304	86.703906	Pratappur	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1102] = "21.797304	86.703906";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1103] = "21.807806	86.714934	Haripur	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1103] = "21.807806	86.714934";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1104] = "22.234978	86.035113	Madhupur	Mayurbhanj	Orissa	1958	Exploration	Prehistoric	1	Survey	Eastern Circle";
+LatitudeLongitude[1104] = "22.234978	86.035113";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1105] = "19.536164	85.246372	Udayagiri	Puri	Orissa	1958	Excavation	Early Historical	1	Survey	Eastern Circle";
+LatitudeLongitude[1105] = "19.536164	85.246372";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1106] = "31.514318	75.911483	Una Tahsil	Hoshiarpur	Punjab	1958	Exploration	Prehistoric	3	Council of Scientific and Industrial Research	AP Khatri";
+LatitudeLongitude[1106] = "31.514318	75.911483";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1107] = "26.001335	73.002153	Luni	Jodhpur	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1107] = "26.001335	73.002153";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1108] = "25.806656	73.331043	Singari	Marwar	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1108] = "25.806656	73.331043";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1109] = "25.806656	73.331043	Pali	Marwar	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1109] = "25.806656	73.331043";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1110] = "26.452812	74.383672	Govindgarh	Ajmer	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1110] = "26.452812	74.383672";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1111] = "25.188185	74.626868	Hamirgarh	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1111] = "25.188185	74.626868";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1112] = "25.321377	74.586953	Surubganj	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1112] = "25.321377	74.586953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1113] = "25.261647	74.638579	Mandpia	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1113] = "25.261647	74.638579";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1114] = "25.260062	75.01	Bigod	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1114] = "25.260062	75.01";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1115] = "25.624435	75.277072	Jahazpur	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1115] = "25.624435	75.277072";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1116] = "25.758218	75.381816	Deoli	Tonk	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1116] = "25.758218	75.381816";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1117] = "25.881975	75.556054	Banthali	Tonk	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1117] = "25.881975	75.556054";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1118] = "25.996103	75.679984	Mahuwa	Tonk	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1118] = "25.996103	75.679984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1119] = "26.16204	75.789472	Tonk	Tonk	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1119] = "26.16204	75.789472";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1120] = "24.891618	74.641795	Chitor	Chittorgarh	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1120] = "24.891618	74.641795";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1121] = "25.816373	72.583074	Samdari	Bharmer	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1121] = "25.816373	72.583074";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1122] = "26.039976	73.037576	Shikarpura	Jodhpur	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1122] = "26.039976	73.037576";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1123] = "26.22239	73.609466	Bhawi	Jodhpur	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1123] = "26.22239	73.609466";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1124] = "26.238947	73.024309	Pickak	Jodhpur	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1124] = "26.238947	73.024309";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1125] = "25.806656	73.331043	Bhandei	Marwar	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1125] = "25.806656	73.331043";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1126] = "25.806656	73.331043	Danawasni	Marwar	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1126] = "25.806656	73.331043";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1127] = "25.928089	73.659401	Sojet	Marwar	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1127] = "25.928089	73.659401";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1128] = "25.806656	73.331043	Dhaneri	Marwar	Rajasthan	1958	Exploration	Prehistoric	2	Deccan College	VN Misra";
+LatitudeLongitude[1128] = "25.806656	73.331043";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1129] = "26.987876	75.163294	Chosla	Ajmer	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1129] = "26.987876	75.163294";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1130] = "25.800067	75.326642	Khejri	Ajmer	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1130] = "25.800067	75.326642";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1131] = "25.807414	75.056004	Kadera	Ajmer	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1131] = "25.807414	75.056004";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1132] = "26.449895	74.639916	Samelia	Ajmer	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1132] = "26.449895	74.639916";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1133] = "25.293473	74.316221	Amli	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1133] = "25.293473	74.316221";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1134] = "25.651931	75.207064	Bihara	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1134] = "25.651931	75.207064";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1135] = "25.39756	74.900416	Kotri	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1135] = "25.39756	74.900416";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1136] = "25.644624	75.18976	Pander	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1136] = "25.644624	75.18976";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1137] = "25.902271	74.688128	Hurra	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1137] = "25.902271	74.688128";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1138] = "25.377706	75.099075	Jalkakhera	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1138] = "25.377706	75.099075";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1139] = "25.434833	74.664928	Lacchmipura	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1139] = "25.434833	74.664928";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1140] = "25.321377	74.586953	Sekarpura	Bhilwara	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1140] = "25.321377	74.586953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1141] = "26.912434	75.787271	Agtari	Jaipur	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1141] = "26.912434	75.787271";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1142] = "26.884478	75.812754	Gondi	Jaipur	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1142] = "26.884478	75.812754";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1143] = "26.103265	75.693532	Aminpura	Tonk	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1143] = "26.103265	75.693532";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1144] = "25.881975	75.556054	Banthali	Tonk	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1144] = "25.881975	75.556054";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1145] = "26.214956	75.626628	Naner	Tonk	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1145] = "26.214956	75.626628";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1146] = "26.16204	75.789472	Ram-kishanpur	Tonk	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1146] = "26.16204	75.789472";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1147] = "26.16204	75.789472	Baithola	Tonk	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1147] = "26.16204	75.789472";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1148] = "26.002056	75.664447	Bharni	Tonk	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1148] = "26.002056	75.664447";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1149] = "26.16204	75.789472	Chokri	Tonk	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1149] = "26.16204	75.789472";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1150] = "26.16204	75.789472	Sundela	Tonk	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1150] = "26.16204	75.789472";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1151] = "25.943146	75.827248	Deopura	Tonk	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1151] = "25.943146	75.827248";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1152] = "26.171098	75.649903	Lank	Tonk	Rajasthan	1958	Exploration	Prehistoric	1	Survey	Exploration Branch";
+LatitudeLongitude[1152] = "26.171098	75.649903";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1153] = "24.891618	74.641795	Chitor Fort	Chittorgarh	Rajasthan	1958	Excavation	Historical	1	Survey	Western Circle";
+LatitudeLongitude[1153] = "24.891618	74.641795";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1154] = "25.435801	81.846311	Kausambi	Allahabad	Uttar Pradesh	1958	Excavation	NBPW	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[1154] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1155] = "27.570838	81.598025	Sravasti	Bahraich	Uttar Pradesh	1958	Excavation	NBPW	1	Survey	KK Sinha";
+LatitudeLongitude[1155] = "27.570838	81.598025";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1156] = "28.815872	77.883888	Alamgirpur	Meerut	Uttar Pradesh	1958	Excavation	Harappan	1	Survey	YD Sharma";
+LatitudeLongitude[1156] = "28.815872	77.883888";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1157] = "22.678213	88.693067	Chandraketugarh	24 Parganas	West Bengal	1958	Excavation	Early Historical	2	University of Calcutta";
+LatitudeLongitude[1157] = "22.678213	88.693067";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1158] = "17.6334643	78.4730003	Koisaram	Hyderabad	Andhra Pradesh	1958	Exploration	Prehistoric	1	Survey	P Sreenivasachar";
+LatitudeLongitude[1158] = "17.6334643	78.4730003";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1159] = "18.338663	84.121084	Kalingapatam	Srikakulam	Andhra Pradesh	1958	Exploration	Prehistoric	1	Survey	M Venkataramayya";
+LatitudeLongitude[1159] = "18.338663	84.121084";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1160] = "16.760899	81.166481	Denduluru	West Godavari	Andhra Pradesh	1958	Exploration	Prehistoric	1	Survey	M Venkataramayya";
+LatitudeLongitude[1160] = "16.760899	81.166481";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1161] = "25.243213	86.934867	Nathnagar	Bhagalpur	Bihar	1958	Exploration	NBPW	1	Survey	KC Panigrahi";
+LatitudeLongitude[1161] = "25.243213	86.934867";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1162] = "25.740541	84.824858	Cherand	Saran	Bihar	1958	Exploration	NBPW	1	Survey	KC Panigrahi";
+LatitudeLongitude[1162] = "25.740541	84.824858";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1163] = "26.994821	84.398881	Lauriya-Nandangarh	Champaran	Bihar	1958	Exploration	Early Historical	1	Survey	KC Panigrahi";
+LatitudeLongitude[1163] = "26.994821	84.398881";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1164] = "26.111868	85.896004	Saterh-Lakshmipur	Darbhanga	Bihar	1958	Exploration	Early Historical	1	Survey	KC Panigrahi";
+LatitudeLongitude[1164] = "26.111868	85.896004";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1165] = "25.374756	86.473525	Jaimangalagarh	Munger	Bihar	1958	Exploration	Early Historical	1	Survey	KC Panigrahi";
+LatitudeLongitude[1165] = "25.374756	86.473525";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1166] = "19.849256	75.886151	Bhokardhan	Aurangabad	Maharashtra	1958	Exploration	Early Historical	1	Survey	MN Deshpande";
+LatitudeLongitude[1166] = "19.849256	75.886151";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1167] = "19.876165	75.343314	Pitalkhora	Aurangabad	Maharashtra	1958	Exploration	Early Historical	1	Survey	MN Deshpande";
+LatitudeLongitude[1167] = "19.876165	75.343314";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1168] = "24.285062	72.064593	Rampura	Banaskantha	Gujarat	1958	Exploration	Microliths	1	Survey	RT Parikh";
+LatitudeLongitude[1168] = "24.285062	72.064593";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1169] = "21.689735	72.973238	Vejalpur	Broach	Gujarat	1958	Exploration	Microliths	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[1169] = "21.689735	72.973238";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1170] = "20.403718	74.958505	Chitegaon	Jalgaon	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[1170] = "20.403718	74.958505";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1171] = "20.890804	76.090314	Nimkhed	Jalgaon	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[1171] = "20.890804	76.090314";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1172] = "24.597349	76.160984	Sayla Taluk	Jhalawar	Rajasthan	1958	Exploration	Microliths	1	Survey	SR Rao";
+LatitudeLongitude[1172] = "24.597349	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1173] = "23.020016	73.070042	Kapadvanj	Kaira	Maharashtra	1958	Exploration	Microliths	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[1173] = "23.020016	73.070042";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1174] = "22.303895	70.80216	Thoriali	Rajkot	Gujarat	1958	Exploration	Paleolithic	1	Survey	SR Rao";
+LatitudeLongitude[1174] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1175] = "21.864969	70.151947	Moti Paneli	Rajkot	Gujarat	1958	Exploration	Microliths	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[1175] = "21.864969	70.151947";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1176] = "22.303895	70.80216	Ramnod	Rajkot	Gujarat	1958	Exploration	Microliths	1	Survey	PP Pandya";
+LatitudeLongitude[1176] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1177] = "22.040279	71.112519	Virnagar	Rajkot	Gujarat	1958	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[1177] = "22.040279	71.112519";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1178] = "21.771003	70.709041	Khambhalida	Rajkot	Gujarat	1958	Exploration	Early Historical	1	Survey	PP Pandya";
+LatitudeLongitude[1178] = "21.771003	70.709041";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1179] = "21.739817	70.449142	Dhoraji	Rajkot	Gujarat	1958	Exploration	Medieval	1	Survey	PP Pandya";
+LatitudeLongitude[1179] = "21.739817	70.449142";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1180] = "19.997453	73.789802	Katarpada	Nashik	Maharashtra	1958	Exploration	Chalcolithic	1	Survey	MN Deshpande";
+LatitudeLongitude[1180] = "19.997453	73.789802";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1181] = "22.404492	73.457797	Pavagadh	Panchmahals	Gujarat	1958	Exploration	Microliths	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[1181] = "22.404492	73.457797";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1182] = "22.77354	73.632573	Dohad	Panchmahals	Gujarat	1958	Exploration	Medieval	1	Survey	VS Wakankar";
+LatitudeLongitude[1182] = "22.77354	73.632573";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1183] = "23.471226	72.789969	Roda	Sabarkantha	Gujarat	1958	Exploration	Paleolithic	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[1183] = "23.471226	72.789969";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1184] = "21.468982	70.370291	Uparkot	Sorath	Gujarat	1958	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[1184] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1185] = "21.267554	72.960857	Kamrej	Surat	Maharashtra	1958	Exploration	Early Historical	1	Survey	SR Rao";
+LatitudeLongitude[1185] = "21.267554	72.960857";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1186] = "18.50844802	73.79222218	Mohida-tarf	Khandesh	Maharashtra	1958	Exploration	Early Historical	1	Survey	SA Sali";
+LatitudeLongitude[1186] = "18.50844802	73.79222218";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1187] = "28.613939	77.209021	Rohtak	Delhi	Delhi	1958	Exploration	Medieval	1	Survey	YD Sharma";
+LatitudeLongitude[1187] = "28.613939	77.209021";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1188] = "11.173995	77.26877	Palladam Taluk	Coimbatore	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	VN Srinivasa Desikan";
+LatitudeLongitude[1188] = "11.173995	77.26877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1189] = "9.925201	78.119775	Gopalasamiparambu	Madurai	Tamil Nadu	1958	Exploration	Prehistoric	1	Survey	BK Gururaja Rao";
+LatitudeLongitude[1189] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1190] = "11.776462	79.636175	Perumalnaickenpalayam	Cuddalore	Tamil Nadu	1958	Exploration	Historical	1	Survey	BK Gururaja Rao";
+LatitudeLongitude[1190] = "11.776462	79.636175";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1191] = "21.968033	85.599793	Parsora	Bhilsa	Madhya Pradesh	1958	Exploration	Historical	1	Survey	Klaus Bruhn";
+LatitudeLongitude[1191] = "21.968033	85.599793";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1192] = "22.079625	82.139141	Nandaur Khurd	Bilaspur	Chhattisgarh	1958	Exploration	Historical	1	Survey	M. Sivayya";
+LatitudeLongitude[1192] = "22.079625	82.139141";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1193] = "22.601292	75.302465	Piploda	Dhar	Madhya Pradesh	1958	Exploration	Historical	1	Survey	VS Wakankar";
+LatitudeLongitude[1193] = "22.601292	75.302465";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1194] = "26.218287	78.182831	Gwalior	Gwalior	Madhya Pradesh	1958	Exploration	Paleolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[1194] = "26.218287	78.182831";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1195] = "23.13059	79.802357	Bheraghat	Jabalpur	Madhya Pradesh	1958	Exploration	Paleolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[1195] = "23.13059	79.802357";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1196] = "23.109969	79.927665	Gwarighat	Jabalpur	Madhya Pradesh	1958	Exploration	Paleolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[1196] = "23.109969	79.927665";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1197] = "23.181467	79.986407	Jabalpur	Jabalpur	Madhya Pradesh	1958	Exploration	Paleolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[1197] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1198] = "23.181467	79.986407	Khama	Jabalpur	Madhya Pradesh	1958	Exploration	Historical	1	Survey	SL Katre";
+LatitudeLongitude[1198] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1199] = "24.076836	75.069295	Takshakeswar	Mandasor	Madhya Pradesh	1958	Exploration	?	1	Survey	HV Trivedi";
+LatitudeLongitude[1199] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1200] = "24.076836	75.069295	Kedareswar	Mandasor	Madhya Pradesh	1958	Exploration	?	1	Survey	HV Trivedi";
+LatitudeLongitude[1200] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1201] = "24.076836	75.069295	Indragarh	Mandasor	Madhya Pradesh	1958	Exploration	Paleolithic	1	Survey	HV Trivedi";
+LatitudeLongitude[1201] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1202] = "21.902544	75.205241	Barwani	Khargone	Madhya Pradesh	1958	Exploration	Paleolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[1202] = "21.902544	75.205241";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1203] = "21.8227	75.456584	Un	Khargone	Madhya Pradesh	1958	Exploration	Paleolithic	1	Survey	MU Quraishi";
+LatitudeLongitude[1203] = "21.8227	75.456584";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1204] = "23.639891	79.065495	Raheli	Sagar	Madhya Pradesh	1958	Exploration	Paleolithic	1	Survey	AP Khatri";
+LatitudeLongitude[1204] = "23.639891	79.065495";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1205] = "23.838805	78.737807	Nariavli	Sagar	Madhya Pradesh	1958	Exploration	Prehistoric	1	Survey	MG Dikshit";
+LatitudeLongitude[1205] = "23.838805	78.737807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1206] = "23.838805	78.737807	Chandala Bhata	Sagar	Madhya Pradesh	1958	Exploration	Prehistoric	1	Survey	MG Dikshit";
+LatitudeLongitude[1206] = "23.838805	78.737807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1207] = "24.022307	78.173544	Piparia	Sagar	Madhya Pradesh	1958	Exploration	Historical	1	Survey	HV Trivedi";
+LatitudeLongitude[1207] = "24.022307	78.173544";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1208] = "17.91488	77.50461	Jalasangyi	Bidar	Karnataka	1958	Exploration	Historical	1	Survey	M Seshadri";
+LatitudeLongitude[1208] = "17.91488	77.50461";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1209] = "13.92993	75.568101	Shimoga	Shimoga	Karnataka	1958	Exploration	Historical	1	Survey	M Seshadri";
+LatitudeLongitude[1209] = "13.92993	75.568101";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1210] = "20.534567	86.308515	Chasakhanda	Cuttack	Orissa	1958	Exploration	Early Historical	1	Survey	BV Nath";
+LatitudeLongitude[1210] = "20.534567	86.308515";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1211] = "20.506926	85.923047	Fakirpur	Cuttack	Orissa	1958	Exploration	Early Historical	1	Survey	BV Nath";
+LatitudeLongitude[1211] = "20.506926	85.923047";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1212] = "20.462521	85.88299	Bancho	Cuttack	Orissa	1958	Exploration	Early Historical	1	Survey	BV Nath";
+LatitudeLongitude[1212] = "20.462521	85.88299";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1213] = "20.462521	85.88299	Baunsagada	Cuttack	Orissa	1958	Exploration	Early Historical	1	Survey	BV Nath";
+LatitudeLongitude[1213] = "20.462521	85.88299";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1214] = "20.462521	85.88299	Baula Hill	Cuttack	Orissa	1958	Exploration	Early Historical	1	Survey	BV Nath";
+LatitudeLongitude[1214] = "20.462521	85.88299";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1215] = "21.520123	85.764101	Danguapasi	Kendujhar	Orissa	1958	Exploration	Prehistoric	1	Survey	D Mitra";
+LatitudeLongitude[1215] = "21.520123	85.764101";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1216] = "18.813487	82.712333	Sunghli	Koraput	Orissa	1958	Exploration	Historical	1	Survey	A Joshi";
+LatitudeLongitude[1216] = "18.813487	82.712333";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1217] = "19.536164	85.246372	Udayagiri	Puri	Orissa	1958	Exploration	Microliths	1	Survey	SK Ghosh";
+LatitudeLongitude[1217] = "19.536164	85.246372";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1218] = "19.813382	85.831465	Barapari	Puri	Orissa	1958	Exploration	Medieval	1	Survey	BV Nath";
+LatitudeLongitude[1218] = "19.813382	85.831465";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1219] = "30.045359	74.716149	Faridkot	Bhatinda	Punjab	1958	Exploration	Harappan	1	Survey	RP Das";
+LatitudeLongitude[1219] = "30.045359	74.716149";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1220] = "26.472486	74.470147	Nand	Ajmer	Rajasthan	1958	Exploration	Early Historical	1	Survey	RC Agrawala";
+LatitudeLongitude[1220] = "26.472486	74.470147";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1221] = "27.204763	77.557643	Noh	Bharatpur	Rajasthan	1958	Exploration	Early Historical	1	Survey	RC Agrawala";
+LatitudeLongitude[1221] = "27.204763	77.557643";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1222] = "26.009727	71.366108	Barka	Barmer	Rajasthan	1958	Exploration	Paleolithic	1	Survey	NM Ganam";
+LatitudeLongitude[1222] = "26.009727	71.366108";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1223] = "25.636886	71.228023	Juna	Barmer	Rajasthan	1958	Exploration	Paleolithic	1	Survey	NM Ganam";
+LatitudeLongitude[1223] = "25.636886	71.228023";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1224] = "26.912434	75.787271	Rairh	Jaipur	Rajasthan	1958	Exploration	Prehistoric	1	Survey	RC Agrawala";
+LatitudeLongitude[1224] = "26.912434	75.787271";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1225] = "27.588217	76.123298	Jodhpura	Jaipur	Rajasthan	1958	Exploration	Prehistoric	1	Survey	KN Dikshit";
+LatitudeLongitude[1225] = "27.588217	76.123298";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1226] = "24.597349	76.160984	Gajraun	Jhalawar	Rajasthan	1958	Exploration	Prehistoric	1	Survey	VS Wakankar";
+LatitudeLongitude[1226] = "24.597349	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1227] = "26.238947	73.024309	Jodhpur	Jodhpur	Rajasthan	1958	Exploration	Prehistoric	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[1227] = "26.238947	73.024309";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1228] = "26.565651	73.01839	Umednagar	Jodhpur	Rajasthan	1958	Exploration	Prehistoric	1	Survey	NM Ganam";
+LatitudeLongitude[1228] = "26.565651	73.01839";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1229] = "24.003	73.758082	Kalyanpur	Udaipur	Rajasthan	1958	Exploration	Historical	1	Survey	RC Agrawala";
+LatitudeLongitude[1229] = "24.003	73.758082";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1230] = "24.587982	73.720755	Ahar	Udaipur	Rajasthan	1958	Exploration	Medieval	1	Survey	RC Agrawala";
+LatitudeLongitude[1230] = "24.587982	73.720755";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1231] = "26.678272	78.537691	Khera	Agra	Uttar Pradesh	1958	Exploration	Microliths	1	Survey	SC Chandra";
+LatitudeLongitude[1231] = "26.678272	78.537691";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1232] = "27.17667	78.008075	Sauripur	Agra	Uttar Pradesh	1958	Exploration	PGW	1	Survey	DP Agrawala";
+LatitudeLongitude[1232] = "27.17667	78.008075";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1233] = "25.435801	81.846311	Mahnydih	Allahabad	Uttar Pradesh	1958	Exploration	NBPW	1	Survey	SC Kala";
+LatitudeLongitude[1233] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1234] = "25.588228	81.842245	Diha	Allahabad	Uttar Pradesh	1958	Exploration	Medieval	1	Survey	SC Kala";
+LatitudeLongitude[1234] = "25.588228	81.842245";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1235] = "25.435801	81.846311	Uchdiha	Allahabad	Uttar Pradesh	1958	Exploration	8th century	1	Survey	SC Kala";
+LatitudeLongitude[1235] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1236] = "28.406963	77.849829	Bakaura	Bulandshahr	Uttar Pradesh	1958	Exploration	Medieval	1	Survey	RC Sharma";
+LatitudeLongitude[1236] = "28.406963	77.849829";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1237] = "27.558751	78.662567	Bansa	Etah	Uttar Pradesh	1958	Exploration	Medieval	1	Survey	SC Chandra";
+LatitudeLongitude[1237] = "27.558751	78.662567";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1238] = "25.920074	80.809994	Bindual	Fatehpur	Uttar Pradesh	1958	Exploration	NBPW	1	Survey	SC Chandra";
+LatitudeLongitude[1238] = "25.920074	80.809994";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1239] = "25.920074	80.809994	Moraon	Fatehpur	Uttar Pradesh	1958	Exploration	NBPW	1	Survey	SC Chandra";
+LatitudeLongitude[1239] = "25.920074	80.809994";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1240] = "25.920074	80.809994	Tickar	Fatehpur	Uttar Pradesh	1958	Exploration	NBPW	1	Survey	SC Chandra";
+LatitudeLongitude[1240] = "25.920074	80.809994";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1241] = "25.920074	80.809994	Kilarman	Fatehpur	Uttar Pradesh	1958	Exploration	NBPW	1	Survey	SC Chandra";
+LatitudeLongitude[1241] = "25.920074	80.809994";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1242] = "25.857489	78.875064	Deogarh	Jhansi	Uttar Pradesh	1958	Exploration	Medieval	1	Survey	Klaus Bruhn";
+LatitudeLongitude[1242] = "25.857489	78.875064";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1243] = "29.90643	79.61593	Baijnath	Kumaon	Uttar Pradesh	1958	Exploration	12th-13th	1	Survey	SC Chandra";
+LatitudeLongitude[1243] = "29.90643	79.61593";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1244] = "28.95268	77.4541	Baleni	Kumaon	Uttar Pradesh	1958	Exploration	PGW	1	Survey	YD Sharma";
+LatitudeLongitude[1244] = "28.95268	77.4541";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1245] = "29.96812	79.06601	Baigar	Kumaon	Uttar Pradesh	1958	Exploration	NBPW	1	Survey	JP Gupta";
+LatitudeLongitude[1245] = "29.96812	79.06601";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1246] = "16.52249	79.240886	Nagarjunakonda	Guntur	Andhra Pradesh	1959	Excavation	Prehistoric	1	Survey	R Subrahmanyam";
+LatitudeLongitude[1246] = "16.52249	79.240886";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1247] = "15.885296	78.644129	Krishnapuram	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	2	Deccan College	N Isaac";
+LatitudeLongitude[1247] = "15.885296	78.644129";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1248] = "15.828126	78.037279	Yeguvacherlopalli	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	2	Deccan College	N Isaac";
+LatitudeLongitude[1248] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1249] = "14.979475	78.276089	Gollapalli	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	2	Deccan College	N Isaac";
+LatitudeLongitude[1249] = "14.979475	78.276089";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1250] = "15.828126	78.037279	Yerragondapalem	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	2	Deccan College	N Isaac";
+LatitudeLongitude[1250] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1251] = "15.828126	78.037279	Malinthapadu	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	2	Deccan College	N Isaac";
+LatitudeLongitude[1251] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1252] = "15.752974	77.936741	Markapur	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	2	Deccan College	N Isaac";
+LatitudeLongitude[1252] = "15.752974	77.936741";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1253] = "15.828126	78.037279	Ummadivaram	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	2	Deccan College	N Isaac";
+LatitudeLongitude[1253] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1254] = "15.759112	78.060201	Tandrapad	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	2	Deccan College	N Isaac";
+LatitudeLongitude[1254] = "15.759112	78.060201";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1255] = "15.828126	78.037279	Billasurgam	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	3	Council of Scientific and Industrial Research	AP Khatri";
+LatitudeLongitude[1255] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1256] = "15.828126	78.037279	Krishnamakona	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	3	Council of Scientific and Industrial Research	AP Khatri";
+LatitudeLongitude[1256] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1257] = "15.828126	78.037279	Sanyasulgavi	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	3	Council of Scientific and Industrial Research	AP Khatri";
+LatitudeLongitude[1257] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1258] = "15.828126	78.037279	Gurlagutta	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	3	Council of Scientific and Industrial Research	AP Khatri";
+LatitudeLongitude[1258] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1259] = "15.350901	78.139696	Yaganti	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	3	Council of Scientific and Industrial Research	AP Khatri";
+LatitudeLongitude[1259] = "15.350901	78.139696";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1260] = "15.3791	78.925347	Giddalur	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	3	Council of Scientific and Industrial Research	AP Khatri";
+LatitudeLongitude[1260] = "15.3791	78.925347";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1261] = "15.139393	76.921443	Sannarasamma Hill	Bellary	Karnataka	1959	Exploration	Prehistoric	3	Council of Scientific and Industrial Research	AP Khatri";
+LatitudeLongitude[1261] = "15.139393	76.921443";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1262] = "15.828126	78.037279	Kakanur	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	1	Survey	B Raja Rao";
+LatitudeLongitude[1262] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1263] = "15.828126	78.037279	Santajutuni	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	1	Survey	B Raja Rao";
+LatitudeLongitude[1263] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1264] = "15.582794	78.52349	Bandi-Atmakur	Kurnool	Andhra Pradesh	1959	Exploration	Prehistoric	1	Survey	B Raja Rao";
+LatitudeLongitude[1264] = "15.582794	78.52349";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1265] = "16.30439611	80.43751711	Domargu	Medak	Andhra Pradesh	1959	Exploration	Prehistoric	1	Survey	AV Narasimha Murty";
+LatitudeLongitude[1265] = "16.30439611	80.43751711";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1266] = "16.30439611	80.43751711	Bodupatla	Medak	Andhra Pradesh	1959	Exploration	Prehistoric	1	Survey	AV Narasimha Murty";
+LatitudeLongitude[1266] = "16.30439611	80.43751711";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1267] = "17.933773	78.005518	Bardipur	Medak	Andhra Pradesh	1959	Exploration	Prehistoric	1	Survey	AV Narasimha Murty";
+LatitudeLongitude[1267] = "17.933773	78.005518";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1268] = "25.096074	85.313119	Rajarappa	Hazaribagh	Bihar	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1268] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1269] = "25.096074	85.313119	Lotapahar	Hazaribagh	Bihar	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1269] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1270] = "24.208441	84.653598	Pratappur	Palamau	Jharkhand	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1270] = "24.208441	84.653598";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1271] = "25.096074	85.313119	Kuchaijharia	Singhbhum	Bihar	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1271] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1272] = "25.096074	85.313119	Chas	Singhbhum	Bihar	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1272] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1273] = "25.096074	85.313119	Lotapahar	Singhbhum	Bihar	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1273] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1274] = "25.096074	85.313119	Dobo	Singhbhum	Bihar	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1274] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1275] = "25.096074	85.313119	Tamolia	Singhbhum	Bihar	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1275] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1276] = "25.096074	85.313119	Kuju	Singhbhum	Bihar	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1276] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1277] = "25.096074	85.313119	Chandil	Singhbhum	Bihar	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1277] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1278] = "22.583414	86.482135	Ghatsila	Singhbhum	Bihar	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1278] = "22.583414	86.482135";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1279] = "25.096074	85.313119	Chakulia	Singhbhum	Bihar	1959	Exploration	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1279] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1280] = "24.965648	84.949239	Sonpur	Gaya	Bihar	1959	Excavation	Prehistoric	2	KP Jayaswal Research Institute	BS Verma";
+LatitudeLongitude[1280] = "24.965648	84.949239";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1281] = "26.003818	85.081783	Vaisali	Muzaffarpur	Bihar	1959	Excavation	Prehistoric	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1281] = "26.003818	85.081783";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1282] = "22.553712	72.223735	Lothal	Ahmedabad	Gujarat	1959	Excavation	Harappan	1	Survey	SR Rao";
+LatitudeLongitude[1282] = "22.553712	72.223735";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1283] = "21.705136	72.995875	Broach	Broach	Gujarat	1959	Excavation	NBPW	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[1283] = "21.705136	72.995875";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1284] = "23.84767	72.993297	Devimori	Sabarkantha	Gujarat	1959	Excavation	Early Historical	2	MS University Baroda	B Subbarao";
+LatitudeLongitude[1284] = "23.84767	72.993297";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1285] = "25.412442	78.485279	Lalitpur	Jhansi	Uttar Pradesh	1959	Exploration	Prehistoric	2	Deccan College	AP Khatri";
+LatitudeLongitude[1285] = "25.412442	78.485279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1286] = "24.786235	76.926854	Kotha	Guna	Madhya Pradesh	1959	Exploration	Prehistoric	2	Deccan College	AP Khatri";
+LatitudeLongitude[1286] = "24.786235	76.926854";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1287] = "23.116346	79.574392	Jhansighat	Narsinghpur	Madhya Pradesh	1959	Exploration	Prehistoric	3	Council of Scientific and Industrial Research	AP Khatri";
+LatitudeLongitude[1287] = "23.116346	79.574392";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1288] = "24.208862	75.408251	Awra	Mandasor	Madhya Pradesh	1959	Excavation	Prehistoric	3	Government of MP	HV Trivedi";
+LatitudeLongitude[1288] = "24.208862	75.408251";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1289] = "24.422165	75.437363	Manoti	Mandasor	Madhya Pradesh	1959	Excavation	Prehistoric	3	Government of MP	HV Trivedi";
+LatitudeLongitude[1289] = "24.422165	75.437363";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1290] = "24.171125	75.230404	Nahargarh	Mandasor	Madhya Pradesh	1959	Exploration	Prehistoric	3	Government of MP	HV Trivedi";
+LatitudeLongitude[1290] = "24.171125	75.230404";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1291] = "24.076836	75.069295	Koyali	Mandasor	Madhya Pradesh	1959	Exploration	Prehistoric	3	Government of MP	HV Trivedi";
+LatitudeLongitude[1291] = "24.076836	75.069295";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1292] = "24.288747	75.290195	Sanjit	Mandasor	Madhya Pradesh	1959	Exploration	Prehistoric	3	Government of MP	HV Trivedi";
+LatitudeLongitude[1292] = "24.288747	75.290195";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1293] = "22.235307	79.539269	Bandol	Seoni	Madhya Pradesh	1959	Exploration	Preshistoric	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1293] = "22.235307	79.539269";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1294] = "22.086869	79.543484	Alonia	Seoni	Madhya Pradesh	1959	Exploration	Preshistoric	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1294] = "22.086869	79.543484";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1295] = "22.395874	79.540674	Chhapara	Seoni	Madhya Pradesh	1959	Exploration	Preshistoric	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1295] = "22.395874	79.540674";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1296] = "22.086869	79.543484	Suakhera	Seoni	Madhya Pradesh	1959	Exploration	Preshistoric	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1296] = "22.086869	79.543484";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1297] = "19.551177	74.928106	Nevasa	Ahmednagar	Maharashtra	1959	Excavation	Prehistoric	2	Deccan College	SB Deo";
+LatitudeLongitude[1297] = "19.551177	74.928106";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1298] = "19.53404	74.567565	Gangapur	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1298] = "19.53404	74.567565";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1299] = "19.13898	74.752898	Tapovan	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1299] = "19.13898	74.752898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1300] = "19.477153	74.866064	Tamasvadi	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1300] = "19.477153	74.866064";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1301] = "19.095208	74.749592	Nandur-Madhmeswar	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1301] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1302] = "19.520494	73.915039	Vite	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1302] = "19.520494	73.915039";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1303] = "19.55015	73.947371	Mehenduri	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1303] = "19.55015	73.947371";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1304] = "19.095208	74.749592	Induri	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1304] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1305] = "19.54063	74.005428	Akola	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1305] = "19.54063	74.005428";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1306] = "19.095208	74.749592	Vadnair	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1306] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1307] = "19.472901	74.526187	Tambhere	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1307] = "19.472901	74.526187";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1308] = "19.50449	74.748727	Pathre-khurd	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1308] = "19.50449	74.748727";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1309] = "19.578427	74.501832	Kamgar-budrukh	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1309] = "19.578427	74.501832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1310] = "19.095208	74.749592	Kamgarkhas	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1310] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1311] = "19.445025	74.584406	Chinchvihire	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1311] = "19.445025	74.584406";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1312] = "19.095208	74.749592	Tandulnair	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1312] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1313] = "19.526897	74.660537	Karajgaon	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1313] = "19.526897	74.660537";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1314] = "19.55229	74.665294	Chandegaon	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1314] = "19.55229	74.665294";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1315] = "19.548398	74.628698	Kesapur	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1315] = "19.548398	74.628698";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1316] = "19.540269	74.618449	Ambi	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1316] = "19.540269	74.618449";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1317] = "19.095208	74.749592	Amal-ner	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1317] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1318] = "19.43829	74.758578	Pimprivalan	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1318] = "19.43829	74.758578";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1319] = "19.482262	74.790026	Manjri	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1319] = "19.482262	74.790026";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1320] = "19.095208	74.749592	Vanjalpur	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1320] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1321] = "19.526624	74.511538	Rampur	Ahmednagar	Maharashtra	1959	Exploration	Prehistoric	1	Survey	BP Bopardikar";
+LatitudeLongitude[1321] = "19.526624	74.511538";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1322] = "19.515287	74.493591	Satral	Ahmednagar	Maharashtra	1959	Exploration		1	Survey	BP Bopardikar";
+LatitudeLongitude[1322] = "19.515287	74.493591";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1323] = "19.472801	74.621012	Deolali	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1323] = "19.472801	74.621012";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1324] = "19.006641	74.364612	Chincholi	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1324] = "19.006641	74.364612";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1325] = "19.517135	74.825125	Tilapur	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1325] = "19.517135	74.825125";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1326] = "19.095208	74.749592	Kapre	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1326] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1327] = "19.564127	74.635899	Kolhar-khurd	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1327] = "19.564127	74.635899";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1328] = "19.525075	74.572691	Pimpalgaon-fungi	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1328] = "19.525075	74.572691";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1329] = "19.095208	74.749592	Khalshinde	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1329] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1330] = "19.095208	74.749592	Gangargaon	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1330] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1331] = "19.509519	74.660537	Jatap	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1331] = "19.509519	74.660537";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1332] = "19.545702	74.658119	Brahmangaon-bhand	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1332] = "19.545702	74.658119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1333] = "19.095208	74.749592	Sheraswadgaon	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1333] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1334] = "19.095208	74.749592	Chinch-vihire	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1334] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1335] = "19.095208	74.749592	Manjrikangar-budrukh	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1335] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1336] = "19.095208	74.749592	Manjrikangar-khurd	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1336] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1337] = "19.47262	74.456593	Nimbhere	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1337] = "19.47262	74.456593";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1338] = "19.067417	74.702784	Kanadgon	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1338] = "19.067417	74.702784";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1339] = "19.095208	74.749592	Guvaha	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	BP Bopardikar";
+LatitudeLongitude[1339] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1340] = "19.472801	74.621012	Deolali	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1340] = "19.472801	74.621012";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1341] = "19.095208	74.749592	Kangar-budrukh	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1341] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1342] = "19.095208	74.749592	Kangar-khurd	Ahmednagar	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1342] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1343] = "19.363617	74.933752	Wagheda	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1343] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1344] = "18.955689	72.82638	Saradpar	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1344] = "18.955689	72.82638";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1345] = "19.363617	74.933752	Tekadipaiku	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1345] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1346] = "19.363617	74.933752	Kolara	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1346] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1347] = "19.363617	74.933752	Ali Janja	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1347] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1348] = "19.363617	74.933752	Talodi G	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1348] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1349] = "19.363617	74.933752	Kosambi	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1349] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1350] = "19.363617	74.933752	Khapri	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1350] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1351] = "19.363617	74.933752	Kitadi	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1351] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1352] = "19.363617	74.933752	Nandara	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1352] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1353] = "19.363617	74.933752	Mane-Mohali	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1353] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1354] = "19.363617	74.933752	Massala-Tukum	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1354] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1355] = "19.363617	74.933752	Masala-Buzruk	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1355] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1356] = "17.692397	74.007007	Sonegaon	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1356] = "17.692397	74.007007";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1357] = "19.363617	74.933752	Adegaon	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1357] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1358] = "19.363617	74.933752	Mursa	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1358] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1359] = "19.363617	74.933752	Kurah	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1359] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1360] = "19.363617	74.933752	Chichpalli	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1360] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1361] = "19.363617	74.933752	Chimur	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1361] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1362] = "19.363617	74.933752	Kawdi	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1362] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1363] = "19.363617	74.933752	Usegaon	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1363] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1364] = "20.22971	78.945088	Marda	Chandrapur	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1364] = "20.22971	78.945088";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1365] = "19.363617	74.933752	Masalarith	Chanda	Maharashtra	1959	Exploration	Paleolithic	1	Survey	LK Srinivasan";
+LatitudeLongitude[1365] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1366] = "21.187464	79.079031	Koradih	Nagpur	Maharashtra	1959	Exploration	Paleolithic	1	Survey	RV Joshi";
+LatitudeLongitude[1366] = "21.187464	79.079031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1367] = "21.1458	79.088155	Khaira	Nagpur	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1367] = "21.1458	79.088155";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1368] = "20.745319	78.602195	Koudghat	Wardha	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1368] = "20.745319	78.602195";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1369] = "20.740417	78.597951	Sivni	Wardha	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1369] = "20.740417	78.597951";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1370] = "20.739649	78.923874	Kandhali	Wardha	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1370] = "20.739649	78.923874";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1371] = "20.745319	78.602195	Galamb	Wardha	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1371] = "20.745319	78.602195";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1372] = "20.466748	78.770998	Daroda	Wardha	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1372] = "20.466748	78.770998";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1373] = "21.183436	78.299931	Pardi	Wardha	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1373] = "21.183436	78.299931";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1374] = "20.46168	78.2647	Shaikapur	Wardha	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1374] = "20.46168	78.2647";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1375] = "20.745319	78.602195	Patala	Wardha	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1375] = "20.745319	78.602195";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1376] = "20.90422	74.774898	Umaj	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1376] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1377] = "20.90422	74.774898	Tokartala	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1377] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1378] = "20.90422	74.774898	Jaitana	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1378] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1379] = "20.90422	74.774898	Virehak	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1379] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1380] = "21.113024	74.330886	Nizampur	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1380] = "21.113024	74.330886";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1381] = "21.068993	74.164365	Dahivel	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1381] = "21.068993	74.164365";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1382] = "20.90422	74.774898	Jambhlipada	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1382] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1383] = "21.2791	74.209862	Ashta	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1383] = "21.2791	74.209862";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1384] = "20.90422	74.774898	Jharala-pada	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1384] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1385] = "20.90422	74.774898	Ghogal-pada	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1385] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1386] = "20.90422	74.774898	Virehak	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1386] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1387] = "20.90422	74.774898	Kokni-pada	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1387] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1388] = "20.90422	74.774898	Pavla	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1388] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1389] = "20.90422	74.774898	Arditara	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1389] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1390] = "20.90422	74.774898	Nandarkha	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1390] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1391] = "20.90422	74.774898	Lakhmi-kheda	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1391] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1392] = "20.90422	74.774898	Kaliamba	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1392] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1393] = "20.90422	74.774898	Mungrul	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1393] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1394] = "20.899252	74.744932	Vaslai	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1394] = "20.899252	74.744932";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1395] = "20.90422	74.774898	Bhangda	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1395] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1396] = "20.90422	74.774898	Kesar-pada	Dhule	Maharashtra	1959	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1396] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1397] = "20.905805	74.77758	Gandi	Dhule	Maharashtra	1959	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1397] = "20.905805	74.77758";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1398] = "20.90422	74.774898	Kumbhar-pada	Dhule	Maharashtra	1959	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1398] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1399] = "20.90422	74.774898	Bandhar-pada	Dhule	Maharashtra	1959	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1399] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1400] = "20.90422	74.774898	Songir-pada	Dhule	Maharashtra	1959	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1400] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1401] = "20.90422	74.774898	Takli-pada	Dhule	Maharashtra	1959	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1401] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1402] = "20.90422	74.774898	Kevid-pada	Dhule	Maharashtra	1959	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1402] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1403] = "20.959725	74.814889	Bhiladi	Dhule	Maharashtra	1959	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1403] = "20.959725	74.814889";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1404] = "20.90422	74.774898	Gujarpur	Dhule	Maharashtra	1959	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1404] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1405] = "20.90422	74.774898	Pechribari-pada	Dhule	Maharashtra	1959	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1405] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1406] = "19.344192	75.714046	Khamgaon	Dhule	Maharashtra	1959	Exploration	Mesolithic	1	Survey";
+LatitudeLongitude[1406] = "19.344192	75.714046";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1407] = "20.90422	74.774898	Veda-pada	Dhule	Maharashtra	1959	Exploration	Mesolithic	1	Survey";
+LatitudeLongitude[1407] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1408] = "19.51605	75.678716	Ghirasgaon	Dhule	Maharashtra	1959	Exploration	Mesolithic	1	Survey";
+LatitudeLongitude[1408] = "19.51605	75.678716";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1409] = "20.90422	74.774898	Maindana	Dhule	Maharashtra	1959	Exploration	Chalcolithic	1	Survey";
+LatitudeLongitude[1409] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1410] = "21.263261	75.028562	Ajanad	Dhule	Maharashtra	1959	Exploration	Chalcolithic	1	Survey";
+LatitudeLongitude[1410] = "21.263261	75.028562";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1411] = "20.90422	74.774898	Bhiljambholi	Dhule	Maharashtra	1959	Exploration	Chalcolithic	1	Survey";
+LatitudeLongitude[1411] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1412] = "20.90422	74.774898	Amoda	Dhule	Maharashtra	1959	Exploration	Chalcolithic	1	Survey";
+LatitudeLongitude[1412] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1413] = "20.90422	74.774898	Bahurupa	Dhule	Maharashtra	1959	Excavation	Ahar	1	Survey	RV Joshi";
+LatitudeLongitude[1413] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1414] = "20.90422	74.774898	Sawalda	Dhule	Maharashtra	1959	Excavation	NBPW	1	Survey	RV Joshi";
+LatitudeLongitude[1414] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1415] = "16.504606	76.239946	Balganur	Bauapur	Karnataka	1959	Exploration	Chalcolithic	1	Survey	A Sundara";
+LatitudeLongitude[1415] = "16.504606	76.239946";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1416] = "13.3000139	75.9642659	Belvad	Bauapur	Karnataka	1959	Exploration	Chalcolithic	1	Survey	A Sundara";
+LatitudeLongitude[1416] = "13.3000139	75.9642659";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1417] = "16.511506	76.414728	Navadagi	Bauapur	Karnataka	1959	Exploration	Chalcolithic	1	Survey	A Sundara";
+LatitudeLongitude[1417] = "16.511506	76.414728";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1418] = "16.577847	76.309281	Hoshalli	Bauapur	Karnataka	1959	Exploration	Chalcolithic	1	Survey	A Sundara";
+LatitudeLongitude[1418] = "16.577847	76.309281";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1419] = "16.527751	76.40424	Lakkundi	Bauapur	Karnataka	1959	Exploration	Chalcolithic	1	Survey	A Sundara";
+LatitudeLongitude[1419] = "16.527751	76.40424";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1420] = "17.090859	76.217494	Almel	Bauapur	Karnataka	1959	Exploration	Chalcolithic	1	Survey	A Sundara";
+LatitudeLongitude[1420] = "17.090859	76.217494";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1421] = "13.04181	77.581752	Baglur	Bauapur	Karnataka	1959	Exploration	EH	1	Survey	A Sundara";
+LatitudeLongitude[1421] = "13.04181	77.581752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1422] = "16.907015	76.337679	Bankalgi	Bauapur	Karnataka	1959	Exploration	EH	1	Survey	A Sundara";
+LatitudeLongitude[1422] = "16.907015	76.337679";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1423] = "16.407903	76.160984	Gudihal	Bauapur	Karnataka	1959	Exploration	Medieval	1	Survey	A Sundara";
+LatitudeLongitude[1423] = "16.407903	76.160984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1424] = "16.57388	76.40424	Pirapur	Bauapur	Karnataka	1959	Exploration	Medieval	1	Survey	A Sundara";
+LatitudeLongitude[1424] = "16.57388	76.40424";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1425] = "16.814769	76.063848	Devar	Bauapur	Karnataka	1959	Exploration	Medieval	1	Survey	A Sundara";
+LatitudeLongitude[1425] = "16.814769	76.063848";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1426] = "16.8675219	75.8613879	Aheri	Bauapur	Karnataka	1959	Exploration	Medieval	1	Survey	A Sundara";
+LatitudeLongitude[1426] = "16.8675219	75.8613879";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1427] = "17.348431	75.754592	Kerur	Bauapur	Karnataka	1959	Exploration	Medieval	1	Survey	A Sundara";
+LatitudeLongitude[1427] = "17.348431	75.754592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1428] = "16.528296	75.731334	Malghan	Bauapur	Karnataka	1959	Exploration	Medieval	1	Survey	A Sundara";
+LatitudeLongitude[1428] = "16.528296	75.731334";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1429] = "17.0481691	76.2753674	Asangi-hal	Bauapur	Karnataka	1959	Exploration	Medieval	1	Survey	A Sundara";
+LatitudeLongitude[1429] = "17.0481691	76.2753674";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1430] = "16.917256	76.233428	Sindgi	Bauapur	Karnataka	1959	Exploration	Medieval	1	Survey	A Sundara";
+LatitudeLongitude[1430] = "16.917256	76.233428";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1431] = "16.9041077	76.1941353	Bandal	Bauapur	Karnataka	1959	Exploration	Medieval	1	Survey	A Sundara";
+LatitudeLongitude[1431] = "16.9041077	76.1941353";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1432] = "17.002367	76.253705	Balashvare	Bauapur	Karnataka	1959	Exploration	Medieval	1	Survey	A Sundara";
+LatitudeLongitude[1432] = "17.002367	76.253705";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1433] = "28.789304	79.024952	Rampur	Bauapur	Karnataka	1959	Exploration	Medieval	1	Survey	A Sundara";
+LatitudeLongitude[1433] = "28.789304	79.024952";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1434] = "15.267598	75.093235	Channapur	Dharwar	Karnataka	1959	Exploration	Paleolithic	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1434] = "15.267598	75.093235";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1435] = "15.458924	75.007808	Hadargeri	Dharwar	Karnataka	1959	Exploration	Chalcolithic	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1435] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1436] = "15.458924	75.007808	Mudenur	Dharwar	Karnataka	1959	Exploration	Chalcolithic	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1436] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1437] = "15.393326	75.5572	Asundi	Dharwar	Karnataka	1959	Exploration	Chalcolithic	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1437] = "15.393326	75.5572";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1438] = "15.458924	75.007808	Budapanahalli	Dharwar	Karnataka	1959	Exploration	Stone circles	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1438] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1439] = "15.010376	74.993933	Kushur	Dharwar	Karnataka	1959	Exploration	Stone circles	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1439] = "15.010376	74.993933";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1440] = "15.458924	75.007808	Kotihal	Dharwar	Karnataka	1959	Exploration	Stone circles	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1440] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1441] = "15.458924	75.007808	Malkanhalli	Dharwar	Karnataka	1959	Exploration	Stone circles	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1441] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1442] = "15.458924	75.007808	Fatepur	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1442] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1443] = "15.458924	75.007808	Nitpalli	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1443] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1444] = "15.458924	75.007808	Holi-Anveri	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1444] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1445] = "15.458924	75.007808	Mudnur	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1445] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1446] = "15.458924	75.007808	Medleri	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1446] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1447] = "15.458924	75.007808	Chandapur	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1447] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1448] = "15.458924	75.007808	Chandanpur	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1448] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1449] = "15.458924	75.007808	Kuli	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1449] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1450] = "15.458924	75.007808	Chikmagnur	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1450] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1451] = "15.458924	75.007808	Godihal	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1451] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1452] = "15.458924	75.007808	Kuppe-lur	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1452] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1453] = "15.458924	75.007808	Dombarahalli	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1453] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1454] = "15.458924	75.007808	Ukkund	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1454] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1455] = "15.458924	75.007808	Benkankonda	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1455] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1456] = "15.458924	75.007808	Kuskur	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1456] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1457] = "15.431916	74.964602	Dandgihalli	Dharwar	Karnataka	1959	Exploration	BRW	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1457] = "15.431916	74.964602";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1458] = "14.127187	75.220193	T.Narasipur	Mysore	Karnataka	1959	Excavation	Megalithic	3	Government of Mysore";
+LatitudeLongitude[1458] = "14.127187	75.220193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1459] = "20.655784	86.342746	Ratnagiri	Cuttack	Orissa	1959	Excavation	Buddhist	1	Survey	D Mitra";
+LatitudeLongitude[1459] = "20.655784	86.342746";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1460] = "25.260062	75.01	Bigod	Bhilwara	Rajasthan	1959	Exploration	Paleolithic	2	Deccan College	VN Mishra";
+LatitudeLongitude[1460] = "25.260062	75.01";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1461] = "25.261647	74.638579	Mandpia	Bhilwara	Rajasthan	1959	Exploration	Paleolithic I	2	Deccan College	VN Mishra";
+LatitudeLongitude[1461] = "25.261647	74.638579";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1462] = "25.227138	74.681027	Mangrup	Bhilwara	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
+LatitudeLongitude[1462] = "25.227138	74.681027";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1463] = "25.321377	74.586953	Potla	Bhilwara	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
+LatitudeLongitude[1463] = "25.321377	74.586953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1464] = "25.297881	74.544864	Pur	Bhilwara	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
+LatitudeLongitude[1464] = "25.297881	74.544864";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1465] = "25.223969	75.024606	Sand	Bhilwara	Rajasthan	1959	Exploration	Paleolithic I	2	Deccan College	VN Mishra";
+LatitudeLongitude[1465] = "25.223969	75.024606";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1466] = "25.224762	74.63126	Sarupganj	Bhilwara	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
+LatitudeLongitude[1466] = "25.224762	74.63126";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1467] = "24.888744	74.626922	Chitorgarh	Chittorgarh	Rajasthan	1959	Exploration	Paleolithic III 2	Deccan College	VN Mishra";
+LatitudeLongitude[1467] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1468] = "26.224483	73.055177	Bhetanda	Jodhpur	Rajasthan	1959	Exploration	Paleolithic II	2	Deccan College	VN Mishra";
+LatitudeLongitude[1468] = "26.224483	73.055177";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1469] = "25.889587	72.788151	Dundara	Jodhpur	Rajasthan	1959	Exploration	Paleolithic II	2	Deccan College	VN Mishra";
+LatitudeLongitude[1469] = "25.889587	72.788151";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1470] = "26.238947	73.024309	Golio	Jodhpur	Rajasthan	1959	Exploration	Paleolithic II	2	Deccan College	VN Mishra";
+LatitudeLongitude[1470] = "26.238947	73.024309";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1471] = "26.238947	73.024309	Hundgacin	Jodhpur	Rajasthan	1959	Exploration	Paleolithic II	2	Deccan College	VN Mishra";
+LatitudeLongitude[1471] = "26.238947	73.024309";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1472] = "26.238947	73.024309	Pipad	Jodhpur	Rajasthan	1959	Exploration	Paleolithic II	2	Deccan College	VN Mishra";
+LatitudeLongitude[1472] = "26.238947	73.024309";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1473] = "26.019478	73.614121	Sojat	Jodhpur	Rajasthan	1959	Exploration	Paleolithic II	2	Deccan College	VN Mishra";
+LatitudeLongitude[1473] = "26.019478	73.614121";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1474] = "24.585445	73.712479	Bichri	Udaipur	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
+LatitudeLongitude[1474] = "24.585445	73.712479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1475] = "24.615679	73.706017	Bhuwana	Udaipur	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
+LatitudeLongitude[1475] = "24.615679	73.706017";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1476] = "24.625606	73.865952	Dabok	Udaipur	Rajasthan	1959	Exploration	Paleolithic I	2	Deccan College	VN Mishra";
+LatitudeLongitude[1476] = "24.625606	73.865952";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1477] = "24.146409	72.96082	Gadha	Udaipur	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
+LatitudeLongitude[1477] = "24.146409	72.96082";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1478] = "24.59862	73.691835	Hiaro	Udaipur	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
+LatitudeLongitude[1478] = "24.59862	73.691835";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1479] = "24.585445	73.712479	Jagannathpur	Udaipur	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
+LatitudeLongitude[1479] = "24.585445	73.712479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1480] = "24.654883	73.950677	Karanpur	Udaipur	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
+LatitudeLongitude[1480] = "24.654883	73.950677";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1481] = "23.941146	74.473078	Kheri	Udaipur	Rajasthan	1959	Exploration	Paleolithic I	2	Deccan College	VN Mishra";
+LatitudeLongitude[1481] = "23.941146	74.473078";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1482] = "24.033889	74.223802	Mander	Udaipur	Rajasthan	1959	Exploration	Paleolithic III	2	Deccan College	VN Mishra";
+LatitudeLongitude[1482] = "24.033889	74.223802";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1483] = "24.69051	74.226737	Gilund	Udaipur	Rajasthan	1959	Excavation	Chalcolithic	1	Survey	BB Lal";
+LatitudeLongitude[1483] = "24.69051	74.226737";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1484] = "25.435801	81.846311	Acchola	Allahabad	Uttar Pradesh	1959	Exploration	Ancient	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[1484] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1485] = "25.235965	82.194474	Onaur	Allahabad	Uttar Pradesh	1959	Exploration	Ancient	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[1485] = "25.235965	82.194474";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1486] = "25.435801	81.846311	Sarainkala	Allahabad	Uttar Pradesh	1959	Exploration	Ancient	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[1486] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1487] = "25.736634	81.803306	Unchadih	Allahabad	Uttar Pradesh	1959	Exploration	Ancient	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[1487] = "25.736634	81.803306";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1488] = "25.552115	81.940768	Upraura	Allahabad	Uttar Pradesh	1959	Exploration	Ancient	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[1488] = "25.552115	81.940768";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1489] = "25.435801	81.846311	Kausambi	Allahabad	Uttar Pradesh	1959	Excavation	NBPW	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[1489] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1490] = "25.857489	78.875064	Deogarh	Jhansi	Uttar Pradesh	1959	Exploration	Paleolithic	1	Survey	RV Joshi";
+LatitudeLongitude[1490] = "25.857489	78.875064";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1491] = "25.729284	78.954279	Moth	Jhansi	Uttar Pradesh	1959	Exploration	Paleolithic	1	Survey	RV Joshi";
+LatitudeLongitude[1491] = "25.729284	78.954279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1492] = "25.461363	78.530591	Rajghat	Jhansi	Uttar Pradesh	1959	Exploration	Neolithic	1	Survey	Rameshwar Singh";
+LatitudeLongitude[1492] = "25.461363	78.530591";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1493] = "25.133699	82.564434	Pataudh	Mirzapur	Uttar Pradesh	1959	Exploration	Paleolithic	2	University of Allahabad	Radha Kant Varma";
+LatitudeLongitude[1493] = "25.133699	82.564434";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1494] = "25.133699	82.564434	Hathinala	Mirzapur	Uttar Pradesh	1959	Exploration		2	University of Allahabad";
+LatitudeLongitude[1494] = "25.133699	82.564434";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1495] = "22.943174	86.770545	Ambikanagar	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1495] = "22.943174	86.770545";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1496] = "23.202078	87.081156	Dabra	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1496] = "23.202078	87.081156";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1497] = "22.935404	86.754208	Hatikheda	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1497] = "22.935404	86.754208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1498] = "22.94851	86.74038	Chiada	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1498] = "22.94851	86.74038";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1499] = "23.232415	87.078604	Puddih	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1499] = "23.232415	87.078604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1500] = "23.232415	87.078604	Baddih	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1500] = "23.232415	87.078604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1501] = "22.941155	86.718868	Katakumari	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1501] = "22.941155	86.718868";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1502] = "23.232415	87.078604	Parasnath	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1502] = "23.232415	87.078604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1503] = "23.232415	87.078604	Sarensarh	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1503] = "23.232415	87.078604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1504] = "23.263794	87.080532	Balarampur	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1504] = "23.263794	87.080532";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1505] = "23.232415	87.078604	Kutlubari	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1505] = "23.232415	87.078604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1506] = "23.232415	87.078604	Kamakuli	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1506] = "23.232415	87.078604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1507] = "23.108266	86.661738	Budhpur	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1507] = "23.108266	86.661738";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1508] = "23.232415	87.078604	Chitgiri	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1508] = "23.232415	87.078604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1509] = "22.952252	86.778084	Gora-bari	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1509] = "22.952252	86.778084";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1510] = "22.956994	86.791901	Mukutmanipur	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1510] = "22.956994	86.791901";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1511] = "23.360822	86.904804	Jhantipahari	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1511] = "23.360822	86.904804";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1512] = "22.967729	86.845249	Kurkutia	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1512] = "22.967729	86.845249";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1513] = "22.996061	86.737866	Tuman	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1513] = "22.996061	86.737866";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1514] = "22.991036	86.756781	Satsol	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1514] = "22.991036	86.756781";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1515] = "23.367748	86.954899	Kendua	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1515] = "23.367748	86.954899";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1516] = "23.005438	86.617013	Loadi	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1516] = "23.005438	86.617013";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1517] = "23.024612	86.853799	Lutia	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1517] = "23.024612	86.853799";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1518] = "22.767744	86.703906	Maishamura	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1518] = "22.767744	86.703906";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1519] = "23.271897	87.116723	Bhedua	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1519] = "23.271897	87.116723";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1520] = "22.964435	86.719002	Nilgiri	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1520] = "22.964435	86.719002";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1521] = "22.955075	86.770545	Barda	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1521] = "22.955075	86.770545";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1522] = "23.232415	87.078604	Basantpur	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1522] = "23.232415	87.078604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1523] = "22.98303	86.738546	Kajalkura	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1523] = "22.98303	86.738546";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1524] = "23.232415	87.078604	Uparson	Bankura	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1524] = "23.232415	87.078604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1525] = "22.926629	86.618274	Dharampur	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1525] = "22.926629	86.618274";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1526] = "23.306264	86.637176	Lalpur	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1526] = "23.306264	86.637176";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1527] = "23.434121	86.667871	Kishtapur	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1527] = "23.434121	86.667871";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1528] = "23.332078	86.365208	Bhanrarhia	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1528] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1529] = "22.969235	86.663627	Ghat	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1529] = "22.969235	86.663627";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1530] = "22.968629	86.678108	Mirgichanda	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1530] = "22.968629	86.678108";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1531] = "23.33331	86.192975	Rangamati	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1531] = "23.33331	86.192975";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1532] = "23.332078	86.365208	Palajor	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1532] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1533] = "23.040583	86.732836	Darasol	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1533] = "23.040583	86.732836";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1534] = "23.332078	86.365208	Chhota Nunyani	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1534] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1535] = "23.332078	86.365208	Bara Nunyani	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1535] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1536] = "23.332078	86.365208	Ghugi-Jan	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1536] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1537] = "23.066994	86.715228	Dheka	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1537] = "23.066994	86.715228";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1538] = "23.550695	86.598103	Go Barda	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1538] = "23.550695	86.598103";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1539] = "23.054938	86.70768	Koldiha	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1539] = "23.054938	86.70768";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1540] = "23.030878	86.487019	Khayerbani	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1540] = "23.030878	86.487019";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1541] = "23.366914	86.049137	Hirapur	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1541] = "23.366914	86.049137";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1542] = "23.332078	86.365208	Rasikdih	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1542] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1543] = "23.092381	86.6844	Kalupara	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1543] = "23.092381	86.6844";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1544] = "23.332078	86.365208	Purudiha	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1544] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1545] = "23.19661	86.585492	Maheshpur	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1545] = "23.19661	86.585492";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1546] = "23.332078	86.365208	Ghat-Dungri	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1546] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1547] = "22.958849	86.664886	Goladal	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1547] = "22.958849	86.664886";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1548] = "22.981556	86.683771	Bansketia	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1548] = "22.981556	86.683771";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1549] = "22.764673	86.557738	Kantagora	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1549] = "22.764673	86.557738";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1550] = "23.332078	86.365208	Tentla	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1550] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1551] = "23.332078	86.365208	Bhengardih	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1551] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1552] = "23.332078	86.365208	Doldcnrya	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1552] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1553] = "22.790821	86.668663	Tila Bani	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1553] = "22.790821	86.668663";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1554] = "23.332078	86.365208	Basudih	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1554] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1555] = "23.332078	86.365208	Barcaiari	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1555] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1556] = "23.332078	86.365208	Mahulbana	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1556] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1557] = "23.545278	86.909816	Udaypur	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1557] = "23.545278	86.909816";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1558] = "23.083898	86.669923	Palasbani	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1558] = "23.083898	86.669923";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1559] = "23.434121	86.667871	Akshaypur	Purulia	West Bengal	1959	Exploration		1	Survey	VD Krishnaswami";
+LatitudeLongitude[1559] = "23.434121	86.667871";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1560] = "22.678213	88.693067	Ghandraketugarh	24 Parganas	West Bengal	1959	Excavation		2	University of Calcutta	KG Goswami";
+LatitudeLongitude[1560] = "22.678213	88.693067";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1561] = "16.306652	80.43654	Uppugunduru	Guntur	Andhra Pradesh	1959	Exploration	Buddhist	1	Survey";
+LatitudeLongitude[1561] = "16.306652	80.43654";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1562] = "14.442599	79.986456	Kurichedu	Nellore	Andhra Pradesh	1959	Exploration	Neolithic	1	Survey	N Isaac";
+LatitudeLongitude[1562] = "14.442599	79.986456";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1563] = "17.442991	82.811545	Lingarajupalem	Visakhapatnam	Andhra Pradesh	1959	Exploration	Buddhist	1	Survey";
+LatitudeLongitude[1563] = "17.442991	82.811545";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1564] = "25.24143	86.992436	Shahakund	Bhagalpur	Bihar	1959	Exploration	Sculptures	1	Survey	KC Panigrahi";
+LatitudeLongitude[1564] = "25.24143	86.992436";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1565] = "25.240129	86.740439	Sultanganj	Bhagalpur	Bihar	1959	Exploration	Sculptures	1	Survey	AD Singh";
+LatitudeLongitude[1565] = "25.240129	86.740439";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1566] = "25.096074	85.313119	Doisanagar	Ranchi	Bihar	1959	Exploration	Fort	1	Survey	BK Sharan";
+LatitudeLongitude[1566] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1567] = "25.096074	85.313119	Biru	Ranchi	Bihar	1959	Exploration	Temple	1	Survey	KC Panigrahi";
+LatitudeLongitude[1567] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1568] = "28.613939	77.209021	Delhi	Delhi	Delhi	1959	Exploration	Sculptures	1	Survey";
+LatitudeLongitude[1568] = "28.613939	77.209021";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1569] = "21.674199	72.758849	Mehgam	Broach	Gujarat	1959	Exploration	Microliths	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[1569] = "21.674199	72.758849";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1570] = "21.609109	72.92391	Nangal	Broach	Gujarat	1959	Exploration	BRW	1	Survey	KV Soundara Rajan";
+LatitudeLongitude[1570] = "21.609109	72.92391";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1571] = "22.303895	70.80216	Amrana	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1571] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1572] = "22.303895	70.80216	Belan	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1572] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1573] = "22.965761	70.841725	Gala	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1573] = "22.965761	70.841725";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1574] = "22.303895	70.80216	Ghatsila	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1574] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1575] = "22.303895	70.80216	Ghumto	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1575] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1576] = "22.280567	70.753831	Gunjana	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1576] = "22.280567	70.753831";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1577] = "22.303895	70.80216	Hajanabi	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1577] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1578] = "23.000061	70.892731	Jetpur	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1578] = "23.000061	70.892731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1579] = "22.303895	70.80216	Jhikri	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1579] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1580] = "21.902545	70.033772	Johpur	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1580] = "21.902545	70.033772";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1581] = "22.853187	70.675127	Kantipur	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1581] = "22.853187	70.675127";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1582] = "22.899722	70.662574	Modpur	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1582] = "22.899722	70.662574";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1583] = "22.303895	70.80216	Nagalpur	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1583] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1584] = "22.685629	70.562738	Pithad	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1584] = "22.685629	70.562738";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1585] = "21.908106	70.546573	Rangpur	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1585] = "21.908106	70.546573";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1586] = "23.098688	72.547732	Raopur	Rajkot	Gujarat	1959	Exploration	Harappan	3	Government of Bombay";
+LatitudeLongitude[1586] = "23.098688	72.547732";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1587] = "21.468982	70.370291	Junagadh	Sorath	Gujarat	1959	Exploration	Seals	1	Survey";
+LatitudeLongitude[1587] = "21.468982	70.370291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1588] = "31.342943	76.762507	Haritalaynagar	Bilaspur	Himachal Pradesh	1959	Exploration	Fossil	1	Survey	AP Khatri";
+LatitudeLongitude[1588] = "31.342943	76.762507";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1589] = "11.258753	75.78041	Panniyannur Amsom	Kozhikode	Kerala	1959	Exploration	Cave	3	Kerala State";
+LatitudeLongitude[1589] = "11.258753	75.78041";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1590] = "10.78673	76.654793	Chakkyar Kundam	Palghat	Kerala	1959	Exploration	Temple	3	Kerala State";
+LatitudeLongitude[1590] = "10.78673	76.654793";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1591] = "26.558735	78.787288	Asohna	Bhind	Madhya Pradesh	1959	Exploration	BRW	1	Survey	JP Shrivastava";
+LatitudeLongitude[1591] = "26.558735	78.787288";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1592] = "26.206107	79.084276	Barauli	Bhind	Madhya Pradesh	1959	Exploration	BRW	1	Survey	JP Shrivastava";
+LatitudeLongitude[1592] = "26.206107	79.084276";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1593] = "26.216827	78.63349	Jamdara	Bhind	Madhya Pradesh	1959	Exploration	BRW	1	Survey	JP Shrivastava";
+LatitudeLongitude[1593] = "26.216827	78.63349";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1594] = "26.558735	78.787288	Mow	Bhind	Madhya Pradesh	1959	Exploration	BRW	1	Survey	JP Shrivastava";
+LatitudeLongitude[1594] = "26.558735	78.787288";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1595] = "26.244064	78.971245	Barehat	Bhind	Madhya Pradesh	1959	Exploration	Terracottas	1	Survey	JP Shrivastava";
+LatitudeLongitude[1595] = "26.244064	78.971245";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1596] = "21.640485	78.734867	Mohgaon	Chhindwara	Madhya Pradesh	1959	Exploration	Paleolithic	1	Survey	AP Khatri";
+LatitudeLongitude[1596] = "21.640485	78.734867";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1597] = "22.057437	78.938173	Chhindwara	Chhindwara	Madhya Pradesh	1959	Exploration	Paleolithic	1	Survey	AP Khatri";
+LatitudeLongitude[1597] = "22.057437	78.938173";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1598] = "22.719569	75.857726	Sukhaniwas Palace	Indore	Madhya Pradesh	1959	Exploration	Paleolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[1598] = "22.719569	75.857726";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1599] = "23.303235	79.910874	Bhidari-kalan	Jabalpur	Madhya Pradesh	1959	Exploration	Sculptures	1	Survey	CB Trivedi";
+LatitudeLongitude[1599] = "23.303235	79.910874";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1600] = "23.284446	79.690902	Patan	Jabalpur	Madhya Pradesh	1959	Exploration	Sculptures	1	Survey	CB Trivedi";
+LatitudeLongitude[1600] = "23.284446	79.690902";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1601] = "23.181467	79.986407	Fular	Jabalpur	Madhya Pradesh	1959	Exploration	Sculptures	1	Survey	CB Trivedi";
+LatitudeLongitude[1601] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1602] = "23.196212	79.624945	Bhita	Jabalpur	Madhya Pradesh	1959	Exploration	Sculptures	1	Survey	CB Trivedi";
+LatitudeLongitude[1602] = "23.196212	79.624945";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1603] = "23.202898	80.056985	Pipariya	Jabalpur	Madhya Pradesh	1959	Exploration	Sculptures	1	Survey	CB Trivedi";
+LatitudeLongitude[1603] = "23.202898	80.056985";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1604] = "23.167815	79.551914	Kunda	Jabalpur	Madhya Pradesh	1959	Exploration	Sculptures	1	Survey	CB Trivedi";
+LatitudeLongitude[1604] = "23.167815	79.551914";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1605] = "23.166796	80.173557	Batai	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1605] = "23.166796	80.173557";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1606] = "23.181467	79.986407	Birhaula-khera	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1606] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1607] = "23.036176	79.608097	Deori	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1607] = "23.036176	79.608097";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1608] = "23.17028	80.229343	Doli	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1608] = "23.17028	80.229343";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1609] = "23.169241	80.26001	Dunda	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1609] = "23.169241	80.26001";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1610] = "23.181467	79.986407	Gauriya	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1610] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1611] = "23.232402	79.915978	Kalan	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1611] = "23.232402	79.915978";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1612] = "23.262366	79.985009	Keolari	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1612] = "23.262366	79.985009";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1613] = "23.128466	79.973318	Khajarwara	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1613] = "23.128466	79.973318";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1614] = "23.098148	79.996194	Nimkheda	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1614] = "23.098148	79.996194";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1615] = "23.108724	80.000387	Saliwada	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1615] = "23.108724	80.000387";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1616] = "23.315405	79.647404	Basan	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1616] = "23.315405	79.647404";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1617] = "23.121037	80.290666	Budbudi	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1617] = "23.121037	80.290666";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1618] = "23.181467	79.986407	Dubha-khera	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1618] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1619] = "23.298123	79.653017	Gadaghat	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1619] = "23.298123	79.653017";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1620] = "23.08212	79.284577	Ghughri	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1620] = "23.08212	79.284577";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1621] = "23.192342	79.478826	Gubra-kalan	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1621] = "23.192342	79.478826";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1622] = "23.17476	80.159604	Hansapur	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1622] = "23.17476	80.159604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1623] = "23.251391	80.207033	Jhonjh	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1623] = "23.251391	80.207033";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1624] = "23.181467	79.986407	Lakhari	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1624] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1625] = "23.239701	79.99899	Lilkheda	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1625] = "23.239701	79.99899";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1626] = "23.227753	80.025197	Matamar	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1626] = "23.227753	80.025197";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1627] = "23.249292	80.173557	Silpura	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1627] = "23.249292	80.173557";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1628] = "23.220074	80.072351	Sonpur	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1628] = "23.220074	80.072351";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1629] = "23.181467	79.986407	Sukn	Jabalpur	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	CB Trivedi";
+LatitudeLongitude[1629] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1630] = "23.181467	79.986407	Nirandpur	Jabalpur	Madhya Pradesh	1959	Exploration	NBPW	1	Survey	CB Trivedi";
+LatitudeLongitude[1630] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1631] = "23.284446	79.690902	Patan	Jabalpur	Madhya Pradesh	1959	Exploration	NBPW	1	Survey	CB Trivedi";
+LatitudeLongitude[1631] = "23.284446	79.690902";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1632] = "23.196212	79.624945	Bhita	Jabalpur	Madhya Pradesh	1959	Exploration	NBPW	1	Survey	CB Trivedi";
+LatitudeLongitude[1632] = "23.196212	79.624945";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1633] = "21.325444	76.230893	Burhanpur	Khandwa	Madhya Pradesh	1959	Exploration	Protohistoric	1	Survey	VK Bajpai";
+LatitudeLongitude[1633] = "21.325444	76.230893";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1634] = "21.825733	76.352571	Jamadhad	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1634] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1635] = "21.825733	76.352571	Matupur	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1635] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1636] = "22.065264	76.491178	Chanera	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1636] = "22.065264	76.491178";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1637] = "21.851224	76.823081	Mojwadi	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1637] = "21.851224	76.823081";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1638] = "21.825733	76.352571	Garbardi	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1638] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1639] = "21.825733	76.352571	Punaghat-kala	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1639] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1640] = "21.825733	76.352571	Chalapa-khurd	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1640] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1641] = "22.082126	76.644159	Borkheda-khurd	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1641] = "22.082126	76.644159";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1642] = "21.825733	76.352571	Tosaniya	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1642] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1643] = "22.157051	76.216045	Karoli	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1643] = "22.157051	76.216045";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1644] = "21.903654	76.179098	Dehgaon	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1644] = "21.903654	76.179098";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1645] = "21.825733	76.352571	Hutiya	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1645] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1646] = "21.825733	76.352571	Atud-khasa	Khandwa	Madhya Pradesh	1959	Exploration	Lithics	1	Survey	C Krishna";
+LatitudeLongitude[1646] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1647] = "21.833524	75.614989	Bijagad	Khargone	Madhya Pradesh	1959	Exploration	Caves	1	Survey	VS Wakankar";
+LatitudeLongitude[1647] = "21.833524	75.614989";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1648] = "23.332733	77.782397	Raisen	Raisen	Madhya Pradesh	1959	Exploration	Paleolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[1648] = "23.332733	77.782397";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1649] = "23.838805	78.737807	Abchand	Sagar	Madhya Pradesh	1959	Exploration	Rock-shelters	2	University of Saugor	Vedanand";
+LatitudeLongitude[1649] = "23.838805	78.737807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1650] = "23.855351	78.795786	Makronia	Sagar	Madhya Pradesh	1959	Exploration	Lithics	2	University of Saugor	KD Bajpai";
+LatitudeLongitude[1650] = "23.855351	78.795786";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1651] = "23.838805	78.737807	Pithoria	Sagar	Madhya Pradesh	1959	Exploration	Temple	2	University of Saugor";
+LatitudeLongitude[1651] = "23.838805	78.737807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1652] = "23.639891	79.065495	Rehli	Sagar	Madhya Pradesh	1959	Exploration	Sculptures	2	University of Saugor";
+LatitudeLongitude[1652] = "23.639891	79.065495";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1653] = "23.389756	79.016474	Deori	Sagar	Madhya Pradesh	1959	Exploration	Sculptures	2	University of Saugor";
+LatitudeLongitude[1653] = "23.389756	79.016474";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1654] = "24.176337	78.19634	Bina	Sagar	Madhya Pradesh	1959	Exploration	Sculptures	2	University of Saugor";
+LatitudeLongitude[1654] = "24.176337	78.19634";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1655] = "24.088986	78.164994	Eran	Sagar	Madhya Pradesh	1959	Exploration	Sculptures	2	University of Saugor";
+LatitudeLongitude[1655] = "24.088986	78.164994";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1656] = "23.009748	76.903801	Dharampuri	Sehore	Madhya Pradesh	1959	Exploration	Microliths	2	University of Saugor	VK Bajpai";
+LatitudeLongitude[1656] = "23.009748	76.903801";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1657] = "22.991843	77.004626	Nayapura	Sehore	Madhya Pradesh	1959	Exploration	Rock-shelters	1	Survey	VS Wakankar";
+LatitudeLongitude[1657] = "22.991843	77.004626";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1658] = "23.205012	77.085078	Shahad-karad	Sehore	Madhya Pradesh	1959	Exploration	Rock-shelters	1	Survey	VS Wakankar";
+LatitudeLongitude[1658] = "23.205012	77.085078";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1659] = "23.205012	77.085078	Bhinyapura	Sehore	Madhya Pradesh	1959	Exploration	Rock-shelters	1	Survey	VS Wakankar";
+LatitudeLongitude[1659] = "23.205012	77.085078";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1660] = "23.289638	75.46069	Rajota	Ujjain	Madhya Pradesh	1959	Exploration	BRW	1	Survey	VS Wakankar";
+LatitudeLongitude[1660] = "23.289638	75.46069";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1661] = "23.179301	75.78491	Rajota-3-miles-north	Ujjain	Madhya Pradesh	1959	Exploration	BRW	1	Survey	VS Wakankar";
+LatitudeLongitude[1661] = "23.179301	75.78491";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1662] = "23.813757	77.495291	Shamsabad	Vidisha	Madhya Pradesh	1959	Exploration	Sculptures	2	University of Saugor	VK Bajpai";
+LatitudeLongitude[1662] = "23.813757	77.495291";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1663] = "23.672692	78.122234	Gyaraspur	Vidisha	Madhya Pradesh	1959	Exploration	Paleolithic	1	Survey	GH Deshpande";
+LatitudeLongitude[1663] = "23.672692	78.122234";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1664] = "18.404585	75.192111	Mahenduri	Ahmednagar	Maharashtra	1959	Exploration	BRW	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1664] = "18.404585	75.192111";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1665] = "21.175011	79.655824	Bhandara	Bhandara	Maharashtra	1959	Exploration	Lithics	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1665] = "21.175011	79.655824";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1666] = "21.26474	79.725966	Betala	Bhandara	Maharashtra	1959	Exploration	Lithics	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1666] = "21.26474	79.725966";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1667] = "21.3212	79.782039	Chargaon	Bhandara	Maharashtra	1959	Exploration	Lithics	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1667] = "21.3212	79.782039";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1668] = "21.297629	79.782039	Dhorwada	Bhandara	Maharashtra	1959	Exploration	Lithics	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1668] = "21.297629	79.782039";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1669] = "21.175011	79.655824	Khamri	Bhandara	Maharashtra	1959	Exploration	Lithics	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1669] = "21.175011	79.655824";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1670] = "21.236679	79.700721	Kothurna	Bhandara	Maharashtra	1959	Exploration	Lithics	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1670] = "21.236679	79.700721";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1671] = "21.223497	79.725966	Mandwi	Bhandara	Maharashtra	1959	Exploration	Lithics	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1671] = "21.223497	79.725966";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1672] = "21.245006	79.668454	Panjra	Bhandara	Maharashtra	1959	Exploration	Lithics	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1672] = "21.245006	79.668454";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1673] = "21.175011	79.655824	Takri	Bhandara	Maharashtra	1959	Exploration	Lithics	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1673] = "21.175011	79.655824";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1674] = "19.062678	72.881592	Sindhla	Chanda	Maharashtra	1959	Exploration	Lithics	1	Survey	AV Krishnamurthy";
+LatitudeLongitude[1674] = "19.062678	72.881592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1675] = "19.363617	74.933752	Ghanta Chowki	Chanda	Maharashtra	1959	Exploration	Stone circles	1	Survey	LK Srivastava";
+LatitudeLongitude[1675] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1676] = "20.101357	79.153914	Bhandak	Chanda	Maharashtra	1959	Exploration	Temple	1	Survey	LK Srivastava";
+LatitudeLongitude[1676] = "20.101357	79.153914";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1677] = "21.128077	78.952158	Wardhamna	Nagpur	Maharashtra	1959	Exploration	Lithics	1	Survey";
+LatitudeLongitude[1677] = "21.128077	78.952158";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1678] = "21.1458	79.088155	Durgamna	Nagpur	Maharashtra	1959	Exploration	Stone circles	1	Survey	SR Rao";
+LatitudeLongitude[1678] = "21.1458	79.088155";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1679] = "18.697303	73.517485	Mahagaon	Pune	Maharashtra	1959	Exploration	Microliths	1	Survey	V Mishra";
+LatitudeLongitude[1679] = "18.697303	73.517485";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1680] = "18.409256	73.767679	Donge	Pune	Maharashtra	1959	Exploration	Microliths	1	Survey	V Mishra";
+LatitudeLongitude[1680] = "18.409256	73.767679";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1681] = "18.694317	73.487256	Lohgad	Pune	Maharashtra	1959	Exploration	Microliths	1	Survey	VB Mathadhikari";
+LatitudeLongitude[1681] = "18.694317	73.487256";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1682] = "18.52043	73.856744	Mohida-tarf-haveli	Pune	Maharashtra	1959	Exploration	Microliths	1	Survey	V Mishra";
+LatitudeLongitude[1682] = "18.52043	73.856744";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1683] = "12.971599	77.594563	Soodasandra	Bangalore	Karnataka	1959	Exploration	Microliths	1	Survey	BK Gururaja Rao";
+LatitudeLongitude[1683] = "12.971599	77.594563";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1684] = "12.956673	77.733999	Siddapur	Bangalore	Karnataka	1959	Exploration	Microliths	1	Survey	BK Gururaja Rao";
+LatitudeLongitude[1684] = "12.956673	77.733999";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1685] = "15.139393	76.921443	Hulakundi	Bellary	Karnataka	1959	Exploration	Neolithic	1	Survey	BK Gururaja Rao";
+LatitudeLongitude[1685] = "15.139393	76.921443";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1686] = "16.830171	75.710031	Shidalphadi	Bijapur	Karnataka	1959	Exploration	Cave	1	Survey";
+LatitudeLongitude[1686] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1687] = "17.090859	76.217494	Almel	Bijapur	Karnataka	1959	Exploration	Sculptures	1	Survey	A Sundara";
+LatitudeLongitude[1687] = "17.090859	76.217494";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1688] = "14.019507	76.271807	Talya	Chitaldrug	Karnataka	1959	Exploration	Stone circles	1	Survey	BK Gururaja Rao";
+LatitudeLongitude[1688] = "14.019507	76.271807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1689] = "11.935418	76.990228	Budithittu	Mysore	Karnataka	1959	Exploration	BRW	1	Survey	Gururaja Rao";
+LatitudeLongitude[1689] = "11.935418	76.990228";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1690] = "12.29581	76.639381	Haralukote	Mysore	Karnataka	1959	Exploration	Temple	1	Survey";
+LatitudeLongitude[1690] = "12.29581	76.639381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1691] = "13.152606	77.031978	Bebbur	Tumkur	Karnataka	1959	Exploration	Temple	3	Mysore State";
+LatitudeLongitude[1691] = "13.152606	77.031978";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1692] = "20.440786	85.258018	Madhupur	Cuttack	Orissa	1959	Exploration	Temple	3	Orissa State";
+LatitudeLongitude[1692] = "20.440786	85.258018";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1693] = "20.409908	85.325253	Deuli	Cuttack	Orissa	1959	Exploration	Images	3	Orissa State";
+LatitudeLongitude[1693] = "20.409908	85.325253";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1694] = "20.462521	85.88299	Dharmasala	Cuttack	Orissa	1959	Exploration	Images	3	Orissa State";
+LatitudeLongitude[1694] = "20.462521	85.88299";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1695] = "20.296059	85.82454	Bhubaneswar	Cuttack	Orissa	1959	Exploration	Images	3	Orissa State";
+LatitudeLongitude[1695] = "20.296059	85.82454";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1696] = "20.462521	85.88299	Pratappur	Cuttack	Orissa	1959	Exploration	Images	3	Orissa State";
+LatitudeLongitude[1696] = "20.462521	85.88299";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1697] = "21.116933	86.135742	Sainkul	Kendujhar	Orissa	1959	Exploration	Images	3	Orissa State";
+LatitudeLongitude[1697] = "21.116933	86.135742";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1698] = "30.093381	76.610258	Nadia	Ambala	Punjab	1959	Exploration	Lithics	1	Survey	AP Khatri";
+LatitudeLongitude[1698] = "30.093381	76.610258";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1699] = "30.093381	76.610258	Masyun	Ambala	Punjab	1959	Exploration	Temple	1	Survey	Balbir Singh";
+LatitudeLongitude[1699] = "30.093381	76.610258";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1700] = "28.87732	76.64432	Astal Bohar	Rohtak	Punjab	1959	Exploration	Sculptures	1	Survey	YD Sharma";
+LatitudeLongitude[1700] = "28.87732	76.64432";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1701] = "26.089319	74.331967	Balad	Ajmer	Rajasthan	1959	Exploration	Sculptures	1	Survey	YD Sharma";
+LatitudeLongitude[1701] = "26.089319	74.331967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1702] = "27.320525	76.736538	Garh	Alwar	Rajasthan	1959	Exploration	Sculptures	1	Survey";
+LatitudeLongitude[1702] = "27.320525	76.736538";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1703] = "24.998264	74.389536	Jawanpura	Chittorgarh	Rajasthan	1959	Exploration	Microliths	1	Survey	KV Soundarajan";
+LatitudeLongitude[1703] = "24.998264	74.389536";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1704] = "27.204763	77.557643	Noh	Bharatpur	Rajasthan	1959	Exploration	Sculptures	1	Survey	KV Soundarajan";
+LatitudeLongitude[1704] = "27.204763	77.557643";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1705] = "26.996472	75.87647	Amber	Jaipur	Rajasthan	1959	Exploration	Sculptures	1	Survey	KV Soundarajan";
+LatitudeLongitude[1705] = "26.996472	75.87647";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1706] = "26.912434	75.787271	Bhandarej	Jaipur	Rajasthan	1959	Exploration	Sculptures	1	Survey	KV Soundarajan";
+LatitudeLongitude[1706] = "26.912434	75.787271";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1707] = "26.644952	74.030942	Merta	Nagaur	Rajasthan	1959	Exploration	Sculptures	1	Survey	KV Soundarajan";
+LatitudeLongitude[1707] = "26.644952	74.030942";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1708] = "26.238947	73.024309	Bhatclai	Jodhpur	Rajasthan	1959	Exploration	Images	1	Survey	NM Ganam";
+LatitudeLongitude[1708] = "26.238947	73.024309";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1709] = "27.07539	77.845304	Akhbai	Agra	Uttar Pradesh	1959	Exploration	PGW	1	Survey	JP Gupta";
+LatitudeLongitude[1709] = "27.07539	77.845304";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1710] = "27.17667	78.008075	Beman	Agra	Uttar Pradesh	1959	Exploration	PGW	1	Survey	JP Gupta";
+LatitudeLongitude[1710] = "27.17667	78.008075";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1711] = "27.17667	78.008075	Geherra-khurd	Agra	Uttar Pradesh	1959	Exploration	PGW	1	Survey	JP Gupta";
+LatitudeLongitude[1711] = "27.17667	78.008075";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1712] = "27.131382	77.831789	Karahra	Agra	Uttar Pradesh	1959	Exploration	PGW	1	Survey	JP Gupta";
+LatitudeLongitude[1712] = "27.131382	77.831789";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1713] = "27.17667	78.008075	Mahuwar	Agra	Uttar Pradesh	1959	Exploration	PGW	1	Survey	JP Gupta";
+LatitudeLongitude[1713] = "27.17667	78.008075";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1714] = "27.094529	77.667929	Fatehpur-Sikri	Agra	Uttar Pradesh	1959	Exploration	PGW	1	Survey	JP Gupta";
+LatitudeLongitude[1714] = "27.094529	77.667929";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1715] = "29.143572	78.607243	Khairabad	Ijnor	Uttar Pradesh	1959	Exploration	PGW	1	Survey	DP Agrawal";
+LatitudeLongitude[1715] = "29.143572	78.607243";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1716] = "29.19119	78.362889	Khajuri	Ijnor	Uttar Pradesh	1959	Exploration	PGW	1	Survey	DP Agrawal";
+LatitudeLongitude[1716] = "29.19119	78.362889";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1717] = "29.242662	78.207791	Jat	Ijnor	Uttar Pradesh	1959	Exploration	PGW	1	Survey	DP Agrawal";
+LatitudeLongitude[1717] = "29.242662	78.207791";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1718] = "29.466373	78.334439	Raipur	Ijnor	Uttar Pradesh	1959	Exploration	PGW	1	Survey	DP Agrawal";
+LatitudeLongitude[1718] = "29.466373	78.334439";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1719] = "29.337734	78.4418	Sedhi	Ijnor	Uttar Pradesh	1959	Exploration	PGW	1	Survey	DP Agrawal";
+LatitudeLongitude[1719] = "29.337734	78.4418";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1720] = "28.325608	77.879602	Acheja	Bulandshahr	Uttar Pradesh	1959	Exploration	PGW	1	Survey	RC Sharma";
+LatitudeLongitude[1720] = "28.325608	77.879602";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1721] = "28.587537	77.851021	Asawar	Bulandshahr	Uttar Pradesh	1959	Exploration	PGW	1	Survey	RC Sharma";
+LatitudeLongitude[1721] = "28.587537	77.851021";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1722] = "28.406963	77.849829	Jehra	Bulandshahr	Uttar Pradesh	1959	Exploration	PGW	1	Survey	RC Sharma";
+LatitudeLongitude[1722] = "28.406963	77.849829";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1723] = "28.541568	77.851021	Katauri	Bulandshahr	Uttar Pradesh	1959	Exploration	PGW	1	Survey	RC Sharma";
+LatitudeLongitude[1723] = "28.541568	77.851021";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1724] = "28.030478	78.14611	Raipur	Bulandshahr	Uttar Pradesh	1959	Exploration	PGW	1	Survey	RC Sharma";
+LatitudeLongitude[1724] = "28.030478	78.14611";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1725] = "28.406963	77.849829	Uisara	Bulandshahr	Uttar Pradesh	1959	Exploration	PGW	1	Survey	RC Sharma";
+LatitudeLongitude[1725] = "28.406963	77.849829";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1726] = "28.406963	77.849829	Birpur	Bulandshahr	Uttar Pradesh	1959	Exploration	PGW	1	Survey	RC Sharma";
+LatitudeLongitude[1726] = "28.406963	77.849829";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1727] = "28.183854	78.2647	Ghalibpur	Bulandshahr	Uttar Pradesh	1959	Exploration	PGW	1	Survey	RC Sharma";
+LatitudeLongitude[1727] = "28.183854	78.2647";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1728] = "28.406963	77.849829	Ghatamwala	Bulandshahr	Uttar Pradesh	1959	Exploration	PGW	1	Survey	RC Sharma";
+LatitudeLongitude[1728] = "28.406963	77.849829";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1729] = "27.805417	78.584348	Jakhera	Etah	Uttar Pradesh	1959	Exploration	PGW	1	Survey	SB Singh";
+LatitudeLongitude[1729] = "27.805417	78.584348";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1730] = "27.451333	79.221148	Pipargaon	Etah	Uttar Pradesh	1959	Exploration	PGW	1	Survey	SB Singh";
+LatitudeLongitude[1730] = "27.451333	79.221148";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1731] = "27.602144	79.147798	Bhargain	Etah	Uttar Pradesh	1959	Exploration	PGW	1	Survey	SB Singh";
+LatitudeLongitude[1731] = "27.602144	79.147798";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1732] = "25.874458	83.646813	Toharganj	Ghazipur	Uttar Pradesh	1959	Exploration	NBPW	1	Survey	RG Pandeya";
+LatitudeLongitude[1732] = "25.874458	83.646813";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1733] = "25.584042	83.57702	Masaondih	Ghazipur	Uttar Pradesh	1959	Exploration	NBPW	1	Survey	RG Pandeya";
+LatitudeLongitude[1733] = "25.584042	83.57702";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1734] = "25.584042	83.57702	Devachandpur	Ghazipur	Uttar Pradesh	1959	Exploration	NBPW	1	Survey	RG Pandeya";
+LatitudeLongitude[1734] = "25.584042	83.57702";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1735] = "25.133699	82.564434	Somrath	Mirzapur	Uttar Pradesh	1959	Exploration	Sculptures	1	Survey	KC Panigrahi";
+LatitudeLongitude[1735] = "25.133699	82.564434";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1736] = "16.52249	79.240886	Nagarjunakonda	Guntur	Andhra Pradesh	1960	Excavation	Paleolithic	1	Survey	H Sarkar";
+LatitudeLongitude[1736] = "16.52249	79.240886";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1737] = "16.306652	80.43654	Vaikuntapuram	Guntur	Andhra Pradesh	1960	Exploration	BRW	1	Survey	H Sarkar";
+LatitudeLongitude[1737] = "16.306652	80.43654";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1738] = "16.200685	80.528565	Chebrolu	Guntur	Andhra Pradesh	1960	Exploration	NBPW	1	Survey	H Sarkar";
+LatitudeLongitude[1738] = "16.200685	80.528565";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1739] = "16.369328	80.427088	Lam	Guntur	Andhra Pradesh	1960	Exploration	Stone circles	1	Survey	H Sarkar";
+LatitudeLongitude[1739] = "16.369328	80.427088";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1740] = "16.470893	80.402744	Motadaka	Guntur	Andhra Pradesh	1960	Exploration	Stone circles	1	Survey	H Sarkar";
+LatitudeLongitude[1740] = "16.470893	80.402744";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1741] = "16.491409	80.389525	Le Malle	Guntur	Andhra Pradesh	1960	Exploration	Stone circles	1	Survey	H Sarkar";
+LatitudeLongitude[1741] = "16.491409	80.389525";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1742] = "16.166679	80.227949	Yedlapadu	Guntur	Andhra Pradesh	1960	Exploration	Stone circles	1	Survey	H Sarkar";
+LatitudeLongitude[1742] = "16.166679	80.227949";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1743] = "15.828126	78.037279	Pitikayagulla	Kurnool	Andhra Pradesh	1960	Exploration	Paleolithic	1	Survey	K Raghavachary";
+LatitudeLongitude[1743] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1744] = "25.309239	87.284213	Antichak	Bhagalpur	Bihar	1960	Excavation	Buddhist	2	University of Patna	BP Sinha";
+LatitudeLongitude[1744] = "25.309239	87.284213";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1745] = "24.795452	84.999431	Goriya-Khoh	Gaya	Bihar	1960	Exploration	Drain	2	KP Jayaswal Research Institute	LA Narain";
+LatitudeLongitude[1745] = "24.795452	84.999431";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1746] = "24.965648	84.949239	Sonpur	Gaya	Bihar	1960	Excavation	Microliths	2	KP Jayaswal Research Institute	BS Verma";
+LatitudeLongitude[1746] = "24.965648	84.949239";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1747] = "25.068703	86.413669	Bhimbandh	Munger	Bihar	1960	Exploration	Paleolithic	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1747] = "25.068703	86.413669";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1748] = "25.374756	86.473525	Karkhup	Munger	Bihar	1960	Exploration	Iron slag	2	University of Patna	RCP Singh";
+LatitudeLongitude[1748] = "25.374756	86.473525";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1749] = "25.3682	86.475324	Jamalpur Hill	Munger	Bihar	1960	Exploration	Paleolithic	2	University of Patna	RCP Singh";
+LatitudeLongitude[1749] = "25.3682	86.475324";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1750] = "25.096074	85.313119	Paharpur	Santal Parganas	Bihar	1960	Exploration	Microliths	2	KP Jayaswal Research Institute	KK Datta";
+LatitudeLongitude[1750] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1751] = "25.096074	85.313119	Mohantada	Santal Parganas	Bihar	1960	Exploration	Paleolithic	2	KP Jayaswal Research Institute	KK Datta";
+LatitudeLongitude[1751] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1752] = "25.096074	85.313119	Bandarkola	Santal Parganas	Bihar	1960	Exploration	Paleolithic	2	KP Jayaswal Research Institute	KK Datta";
+LatitudeLongitude[1752] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1753] = "25.096074	85.313119	Amjani	Santal Parganas	Bihar	1960	Exploration	Paleolithic	2	KP Jayaswal Research Institute	KK Datta";
+LatitudeLongitude[1753] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1754] = "25.096074	85.313119	Parer-kola	Santal Parganas	Bihar	1960	Exploration	Paleolithic	2	University of Patna	RCP Singh";
+LatitudeLongitude[1754] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1755] = "25.096074	85.313119	Chhoti Suraj Bera Hill	Santal Parganas	Bihar	1960	Exploration	Paleolithic	2	University of Patna	RCP Singh";
+LatitudeLongitude[1755] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1756] = "25.096074	85.313119	Kathi-Kunda	Santal Parganas	Bihar	1960	Exploration	Paleolithic	2	University of Patna	RCP Singh";
+LatitudeLongitude[1756] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1757] = "25.096074	85.313119	Amrapara	Santal Parganas	Bihar	1960	Exploration	Paleolithic	2	University of Patna	RCP Singh";
+LatitudeLongitude[1757] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1758] = "25.096074	85.313119	Masanjore	Santal Parganas	Bihar	1960	Exploration	Paleolithic	2	University of Patna	RCP Singh";
+LatitudeLongitude[1758] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1759] = "26.001251	85.114869	Baniya	Muzaffarpur	Bihar	1960	Excavation	Three Periods	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1759] = "26.001251	85.114869";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1760] = "25.99264	85.09995	Lalpura	Muzaffarpur	Bihar	1960	Excavation	NBPW	2	KP Jayaswal Research Institute	Sita Ram Roy";
+LatitudeLongitude[1760] = "25.99264	85.09995";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1761] = "28.528824	77.180868	Lal-Kot	Delhi	Delhi	1960	Excavation	Wall	1	Survey";
+LatitudeLongitude[1761] = "28.528824	77.180868";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1762] = "21.603177	71.222083	Hanumandhoro	Amreli	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1762] = "21.603177	71.222083";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1763] = "21.603177	71.222083	Dhuapnio	Amreli	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1763] = "21.603177	71.222083";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1764] = "21.764473	72.15193	Khetarvalo	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1764] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1765] = "21.764473	72.15193	Old Alatala	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1765] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1766] = "21.493203	71.842309	Sonpari	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1766] = "21.493203	71.842309";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1767] = "21.764473	72.15193	Devalio	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1767] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1768] = "21.421514	71.972735	Bhegali	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1768] = "21.421514	71.972735";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1769] = "21.764473	72.15193	Jilada	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1769] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1770] = "21.764473	72.15193	Chandgadh	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1770] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1771] = "21.764473	72.15193	Mahadevayo	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1771] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1772] = "21.407319	71.627286	Ranigam	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1772] = "21.407319	71.627286";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1773] = "21.742553	72.080888	Khodiyar	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1773] = "21.742553	72.080888";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1774] = "21.764473	72.15193	Khalavad	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1774] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1775] = "21.764473	72.15193	Lakhavav	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1775] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1776] = "21.764473	72.15193	Keriya Old	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1776] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1777] = "21.764473	72.15193	Laliyo	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1777] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1778] = "21.764473	72.15193	Nehur	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1778] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1779] = "21.764473	72.15193	Holidhar	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1779] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1780] = "21.714791	71.881807	Makavana	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1780] = "21.714791	71.881807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1781] = "21.764473	72.15193	Aledhar	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1781] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1782] = "22.061461	71.963845	Patana	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1782] = "22.061461	71.963845";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1783] = "21.824024	71.7578	Timbi	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1783] = "21.824024	71.7578";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1784] = "21.764473	72.15193	Patana-II	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1784] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1785] = "21.764473	72.15193	Keravalo	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1785] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1786] = "21.764473	72.15193	Pasegam	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1786] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1787] = "21.764473	72.15193	Khanderio	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1787] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1788] = "21.966118	71.483365	Old Rampara	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1788] = "21.966118	71.483365";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1789] = "21.764473	72.15193	Charanio	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1789] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1790] = "21.764473	72.15193	Old Tarpada	Bhavnagar	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1790] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1791] = "21.764473	72.15193	Jivani	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1791] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1792] = "21.764473	72.15193	Vaharvo	Bhavnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1792] = "21.764473	72.15193";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1793] = "22.470702	70.05773	Lakhan Timbo	Jamnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1793] = "22.470702	70.05773";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1794] = "22.738063	70.484844	Tarana	Jamnagar	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1794] = "22.738063	70.484844";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1795] = "23.733733	69.859741	Khakhra Dera	Kutch	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1795] = "23.733733	69.859741";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1796] = "23.814453	68.769153	Lakhpat	Kutch	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1796] = "23.814453	68.769153";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1797] = "23.399661	70.746583	Mevasa	Kutch	Gujarat	1960	Exploration	Vasai	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1797] = "23.399661	70.746583";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1798] = "22.446599	70.681533	Gadhada-I	Rajkot	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1798] = "22.446599	70.681533";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1799] = "22.303895	70.80216	Gadhada-2	Rajkot	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1799] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1800] = "22.303895	70.80216	Gadhada-3	Rajkot	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1800] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1801] = "22.303895	70.80216	Khakhra Bela-1	Rajkot	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1801] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1802] = "22.303895	70.80216	Khakhra Bela-2	Rajkot	Gujarat	1960	Exploration	RP	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1802] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1803] = "22.303895	70.80216	Khakhra Bela-3	Rajkot	Gujarat	1960	Exploration	Harappan	3	Government of Gujarat	JM Nanavati";
+LatitudeLongitude[1803] = "22.303895	70.80216";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1804] = "23.670614	73.397394	Devnimori	Sabarkantha	Gujarat	1960	Excavation	Vihara	2	MS University Baroda  B Subbarao";
+LatitudeLongitude[1804] = "23.670614	73.397394";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1805] = "34.125541	74.944258	Burzahom	Srinagar	Jammu and Kashmir	1960	Excavation	Megalithic	1	Survey	TN Khazanchi";
+LatitudeLongitude[1805] = "34.125541	74.944258";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1806] = "24.63482	77.297978	Betwa banks	Guna	Madhya Pradesh	1960	Exploration	Paleolithic	2	Deccan College";
+LatitudeLongitude[1806] = "24.63482	77.297978";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1807] = "23.838805	78.737807	Bina banks	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	2	Deccan College";
+LatitudeLongitude[1807] = "23.838805	78.737807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1808] = "23.52511	77.808136	Dhasan banks	Vidisha	Madhya Pradesh	1960	Exploration	Paleolithic	2	Deccan College	Rameshwar Singh";
+LatitudeLongitude[1808] = "23.52511	77.808136";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1809] = "22.744108	77.736967	Adamgarh	Hoshangabad	Madhya Pradesh	1960	Excavation	Rock-shelters	1	Survey	RV Joshi";
+LatitudeLongitude[1809] = "22.744108	77.736967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1810] = "23.181467	79.986407	Manot	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1810] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1811] = "23.416804	79.959838	Mandla	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1811] = "23.416804	79.959838";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1812] = "23.181467	79.986407	Bahmni	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1812] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1813] = "23.13059	79.802357	Bheraghat	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1813] = "23.13059	79.802357";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1814] = "23.109891	79.830769	Lametaghat	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1814] = "23.109891	79.830769";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1815] = "23.109412	79.874312	Tilwaraghat	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1815] = "23.109412	79.874312";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1816] = "23.098148	79.996194	Nimkhera	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1816] = "23.098148	79.996194";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1817] = "23.005273	79.902478	Saliwara	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1817] = "23.005273	79.902478";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1818] = "23.107832	79.780638	Sakri	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1818] = "23.107832	79.780638";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1819] = "23.122413	80.312954	Kastara	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1819] = "23.122413	80.312954";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1820] = "22.946557	79.194353	Devakachar	Narsinghpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1820] = "22.946557	79.194353";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1821] = "22.990127	79.10122	Ratikarar	Narsinghpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1821] = "22.990127	79.10122";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1822] = "23.063234	78.990956	Barmanghat	Narsinghpur	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1822] = "23.063234	78.990956";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1823] = "22.744108	77.736967	Jhilpiparia	Hoshangabad	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1823] = "22.744108	77.736967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1824] = "22.911497	78.35151	Sandia	Hoshangabad	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1824] = "22.911497	78.35151";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1825] = "22.906358	78.341552	Seoni	Hoshangabad	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1825] = "22.906358	78.341552";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1826] = "22.744108	77.736967	Hoshangabad	Hoshangabad	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1826] = "22.744108	77.736967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1827] = "22.744108	77.736967	Dongarwara	Hoshangabad	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[1827] = "22.744108	77.736967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1828] = "24.088986	78.164994	Eran	Sagar	Madhya Pradesh	1960	Excavation	Microliths	2	University of Saugor	KD Bajpai";
+LatitudeLongitude[1828] = "24.088986	78.164994";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1829] = "11.016845	76.955832	Pushpattur	Coimbatore	Tamil Nadu	1960	Exploration	Stone circles	1	Survey	VN Srinivasa Desikan";
+LatitudeLongitude[1829] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1830] = "11.016845	76.955832	Vilakethi	Coimbatore	Tamil Nadu	1960	Exploration	Stone circles	1	Survey	VN Srinivasa Desikan";
+LatitudeLongitude[1830] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1831] = "11.279964	77.124067	Pasur	Coimbatore	Tamil Nadu	1960	Exploration	Stone circles	1	Survey	VN Srinivasa Desikan";
+LatitudeLongitude[1831] = "11.279964	77.124067";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1832] = "10.67589	77.190931	Kongalnagaram	Coimbatore	Tamil Nadu	1960	Exploration	Stone circles	1	Survey	VN Srinivasa Desikan";
+LatitudeLongitude[1832] = "10.67589	77.190931";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1833] = "11.016845	76.955832	Nattukkalpalayam	Coimbatore	Tamil Nadu	1960	Exploration	Stone circles	1	Survey	VN Srinivasa Desikan";
+LatitudeLongitude[1833] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1834] = "11.016845	76.955832	Sircar-Periapalayam	Coimbatore	Tamil Nadu	1960	Exploration	Russet Ware	1	Survey	VN Srinivasa Desikan";
+LatitudeLongitude[1834] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1835] = "11.016845	76.955832	Mukasi-Pidariyur	Coimbatore	Tamil Nadu	1960	Exploration	Russet Ware	1	Survey	VN Srinivasa Desikan";
+LatitudeLongitude[1835] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1836] = "11.016845	76.955832	Vilakethi	Coimbatore	Tamil Nadu	1960	Exploration	Russet Ware	1	Survey	VN Srinivasa Desikan";
+LatitudeLongitude[1836] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1837] = "11.016845	76.955832	Kodumanal	Coimbatore	Tamil Nadu	1960	Exploration	Russet Ware	1	Survey	VN Srinivasa Desikan";
+LatitudeLongitude[1837] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1838] = "11.016845	76.955832	Dharmapuri	Coimbatore	Tamil Nadu	1960	Exploration	Urn Burial	1	Survey	VN Srinivasa Desikan";
+LatitudeLongitude[1838] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1839] = "9.719792	78.071255	T. Puduppatti	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1839] = "9.719792	78.071255";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1840] = "9.739625	77.983858	Sivarakkottai	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1840] = "9.739625	77.983858";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1841] = "9.721362	77.855309	T. Kallupatti	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1841] = "9.721362	77.855309";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1842] = "9.959403	78.134802	Tidian	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1842] = "9.959403	78.134802";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1843] = "9.925201	78.119775	Karuvelampetti	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1843] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1844] = "9.925201	78.119775	Anaikkarapatti	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1844] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1845] = "9.676895	78.0281	Chennampatti	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1845] = "9.676895	78.0281";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1846] = "9.925201	78.119775	Krisalkalampatti	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1846] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1847] = "10.11665	78.15003	Kodangipatti	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1847] = "10.11665	78.15003";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1848] = "9.925201	78.119775	Virachinnammalpuram	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1848] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1849] = "9.936006	77.940311	Munandipatti	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1849] = "9.936006	77.940311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1850] = "9.925201	78.119775	Kuraiyu	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1850] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1851] = "9.29245	78.135087	Pudur	Madurai	Tamil Nadu	1960	Exploration	BRW	1	Survey";
+LatitudeLongitude[1851] = "9.29245	78.135087";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1852] = "9.79494	77.790263	Kottaipatti	Madurai	Tamil Nadu	1960	Exploration	Cists	1	Survey";
+LatitudeLongitude[1852] = "9.79494	77.790263";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1853] = "9.925201	78.119775	Salippapillaiyarnattam	Madurai	Tamil Nadu	1960	Exploration	BRW	1	Survey";
+LatitudeLongitude[1853] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1854] = "9.925201	78.119775	Mudalakkampatti	Madurai	Tamil Nadu	1960	Exploration	Russet Ware	1	Survey";
+LatitudeLongitude[1854] = "9.925201	78.119775";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1855] = "10.037649	78.285342	Araattampatti	Madurai	Tamil Nadu	1960	Exploration	Russet Ware	1	Survey";
+LatitudeLongitude[1855] = "10.037649	78.285342";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1856] = "19.671166	74.502792	Astagaon	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1856] = "19.671166	74.502792";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1857] = "18.637782	74.636749	Baburdi	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1857] = "18.637782	74.636749";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1858] = "19.369225	74.411525	Chikalthan	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1858] = "19.369225	74.411525";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1859] = "19.095208	74.749592	Daithangunjale	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1859] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1860] = "19.164194	74.856561	Daradgaon	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1860] = "19.164194	74.856561";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1861] = "18.748115	74.638579	Gadirgaon	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1861] = "18.748115	74.638579";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1862] = "19.095208	74.749592	Ganjibhovaro	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1862] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1863] = "18.909139	74.305955	Gunore	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1863] = "18.909139	74.305955";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1864] = "18.999188	74.522159	Hange	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1864] = "18.999188	74.522159";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1865] = "19.311991	74.552187	Jambhali	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1865] = "19.311991	74.552187";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1866] = "19.095208	74.749592	Javale	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1866] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1867] = "19.095208	74.749592	Kohokadi	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1867] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1868] = "18.857412	74.376341	Kurund	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1868] = "18.857412	74.376341";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1869] = "19.095208	74.749592	Mhase-Khurd	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1869] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1870] = "19.095208	74.749592	Mungse	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1870] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1871] = "19.788535	74.473078	Nighoj	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1871] = "19.788535	74.473078";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1872] = "19.095208	74.749592	Rayatale	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1872] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1873] = "18.912427	74.555849	Rui Chattrapati	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1873] = "18.912427	74.555849";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1874] = "19.304206	75.180804	Shahajapur	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1874] = "19.304206	75.180804";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1875] = "19.095208	74.749592	Shrusule	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1875] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1876] = "19.095208	74.749592	Sirkanegaon	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1876] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1877] = "19.905499	74.355815	Thadi	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1877] = "19.905499	74.355815";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1878] = "19.095208	74.749592	Vadner-Budruk	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1878] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1879] = "19.095208	74.749592	Vaghunde-Khurd	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1879] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1880] = "18.943966	74.562558	Walwane	Ahmednagar	Maharashtra	1960	Exploration	Microliths	1	Survey	BP Bopardikar";
+LatitudeLongitude[1880] = "18.943966	74.562558";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1881] = "18.921209	74.446701	Jategaon	Ahmednagar	Maharashtra	1960	Exploration	BRW	1	Survey	BP Bopardikar";
+LatitudeLongitude[1881] = "18.921209	74.446701";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1882] = "19.190665	75.069875	Mahisgaon	Ahmednagar	Maharashtra	1960	Exploration	BRW	1	Survey	BP Bopardikar";
+LatitudeLongitude[1882] = "19.190665	75.069875";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1883] = "19.095208	74.749592	Palwe-Khurd	Ahmednagar	Maharashtra	1960	Exploration	BRW	1	Survey	BP Bopardikar";
+LatitudeLongitude[1883] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1884] = "18.950472	74.4848	Sultanpur	Ahmednagar	Maharashtra	1960	Exploration	BRW	1	Survey	BP Bopardikar";
+LatitudeLongitude[1884] = "18.950472	74.4848";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1885] = "19.397922	74.500184	Tarabad	Ahmednagar	Maharashtra	1960	Exploration	BRW	1	Survey	BP Bopardikar";
+LatitudeLongitude[1885] = "19.397922	74.500184";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1886] = "19.095208	74.749592	Rotegaon-Gerpal	Ahmednagar	Maharashtra	1960	Exploration	BRW	1	Survey	BP Bopardikar";
+LatitudeLongitude[1886] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1887] = "19.095208	74.749592	Vajewade	Ahmednagar	Maharashtra	1960	Exploration	BRW	1	Survey	BP Bopardikar";
+LatitudeLongitude[1887] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1888] = "19.095208	74.749592	Wavrat	Ahmednagar	Maharashtra	1960	Exploration	BRW	1	Survey	BP Bopardikar";
+LatitudeLongitude[1888] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1889] = "19.116327	74.547793	Bhalauni	Ahmednagar	Maharashtra	1960	Exploration	Sculptures	1	Survey	BP Bopardikar";
+LatitudeLongitude[1889] = "19.116327	74.547793";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1890] = "19.11789	74.519595	Malkup	Ahmednagar	Maharashtra	1960	Exploration	Sculptures	1	Survey	BP Bopardikar";
+LatitudeLongitude[1890] = "19.11789	74.519595";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1891] = "19.095208	74.749592	Hathi Well	Ahmednagar	Maharashtra	1960	Exploration	Paleolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1891] = "19.095208	74.749592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1892] = "19.551177	74.928106	Nevasa	Ahmednagar	Maharashtra	1960	Excavation	Chalcolithic	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1892] = "19.551177	74.928106";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1893] = "19.204516	72.85201	Kandivli	Bombay Suburban	Maharashtra	1960	Exploration	Microliths	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1893] = "19.204516	72.85201";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1894] = "19.164008	72.789509	Madh	Bombay Suburban	Maharashtra	1960	Exploration	Microliths	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1894] = "19.164008	72.789509";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1895] = "19.1604429	72.7833859	Yerangal Point	Bombay Suburban	Maharashtra	1960	Exploration	Microliths	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1895] = "19.1604429	72.7833859";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1896] = "19.363617	74.933752	Papamiya-Tekdi	Chanda	Maharashtra	1960	Exploration	Microliths	1	Survey	LK Srinivasan";
+LatitudeLongitude[1896] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1897] = "19.363617	74.933752	Jhari-Mangml	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1897] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1898] = "19.363617	74.933752	Ambeneri	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1898] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1899] = "19.363617	74.933752	Belgaon-Bhoyar	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1899] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1900] = "19.363617	74.933752	Bhatala	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1900] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1901] = "19.363617	74.933752	Bothli	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1901] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1902] = "19.363617	74.933752	Chichghat	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1902] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1903] = "19.363617	74.933752	Chikli	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1903] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1904] = "19.363617	74.933752	Dabkaheti	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1904] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1905] = "19.363617	74.933752	Kemjai	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1905] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1906] = "19.363617	74.933752	Khaparla-Khurd	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1906] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1907] = "19.363617	74.933752	Khapri	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1907] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1908] = "19.363617	74.933752	Mahalgaon	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1908] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1909] = "19.363617	74.933752	Minjhari	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1909] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1910] = "19.363617	74.933752	Paradpar	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1910] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1911] = "19.363617	74.933752	Rengabodi	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1911] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1912] = "17.692397	74.007007	Sonegaon	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1912] = "17.692397	74.007007";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1913] = "20.091747	79.149907	Sumthana	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1913] = "20.091747	79.149907";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1914] = "19.363617	74.933752	Titwi	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1914] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1915] = "19.363617	74.933752	Umri	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1915] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1916] = "19.363617	74.933752	Urkud-par	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1916] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1917] = "19.363617	74.933752	Usegaon	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1917] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1918] = "19.363617	74.933752	Kudholi	Chanda	Maharashtra	1960	Exploration	Paleolithic	1	Survey";
+LatitudeLongitude[1918] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1919] = "19.363617	74.933752	Khandala	Chanda	Maharashtra	1960	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1919] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1920] = "19.363617	74.933752	Peth-Bhansuli	Chanda	Maharashtra	1960	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1920] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1921] = "19.363617	74.933752	Wowala	Chanda	Maharashtra	1960	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1921] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1922] = "19.363617	74.933752	Chak-Vithalwada	Chanda	Maharashtra	1960	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1922] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1923] = "19.363617	74.933752	Rajura	Chanda	Maharashtra	1960	Exploration	Microliths	1	Survey";
+LatitudeLongitude[1923] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1924] = "19.363617	74.933752	Dongargaon	Chanda	Maharashtra	1960	Exploration	Stone circles	1	Survey";
+LatitudeLongitude[1924] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1925] = "19.363617	74.933752	Kukud-Chimda	Chanda	Maharashtra	1960	Exploration	Stone circles	1	Survey";
+LatitudeLongitude[1925] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1926] = "19.363617	74.933752	Ravi	Chanda	Maharashtra	1960	Exploration	Stone circles	1	Survey";
+LatitudeLongitude[1926] = "19.363617	74.933752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1927] = "21.296986	74.57562	Mandal	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1927] = "21.296986	74.57562";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1928] = "20.90422	74.774898	Bhana	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1928] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1929] = "20.90422	74.774898	Champala	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1929] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1930] = "21.296851	74.160696	Nagsar	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1930] = "21.296851	74.160696";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1931] = "21.358573	74.259185	Nandurbur	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1931] = "21.358573	74.259185";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1932] = "20.90422	74.774898	Shetti	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1932] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1933] = "20.90422	74.774898	Talvad-Khurd	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1933] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1934] = "20.90422	74.774898	Siyalpurpada	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1934] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1935] = "21.529479	75.001237	Hat-Mohida	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1935] = "21.529479	75.001237";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1936] = "20.90422	74.774898	Jharalipada	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1936] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1937] = "20.90422	74.774898	Kaltolambipada	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1937] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1938] = "20.90422	74.774898	Kakarda	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1938] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1939] = "21.482543	74.666391	Khaparkheda	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1939] = "21.482543	74.666391";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1940] = "20.90422	74.774898	Kharadipada	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1940] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1941] = "20.90422	74.774898	Sindganhan	Dhule	Maharashtra	1960	Exploration	Microliths	1	Survey	SA Sali";
+LatitudeLongitude[1941] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1942] = "20.90422	74.774898	Ranala-Khurd	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1942] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1943] = "20.733574	74.891646	Shirvad	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1943] = "20.733574	74.891646";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1944] = "20.90422	74.774898	Vadjakhan	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1944] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1945] = "20.90422	74.774898	Umajachapada	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1945] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1946] = "20.90422	74.774898	Akhatvada	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1946] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1947] = "21.043293	74.360214	Bhamer	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1947] = "21.043293	74.360214";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1948] = "21.252908	74.261949	Thanepada	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1948] = "21.252908	74.261949";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1949] = "20.90422	74.774898	Umarda-Khurd	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1949] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1950] = "20.90422	74.774898	Vaghale-Balaurapada	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1950] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1951] = "20.90422	74.774898	Hat-Buduki	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1951] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1952] = "20.90422	74.774898	Junmohida	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1952] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1953] = "20.90422	74.774898	Kanalda	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1953] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1954] = "20.90422	74.774898	Dhandod	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1954] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1955] = "20.90422	74.774898	Jaklipada	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1955] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1956] = "20.90422	74.774898	Khandvali	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1956] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1957] = "20.90422	74.774898	Khairela	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1957] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1958] = "20.971457	74.784176	Nagaon	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1958] = "20.971457	74.784176";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1959] = "20.90422	74.774898	Ojharda	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1959] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1960] = "20.90422	74.774898	Ranjala	Dhule	Maharashtra	1960	Exploration	Megalithic	1	Survey	SA Sali";
+LatitudeLongitude[1960] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1961] = "20.90422	74.774898	Sangirpada	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1961] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1962] = "21.415166	74.792952	Vikhran	Dhule	Maharashtra	1960	Exploration	Paleolithic	1	Survey	SA Sali";
+LatitudeLongitude[1962] = "21.415166	74.792952";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1963] = "21.26666	74.376341	Balvand	Dhule	Maharashtra	1960	Exploration	BRW	1	Survey	SA Sali";
+LatitudeLongitude[1963] = "21.26666	74.376341";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1964] = "20.90422	74.774898	Bhona	Dhule	Maharashtra	1960	Exploration	BRW	1	Survey	SA Sali";
+LatitudeLongitude[1964] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1965] = "20.90422	74.774898	Nashinda	Dhule	Maharashtra	1960	Exploration	BRW	1	Survey	SA Sali";
+LatitudeLongitude[1965] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1966] = "21.285018	74.355815	Tilali	Dhule	Maharashtra	1960	Exploration	BRW	1	Survey	SA Sali";
+LatitudeLongitude[1966] = "21.285018	74.355815";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1967] = "20.90422	74.774898	Tisi	Dhule	Maharashtra	1960	Exploration	BRW	1	Survey	SA Sali";
+LatitudeLongitude[1967] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1968] = "20.90422	74.774898	Borala	Dhule	Maharashtra	1960	Exploration	Chalcolithic	1	Survey	SA Sali";
+LatitudeLongitude[1968] = "20.90422	74.774898";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1969] = "19.017173	73.972718	Chandoli-Khurd	Pune	Maharashtra	1960	Excavation	Jorwe	2	Deccan College	HD Sankalia";
+LatitudeLongitude[1969] = "19.017173	73.972718";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1970] = "16.456831	76.384579	Salvadgi	Bijapur	Karnataka	1960	Exploration	Microliths	1	Survey	A Soundara";
+LatitudeLongitude[1970] = "16.456831	76.384579";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1971] = "16.830171	75.710031	Matkandevanhalli	Bijapur	Karnataka	1960	Exploration	Microliths	1	Survey	A Soundara";
+LatitudeLongitude[1971] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1972] = "16.830171	75.710031	Kutchbal	Bijapur	Karnataka	1960	Exploration	Microliths	1	Survey	A Soundara";
+LatitudeLongitude[1972] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1973] = "17.071187	76.415813	Baglur	Bijapur	Karnataka	1960	Exploration	Microliths	1	Survey	A Soundara";
+LatitudeLongitude[1973] = "17.071187	76.415813";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1974] = "16.830171	75.710031	Baur	Bijapur	Karnataka	1960	Exploration	Microliths	1	Survey	A Soundara";
+LatitudeLongitude[1974] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1975] = "16.433243	76.369517	Bilebhavi	Bijapur	Karnataka	1960	Exploration	Microliths	1	Survey	A Soundara";
+LatitudeLongitude[1975] = "16.433243	76.369517";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1976] = "16.480108	76.381092	Gundaknal	Bijapur	Karnataka	1960	Exploration	Microliths	1	Survey	A Soundara";
+LatitudeLongitude[1976] = "16.480108	76.381092";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1977] = "16.410328	76.243386	Hulagbal	Bijapur	Karnataka	1960	Exploration	Burial	1	Survey	A Soundara";
+LatitudeLongitude[1977] = "16.410328	76.243386";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1978] = "16.830171	75.710031	Ingalgeri	Bijapur	Karnataka	1960	Exploration	Microliths	1	Survey	A Soundara";
+LatitudeLongitude[1978] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1979] = "16.830171	75.710031	Kaldevanhalli	Bijapur	Karnataka	1960	Exploration	Burial	1	Survey	A Soundara";
+LatitudeLongitude[1979] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1980] = "16.830171	75.710031	Kumshi	Bijapur	Karnataka	1960	Exploration	Sculptures	1	Survey	A Soundara";
+LatitudeLongitude[1980] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1981] = "16.830171	75.710031	Mailesvara	Bijapur	Karnataka	1960	Exploration	Stone circles	1	Survey	A Soundara";
+LatitudeLongitude[1981] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1982] = "16.470909	76.274703	Minajgi	Bijapur	Karnataka	1960	Exploration	Sculptures	1	Survey	A Soundara";
+LatitudeLongitude[1982] = "16.470909	76.274703";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1983] = "16.478257	76.310933	Talikot	Bijapur	Karnataka	1960	Exploration	Stone circles	1	Survey	A Soundara";
+LatitudeLongitude[1983] = "16.478257	76.310933";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1984] = "16.830171	75.710031	Madnahalli	Bijapur	Karnataka	1960	Exploration	Stone circles	1	Survey	A Soundara";
+LatitudeLongitude[1984] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1985] = "16.439788	76.337679	Maskanal	Bijapur	Karnataka	1960	Exploration	Stone circles	1	Survey	A Soundara";
+LatitudeLongitude[1985] = "16.439788	76.337679";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1986] = "17.138828	76.305833	Devangaon	Bijapur	Karnataka	1960	Exploration	BRW	1	Survey	A Soundara";
+LatitudeLongitude[1986] = "17.138828	76.305833";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1987] = "16.830171	75.710031	Shirshagi	Bijapur	Karnataka	1960	Exploration	Sculptures	1	Survey	A Soundara";
+LatitudeLongitude[1987] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1988] = "16.933533	76.039916	Kadlewad	Bijapur	Karnataka	1960	Exploration	Sculptures	1	Survey	A Soundara";
+LatitudeLongitude[1988] = "16.933533	76.039916";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1989] = "15.458924	75.007808	Konchigeri	Dharwar	Karnataka	1960	Exploration	Paleolithic	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1989] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1990] = "15.458924	75.007808	Nalwagal	Dharwar	Karnataka	1960	Exploration	Microliths	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1990] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1991] = "15.458924	75.007808	Nadiharalhalli	Dharwar	Karnataka	1960	Exploration	Microliths	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1991] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1992] = "15.458924	75.007808	Kowlet	Dharwar	Karnataka	1960	Exploration	Jorwe	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1992] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1993] = "15.458924	75.007808	Malkanhalli	Dharwar	Karnataka	1960	Exploration	Stone circles	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1993] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1994] = "15.458924	75.007808	Kamdod	Dharwar	Karnataka	1960	Exploration	Stone circles	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1994] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1995] = "15.354198	75.128103	Hosur	Dharwar	Karnataka	1960	Exploration	Stone circles	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1995] = "15.354198	75.128103";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1996] = "15.458924	75.007808	Jangad	Dharwar	Karnataka	1960	Exploration	Stone circles	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1996] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1997] = "15.458924	75.007808	Belgatti	Dharwar	Karnataka	1960	Exploration	Stone circles	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1997] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1998] = "15.458924	75.007808	Bellatti	Dharwar	Karnataka	1960	Exploration	Dolmen	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1998] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[1999] = "15.458924	75.007808	Airaini	Dharwar	Karnataka	1960	Exploration	Russet Ware	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[1999] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2000] = "15.458924	75.007808	Chodhal	Dharwar	Karnataka	1960	Exploration	Russet Ware	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[2000] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2001] = "15.458924	75.007808	Hirevidare	Dharwar	Karnataka	1960	Exploration	Russet Ware	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[2001] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2002] = "15.458924	75.007808	Itga	Dharwar	Karnataka	1960	Exploration	Russet Ware	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[2002] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2003] = "15.342263	75.143463	Itagi	Dharwar	Karnataka	1960	Exploration	Temple	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[2003] = "15.342263	75.143463";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2004] = "15.345601	74.761138	Mangod	Dharwar	Karnataka	1960	Exploration	Temple	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[2004] = "15.345601	74.761138";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2005] = "15.458924	75.007808	Nagarmadu	Dharwar	Karnataka	1960	Exploration	Temple	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[2005] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2006] = "15.458924	75.007808	Tangadu	Dharwar	Karnataka	1960	Exploration	Temple	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[2006] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2007] = "15.458924	75.007808	Unkli	Dharwar	Karnataka	1960	Exploration	Temple	1	Survey	MS Nagaraja Rao";
+LatitudeLongitude[2007] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2008] = "12.574839	76.197211	Hebsur	Mysore	Karnataka	1960	Exploration	Microliths	1	Survey	C Krishnamurti";
+LatitudeLongitude[2008] = "12.574839	76.197211";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2009] = "12.312939	76.69613	Yaragamballi	Mysore	Karnataka	1960	Exploration	Microliths	1	Survey	C Krishnamurti";
+LatitudeLongitude[2009] = "12.312939	76.69613";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2010] = "12.00575	77.119752	Gumballi	Mysore	Karnataka	1960	Exploration	Microliths	1	Survey	C Krishnamurti";
+LatitudeLongitude[2010] = "12.00575	77.119752";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2011] = "12.29581	76.639381	Boodi-Tittu	Mysore	Karnataka	1960	Exploration	Microliths	1	Survey	C Krishnamurti";
+LatitudeLongitude[2011] = "12.29581	76.639381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2012] = "12.29581	76.639381	Sivakalli	Mysore	Karnataka	1960	Exploration	Microliths	1	Survey	C Krishnamurti";
+LatitudeLongitude[2012] = "12.29581	76.639381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2013] = "12.041623	77.064361	Komaranapura	Mysore	Karnataka	1960	Exploration	Microliths	1	Survey	C Krishnamurti";
+LatitudeLongitude[2013] = "12.041623	77.064361";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2014] = "12.466168	76.394385	Purani	Mysore	Karnataka	1960	Exploration	Microliths	1	Survey	C Krishnamurti";
+LatitudeLongitude[2014] = "12.466168	76.394385";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2015] = "12.29581	76.639381	Telnur	Mysore	Karnataka	1960	Exploration	BRW	1	Survey	C Krishnamurti";
+LatitudeLongitude[2015] = "12.29581	76.639381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2016] = "12.133099	76.453417	Palya	Mysore	Karnataka	1960	Exploration	BRW	1	Survey	C Krishnamurti";
+LatitudeLongitude[2016] = "12.133099	76.453417";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2017] = "15.792973	74.448838	Kuttalavadi	Mysore	Karnataka	1960	Exploration	Microliths	1	Survey	C Krishnamurti";
+LatitudeLongitude[2017] = "15.792973	74.448838";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2018] = "12.21654	77.019023	Hemmige	Mysore	Karnataka	1960	Exploration	Microliths	1	Survey	C Krishnamurti";
+LatitudeLongitude[2018] = "12.21654	77.019023";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2019] = "12.4288	76.436062	Hosahalli	Mysore	Karnataka	1960	Exploration	Microliths	1	Survey	C Krishnamurti";
+LatitudeLongitude[2019] = "12.4288	76.436062";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2020] = "12.039696	76.584939	Ambale	Mysore	Karnataka	1960	Exploration	Russet Ware	1	Survey	C Krishnamurti";
+LatitudeLongitude[2020] = "12.039696	76.584939";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2021] = "12.29581	76.639381	Goudrahalli	Mysore	Karnataka	1960	Exploration	Russet Ware	1	Survey	C Krishnamurti";
+LatitudeLongitude[2021] = "12.29581	76.639381";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2022] = "12.346531	76.470768	Devarahalli	Mysore	Karnataka	1960	Exploration	Russet Ware	1	Survey	C Krishnamurti";
+LatitudeLongitude[2022] = "12.346531	76.470768";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2023] = "11.976601	76.365176	Nallur	Mysore	Karnataka	1960	Exploration	Russet Ware	1	Survey	C Krishnamurti";
+LatitudeLongitude[2023] = "11.976601	76.365176";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2024] = "20.655784	86.342746	Ratnagiri	Cuttack	Orissa	1960	Excavation	Monastery	1	Survey	D Mitra";
+LatitudeLongitude[2024] = "20.655784	86.342746";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2025] = "25.753154	71.418062	Bigod	Barmer	Rajasthan	1960	Exploration	Lithics	2	Deccan College	VN Misra";
+LatitudeLongitude[2025] = "25.753154	71.418062";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2026] = "24.888744	74.626922	Chitorgarh	Chittorgarh	Rajasthan	1960	Exploration	Lithics	2	Deccan College	VN Misra";
+LatitudeLongitude[2026] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2027] = "24.888744	74.626922	Nathdwara	Chittorgarh	Rajasthan	1960	Exploration	Lithics	2	Deccan College	VN Misra";
+LatitudeLongitude[2027] = "24.888744	74.626922";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2028] = "26.396345	74.200323	Dhaneri	Pali	Rajasthan	1960	Exploration	Lithics	2	Deccan College	VN Misra";
+LatitudeLongitude[2028] = "26.396345	74.200323";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2029] = "26.452812	74.383672	Govindgarh	Ajmer	Rajasthan	1960	Exploration	Lithics	2	Deccan College	VN Misra";
+LatitudeLongitude[2029] = "26.452812	74.383672";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2030] = "25.19561	75.85365935	Banner	Banner	Rajasthan	1960	Exploration	Lithics	2	Deccan College	NM Ganam";
+LatitudeLongitude[2030] = "25.19561	75.85365935";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2031] = "29.90384	73.87719	Kalibangan	Ganganagar	Rajasthan	1960	Excavation	Harappan	1	Survey	BB Lal";
+LatitudeLongitude[2031] = "29.90384	73.87719";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2032] = "28.040134	78.532721	Sankara	Aligarh	Uttar Pradesh	1960	Exploration	PGW	2	Muslim Aligarh University	RC Gaur";
+LatitudeLongitude[2032] = "28.040134	78.532721";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2033] = "25.435801	81.846311	Draupadi-ghat	Allahabad	Uttar Pradesh	1960	Exploration	Ring Wells	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[2033] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2034] = "25.435801	81.846311	Sir Tej Bahadur Sapru Hospital	Allahabad	Uttar Pradesh	1960	Exploration	NBPW	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[2034] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2035] = "25.317408	81.718525	Chilla	Allahabad	Uttar Pradesh	1960	Exploration	NBPW	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[2035] = "25.317408	81.718525";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2036] = "25.487856	81.874337	Govindpur	Allahabad	Uttar Pradesh	1960	Exploration	NBPW	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[2036] = "25.487856	81.874337";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2037] = "25.484294	81.876384	Salori	Allahabad	Uttar Pradesh	1960	Exploration	NBPW	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[2037] = "25.484294	81.876384";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2038] = "25.435801	81.846311	Bharadwaj-Asram	Allahabad	Uttar Pradesh	1960	Exploration	Kushan	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[2038] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2039] = "25.430333	81.836489	Dariabad	Allahabad	Uttar Pradesh	1960	Exploration	NBPW	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[2039] = "25.430333	81.836489";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2040] = "25.492771	81.990296	Mirapur	Allahabad	Uttar Pradesh	1960	Exploration	NBPW	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[2040] = "25.492771	81.990296";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2041] = "25.435801	81.846311	Kausambi	Allahabad	Uttar Pradesh	1960	Excavation	Palace	2	University of Allahabad	GR Sharma";
+LatitudeLongitude[2041] = "25.435801	81.846311";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2042] = "27.692653	78.689509	Atranjikhera	Etah	Uttar Pradesh	1960	Exploration	PGW	2	Muslim Aligarh University	RC Gaur";
+LatitudeLongitude[2042] = "27.692653	78.689509";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2043] = "25.224868	78.625688	Lalitpur	Hamirpur	Uttar Pradesh	1960	Exploration	Paleolithic	2	Deccan College	Rameshwar Singh";
+LatitudeLongitude[2043] = "25.224868	78.625688";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2044] = "25.758935	79.924527	Burwar	Hamirpur	Uttar Pradesh	1960	Exploration	Paleolithic	2	Deccan College	Rameshwar Singh";
+LatitudeLongitude[2044] = "25.758935	79.924527";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2045] = "25.954804	80.152627	Barod	Hamirpur	Uttar Pradesh	1960	Exploration	Paleolithic	2	Deccan College	Rameshwar Singh";
+LatitudeLongitude[2045] = "25.954804	80.152627";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2046] = "25.954804	80.152627	Dhaura	Hamirpur	Uttar Pradesh	1960	Exploration	Paleolithic	2	Deccan College	Rameshwar Singh";
+LatitudeLongitude[2046] = "25.954804	80.152627";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2047] = "25.954804	80.152627	Sihora	Hamirpur	Uttar Pradesh	1960	Exploration	Paleolithic	2	Deccan College	Rameshwar Singh";
+LatitudeLongitude[2047] = "25.954804	80.152627";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2048] = "25.954804	80.152627	Ghat Semra	Hamirpur	Uttar Pradesh	1960	Exploration	Paleolithic	2	Deccan College	Rameshwar Singh";
+LatitudeLongitude[2048] = "25.954804	80.152627";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2049] = "25.954804	80.152627	Hasrai	Hamirpur	Uttar Pradesh	1960	Exploration	Paleolithic	2	Deccan College	Rameshwar Singh";
+LatitudeLongitude[2049] = "25.954804	80.152627";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2050] = "25.954804	80.152627	Gonchi	Hamirpur	Uttar Pradesh	1960	Exploration	Paleolithic	2	Deccan College	Rameshwar Singh";
+LatitudeLongitude[2050] = "25.954804	80.152627";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2051] = "25.33131	83.040165	Rajghat	Varanasi	Uttar Pradesh	1960	Excavation	PGW	2	BHU	AK Narain";
+LatitudeLongitude[2051] = "25.33131	83.040165";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2052] = "22.678213	88.693067	Chandraketugarh	24 Parganas	West Bengal	1960	Excavation	Temple	3	Asutosh Museum	KG Goswami";
+LatitudeLongitude[2052] = "22.678213	88.693067";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2053] = "13.628756	79.419179	Tirupati	Chittoor	Andhra Pradesh	1960	Exploration	Paleolithic	1	Survey	H Sarkar";
+LatitudeLongitude[2053] = "13.628756	79.419179";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2054] = "13.687756	79.584575	Sitarampeta	Chittoor	Andhra Pradesh	1960	Exploration	Paleolithic	1	Survey	A Ghosh";
+LatitudeLongitude[2054] = "13.687756	79.584575";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2055] = "16.306652	80.43654	Golivagu	Guntur	Andhra Pradesh	1960	Exploration	Buddhist	1	Survey	A Ghosh";
+LatitudeLongitude[2055] = "16.306652	80.43654";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2056] = "17.368507	78.471366	Gowlipura	Hyderabad	Andhra Pradesh	1960	Exploration	Image	3	Andhra State";
+LatitudeLongitude[2056] = "17.368507	78.471366";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2057] = "15.828126	78.037279	Pitikayagulla	Kurnool	Andhra Pradesh	1960	Exploration	Paleolithic	1	Survey	K Raghavachary";
+LatitudeLongitude[2057] = "15.828126	78.037279";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2058] = "25.107281	87.097383	Tarchha	Bhagalpur	Bihar	1960	Exploration	Minaret	1	Survey	ADP Singh";
+LatitudeLongitude[2058] = "25.107281	87.097383";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2059] = "25.24143	86.992436	Raja-Pokhar	Bhagalpur	Bihar	1960	Exploration	Paleolithic	1	Survey	ADP Singh";
+LatitudeLongitude[2059] = "25.24143	86.992436";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2060] = "25.24143	86.992436	Bhaljore	Bhagalpur	Bihar	1960	Exploration	Paleolithic	1	Survey	ADP Singh";
+LatitudeLongitude[2060] = "25.24143	86.992436";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2061] = "25.24143	86.992436	Rajdot	Bhagalpur	Bihar	1960	Exploration	Paleolithic	1	Survey	ADP Singh";
+LatitudeLongitude[2061] = "25.24143	86.992436";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2062] = "25.096074	85.313119	Sahodarsthan	Champaran	Bihar	1960	Exploration	Sculptures	1	Survey	BN Prasad";
+LatitudeLongitude[2062] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2063] = "27.311734	84.556288	Mahajogin	Champaran	Bihar	1960	Exploration	Temple	1	Survey	BN Prasad";
+LatitudeLongitude[2063] = "27.311734	84.556288";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2064] = "24.551156	85.21919	Banda	Hazaribagh	Bihar	1960	Exploration	Paleolithic	1	Survey	BK Sharan";
+LatitudeLongitude[2064] = "24.551156	85.21919";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2065] = "25.096074	85.313119	Rajrappa	Hazaribagh	Bihar	1960	Exploration	Paleolithic	1	Survey	BK Sharan";
+LatitudeLongitude[2065] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2066] = "25.096074	85.313119	Siri	Hazaribagh	Bihar	1960	Exploration	Sculptures	1	Survey	BK Sharan";
+LatitudeLongitude[2066] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2067] = "23.142363	85.812782	Chokahatu	Ranchi	Bihar	1960	Exploration	Dolmen	1	Survey	BK Sharan";
+LatitudeLongitude[2067] = "23.142363	85.812782";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2068] = "25.096074	85.313119	Bamla	Ranchi	Bihar	1960	Exploration	Dolmen	1	Survey	BK Sharan";
+LatitudeLongitude[2068] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2069] = "25.096074	85.313119	Bansjore	Ranchi	Bihar	1960	Exploration	Microliths	1	Survey	BK Sharan";
+LatitudeLongitude[2069] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2070] = "23.179292	85.748719	Harin	Ranchi	Bihar	1960	Exploration	Microliths	1	Survey	BK Sharan";
+LatitudeLongitude[2070] = "23.179292	85.748719";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2071] = "25.096074	85.313119	Bhakuadih	Ranchi	Bihar	1960	Exploration	Microliths	1	Survey	BK Sharan";
+LatitudeLongitude[2071] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2072] = "25.096074	85.313119	Daruharu	Ranchi	Bihar	1960	Exploration	Microliths	1	Survey	BK Sharan";
+LatitudeLongitude[2072] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2073] = "25.096074	85.313119	Guram	Ranchi	Bihar	1960	Exploration	Microliths	1	Survey	BK Sharan";
+LatitudeLongitude[2073] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2074] = "25.096074	85.313119	Tanginath	Ranchi	Bihar	1960	Exploration	Sculptures	1	Survey	BK Sharan";
+LatitudeLongitude[2074] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2075] = "25.096074	85.313119	Chaibasa	Ranchi	Bihar	1960	Exploration	Paleolithic	1	Survey	BK Sharan";
+LatitudeLongitude[2075] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2076] = "25.096074	85.313119	Bardha	Ranchi	Bihar	1960	Exploration	Microliths	1	Survey	BK Sharan";
+LatitudeLongitude[2076] = "25.096074	85.313119";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2077] = "21.522184	70.457877	Kaka-ni-Simpona	Junagadh	Gujarat	1960	Exploration	Sculptures	1	Survey	JM Nanavati";
+LatitudeLongitude[2077] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2078] = "21.522184	70.457877	Pasnavada	Junagadh	Gujarat	1960	Exploration	Temple	1	Survey	JM Nanavati";
+LatitudeLongitude[2078] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2079] = "21.522184	70.457877	Jhamara	Junagadh	Gujarat	1960	Exploration	Temple	1	Survey	MA Dhaky";
+LatitudeLongitude[2079] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2080] = "21.522184	70.457877	Akhodar	Junagadh	Gujarat	1960	Exploration	Temple	1	Survey	MP Vora";
+LatitudeLongitude[2080] = "21.522184	70.457877";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2081] = "23.670614	73.397394	Devnimori	Sabarkantha	Gujarat	1960	Exploration	Sculptures	3	Gujarat State";
+LatitudeLongitude[2081] = "23.670614	73.397394";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2082] = "11.993434	75.30451	Cherunthazham	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2082] = "11.993434	75.30451";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2083] = "11.874478	75.370366	Pattanur-Pazhassi	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2083] = "11.874478	75.370366";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2084] = "11.874478	75.370366	Koleri	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2084] = "11.874478	75.370366";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2085] = "11.976488	75.700803	Payam	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2085] = "11.976488	75.700803";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2086] = "11.874478	75.370366	Kannavaram	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2086] = "11.874478	75.370366";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2087] = "11.874478	75.370366	Kolavallur	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2087] = "11.874478	75.370366";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2088] = "11.726533	75.554599	Panniyannur	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2088] = "11.726533	75.554599";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2089] = "12.153464	75.310606	Kuttur	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2089] = "12.153464	75.310606";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2090] = "12.076276	75.559693	Eruvassi	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2090] = "12.076276	75.559693";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2091] = "11.919723	75.46506	Kanjirode	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2091] = "11.919723	75.46506";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2092] = "12.040095	75.297485	Ezhom	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2092] = "12.040095	75.297485";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2093] = "11.813021	75.451698	Kadambur	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2093] = "11.813021	75.451698";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2094] = "11.832306	75.466516	Mavilayi	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2094] = "11.832306	75.466516";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2095] = "12.174344	75.414078	Eruvatti	Cannanore	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2095] = "12.174344	75.414078";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2096] = "11.602093	75.629537	Memunda	Kozhikode	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2096] = "11.602093	75.629537";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2097] = "11.606995	75.582614	Cherode	Kozhikode	Kerala	1960	Exploration	Megalithic	1	Survey	K Chandrasekaran";
+LatitudeLongitude[2097] = "11.606995	75.582614";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2098] = "11.258753	75.78041	Edakal	Kozhikode	Kerala	1960	Exploration	Stone circles	3	Kerala State	Fawcett";
+LatitudeLongitude[2098] = "11.258753	75.78041";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2099] = "11.258753	75.78041	Cheengeri-Desom	Kozhikode	Kerala	1960	Exploration	Stone circles	3	Kerala State	Fawcett";
+LatitudeLongitude[2099] = "11.258753	75.78041";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2100] = "11.258753	75.78041	Ambalavayal-Amsom	Kozhikode	Kerala	1960	Exploration	Stone circles	3	Kerala State	Fawcett";
+LatitudeLongitude[2100] = "11.258753	75.78041";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2101] = "11.258753	75.78041	Nenmeni	Kozhikode	Kerala	1960	Exploration	Stone circles	3	Kerala State	Fawcett";
+LatitudeLongitude[2101] = "11.258753	75.78041";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2102] = "8.893212	76.61414	Poothamkiara	Quilon	Kerala	1960	Exploration	Stone circles	3	Kerala State	Fawcett";
+LatitudeLongitude[2102] = "8.893212	76.61414";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2103] = "10.78673	76.654793	Pallavaeer	Palghat	Kerala	1960	Exploration	Stone circles	3	Kerala State	Fawcett";
+LatitudeLongitude[2103] = "10.78673	76.654793";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2104] = "10.643083	76.014352	Ponnani	Thrissur	Kerala	1960	Exploration	BRW	3	Kerala State";
+LatitudeLongitude[2104] = "10.643083	76.014352";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2105] = "10.6139	76.088501	Koonamoochi	Thrissur	Kerala	1960	Exploration	BRW	3	Kerala State";
+LatitudeLongitude[2105] = "10.6139	76.088501";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2106] = "26.558735	78.787288	Lavan	Bhind	Madhya Pradesh	1960	Exploration	Temple	1	Survey	JP Srivastava";
+LatitudeLongitude[2106] = "26.558735	78.787288";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2107] = "26.364291	78.271819	Ghirongi	Bhind	Madhya Pradesh	1960	Exploration	Temple	1	Survey	JP Srivastava";
+LatitudeLongitude[2107] = "26.364291	78.271819";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2108] = "21.896596	82.285485	Malhar	Bilaspur	Chhattisgarh	1960	Exploration	Sculptures	1	Survey";
+LatitudeLongitude[2108] = "21.896596	82.285485";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2109] = "24.196742	79.032016	Mohari	Chhatarpur	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2109] = "24.196742	79.032016";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2110] = "22.744108	77.736967	Adamgarh	Hoshangabad	Madhya Pradesh	1960	Exploration	Microliths	1	Survey	AP Khatri";
+LatitudeLongitude[2110] = "22.744108	77.736967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2111] = "22.744108	77.736967	Dongarwara	Hoshangabad	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Calcutta	D Sen";
+LatitudeLongitude[2111] = "22.744108	77.736967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2112] = "22.635698	78.1547	Tawa banks	Hoshangabad	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2112] = "22.635698	78.1547";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2113] = "22.744108	77.736967	Pachmarhi Hills	Hoshangabad	Madhya Pradesh	1960	Exploration	Rock shelters	1	Survey	AP Khatri";
+LatitudeLongitude[2113] = "22.744108	77.736967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2114] = "23.181467	79.986407	Kakarahta	Jabalpur	Madhya Pradesh	1960	Exploration	NBPW	1	Survey	CB Trivedi";
+LatitudeLongitude[2114] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2115] = "23.666609	80.067462	Bahuriband	Jabalpur	Madhya Pradesh	1960	Exploration	Sculptures	1	Survey	CB Trivedi";
+LatitudeLongitude[2115] = "23.666609	80.067462";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2116] = "23.208152	79.989203	Khamaria	Jabalpur	Madhya Pradesh	1960	Exploration	Sculptures	1	Survey	CB Trivedi";
+LatitudeLongitude[2116] = "23.208152	79.989203";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2117] = "23.109234	79.689499	Kulon	Jabalpur	Madhya Pradesh	1960	Exploration	Sculptures	1	Survey	CB Trivedi";
+LatitudeLongitude[2117] = "23.109234	79.689499";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2118] = "23.181467	79.986407	Sakarwara	Jabalpur	Madhya Pradesh	1960	Exploration	Sculptures	1	Survey	CB Trivedi";
+LatitudeLongitude[2118] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2119] = "23.13059	79.802357	Bheraghat	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	D Sen";
+LatitudeLongitude[2119] = "23.13059	79.802357";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2120] = "23.382331	80.134484	Sindursi	Jabalpur	Madhya Pradesh	1960	Exploration	Rock images	1	Survey	CB Trivedi";
+LatitudeLongitude[2120] = "23.382331	80.134484";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2121] = "23.196212	79.624945	Bhita	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2121] = "23.196212	79.624945";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2122] = "23.096152	79.624945	Bhikampur	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2122] = "23.096152	79.624945";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2123] = "23.181467	79.986407	Deori-Sunwara	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2123] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2124] = "23.109234	79.689499	Kulon	Jabalpur	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2124] = "23.109234	79.689499";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2125] = "23.119322	79.798855	Dudwara	Jabalpur	Madhya Pradesh	1960	Exploration	Microliths	1	Survey	CB Trivedi";
+LatitudeLongitude[2125] = "23.119322	79.798855";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2126] = "23.110879	79.759614	Bagrai	Jabalpur	Madhya Pradesh	1960	Exploration	Microliths	1	Survey	CB Trivedi";
+LatitudeLongitude[2126] = "23.110879	79.759614";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2127] = "23.181467	79.986407	Turak-khera	Jabalpur	Madhya Pradesh	1960	Exploration	Microliths	1	Survey	CB Trivedi";
+LatitudeLongitude[2127] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2128] = "23.181467	79.986407	Ghatakhera	Jabalpur	Madhya Pradesh	1960	Exploration	Microliths	1	Survey	CB Trivedi";
+LatitudeLongitude[2128] = "23.181467	79.986407";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2129] = "23.909696	75.139944	Dhamnar	Mandasor	Madhya Pradesh	1960	Exploration	Seal	1	Survey	AH Khan";
+LatitudeLongitude[2129] = "23.909696	75.139944";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2130] = "22.477086	80.368649	Bahmni	Mandla	Madhya Pradesh	1960	Exploration	Microliths	1	Survey	D Sen";
+LatitudeLongitude[2130] = "22.477086	80.368649";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2131] = "22.946557	79.194353	Bijori	Narsinghpur	Madhya Pradesh	1960	Exploration	Rock shelters	1	Survey	CB Trivedi";
+LatitudeLongitude[2131] = "22.946557	79.194353";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2132] = "21.319388	76.222427	Burhanpur	Burhanpur	Madhya Pradesh	1960	Exploration	NBPW	1	Survey	C Krishna";
+LatitudeLongitude[2132] = "21.319388	76.222427";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2133] = "22.272503	76.684583	Badakeshwar	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2133] = "22.272503	76.684583";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2134] = "21.166248	76.233428	Chandgarh	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2134] = "21.166248	76.233428";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2135] = "22.208298	76.615277	Bijalpur	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2135] = "22.208298	76.615277";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2136] = "21.891471	76.950623	Barakund	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2136] = "21.891471	76.950623";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2137] = "21.825733	76.352571	Mahalkheri	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2137] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2138] = "21.825733	76.352571	Ambala	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2138] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2139] = "21.89092	76.862006	Patajan	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2139] = "21.89092	76.862006";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2140] = "21.888643	76.926878	Roshini	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2140] = "21.888643	76.926878";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2141] = "21.825733	76.352571	Mahalkheri	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2141] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2142] = "21.825733	76.352571	Peepalya-Bawli	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2142] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2143] = "21.890877	76.911366	Salidana	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2143] = "21.890877	76.911366";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2144] = "21.825733	76.352571	Nawala	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2144] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2145] = "21.825733	76.352571	Nirgudia	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2145] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2146] = "21.825733	76.352571	Gadabadi	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2146] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2147] = "22.184537	76.823081	Gambhir	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2147] = "22.184537	76.823081";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2148] = "21.825733	76.352571	Kishanpur	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2148] = "21.825733	76.352571";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2149] = "21.9835	76.831733	Ramjipur	Khandwa	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2149] = "21.9835	76.831733";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2150] = "24.725801	80.188638	Mohendra	Panna	Madhya Pradesh	1960	Exploration	Temple	1	Survey	KD Bajpai";
+LatitudeLongitude[2150] = "24.725801	80.188638";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2151] = "22.751069	77.780967	Sirpur	Raipur	Madhya Pradesh	1960	Exploration	Temple	1	Survey";
+LatitudeLongitude[2151] = "22.751069	77.780967";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2152] = "23.278166	77.647885	Kharwai	Raisen	Madhya Pradesh	1960	Exploration	Rock shelters	1	Survey	VS Wakankar";
+LatitudeLongitude[2152] = "23.278166	77.647885";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2153] = "22.166483	76.048438	Gurja	Rewa	Madhya Pradesh	1960	Exploration	Temple	1	Survey	JP Gupta";
+LatitudeLongitude[2153] = "22.166483	76.048438";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2154] = "24.537293	81.30418	Mehasana	Rewa	Madhya Pradesh	1960	Exploration	Temple	1	Survey	JP Gupta";
+LatitudeLongitude[2154] = "24.537293	81.30418";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2155] = "24.272432	81.208293	Kalan	Rewa	Madhya Pradesh	1960	Exploration	Temple	1	Survey	JP Gupta";
+LatitudeLongitude[2155] = "24.272432	81.208293";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2156] = "24.509467	81.180262	Baijnath	Rewa	Madhya Pradesh	1960	Exploration	Temple	1	Survey	JP Gupta";
+LatitudeLongitude[2156] = "24.509467	81.180262";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2157] = "24.088986	78.164994	Eran	Sagar	Madhya Pradesh	1960	Exploration	Sculptures	1	Survey	KD Bajpai";
+LatitudeLongitude[2157] = "24.088986	78.164994";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2158] = "24.241491	79.022126	Dulchipur	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2158] = "24.241491	79.022126";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2159] = "23.838805	78.737807	Chhan	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2159] = "23.838805	78.737807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2160] = "23.838805	78.737807	Bilgavan	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2160] = "23.838805	78.737807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2161] = "24.230988	79.03908	Gomatpur	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2161] = "24.230988	79.03908";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2162] = "23.838805	78.737807	Padrajpur	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2162] = "23.838805	78.737807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2163] = "23.838805	78.737807	Iswarwada	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2163] = "23.838805	78.737807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2164] = "24.325161	78.764623	Sonrai	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	CB Trivedi";
+LatitudeLongitude[2164] = "24.325161	78.764623";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2165] = "23.838805	78.737807	Sagar outskirts	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[2165] = "23.838805	78.737807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2166] = "23.838805	78.737807	Abchand	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Saugor	KD Bajpai";
+LatitudeLongitude[2166] = "23.838805	78.737807";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2167] = "24.074084	78.19919	Bhapson	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Saugor	KD Bajpai";
+LatitudeLongitude[2167] = "24.074084	78.19919";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2168] = "24.096621	78.187792	Chandera	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Saugor	KD Bajpai";
+LatitudeLongitude[2168] = "24.096621	78.187792";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2169] = "24.107443	78.176394	Reta	Sagar	Madhya Pradesh	1960	Exploration	Paleolithic	2	University of Saugor	KD Bajpai";
+LatitudeLongitude[2169] = "24.107443	78.176394";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2170] = "24.501631	80.51884	Jasso	Satna	Madhya Pradesh	1960	Exploration	Sculptures	2	University of Saugor	KD Bajpai";
+LatitudeLongitude[2170] = "24.501631	80.51884";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2171] = "23.750401	77.093858	Gadia	Sehore	Madhya Pradesh	1960	Exploration	Sculptures	1	Survey	Krishna Deva";
+LatitudeLongitude[2171] = "23.750401	77.093858";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2172] = "23.205012	77.085078	Sej-Karad	Sehore	Madhya Pradesh	1960	Exploration	Microliths	1	Survey	Avinashi Lal";
+LatitudeLongitude[2172] = "23.205012	77.085078";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2173] = "23.205012	77.085078	Gauharganj	Sehore	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[2173] = "23.205012	77.085078";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2174] = "23.205012	77.085078	Bhinyapura	Sehore	Madhya Pradesh	1960	Exploration	Rock shelters	1	Survey	VS Wakankar";
+LatitudeLongitude[2174] = "23.205012	77.085078";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2175] = "23.205012	77.085078	Kesalpura	Sehore	Madhya Pradesh	1960	Exploration	Rock shelters	1	Survey	VS Wakankar";
+LatitudeLongitude[2175] = "23.205012	77.085078";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2176] = "23.205012	77.085078	Bhojapur	Sehore	Madhya Pradesh	1960	Exploration	Rock shelters	1	Survey	VS Wakankar";
+LatitudeLongitude[2176] = "23.205012	77.085078";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2177] = "22.213444	79.738738	Kanhiwada	Seoni	Madhya Pradesh	1960	Exploration	Paleolithic	1	Survey	C Krishna";
+LatitudeLongitude[2177] = "22.213444	79.738738";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2178] = "23.56645	76.472256	Sarangpur	Shajapur	Madhya Pradesh	1960	Exploration	Chalcolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[2178] = "23.56645	76.472256";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2179] = "23.427294	76.272984	Singawada	Shajapur	Madhya Pradesh	1960	Exploration	Chalcolithic	1	Survey	VS Wakankar";
+LatitudeLongitude[2179] = "23.427294	76.272984";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2180] = "11.016845	76.955832	Avalppondurai	Coimbatore	Tamil Nadu	1960	Exploration	Sculptures	1	Survey	DN Srinivasa Desikan";
+LatitudeLongitude[2180] = "11.016845	76.955832";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2181] = "11.744699	79.768024	Nachchiarpettaimedu	Cuddalore	Tamil Nadu	1960	Exploration	Urn Burial	1	Survey	KV Raman";
+LatitudeLongitude[2181] = "11.744699	79.768024";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2182] = "10.786999	79.137827	Karuttittangudi	Thanjavur	Tamil Nadu	1960	Exploration	Sculptures	1	Survey	KR Srinivasan";
+LatitudeLongitude[2182] = "10.786999	79.137827";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2183] = "20.937424	77.779551	Amraoti	Amraoti	Maharashtra	1960	Exploration	Microliths	1	Survey	MVN Krishna Rao";
+LatitudeLongitude[2183] = "20.937424	77.779551";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2184] = "20.687163	78.005268	Manjarkhed	Amraoti	Maharashtra	1960	Exploration	Microliths	1	Survey	MVN Krishna Rao";
+LatitudeLongitude[2184] = "20.687163	78.005268";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2185] = "21.324195	78.013831	Morsi	Amraoti	Maharashtra	1960	Exploration	Microliths	1	Survey	MVN Krishna Rao";
+LatitudeLongitude[2185] = "21.324195	78.013831";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2186] = "21.291106	78.063767	Sirur	Amraoti	Maharashtra	1960	Exploration	Microliths	1	Survey	MVN Krishna Rao";
+LatitudeLongitude[2186] = "21.291106	78.063767";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2187] = "21.103244	78.207737	Talegaon	Wardha	Maharashtra	1960	Exploration	Microliths	1	Survey	MVN Krishna Rao";
+LatitudeLongitude[2187] = "21.103244	78.207737";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2188] = "19.949583	75.664024	Dhasla	Aurangabad	Maharashtra	1960	Exploration	Microliths	1	Survey	DM Kulkarni";
+LatitudeLongitude[2188] = "19.949583	75.664024";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2189] = "19.86824	75.725633	Badnapur	Aurangabad	Maharashtra	1960	Exploration	BRW	1	Survey	SG Gore";
+LatitudeLongitude[2189] = "19.86824	75.725633";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2190] = "19.871685	75.341209	Jaina	Aurangabad	Maharashtra	1960	Exploration	Microliths	1	Survey	Suresh";
+LatitudeLongitude[2190] = "19.871685	75.341209";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2191] = "19.876165	75.343314	Aurangabad	Aurangabad	Maharashtra	1960	Exploration	Caves	1	Survey";
+LatitudeLongitude[2191] = "19.876165	75.343314";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2192] = "19.946133	75.221652	Daulatabad	Aurangabad	Maharashtra	1960	Exploration	Caves	1	Survey";
+LatitudeLongitude[2192] = "19.946133	75.221652";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2193] = "20.023825	75.161834	Ellora	Aurangabad	Maharashtra	1960	Exploration	Caves	1	Survey";
+LatitudeLongitude[2193] = "20.023825	75.161834";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2194] = "19.584812	76.943421	Siddeswar	Parbhani	Maharashtra	1960	Exploration	Microliths	1	Survey	SN Raghunath";
+LatitudeLongitude[2194] = "19.584812	76.943421";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2195] = "19.260996	76.776665	Rupore	Parbhani	Maharashtra	1960	Exploration	Microliths	1	Survey	SN Raghunath";
+LatitudeLongitude[2195] = "19.260996	76.776665";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2196] = "19.330796	76.843086	Dhar	Parbhani	Maharashtra	1960	Exploration	Microliths	1	Survey	SN Raghunath";
+LatitudeLongitude[2196] = "19.330796	76.843086";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2197] = "19.006613	76.645964	Sawangi	Parbhani	Maharashtra	1960	Exploration	Microliths	1	Survey	SN Raghunath";
+LatitudeLongitude[2197] = "19.006613	76.645964";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2198] = "19.260996	76.776665	Yellari	Parbhani	Maharashtra	1960	Exploration	Microliths	1	Survey	SN Raghunath";
+LatitudeLongitude[2198] = "19.260996	76.776665";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2199] = "13.2420805	77.6959699	Devanahalli	Bangalore	Karnataka	1960	Exploration	Stone circles	3	Mysore State";
+LatitudeLongitude[2199] = "13.2420805	77.6959699";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2200] = "13.103704	77.480952	Tarabanahalli	Bangalore	Karnataka	1960	Exploration	Russet Ware	3	Mysore State";
+LatitudeLongitude[2200] = "13.103704	77.480952";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2201] = "15.765836	75.116592	Sondatti	Belgaum	Karnataka	1960	Exploration	Fortress	3	Mysore State";
+LatitudeLongitude[2201] = "15.765836	75.116592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2202] = "16.456831	76.384579	Salvadgi	Bijapur	Karnataka	1960	Exploration	Microliths	1	Survey	A Sundara";
+LatitudeLongitude[2202] = "16.456831	76.384579";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2203] = "16.830171	75.710031	Matkandevanhalli	Bijapur	Karnataka	1960	Exploration	Microliths	1	Survey	A Sundara";
+LatitudeLongitude[2203] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2204] = "16.830171	75.710031	Kuchval	Bijapur	Karnataka	1960	Exploration	Microliths	1	Survey	A Sundara";
+LatitudeLongitude[2204] = "16.830171	75.710031";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2205] = "15.458924	75.007808	Sudi	Dharwar	Karnataka	1960	Exploration	Temple	3	Mysore State";
+LatitudeLongitude[2205] = "15.458924	75.007808";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2206] = "17.329731	76.834296	Urchan	Gulbarga	Karnataka	1960	Exploration	Chalcolithic	1	Survey	K Soundara Rajan";
+LatitudeLongitude[2206] = "17.329731	76.834296";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2207] = "11.926147	76.943731	Chamarajanagar	Mysore	Karnataka	1960	Exploration	Megalithic	1	Survey	C Krishnamurti";
+LatitudeLongitude[2207] = "11.926147	76.943731";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2208] = "12.049126	77.030539	Yelandur	Mysore	Karnataka	1960	Exploration	Megalithic	1	Survey	C Krishnamurti";
+LatitudeLongitude[2208] = "12.049126	77.030539";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2209] = "29.822928	76.788471	Bahola	Karnal	Punjab	1960	Exploration	PGW	1	Survey	SB Chaudhary";
+LatitudeLongitude[2209] = "29.822928	76.788471";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2210] = "29.520112	76.614175	Asandh	Karnal	Punjab	1960	Exploration	PGW	1	Survey	SB Chaudhary";
+LatitudeLongitude[2210] = "29.520112	76.614175";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2211] = "31.0390173	75.4044887	Akbarpur-Baroth	Rohtak	Punjab	1960	Exploration	PGW	1	Survey	SB Chaudhary";
+LatitudeLongitude[2211] = "31.0390173	75.4044887";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2212] = "26.020012	75.316437	Baghera	Ajmer	Rajasthan	1960	Exploration	Sculptures	3	Rajasthan State";
+LatitudeLongitude[2212] = "26.020012	75.316437";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2213] = "27.320525	76.736538	Garh	Alwar	Rajasthan	1960	Exploration	Sculptures	1	Survey";
+LatitudeLongitude[2213] = "27.320525	76.736538";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2214] = "25.75464	71.098497	Kiradu	Barmer	Rajasthan	1960	Exploration	Sculptures	3	Rajasthan State";
+LatitudeLongitude[2214] = "25.75464	71.098497";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2215] = "27.216981	77.489515	Bharatpur outskirts	Bharatpur	Rajasthan	1960	Exploration	Sculptures	3	Bharatpur Museum";
+LatitudeLongitude[2215] = "27.216981	77.489515";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2216] = "25.297881	74.544864	Pur	Bhilwara	Rajasthan	1960	Exploration	Temple	2	Deccan College	SA Sastri";
+LatitudeLongitude[2216] = "25.297881	74.544864";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2217] = "26.912434	75.787271	Bhandarej	Jaipur	Rajasthan	1960	Exploration	Sculptures	1	Survey";
+LatitudeLongitude[2217] = "26.912434	75.787271";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2218] = "23.941011	75.621536	Gangadhar	Jhalawar	Rajasthan	1960	Exploration	Ring Wells	3	Archaeology and Museums Udaipur";
+LatitudeLongitude[2218] = "23.941011	75.621536";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2219] = "27.402762	72.721538	Chakhu	Jodhpur	Rajasthan	1960	Exploration	Cenotaph	1	Survey	NM Ganam";
+LatitudeLongitude[2219] = "27.402762	72.721538";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2220] = "25.213816	75.864753	Kakoni	Kota	Rajasthan	1960	Exploration	Sculptures	3	Kotah Museum";
+LatitudeLongitude[2220] = "25.213816	75.864753";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2221] = "27.541435	74.871181	Khurdi	Nagaur	Rajasthan	1960	Exploration	Copper Hoard	2	Deccan College	HD Sankalia";
+LatitudeLongitude[2221] = "27.541435	74.871181";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2222] = "27.199122	73.740924	Khundald	Nagaur	Rajasthan	1960	Exploration	Sculptures	1	Survey	NM Ganam";
+LatitudeLongitude[2222] = "27.199122	73.740924";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2223] = "24.445895	72.739271	Chandravati	Sirohi	Rajasthan	1960	Exploration	Sculptures	3	Rajasthan State";
+LatitudeLongitude[2223] = "24.445895	72.739271";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2224] = "26.81768	82.763313	Bansi-Sonari	Basti	Uttar Pradesh	1960	Exploration	Ring Wells	1	Survey	RG Pandeya";
+LatitudeLongitude[2224] = "26.81768	82.763313";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2225] = "28.515408	77.879602	Manpur	Bulandshahr	Uttar Pradesh	1960	Exploration	OCP	1	Survey	RC Sharma";
+LatitudeLongitude[2225] = "28.515408	77.879602";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2226] = "28.471106	77.723747	Bhatpura	Bulandshahr	Uttar Pradesh	1960	Exploration	OCP	1	Survey	RC Sharma";
+LatitudeLongitude[2226] = "28.471106	77.723747";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2227] = "28.406963	77.849829	Bahadarabad	Bulandshahr	Uttar Pradesh	1960	Exploration	OCP	1	Survey	RC Sharma";
+LatitudeLongitude[2227] = "28.406963	77.849829";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2228] = "27.558751	78.662567	Thana Danoganj	Etah	Uttar Pradesh	1960	Exploration	Sculptures	1	Survey	SB Singh";
+LatitudeLongitude[2228] = "27.558751	78.662567";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2229] = "27.558751	78.662567	Bhaduivamath	Etah	Uttar Pradesh	1960	Exploration	Sculptures	1	Survey	SB Singh";
+LatitudeLongitude[2229] = "27.558751	78.662567";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2230] = "27.648276	79.089925	Shahpur	Etah	Uttar Pradesh	1960	Exploration	PGW	1	Survey	SB Singh";
+LatitudeLongitude[2230] = "27.648276	79.089925";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2231] = "27.431897	78.25331	Timarua	Etah	Uttar Pradesh	1960	Exploration	PGW	1	Survey	SB Singh";
+LatitudeLongitude[2231] = "27.431897	78.25331";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2232] = "27.400064	78.287477	Takhawan	Etah	Uttar Pradesh	1960	Exploration	PGW	1	Survey	SB Singh";
+LatitudeLongitude[2232] = "27.400064	78.287477";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2233] = "27.558751	78.662567	Gone-Umargarh	Etah	Uttar Pradesh	1960	Exploration	PGW	1	Survey	SB Singh";
+LatitudeLongitude[2233] = "27.558751	78.662567";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2234] = "27.558751	78.662567	Nokhera	Etah	Uttar Pradesh	1960	Exploration	PGW	1	Survey	SB Singh";
+LatitudeLongitude[2234] = "27.558751	78.662567";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2235] = "25.772084	81.103534	Khaga	Fatehpur	Uttar Pradesh	1960	Exploration	PGW	1	Survey	LM Wahal";
+LatitudeLongitude[2235] = "25.772084	81.103534";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2236] = "25.463388	83.595592	Sayidabad	Ghazipur	Uttar Pradesh	1960	Exploration	Inscriptions	1	Survey	RG Pandeya";
+LatitudeLongitude[2236] = "25.463388	83.595592";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2237] = "26.449923	80.331874	Nabiya-Khera	Kanpur	Uttar Pradesh	1960	Exploration	Temple	1	Survey	LM Wahal";
+LatitudeLongitude[2237] = "26.449923	80.331874";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2238] = "26.691913	80.817017	Dadupur	Lucknow	Uttar Pradesh	1960	Exploration	PGW	1	Survey	SB Singh";
+LatitudeLongitude[2238] = "26.691913	80.817017";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2239] = "26.778397	80.912478	Qila Muhammadinagar	Lucknow	Uttar Pradesh	1960	Exploration	PGW	1	Survey	SB Singh";
+LatitudeLongitude[2239] = "26.778397	80.912478";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2240] = "27.228499	79.024952	Kodar	Mainpuri	Uttar Pradesh	1960	Exploration	PGW	1	Survey	LM Wahal";
+LatitudeLongitude[2240] = "27.228499	79.024952";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2241] = "27.228499	79.024952	Ginoli	Mainpuri	Uttar Pradesh	1960	Exploration	PGW	1	Survey	LM Wahal";
+LatitudeLongitude[2241] = "27.228499	79.024952";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2242] = "27.071212	79.092748	Patara	Mainpuri	Uttar Pradesh	1960	Exploration	PGW	1	Survey	LM Wahal";
+LatitudeLongitude[2242] = "27.071212	79.092748";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2243] = "27.228499	79.024952	Kalai	Mainpuri	Uttar Pradesh	1960	Exploration	PGW	1	Survey	LM Wahal";
+LatitudeLongitude[2243] = "27.228499	79.024952";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2244] = "27.169857	78.620013	Utrara	Mainpuri	Uttar Pradesh	1960	Exploration	PGW	1	Survey	LM Wahal";
+LatitudeLongitude[2244] = "27.169857	78.620013";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2245] = "27.228499	79.024952	Kusyami	Mainpuri	Uttar Pradesh	1960	Exploration	PGW	1	Survey	LM Wahal";
+LatitudeLongitude[2245] = "27.228499	79.024952";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2246] = "27.228499	79.024952	Kodar	Mainpuri	Uttar Pradesh	1960	Exploration	PGW	1	Survey	LM Wahal";
+LatitudeLongitude[2246] = "27.228499	79.024952";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2247] = "25.133699	82.564434	Mukha-Dari	Mirzapur	Uttar Pradesh	1960	Exploration	Rock Paintings	1	Survey	RG Pandeya";
+LatitudeLongitude[2247] = "25.133699	82.564434";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2248] = "25.133699	82.564434	Sat-Duari	Mirzapur	Uttar Pradesh	1960	Exploration	Sculptures	1	Survey	KP Nautiyal";
+LatitudeLongitude[2248] = "25.133699	82.564434";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2249] = "29.210423	78.961885	Kashipur	Nainital	Uttarakhand	1960	Exploration	PGW	1	Survey	KP Nautiyal";
+LatitudeLongitude[2249] = "29.210423	78.961885";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2250] = "23.226613	87.080624	Kalla-Lalbazar	Bankura	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2250] = "23.226613	87.080624";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2251] = "23.411626	87.236953	Manoharand Saharjora	Bankura	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2251] = "23.411626	87.236953";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2252] = "22.924641	86.886005	Kankradara	Bankura	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2252] = "22.924641	86.886005";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2253] = "23.232415	87.078604	Kachinda	Bankura	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2253] = "23.232415	87.078604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2254] = "22.431147	87.119218	Jhargram	Bankura	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2254] = "22.431147	87.119218";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2255] = "23.232415	87.078604	Jaypanda	Bankura	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2255] = "23.232415	87.078604";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2256] = "24.357502	87.842697	Bhutan	Birbhum	West Bengal	1960	Exploration	Sculptures	3	State of West Bengal";
+LatitudeLongitude[2256] = "24.357502	87.842697";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2257] = "24.357502	87.842697	Birbhum	Birbhum	West Bengal	1960	Exploration	Sculptures	3	State of West Bengal";
+LatitudeLongitude[2257] = "24.357502	87.842697";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2258] = "23.332078	86.365208	Purulia	Purulia	West Bengal	1960	Exploration	Sculptures	3	State of West Bengal";
+LatitudeLongitude[2258] = "23.332078	86.365208";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2259] = "25.246909	88.78246	West Dinajpur	Uttar Dinajpur	West Bengal	1960	Exploration	Sculptures	3	State of West Bengal";
+LatitudeLongitude[2259] = "25.246909	88.78246";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2260] = "23.495341	87.335277	Sagar-Bhanga	Burdwan	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2260] = "23.495341	87.335277";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2261] = "23.232421	87.861479	Khrupir-Jangal	Burdwan	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2261] = "23.232421	87.861479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2262] = "23.497627	87.395956	Gopalpur	Burdwan	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2262] = "23.497627	87.395956";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2263] = "23.517989	87.368666	Arrah	Burdwan	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2263] = "23.517989	87.368666";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2264] = "23.595961	87.498771	Satkahonia	Burdwan	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2264] = "23.595961	87.498771";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2265] = "23.232421	87.861479	Bilgava	Burdwan	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2265] = "23.232421	87.861479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2266] = "23.232421	87.861479	Rajar-Dhipi	Burdwan	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2266] = "23.232421	87.861479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2267] = "23.232421	87.861479	Burdwan	Burdwan	West Bengal	1960	Exploration	Sculptures	3	State of West Bengal";
+LatitudeLongitude[2267] = "23.232421	87.861479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2268] = "23.232421	87.861479	Maynaguri	Burdwan	West Bengal	1960	Exploration	Temple	3	State of West Bengal";
+LatitudeLongitude[2268] = "23.232421	87.861479";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2269] = "22.408038	87.381073	Organda	Midnapore	West Bengal	1960	Exploration	Temple	3	State of West Bengal";
+LatitudeLongitude[2269] = "22.408038	87.381073";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2270] = "22.408038	87.381073	Sildah	Midnapore	West Bengal	1960	Exploration	Microliths	3	State of West Bengal";
+LatitudeLongitude[2270] = "22.408038	87.381073";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2271] = "22.678213	88.693067	Chandraketugarh	24 Parganas	West Bengal	1960	Exploration	Terracottas	3	State of West Bengal";
+LatitudeLongitude[2271] = "22.678213	88.693067";
 
-LatitudeLongitudeSiteDistrictStateYearFieldDatedInsIDInstituteArchaeologist[2272] = "22.223711	88.460978	Harinarayanpur	24 Parganas	West Bengal	1960	Exploration	Neolithic	3	State of West Bengal";
+LatitudeLongitude[2272] = "22.223711	88.460978";
 
 
