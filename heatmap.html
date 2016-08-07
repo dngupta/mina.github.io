@@ -70,7 +70,7 @@
     <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
 	<script src="/mina.github.io/js/leaflet-heat.js"></script>
-	<script src="/mina.github.io/1950.js"></script>
+	<script src="/mina.github.io/1950_points.js"></script>
 
 	<!-- Intitiates map -->
 <script>
@@ -85,9 +85,9 @@
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
 
 	
-var heat = L.heatLayer(1950, {radius:12,blur:25,maxZoom:18}).addTo(map);
-/*for (i = 0; i < 1950.length;i++){
-				L.circle([1950[i][0],1950[i][1]],250,{color: "black", weight:2,fillColor:"green"}).addTo(map);
+var heat = L.heatLayer(1950_points, {radius:12,blur:25,maxZoom:18}).addTo(map);
+/*for (i = 0; i < 1950_points.length;i++){
+				L.circle([1950_points[i][0],1950_points[i][1]],250,{color: "black", weight:2,fillColor:"green"}).addTo(map);
 }*/
 
 
