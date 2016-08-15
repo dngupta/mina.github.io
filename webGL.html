@@ -1,36 +1,112 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>WebGL</title>
     <meta charset="utf-8">
-    <style>#map { width: 800px; height: 600px; }</style>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" width="device-width, initial-scale=1.0">
+	<meta name="description" content="Website for Map Indian Archaeology">
+	<meta name="author" content="Neha Gupta">
 
-    <!-- Leaflet -->
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <title>Map Indian Archaeology</title>
 
-    <!-- Mapbox GL -->
-    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.14.3/mapbox-gl.css" rel='stylesheet' />
-    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.14.3/mapbox-gl.js"></script>
-</head>
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="/mina.github.io/css/bootstrap.css" />
 
-<body>
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="/mina.github.io/css/style.css"  />
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+ 
+	<!-- loads Leaflet -->
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html"><strong>Map Indian Archaeology</strong></a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/mina.github.io/index">Map</a></li>
+            <li><a href="/mina.github.io/project">The Project</a></li>
+			<li><a href="/mina.github.io/contact">Contact</a></li>
+              </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <!-- MAP -->
 <div id="map"></div>
+ 
+    <!-- FOOTER -->  
+    <div class="footer">
+    <div class="container">
+    <p class="text-muted">Hosted by the <a href="http://www2.matrix.msu.edu/" target="_blank">Matrix Lab</a>, Michigan State University</p> 
+    </div>
+    </div>
 
-<script src="../leaflet-mapbox-gl.js"></script>
-<script>
-var token = location.hash.replace('#', '');
-if (!token) {
-    token = prompt('Mapbox Access Token');
-}
-var map = L.map('map').setView([38.912753, -77.032194], 15);
-L.marker([38.912753, -77.032194])
-    .bindPopup("Hello <b>Leaflet GL</b>!<br>Whoa, it works!")
-    .addTo(map)
-    .openPopup();
-var gl = L.mapboxGL({
-    accessToken: token,
-    style: 'mapbox://styles/mapbox/streets-v8'
-}).addTo(map);
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+	<!-- loads jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/mina.github.io/js/bootstrap.min.js"></script>
+    <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+  </head>
+	<!-- Pulls data from csv and intitiates map -->
+	<script>
+var map = L.map('map').setView([23.215757, 80.042289], 5);
+
+L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+	id: 'dngupta.0hm7jnc4',
+    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'  } ).addTo(map);
+
+var myIcon = L.icon({
+	iconUrl: '/mina.github.io/images/pin24.png',
+	iconRetinaUrl: '/mina.github.io/images/pin48.png',
+	iconSize: [29, 24],
+	iconAnchor: [9, 21],
+	popupAnchor: [0, -14]
+});
+
+var markerClusters = L.markerClusterGroup();
+for ( var i = 0; i < markers.length; ++i )
+{
+
+var popup = markers.Site +
+              '<br><b>Name: </b><br>' + markers.State + '<br><br>' + 
+			 '<br/><b>Year: </b>' + markers.Year +
+              '<br/><b>Accuracy: </b> ' + markers.Acc +
+              '<br/><b>Institute: </b> ' + markers.Institute, {autoPanPadding: [5,55]};
+	
+	//enter path for .csv here
+var markers = omnivore.csv('/mina.github.io/IAR1950s_160611.csv', { 
+	icon: L.mapbox.marker.icon({icon: myIcon}).bindPopup(popup);
+
+	markerClusters.addLayer (markers);
+	}
+map.addLayer(markerClusters); 
+    )
+	}
+            .addTo(map);		
 </script>
-</body>
-</html>
+          
+</body></html>
