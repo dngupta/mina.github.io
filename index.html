@@ -18,7 +18,8 @@
 	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
 	<link rel="stylesheet" href="/mina.github.io/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="/mina.github.io/css/font-awesome.css" type="text/css" />
+	<link rel="stylesheet" href="/mina.github.io/css/font-awesome.css" />
+	<link rel="stylesheet" href="/mina.github.io/css/custom.css" />
 	
 	<!-- loads Leaflet -->
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
@@ -43,7 +44,6 @@
                     </div>
                     <div class="modal-body">
                         MINA is a digital Web platform of archaeological investigations in post-colonial India  (currently 1953-1961).  Produced as capstone for the Institute on Digital Archaeology Methods and Practices, the platform aims to promote scholarly interest in the archaeology of India and neighbouring South Asian nations and to encourage students to employ digital methods in archaeology.
-
                     </div>
                     <div class="modal-footer">
                         <label ><input class="dont" type="checkbox" name="dismiss"> Don't show again</label><br />
@@ -101,7 +101,51 @@
     <script src="/mina.github.io/js/bootstrap.min.js"></script>
     <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
-  </head>
+ 
+	<!-- Initiates Modal and Uses cookies for Dont Show Again Checkbox -->     
+<script type="text/javascript">
+ $(document).ready(function () {
+    $('#myModal').modal();
+  
+   //check cookies
+    function setCookie(){
+        var dis = document.cookie;
+        while(dis.charAt(0)==" ") dis = dis.substring(1);
+        if(dis.substring(8,13)== "false"){
+            $('#myModal').modal('hide');
+        }
+        console.log(dis.substring(8,13));
+    }
+    setCookie();    
+     
+     
+      var $check = $("input.dont").click(function(){
+        if($("input.dont").is(":checked")){
+        document.cookie = "display=false";        
+        }else{
+        document.cookie = "display=true";        
+        }
+          
+      });
+ });
+</script>
+
+	<!-- Centers Modal Vertically -->      
+<script type="text/javascript">
+      function centerModal() {
+    $(this).css('display', 'block');
+    var $dialog = $(this).find(".modal-dialog");
+    var offset = ($(window).height() - $dialog.height()) / 2;
+    // Center modal vertically in window
+    $dialog.css("margin-top", offset);
+}
+
+$('.modal').on('show.bs.modal', centerModal);
+$(window).on("resize", function () {
+    $('.modal:visible').each(centerModal);
+});
+</script>
+      
 	<!-- Pulls data from csv and intitiates map -->
 	<script>
 var map = L.map('map').setView([23.215757, 80.042289], 5);
