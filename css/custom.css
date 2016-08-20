@@ -10,6 +10,10 @@
     color: #00ABE3;
 }
 
+.social .fa-wordpress:hover {
+    color: #4060A5;
+}
+
 .social .fa-google-plus:hover {
     color: #e64522;
 }
