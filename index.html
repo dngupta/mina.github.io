@@ -45,9 +45,9 @@
                         <h4 class="modal-title" id="myModalLabel">Welcome to MINA | MAP INDIAN ARCHAEOLOGY</h4>
                     </div>
                     <div class="modal-body">
-					::before
+				
                     <p> MINA is a digital Web platform of archaeological investigations in post-colonial India  (currently 1953-1960).  Produced as capstone for the Institute on Digital Archaeology Method and Practice, the platform aims to encourage students to employ digital methods in archaeology and to promote scholarly interest in the archaeology of India and neighbouring South Asian nations.</p>
-					::after 
+					 
 					<p><b>Interact!</b> Use the zoom buttons to explore a specific area. Click on an individual marker to learn more on each investigation.</p><br>
 					<p><i>Locations (i.e. latitude and longitude) are accurate to roughly 1 degree or 100 kilometers  </i></p>
                     </div>
@@ -167,7 +167,7 @@ var map = L.map('map').setView([23.215757, 80.042289], 5, fullscreenControl: tru
 		});
 		map.on('exitFullscreen', function(){
 			if(window.console) window.console.log('exitFullscreen');
-		});
+		}); 
 
 L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
