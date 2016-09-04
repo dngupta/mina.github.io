@@ -49,7 +49,7 @@
                     <p> MINA is a digital Web platform of archaeological investigations in post-colonial India  (currently 1953-1960).  Produced as capstone for the Institute on Digital Archaeology Method and Practice, the platform aims to encourage students to employ digital methods in archaeology and to promote scholarly interest in the archaeology of India and neighbouring South Asian nations.</p>
 					 
 					<p><b>Interact!</b> Use the zoom buttons to explore a specific area. Click on an individual marker to learn more on each investigation.</p><br>
-					<p><i>Locations (i.e. latitude and longitude) are accurate to roughly 1 degree or 100 kilometers  </i></p>
+					<p><i>Locations (i.e. latitude and longitude) are accurate to roughly 1 degree or 100 km  </i></p>
                     </div>
                     <div class="modal-footer">
                         <label ><input class="dont" type="checkbox" name="dismiss"> Don't show again</label><br />
@@ -91,7 +91,7 @@
 		<script href="/mina.github.io/js/bootstrap.min.js"></script>
     </div>
     <!-- MAP -->
-<div id="map"></div>
+	<div id="map"></div>
  
     <!-- FOOTER -->  
     <div class="footer">
@@ -108,7 +108,7 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/mina.github.io/js/bootstrap.min.js"></script>
     <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
  
 	<!-- Initiates Modal and Uses cookies for Dont Show Again Checkbox -->     
 <script type="text/javascript">
@@ -156,18 +156,7 @@ $(window).on("resize", function () {
       
 	<!-- Pulls data from csv and intitiates map -->
 	<script>
-var map = L.map('map').setView([23.215757, 80.042289], 5, fullscreenControl: true,
-			fullscreenControlOptions: { // optional
-				title:"Show me the fullscreen !",
-				titleCancel:"Exit fullscreen mode");
-
-		// detect fullscreen toggling
-		map.on('enterFullscreen', function(){
-			if(window.console) window.console.log('enterFullscreen');
-		});
-		map.on('exitFullscreen', function(){
-			if(window.console) window.console.log('exitFullscreen');
-		}); 
+var map = L.map('map').setView([23.215757, 80.042289], 5);
 
 L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
