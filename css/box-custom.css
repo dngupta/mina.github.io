@@ -1,0 +1,14 @@
+.border-box {
+  background: #fff;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+body {
+  background: #e3e3e3;
+  padding: 40px 0;
+}
+input {
+  margin-bottom: 10px;
+}
