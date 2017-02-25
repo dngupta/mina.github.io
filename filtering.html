@@ -163,7 +163,22 @@ $(window).on("resize", function () {
     $('.modal:visible').each(centerModal);
 });
 </script>
-      
+
+	<!-- Adds slider function-->
+	<script>
+var slidervar = document.getElementById('slider');
+noUiSlider.create(slidervar, {
+	connect: true,
+	start: [1953, 1960],
+	range: {
+		min: 1953,
+		max: 1960
+	}
+});	
+ 
+
+</script>
+
 	<!-- Pulls data from csv and intitiates map -->
 	<script>
 var map = L.map('map').setView([23.215757, 80.042289], 5);
@@ -195,20 +210,7 @@ map.addLayer(markerClusters);
 
 </script>
 
-	<!-- Adds slider function-->
-	<script>
-var slidervar = document.getElementById('slider');
-noUiSlider.create(slidervar, {
-	connect: true,
-	start: [1953, 1960],
-	range: {
-		min: 1953,
-		max: 1960
-	}
-});	
- 
 
-</script>
 
 <!-- Google Analytics -->
 <script>
