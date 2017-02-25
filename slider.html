@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" width="device-width, initial-scale=1.0">
+	<meta name="description" content="Website for Map Indian Archaeology">
+	<meta name="author" content="Neha Gupta">
+
+    <title>MINA | Map Indian Archaeology</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="/mina.github.io/css/bootstrap.css" />
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="/mina.github.io/css/style.css"  />
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+	<link rel="stylesheet" href="/mina.github.io/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="/mina.github.io/css/font-awesome.css" />
+	<link rel="stylesheet" href="/mina.github.io/css/custom.css" />
+	
+	<!-- loads Leaflet -->
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+	<script src="/mina.github.io/js/Control.FullScreen.js"></script>
+	
+	<!-- loads jRangeSlider -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.css" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.5.1/nouislider.min.js"></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+   <!-- MODAL -->
+	<!-- MODAL --<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-dialog modal-vertical-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Welcome to MINA | MAP INDIAN ARCHAEOLOGY</h4>
+                    </div>
+                    <div class="modal-body">
+				
+                    <p> MINA is a digital Web platform of archaeological investigations in post-colonial India  (currently 1953-1960).  Produced as a project for the Institute on Digital Archaeology Method and Practice, the platform aims to encourage students to employ digital methods in archaeology and to promote scholarly interest in the archaeology of India and neighbouring South Asian nations.</p>
+					 
+					<p><b>Interact!</b> Use the zoom buttons to explore a specific area. Click on an individual marker to learn more on each investigation.</p><br>
+					<p><i>Locations (i.e. latitude and longitude) are accurate to roughly 1 degree or 100 km  </i></p>
+                    </div>
+                    <div class="modal-footer">
+                        <label ><input class="dont" type="checkbox" name="dismiss"> Don't show again</label><br />
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html"><strong>MAP INDIAN ARCHAEOLOGY</strong></a>
+        </div>
+		<!-- menu items -->
+    <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/mina.github.io/index">MAP</a></li>
+            <li><a href="/mina.github.io/project">THE PROJECT</a></li>
+			<li><a href="https://mapindianarch.wordpress.com" target="_blank">BLOG</a></li>
+              </ul>
+		<!-- social media icons -->
+    <ul class="nav navbar-nav navbar-right social">
+            <li><a href="https://www.facebook.com/mapindianarchaeology/" target="_blank"><i class="fa fa-lg fa-facebook"></i></a></li>
+            <li><a href="https://twitter.com/MapIndianArch" target="_blank"><i class="fa fa-lg fa-twitter"></i></a></li>			
+			<li><a href="https://mapindianarch.wordpress.com" target="_blank"><i class="fa fa-lg fa-wordpress" aria-hidden="true"></i></a></li>
+			<li><a href="https://github.com/dngupta/mina.github.io" target="_blank"><i class="fa fa-lg fa-github"></i></a></li>
+         </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+		<script href="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script href="/mina.github.io/js/bootstrap.min.js"></script>
+    </div>
+	<!-- jRangeSlider -->
+	<div id="slider" style="top: 20px; right: 1px; margin: 10px 25px;" class= "noUi-target noUi-ltr noUi-horizontal noUi-background">
+		<div class="noUi-base">
+			<div class="noUi-origin noUi-connect" style="left: 0%;">
+				<div class="noUi-handle noUi-handle-lower">
+		:: before
+		:: after
+			</div>
+		</div>
+	<div class="noUi-origin noUi-background" style="left: 100%;">
+			<div class="noUi-handle noUi-handle-upper">
+			:: before
+			:: after
+				</div>
+			</div>
+		</div>
+	</div>
+	<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
+	<input type="number" min='1953' max='1961' id="input-number-min">
+	<input type="number" min='1952' max='1960' id="input-number-max">
+	</div>
+
+    <!-- MAP -->
+	<div id="map"></div>
+
+
+    <!-- FOOTER -->  
+    <div class="footer">
+    <div class="container">
+    <p class="text-muted">Hosting by <a href="http://www2.matrix.msu.edu/" target="_blank">MATRIX</a>, Michigan State University</p> 
+    </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+	<!-- loads jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/mina.github.io/js/bootstrap.min.js"></script>
+    <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+ 
+	<!-- Initiates Modal and Uses cookies for Don't Show Again Checkbox -->     
+<script type="text/javascript">
+ $(document).ready(function () {
+    $('#myModal').modal();
+  
+   //check cookies
+    function setCookie(){
+        var dis = document.cookie;
+        while(dis.charAt(0)==" ") dis = dis.substring(1);
+        if(dis.substring(8,13)== "false"){
+            $('#myModal').modal('hide');
+        }
+        console.log(dis.substring(8,13));
+    }
+    setCookie();    
+     
+     
+      var $check = $("input.dont").click(function(){
+        if($("input.dont").is(":checked")){
+        document.cookie = "display=false";        
+        }else{
+        document.cookie = "display=true";        
+        }
+          
+      });
+ });
+</script>
+
+	<!-- Centers Modal Vertically -->      
+<script type="text/javascript">
+      function centerModal() {
+    $(this).css('display', 'block');
+    var $dialog = $(this).find(".modal-dialog");
+    var offset = ($(window).height() - $dialog.height()) / 2;
+    // Center modal vertically in window
+    $dialog.css("margin-top", offset);
+}
+
+$('.modal').on('show.bs.modal', centerModal);
+$(window).on("resize", function () {
+    $('.modal:visible').each(centerModal);
+});
+</script>
+
+	<!-- Adds slider function-->
+	<script>
+var slidervar = document.getElementById('slider');
+noUiSlider.create(slidervar, {
+	connect: true,
+	start: [1953, 1960],
+	range: {
+		min: 1953,
+		max: 1960
+	}
+});	
+ 
+
+</script>
+
+	<!-- Pulls data from csv and intitiates map -->
+	<script>
+var map = L.map('map').setView([23.215757, 80.042289], 5);
+
+L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+	id: 'dngupta.0hm7jnc4',
+    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
+
+//enter path for .csv here
+var markers = omnivore.csv('/mina.github.io/data/IAR1950s_170225.csv')
+	.on('ready', function(layer) {
+	map.fitBounds(markers.getBounds());
+	markerClusters.addLayer(markers);
+	map.addLayer(markerClusters); 
+	this.eachLayer(function(marker) {
+	
+	marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b>' + 
+	marker.toGeoJSON().properties.Year +  '<br/><b>Institution: </b> ' + 
+	marker.toGeoJSON().properties.Institute + '<br/><b>Precision: </b> ' + 
+	marker.toGeoJSON().properties.Precision, {autoPanPadding: [5,55]});
+		});
+	});	
+var markerClusters = L.markerClusterGroup();
+for (var i = 0; i < markers.length; ++i)
+{
+}
+map.addLayer(markerClusters);
+
+</script>
+
+
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82719001-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+          
+</body></html>
