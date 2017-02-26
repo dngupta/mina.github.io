@@ -95,13 +95,12 @@
     </div>
 	
 	<!-- jRangeSlider -->
-	<div id="slider" style="top: 20px; right: 1px; margin: 10px 25px;" class= "noUi-target noUi-ltr noUi-horizontal noUi-background">
-	</div>
-	<!--<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
-	<input type="number" min='1953' max='1960' id="input-number-min">
-	<input type="number" min='1953' max='1960' id="input-number-max">
-	</div>
-	-->
+	<div id="slider" style="top: 15px; right: 1px; margin: 10px 25px;"></div>
+	<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
+	<input type="number" min='1953' max='1961' id="input-number-min">
+	<input type="number" min='1952' max='1960' id="input-number-max">
+</div>
+
     <!-- MAP -->
 	<div id="map"></div>
 
@@ -171,13 +170,13 @@ $(window).on("resize", function () {
 	<script>
 var slidervar = document.getElementById('slider');
 noUiSlider.create(slidervar, {
+noUiSlider.create(slidervar, {
 	connect: true,
-	behaviour: 'drag',
-	start: [ 1953 ],
+	start: [1953],
 	step: 1,
 	range: {
-		'min': 1953,
-		'max': 1960
+		min: 1953,
+		max: 1960
 	}
 });	
  
