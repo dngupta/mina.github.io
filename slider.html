@@ -96,16 +96,6 @@
 	
 	<!-- jRangeSlider -->
 	<div id="slider" style="top: 20px; right: 1px; margin: 10px 25px;" class= "noUi-target noUi-ltr noUi-horizontal noUi-background">
-		<div class="noUi-base">
-			<div class="noUi-origin noUi-connect" style="left: 0%;">
-				<div class="noUi-handle noUi-handle-lower">
-				::before
-				::after
-				</div>
-				<div class="noUi-origin noUi-background" style="left: 100%;">
-				</div>
-			</div>
-		</div>
 	</div>
 	<!--<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
 	<input type="number" min='1953' max='1960' id="input-number-min">
@@ -181,7 +171,7 @@ $(window).on("resize", function () {
 	<script>
 var slidervar = document.getElementById('slider-step-value');
 noUiSlider.create(slidervar, {
-	connect: true,
+	connect: [ true, false ],
 	behaviour: 'drag',
 	start: [ 1953 ],
 	step: 1,
