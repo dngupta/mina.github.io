@@ -39,31 +39,7 @@
   </head>
 
   <body>
-   <!-- MODAL -->
-	<!-- MODAL --<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-dialog modal-vertical-centered">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                        <h4 class="modal-title" id="myModalLabel">Welcome to MINA | MAP INDIAN ARCHAEOLOGY</h4>
-                    </div>
-                    <div class="modal-body">
-				
-                    <p> MINA is a digital Web platform of archaeological investigations in post-colonial India  (currently 1953-1960).  Produced as a project for the Institute on Digital Archaeology Method and Practice, the platform aims to encourage students to employ digital methods in archaeology and to promote scholarly interest in the archaeology of India and neighbouring South Asian nations.</p>
-					 
-					<p><b>Interact!</b> Use the zoom buttons to explore a specific area. Click on an individual marker to learn more on each investigation.</p><br>
-					<p><i>Locations (i.e. latitude and longitude) are accurate to roughly 1 degree or 100 km  </i></p>
-                    </div>
-                    <div class="modal-footer">
-                        <label ><input class="dont" type="checkbox" name="dismiss"> Don't show again</label><br />
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-      </div>
-	  -->
+
     <!-- Fixed navbar -->
 		<div class="navbar navbar-default navbar-fixed-top" role="navigation">
 			<div class="container">
@@ -118,49 +94,18 @@
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
 	<script src="SliderControl.js"></script>
  
-	<!-- Initiates Modal and Uses cookies for Don't Show Again Checkbox -->     
-<script type="text/javascript">
- $(document).ready(function () {
-    $('#myModal').modal();
-  
-   //check cookies
-    function setCookie(){
-        var dis = document.cookie;
-        while(dis.charAt(0)==" ") dis = dis.substring(1);
-        if(dis.substring(8,13)== "false"){
-            $('#myModal').modal('hide');
-        }
-        console.log(dis.substring(8,13));
-    }
-    setCookie();    
-     
-     
-      var $check = $("input.dont").click(function(){
-        if($("input.dont").is(":checked")){
-        document.cookie = "display=false";        
-        }else{
-        document.cookie = "display=true";        
-        }
-          
-      });
- });
-</script>
+	<!-- Intitiates map --> 
+	<script type="text/javascript">
+	
+var map = L.map('map').setView([23.215757, 80.042289], 5);
 
-	<!-- Centers Modal Vertically -->      
-<script type="text/javascript">
-      function centerModal() {
-    $(this).css('display', 'block');
-    var $dialog = $(this).find(".modal-dialog");
-    var offset = ($(window).height() - $dialog.height()) / 2;
-    // Center modal vertically in window
-    $dialog.css("margin-top", offset);
-}
+L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18,
+	id: 'dngupta.0hm7jnc4',
+    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
 
-$('.modal').on('show.bs.modal', centerModal);
-$(window).on("resize", function () {
-    $('.modal:visible').each(centerModal);
-});
-</script>
+
+	</script>
 
 <!-- Slider -->
 	<script>
@@ -181,39 +126,6 @@ $(window).on("resize", function () {
         sliderControl.startSlider();
     });
     </script>
-	
-	<!-- Pulls data from csv and intitiates map -->
-	<script>
-var map = L.map('map').setView([23.215757, 80.042289], 5);
-
-L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 18,
-	id: 'dngupta.0hm7jnc4',
-    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
-
-//enter path for .csv here
-var markers = omnivore.csv('/mina.github.io/data/IAR1950s_170225.csv')
-	.on('ready', function(layer) {
-	map.fitBounds(markers.getBounds());
-	markerClusters.addLayer(markers);
-	map.addLayer(markerClusters); 
-	this.eachLayer(function(marker) {
-	
-	marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b>' + 
-	marker.toGeoJSON().properties.Year +  '<br/><b>Institution: </b> ' + 
-	marker.toGeoJSON().properties.Institute + '<br/><b>Precision: </b> ' + 
-	marker.toGeoJSON().properties.Precision, {autoPanPadding: [5,55]});
-		});
-	});	
-var markerClusters = L.markerClusterGroup();
-for (var i = 0; i < markers.length; ++i)
-{
-}
-map.addLayer(markerClusters);
-
-</script>
-
-
 
 <!-- Google Analytics -->
 <script>
