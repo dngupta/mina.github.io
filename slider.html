@@ -169,9 +169,9 @@ $(window).on("resize", function () {
 
 	<!-- Adds slider function-->
 	<script>
-var slidervar = document.getElementById('slider-step-value');
+var slidervar = document.getElementById('slider');
 noUiSlider.create(slidervar, {
-	connect: true,
+	connect: [ true, false ],
 	behaviour: 'drag',
 	start: [ 1953 ],
 	step: 1,
