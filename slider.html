@@ -95,25 +95,21 @@
     </div>
 	
 	<!-- jRangeSlider -->
-	<div id="slider" style="top: 10px; right: 1px; margin: 10px 25px;" class= "noUi-target noUi-ltr noUi-horizontal noUi-background">
+	<div id="slider" style="top: 20px; right: 1px; margin: 10px 25px;" class= "noUi-target noUi-ltr noUi-horizontal noUi-background">
 		<div class="noUi-base">
 			<div class="noUi-origin noUi-connect" style="left: 0%;">
 				<div class="noUi-handle noUi-handle-lower">
 				::before
 				::after
-			</div>
-		</div>
-			<div class="noUi-origin noUi-background" style="left: 100%;">
-			<div class="noUi-handle noUi-handle-upper">
-				::before
-				::after
+				</div>
+				<div class="noUi-origin noUi-background" style="left: 100%;">
 				</div>
 			</div>
 		</div>
 	</div>
-	<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
-	<input type="number" min='1953' max='1961' id="input-number-min">
-	<input type="number" min='1952' max='1960' id="input-number-max">
+	<!--<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
+	<input type="number" min='1953' max='1960' id="input-number-min">
+	<input type="number" min='1953' max='1960' id="input-number-max">
 	</div>
 
     <!-- MAP -->
@@ -183,13 +179,14 @@ $(window).on("resize", function () {
 
 	<!-- Adds slider function-->
 	<script>
-var slidervar = document.getElementById('slider');
+var slidervar = document.getElementById('slider-step-value');
 noUiSlider.create(slidervar, {
 	connect: true,
-	start: [1953, 1960],
+	start: [ 1953 ],
+	step: 1,
 	range: {
-		min: 1953,
-		max: 1960
+		'min': 1953,
+		'max': 1960
 	}
 });	
  
