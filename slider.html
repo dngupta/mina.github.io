@@ -89,7 +89,7 @@
 			<li><a href="https://github.com/dngupta/mina.github.io" target="_blank"><i class="fa fa-lg fa-github"></i></a></li>
          </ul>
         </div><!--/.nav-collapse -->
-      </div>
+      <div>
 		<script href="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script href="/mina.github.io/js/bootstrap.min.js"></script>
     </div>
@@ -111,7 +111,7 @@
 	<input type="number" min='1953' max='1960' id="input-number-min">
 	<input type="number" min='1953' max='1960' id="input-number-max">
 	</div>
-
+	-->
     <!-- MAP -->
 	<div id="map"></div>
 
@@ -182,6 +182,7 @@ $(window).on("resize", function () {
 var slidervar = document.getElementById('slider-step-value');
 noUiSlider.create(slidervar, {
 	connect: true,
+	behaviour: 'drag',
 	start: [ 1953 ],
 	step: 1,
 	range: {
