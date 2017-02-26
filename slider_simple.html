@@ -63,6 +63,7 @@
             </div>
         </div>
       </div>
+	  -->
     <!-- Fixed navbar -->
 		<div class="navbar navbar-default navbar-fixed-top" role="navigation">
 			<div class="container">
@@ -96,10 +97,8 @@
 		<script href="/mina.github.io/js/bootstrap.min.js"></script>
     </div>
 	
-
     <!-- MAP -->
 	<div id="map"></div>
-
 
     <!-- FOOTER -->  
     <div class="footer">
@@ -177,7 +176,7 @@ $(window).on("resize", function () {
             });
 
         //Make sure to add the slider to the map ;-)
-        myMap.addControl(sliderControl);
+        map.addControl(sliderControl);
         //And initialize the slider
         sliderControl.startSlider();
     });
