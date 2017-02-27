@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
 	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
-	<link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"/>
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
 	<link rel="stylesheet" href="/mina.github.io/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="/mina.github.io/css/font-awesome.css" />
 	<link rel="stylesheet" href="/mina.github.io/css/custom.css" />
@@ -27,8 +27,7 @@
 	<script src="/mina.github.io/js/Control.FullScreen.js"></script>
 	
 	<!-- loads jQSlider -->
-	<script src="http://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-
+	
     
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -92,7 +91,9 @@
     <script src="/mina.github.io/js/bootstrap.min.js"></script>
     <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
-	<script src="SliderControl.js"></script>
+	<script src="http://code.jquery.com/jquery-1.12.1.min.js"></script>
+	<script src="http://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	<script src="/mina.github.io/js/SliderControl.js"></script>
  
 	<!-- Intitiates map --> 
 	<script type="text/javascript">
@@ -113,15 +114,15 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 	
 	//Fetch some data from a GeoJSON file
     $.getJSON("testData.geojson", function(json) {
-        var testlayer = L.geoJson(json),
+        var map = L.geoJson(json),
             sliderControl = L.control.sliderControl({
                 position: "topright",
-                layer: testlayer,
+                layer: map,
 				range: true,
 				follow: true
             });
 
-        //Make sure to add the slider to the map ;-)
+        //Add the slider
         map.addControl(sliderControl);
         //And initialize the slider
         sliderControl.startSlider();
