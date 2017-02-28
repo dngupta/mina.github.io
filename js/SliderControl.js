@@ -8,7 +8,7 @@ L.Control.SliderControl = L.Control.extend({
         timeStrLength: 4,  // the size of  yyyy-mm-dd hh:mm:ss - if millis are present this will be larger
         maxValue: -1,
         minValue: 0,
-        showAllOnStart: true,
+        showAllOnStart: false,
         markers: null,
         range: true,
         follow: true,
