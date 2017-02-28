@@ -117,16 +117,15 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
         var testLayer = L.geoJson(json),
             sliderControl = L.control.sliderControl({
                 position: "topright",
-				layer: testlayer
+				layer: testLayer
             });
-
+			
+		//For range-slider
 		sliderControl = L.control.sliderControl ({
 				position: "topright",
-				layer: testlayer,
-				timeAttribute: "year",
+				layer: testLayer,
+				timeAttribute: "Year",
 				range: true,
-				min: 1953,
-				max: 1960,
 				step: 1,
 				value: 100,
 				follow: true
