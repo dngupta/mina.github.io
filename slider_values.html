@@ -113,7 +113,6 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 	var sliderControl = null;
 	
 	//Fetch some data from a GeoJSON file
-        $.getJSON("testData.geojson", function(json) {
         var testLayer = L.geoJson(json),
             sliderControl = L.control.sliderControl({
                 position: "topright",
@@ -121,10 +120,11 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 				min: 1953,
 				max: 1960,
 				step: 1,
+				value: 100,
 				follow: true
             });
 
-		slider.on('input change', function(e) {
+		sliderControl.on('change input', function(e) {
             console.log(e.value);
             layer.setOpacity(e.value / 100); //do something with slider value here
 			})
