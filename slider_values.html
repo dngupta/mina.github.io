@@ -105,8 +105,8 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 	id: 'dngupta.0hm7jnc4',
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
 
-
 	</script>
+
 
 <!-- Slider -->
 	<script>
@@ -117,21 +117,26 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
         var testLayer = L.geoJson(json),
             sliderControl = L.control.sliderControl({
                 position: "topright",
-                layer: testLayer,
+                orient: 'horizontal',
 				range: true,
-				min: [1953],
-				max: [1960],
+				min: 1953,
+				max: 1960,
 				step: 1,
 				follow: true
             });
 
-		var layer: testLayer;
-		
+		sliderControl.on('input change', function(e) {
+            console.log(e.value);
+            layer.setOpacity(e.value / 100); //do something with slider value here
+			})
+			
         //Add the slider
         map.addControl(sliderControl);
         //And initialize the slider
         sliderControl.startSlider();
     });
+	
+	
     </script>
 
 <!-- Google Analytics -->
