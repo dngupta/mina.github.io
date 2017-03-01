@@ -8,7 +8,7 @@ function initInputs(){
   $("#year_slider").slider({
     min: 1953,
     max: 1960,
-    values:[1953, 1960],
+    values:[1953-1960],
     step: 1,
     range:true,
     slide: function( event, ui ) {
@@ -24,6 +24,7 @@ function initInputs(){
     $('#institute_criteria :checkbox').prop('checked', $(this).is(':checked'));
   });
 }
+});
 
 function renderInstitute(){
   var institute = ["Survey", "Universities", "State Departments"]; 
