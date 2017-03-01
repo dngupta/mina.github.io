@@ -79,7 +79,7 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 	//Fetch some data from a GeoJSON file
 	$.getJSON("testData.geojson", function(json) {
         var place = L.geoJson(json),
-		            });
+		            };
 		
 		this.eachLayer(function(marker) {
           
@@ -89,25 +89,20 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
                 marker.toGeoJSON().properties.Year + '<br><br> ' +
                 marker.toGeoJSON().properties.Acc + '<br><br> ' +
                 marker.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
-        //Add the slider
-        map.addControl(sliderControl);
-        //And initialize the slider
-        sliderControl.startSlider();
 
 
-		
-  
         });
+		);
 		
             .addTo(map);
 			
 			
   var FJS = FilterJS("testData.geojson", '#institute', {
-    template: '#institute-template',
-	criterias: [{field: 'Year', ele: '#year_filter', type: 'range'}]
+    template: '#institute-template'
   });
   
   //Add criteria here
+  FJS.addCriteria({field: 'Year', ele: '#year_filter, type: 'range'});
   FJS.addCriteria({field: 'Institute', ele: '#institute_criteria input:checkbox', all: 'all'});
   FJS.addCriteria({field: 'Ins_ID', ele: '#insID_criteria input:checkbox', all: 'all'});
 
