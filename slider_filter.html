@@ -79,9 +79,9 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 	//Fetch some data from a GeoJSON file
 	$.getJSON("testData.geojson", function(json) {
         var place = L.geoJson(json),
-		.on('ready', function(layer)
-            });
-  this.eachLayer(function(marker) {
+		            });
+		
+		this.eachLayer(function(marker) {
           
             // Bind a popup to each icon based on the same properties
             // Adds coloumns of extra info to circleMarker popup
@@ -89,8 +89,16 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
                 marker.toGeoJSON().properties.Year + '<br><br> ' +
                 marker.toGeoJSON().properties.Acc + '<br><br> ' +
                 marker.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
+        //Add the slider
+        map.addControl(sliderControl);
+        //And initialize the slider
+        sliderControl.startSlider();
+
+
+		
+  
         });
-    )
+		
             .addTo(map);
 			
 			
