@@ -65,7 +65,7 @@
 		</div>
 		</div>
     <!-- MAP -->
-	<div class="col">
+	<div class="col-md-9">
 		<div id="map" class="map"></div>
 
 		<script>
@@ -84,7 +84,7 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 		onEachFeature: function (feature, latlng){
 		layer.bindPopup (feature.properties.Year);
 	
-          
+          }
 		  })   
 		  
 		  .addTo(map);
