@@ -76,26 +76,21 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 	id: 'dngupta.0hm7jnc4',
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'  } ).addTo(map);
 
-	//Fetch some data from a GeoJSON file
-	$.getJSON("testData.geojson", function(json) {
-        var place = L.geoJson(json),
-		            place.eachLayer(function(marker) {
-          
-            // Bind a popup to each icon based on the same properties
-            // Adds coloumns of extra info to circleMarker popup
-				marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><br>' +
-                marker.toGeoJSON().properties.Year + '<br><br> ' +
-                marker.toGeoJSON().properties.Acc + '<br><br> ' +
-                marker.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
-			});
+	</script>
 
-        });
-		);
-		
-            .addTo(map);
-			
-			
-  var FJS = FilterJS("testData.geojson", '#institute', {
+	<script>
+	//Fetch some data from a GeoJSON file
+    var place = L.geoJson(testData, {
+		onEachFeature: function (feature, latlng){
+		layer.bindPopup (feature.properties.Year);
+	
+          
+		  })   
+		  
+		  .addTo(map);
+
+        			
+	var FJS = FilterJS("testData.geojson", '#institute', {
     template: '#institute-template'
   });
   
