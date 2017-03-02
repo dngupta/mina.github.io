@@ -1,39 +1,39 @@
 $(document).ready(function(){
 
-  renderInstitute();
+  renderCategories();
   initInputs();
 
 
 function initInputs(){
-  $("#year_slider").slider({
+  $("#rating_slider").slider({
     min: 1953,
     max: 1960,
     values:[1953-1960],
     step: 1,
     range:true,
     slide: function( event, ui ) {
-      $("#year_range_label" ).html(ui.values[ 0 ] + ' - ' + ui.values[ 1 ]);
-      $('#year_filter').val(ui.values[0] + '-' + ui.values[1]).trigger('change');
+      $("#rating_range_label" ).html(ui.values[ 0 ] + ' - ' + ui.values[ 1 ]);
+      $('#rating_filter').val(ui.values[0] + '-' + ui.values[1]).trigger('change');
     }
   });
 
 
-  $('#institute_criteria :checkbox').prop('checked', true);
+  $('#categories_criteria :checkbox').prop('checked', true);
 
-  $('#all_institute').on('click', function(){
-    $('#institute_criteria :checkbox').prop('checked', $(this).is(':checked'));
+  $('#all_categories').on('click', function(){
+    $('#categories_criteria :checkbox').prop('checked', $(this).is(':checked'));
   });
 };
 
 
-function renderInstitute(){
-  var institute = ["Survey", "Universities", "State Departments"]; 
+function renderCategories(){
+  var categories = ["Survey", "University", "State Department"]; 
 
-  var html = $('#institute-template').html();
+  var html = $('#category-template').html();
   var templateFn = FilterJS.templateBuilder(html)
-  var container = $('#institute_criteria');
+  var container = $('#categories_criteria');
 
-  $.each(institute, function(i, c){
+  $.each(categories, function(i, c){
     container.append(templateFn({ name: c, value: c }))
   });
 };
