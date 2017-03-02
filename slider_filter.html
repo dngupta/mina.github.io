@@ -93,13 +93,13 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
         L.geoJson(testData).addTo(map);
 		});   		
 
-	var FJS = FilterJS("testData.geojson", '#cate', {
-    template: '#institute-template'
+	var FJS = FilterJS("testData.geojson", '#categores_criteria', {
+    template: '#category-template'
   });
   
   //Add criteria here
   FJS.addCriteria({field: 'Year', ele: '#rating_filter', type: 'range'});
-  FJS.addCriteria({field: 'Investigator', ele: '#categoris_criteria input:checkbox', all: 'all'});
+  FJS.addCriteria({field: 'Investigator', ele: '#categories_criteria input:checkbox', all: 'all'});
   FJS.addCriteria({field: 'Dated', ele: '#is_closed_criteria input:checkbox', all: 'all'});
 
   window.FJS = FJS;
