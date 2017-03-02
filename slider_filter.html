@@ -78,7 +78,10 @@
 	</div>
 	<script>
 		var map = L.map('map').setView([23.215757, 80.042289], 5);
-
+		function onEachFeature(feature, layer) {
+		layer.bindPopup(feature.properties.Site + "," + feature.properties.Year + "," + feature.properties.State + "," + feature.properties.Institute);
+		}
+		
 L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
 	id: 'dngupta.0hm7jnc4',
@@ -88,15 +91,9 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 
 	<script>
 	//Fetch some data from a GeoJSON file
-    $.getJSON("testData.geojson", function(json) {
-        var place = L.geoJson(json, {
-		onEachFeature: function (feature, latlng){
-		layer.bindPopup (feature.properties.Year)}
-		
-		});
-		  })   
-		  
-		  .addTo(map);   		
+    $.getJSON("testData.geojson", function(testData) {
+        L.geoJson(testData).addTo(map);
+		});   		
 
 	var FJS = FilterJS("testData.geojson", '#institute', {
     template: '#institute-template'
