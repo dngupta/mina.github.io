@@ -66,7 +66,8 @@
 		</div>
     <!-- MAP -->
 	<div class="col-md-9">
-		<div id="map" class="map"></div>
+		<div id="map" class="map" style="position: relative; overflow: hidden;">
+		</div>
 
 		<script>
 		var map = L.map('map').setView([23.215757, 80.042289], 5);
@@ -95,7 +96,7 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
   });
   
   //Add criteria here
-  FJS.addCriteria({field: 'Year', ele: '#year_filter, type: 'range'});
+  FJS.addCriteria({field: 'Year', ele: '#year_filter', type: 'range'});
   FJS.addCriteria({field: 'Institute', ele: '#institute_criteria input:checkbox', all: 'all'});
   FJS.addCriteria({field: 'Ins_ID', ele: '#insID_criteria input:checkbox', all: 'all'});
 

@@ -23,8 +23,8 @@ function initInputs(){
   $('#all_institute').on('click', function(){
     $('#institute_criteria :checkbox').prop('checked', $(this).is(':checked'));
   });
-}
-});
+};
+
 
 function renderInstitute(){
   var institute = ["Survey", "Universities", "State Departments"]; 
@@ -37,5 +37,5 @@ function renderInstitute(){
     container.append(templateFn({ name: c, value: c }))
   });
 };
-
+});
 
