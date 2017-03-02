@@ -46,7 +46,11 @@
   <body>
 
     <div class="container">
-		<h1 class="title">Filter Records by Year</h1>
+	<!-- MAP -->
+	<div class="col-md-9">
+		<div id="map" class="map"></div>
+		</div>
+	<h1 class="title">Filter Records by Year</h1>
 		<div class="sidebar col-md-3">
 		<div class="well">
           <fieldset id="year_criteria">
@@ -70,11 +74,6 @@
         </div>
 		</div>
 		
-    <!-- MAP -->
-	<div class="col-md-9">
-		<div id="map" class="map">
-		</div>
-		</div>
 	</div>
 	<script>
 		var map = L.map('map').setView([23.215757, 80.042289], 5);
