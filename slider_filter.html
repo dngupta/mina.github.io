@@ -89,16 +89,23 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 
 	<script>
 	//Fetch some data from a GeoJSON file
-    var place = L.geoJson("testData.geojson", {
+    $.getJSON("testData.geojson", function(json) {
+        var place = L.geoJson(json, {
 		onEachFeature: function (feature, latlng){
-		layer.bindPopup (feature.properties.Year);
-	
-          }
+		layer.bindPopup (feature.properties.Year)};
+		
+		});
 		  })   
 		  
 		  .addTo(map);
 
-        			
+
+         
+            });
+		$('#slider-timestamp').html(options.markers[ui.value].feature.properties.time.substr(0, 4));        		
+
+
+				
 	var FJS = FilterJS("testData.geojson", '#institute', {
     template: '#institute-template'
   });
