@@ -17,13 +17,12 @@
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
 	<link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
 	<link rel="stylesheet" href="/mina.github.io/css/jquery-ui-1.10.2.custom.min.css" />
-	<link rel="stylesheet" href="/mina.github.io/css/stream.css" />
 	<link rel="stylesheet" href="/mina.github.io/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="/mina.github.io/css/custom.css" />
+	<link rel="stylesheet" href="/mina.github.io/css/stream.css" />
 	
 	<!-- loads Leaflet -->
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-	<script src="/mina.github.io/js/Control.FullScreen.js"></script>
 	
 	<!-- loads jQuery -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
@@ -46,34 +45,34 @@
   <body>
 
     <div class="container">
-	<!-- MAP -->
-	<div class="col-xs-9">
-		<div id="map"></div>
-		</div>
 	<h1 class="title">Filter Records by Year</h1>
-		<div class="sidebar col-xs-3">
+		<div class="sidebar col-md-3">
 		<div class="well">
-          <fieldset id="year_criteria">
-            <legend>Year</legend> <span id="year_range_label" class="slider-label">1953 - 1960</span>
-            <div id="year_slider" class="slider">
+          <fieldset id="rating_criteria">
+            <legend>Year</legend> <span id="rating_range_label" class="slider-label">1953 - 1960</span>
+            <div id="rating_slider" class="slider">
             </div>
-            <input type="hidden" id="year_filter" value="1953-1960">
+            <input type="hidden" id="rating_filter" value="1953-1960">
           </fieldset>
         </div>
 		<div class="well">
           <fieldset>
-            <legend>Investigator</legend>
+            <legend>Investigators</legend>
             <div class="checkbox">
               <label>
-                <input type="checkbox" value="All" id="all_institute" checked>
+                <input type="checkbox" value="All" id="all_categories" checked>
                 <span>All</span>
               </label>
             </div>
-            <div id="institute_criteria"></div>
+            <div id="categories_criteria"></div>
           </fieldset>
         </div>
 		</div>
 		
+	<!-- MAP -->
+	<div class="col-md-8">
+		<div id="map"></div>
+		</div>
 	</div>
 	<script>
 		var map = L.map('map').setView([23.215757, 80.042289], 5);
@@ -94,14 +93,14 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
         L.geoJson(testData).addTo(map);
 		});   		
 
-	var FJS = FilterJS("testData.geojson", '#institute', {
+	var FJS = FilterJS("testData.geojson", '#cate', {
     template: '#institute-template'
   });
   
   //Add criteria here
-  FJS.addCriteria({field: 'Year', ele: '#year_filter', type: 'range'});
-  FJS.addCriteria({field: 'Institute', ele: '#institute_criteria input:checkbox', all: 'all'});
-  FJS.addCriteria({field: 'Ins_ID', ele: '#insID_criteria input:checkbox', all: 'all'});
+  FJS.addCriteria({field: 'Year', ele: '#rating_filter', type: 'range'});
+  FJS.addCriteria({field: 'Investigator', ele: '#categoris_criteria input:checkbox', all: 'all'});
+  FJS.addCriteria({field: 'Dated', ele: '#is_closed_criteria input:checkbox', all: 'all'});
 
   window.FJS = FJS;
 
