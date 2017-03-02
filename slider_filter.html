@@ -24,7 +24,14 @@
 	<!-- loads Leaflet -->
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 	<script src="/mina.github.io/js/Control.FullScreen.js"></script>
-
+	
+	<!-- loads jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
+	<script src="/mina.github.io/js/jquery-ui-1.10.2.custom.min.js"></script>
+	<script src="http://code.jquery.com/jquery-1.12.1.min.js"></script>
+	<script src="http://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	
+ 
     <!-- loads filter and map_filter -->
 	<script src="/mina.github.io/js/filter.js" ></script>
 	<script src="/mina.github.io/map_filter.js" ></script>
@@ -41,7 +48,7 @@
 
     <div class="container">
 		<h1 class="title">Filter Records by Year</h1>
-		<div class="sidebar col-md-2">
+		<div class="sidebar col-md-3">
 		<div class="well">
           <fieldset id="year_criteria">
             <legend>Year</legend> <span id="year_range_label" class="slider-label">1953 - 1960</span>
@@ -65,7 +72,7 @@
 		</div>
 		</div>
     <!-- MAP -->
-	<div class="col-md-10">
+	<div class="col-md-9">
 		<div id="map" class="map" style="position: relative;">
 		</div>
 	</div>
@@ -82,7 +89,7 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 
 	<script>
 	//Fetch some data from a GeoJSON file
-    var place = L.geoJson(testData, {
+    var place = L.geoJson("testData.geojson", {
 		onEachFeature: function (feature, latlng){
 		layer.bindPopup (feature.properties.Year);
 	
@@ -115,19 +122,12 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
-	<!-- loads jQuery -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
-	<script src="/mina.github.io/js/jquery-ui-1.10.2.custom.min.js"></script>
-	
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="/mina.github.io/js/bootstrap.min.js"></script>
-	<script src="http://code.jquery.com/jquery-1.12.1.min.js"></script>
-	<script src="http://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
+	<!-- loads bootstrap -->
+    <script src="/mina.github.io/js/bootstrap.min.js"></script>
+	
 	<!-- loads touch support for mobile devices -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
- 
-
 
 <!-- Google Analytics -->
 <script>
