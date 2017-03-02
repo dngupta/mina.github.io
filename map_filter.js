@@ -36,7 +36,6 @@ function renderInstitute(){
   $.each(institute, function(i, c){
     container.append(templateFn({ name: c, value: c }))
   });
-}
+};
 
-});
 
