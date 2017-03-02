@@ -62,7 +62,7 @@
             <legend>Investigator</legend>
             <div class="checkbox">
               <label>
-                <input type="checkbox" value="All" id="all_categories" checked>
+                <input type="checkbox" value="All" id="all_institute" checked>
                 <span>All</span>
               </label>
             </div>
@@ -73,7 +73,7 @@
 		</div>
     <!-- MAP -->
 	<div class="col-md-9">
-		<div id="map" class="map" style="position: relative;">
+		<div id="map" class="map">
 		</div>
 	</div>
 	
@@ -97,15 +97,8 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
 		});
 		  })   
 		  
-		  .addTo(map);
+		  .addTo(map);   		
 
-
-         
-            });
-		$('#slider-timestamp').html(options.markers[ui.value].feature.properties.time.substr(0, 4));        		
-
-
-				
 	var FJS = FilterJS("testData.geojson", '#institute', {
     template: '#institute-template'
   });
