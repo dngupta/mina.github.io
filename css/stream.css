@@ -137,7 +137,7 @@ select:focus, textarea:focus, input:focus{
   padding-bottom: 7px;
 }
 
-.rating{
+.year{
   float: right;
   font-size: 14px;
   margin-top: -5px;
@@ -145,7 +145,7 @@ select:focus, textarea:focus, input:focus{
   background-color: #222;
 }
 
-.rating .glyphicon{
+.year .glyphicon{
   vertical-align: middle;
   color: #fff;
   margin-top: -5px;
@@ -254,7 +254,7 @@ select:focus, textarea:focus, input:focus{
 
 .map{
   margin-top: 15px;
-  height: 300px;
+  height: 950px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 1), 0 0 40px rgba(0, 0, 0, 0.06) inset;
   -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 1), 0 0 40px rgba(0, 0, 0, 0.06) inset;
   -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 1), 0 0 40px rgba(0, 0, 0, 0.06) inset;
