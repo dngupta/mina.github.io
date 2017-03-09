@@ -94,7 +94,7 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
         sliderControl.startSlider();
     });
 	
-	var markers = omnivore.json('/mina.github.io/testData.geojson').on('ready', 	function(layer){
+	var markers = omnivore.csv('/mina.github.io/data/IAR1950s_170225.csv').on('ready', 	function(layer){
 			map.fitBounds(markers.getBounds());
 			this.eachLayer(function(marker) {
 	
