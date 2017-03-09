@@ -25,7 +25,7 @@ L.Control.SliderControl = L.Control.extend({
     },
 
 	extractDatestamp: function(date, options) {
-        //if (options.range) {
+        if (options.range) {
             date = (new Date(parseInt(val.match(Config.date_regx)))).toString(); // this is year to string
         }
         return date.substr(options.startDateIdx, options.startDateIdx + options.dateStrLength);
