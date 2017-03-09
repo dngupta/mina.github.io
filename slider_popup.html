@@ -4,7 +4,7 @@
     <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" width="device-width, initial-scale=1.0">
-	<meta name="description" content="Website for Map Indian Archaeology">
+	<meta name="description" content="Slider for Map Indian Archaeology">
 	<meta name="author" content="Neha Gupta">
 
     <title>MINA | Map Indian Archaeology</title>
@@ -26,8 +26,6 @@
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 	<script src="/mina.github.io/js/Control.FullScreen.js"></script>
 	
-	<!-- loads touch support for mobile devices -->
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.2/jquery.ui.touch-punch.min.js"></script>
     
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -39,34 +37,6 @@
 
   <body>
 
-    <!-- Fixed navbar -->
-		<!-- <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-			<div class="container">
-			<div class="navbar-header">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.html"><strong>MAP INDIAN ARCHAEOLOGY</strong></a>
-        </div>
-	<!-- menu items -->
-		<!--<div class="collapse navbar-collapse">
-			<ul class="nav navbar-nav">
-            <li class="active"><a href="/mina.github.io/index">MAP</a></li>
-            <li><a href="/mina.github.io/project">THE PROJECT</a></li>
-			<li><a href="https://mapindianarch.wordpress.com" target="_blank">BLOG</a></li>
-              </ul>
-	<!-- social media icons -->
-		<!--<ul class="nav navbar-nav navbar-right social">
-            <li><a href="https://www.facebook.com/mapindianarchaeology/" target="_blank"><i class="fa fa-lg fa-facebook"></i></a></li>
-            <li><a href="https://twitter.com/MapIndianArch" target="_blank"><i class="fa fa-lg fa-twitter"></i></a></li>			
-			<li><a href="https://mapindianarch.wordpress.com" target="_blank"><i class="fa fa-lg fa-wordpress" aria-hidden="true"></i></a></li>
-			<li><a href="https://github.com/dngupta/mina.github.io" target="_blank"><i class="fa fa-lg fa-github"></i></a></li>
-         </ul>
-        </div>
-	<!--/.nav-collapse -->
       <div>
 		<script href="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script href="/mina.github.io/js/bootstrap.min.js"></script>
@@ -86,26 +56,22 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
 	<!-- loads jQuery -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="http://code.jquery.com/jquery-1.12.1.min.js"></script>
+	<script src="http://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/mina.github.io/js/bootstrap.min.js"></script>
     <script src="/mina.github.io/leaflet-omnivore-master/leaflet-omnivore.js"></script>
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
-	<script src="http://code.jquery.com/jquery-1.12.1.min.js"></script>
-	<script src="http://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<script src="/mina.github.io/js/SliderControl.js"></script>
  
 	<!-- Intitiates map --> 
 	<script type="text/javascript">
 	
 var map = L.map('map').setView([23.215757, 80.042289], 5);
-
 L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     maxZoom: 18,
 	id: 'dngupta.0hm7jnc4',
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
-
-
 	</script>
 
 <!-- Slider -->
@@ -118,15 +84,26 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
             sliderControl = L.control.sliderControl({
                 position: "topright",
                 layer: testLayer,
+				timeAttribute: "Year",
 				range: true,
-				follow: true
-            });
-
-        //Add the slider
+				follow: null
+         });
+		 //Add the slider
         map.addControl(sliderControl);
         //And initialize the slider
         sliderControl.startSlider();
     });
+	
+	var markers = omnivore.json('/mina.github.io/testData.geojson').on('ready', 	function(layer){
+			map.fitBounds(markers.getBounds());
+			this.eachLayer(function(marker) {
+	
+		marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b>' + 
+		marker.toGeoJSON().properties.Year +  '<br/><b>Institution: </b> ' + 
+		marker.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
+		 });
+	});		 
+       
     </script>
 
 <!-- Google Analytics -->
@@ -135,10 +112,8 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-82719001-1', 'auto');
   ga('send', 'pageview');
-
 </script>
           
 </body></html>
