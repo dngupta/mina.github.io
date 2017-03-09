@@ -85,6 +85,7 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
                 position: "topright",
                 layer: testLayer,
 				timeAttribute: "Year",
+		    		makers: true,
 				range: true,
 				follow: null
          });
@@ -94,23 +95,23 @@ L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={a
         sliderControl.startSlider();
     });
 	
-	var markers = omnivore.csv('/mina.github.io/data/IAR1950s_170225.csv')
-		.on('ready', function(layer) {
-	map.fitBounds(markers.getBounds());
-	markerClusters.addLayer(markers);
-	map.addLayer(markerClusters); 
-	this.eachLayer(function(marker) {
+	//var markers = omnivore.csv('/mina.github.io/data/IAR1950s_170225.csv')
+	//	.on('ready', function(layer) {
+	//map.fitBounds(markers.getBounds());
+	//markerClusters.addLayer(markers);
+	//map.addLayer(markerClusters); 
+	//this.eachLayer(function(marker) {
 	
-	marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b>' + 
-	marker.toGeoJSON().properties.Year +  '<br/><b>Institution: </b> ' + 
-	marker.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
-		});
-	});	
-var markerClusters = L.markerClusterGroup();
-for (var i = 0; i < markers.length; ++i)
-{
-}
-map.addLayer(markerClusters);
+	//marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b>' + 
+	//marker.toGeoJSON().properties.Year +  '<br/><b>Institution: </b> ' + 
+	//marker.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
+	//	});
+	//});	
+//var markerClusters = L.markerClusterGroup();
+//for (var i = 0; i < markers.length; ++i)
+//{
+//}
+//map.addLayer(markerClusters);
 
 </script>
 
