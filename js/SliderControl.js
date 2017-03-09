@@ -4,8 +4,8 @@ L.Control.SliderControl = L.Control.extend({
         layers: null,
         timeAttribute: "Year",
         isEpoch: false,     // whether the time attribute is seconds elapsed from epoch
-        startTimeIdx: 0,    // where to start looking for a timestring
-        timeStrLength: 19,  // the size of  yyyy-mm-dd hh:mm:ss - if millis are present this will be larger
+        startDateIdx: 0,    // where to start looking for a timestring
+        dateStrLength: 19,  // the size of  yyyy-mm-dd hh:mm:ss - if millis are present this will be larger
         maxValue: 1960,
         minValue: 1953,
 		value: [1953, 1960],
@@ -13,7 +13,8 @@ L.Control.SliderControl = L.Control.extend({
         markers: null,
         range: true,
         follow: true,
-        alwaysShowDate : false,
+        alwaysShowDate : true,
+		date_regx: /^\d{4}$/, 
         rezoom: null
     },
 
@@ -23,6 +24,14 @@ L.Control.SliderControl = L.Control.extend({
 
     },
 
+	extractDatestamp: function(date, options) {
+        //if (options.range) {
+            date = (new Date(parseInt(val.match(Config.date_regx))).toString(); // this is year to string
+        }
+        return date.substr(options.startDateIdx);
+    },
+	
+	
     setPosition: function (position) {
         var map = this._map;
 
@@ -51,9 +60,9 @@ L.Control.SliderControl = L.Control.extend({
         });
         $(document).mouseup(function () {
             map.dragging.enable();
-            //Hide the slider timestamp if not range and option alwaysShowDate is set on false
+            //Hide the slider datestamp if not range and option alwaysShowDate is set on false
             if (options.range || !options.alwaysShowDate) {
-                $('#slider-timestamp').html('');
+                $('#slider-datestamp').html('');
             }
         });
 
@@ -85,6 +94,7 @@ L.Control.SliderControl = L.Control.extend({
 
     startSlider: function () {
         _options = this.options;
+		_extractDatestamp = this.extractDatestamp
         var index_start = _options.minValue;
         if(_options.showAllOnStart){
             index_start = _options.maxValue;
@@ -105,18 +115,18 @@ L.Control.SliderControl = L.Control.extend({
                     // If there is no time property, this line has to be removed (or exchanged with a different property)
                     if(_options.markers[ui.value].feature !== undefined) {
                         if(_options.markers[ui.value].feature.properties[_options.timeAttribute]){
-                            if(_options.markers[ui.value]) $('#slider-timestamp').html(
-                                _extracttimeAttribute(_options.markers[ui.value].feature.properties[_options.timeAttribute], _options));
+                            if(_options.markers[ui.value]) $('#slider-datestamp').html(
+                                _extractDatestamp(_options.markers[ui.value].feature.properties[_options.timeAttribute], _options));
                         }else {
-                            console.error("Time property "+ _options.timeAttribute +" not found in data");
+                            console.error("Date property "+ _options.timeAttribute +" not found in data");
                         }
                     }else {
                         // set by leaflet Vector Layers
                         if(_options.markers [ui.value].options[_options.timeAttribute]){
-                            if(_options.markers[ui.value]) $('#slider-timestamp').html(
-                                _extracttimeAttribute(_options.markers[ui.value].options[_options.timeAttribute], _options));
+                            if(_options.markers[ui.value]) $('#slider-datestamp').html(
+                                _extractDatestamp(_options.markers[ui.value].options[_options.timeAttribute], _options));
                         }else {
-                            console.error("Time property "+ _options.timeAttribute +" not found in data");
+                            console.error("Date property "+ _options.timeAttribute +" not found in data");
                         }
                     }
                     
@@ -157,7 +167,7 @@ L.Control.SliderControl = L.Control.extend({
             }
         });
         if (!_options.range && _options.alwaysShowDate) {
-            $('#slider-timestamp').html(_extracttimeAttribute(_options.markers[index_start].feature.properties[_options.timeAttribute], _options));
+            $('#slider-datestamp').html(_extractDatestamp(_options.markers[index_start].feature.properties[_options.timeAttribute], _options));
         }
         for (i = _options.minValue; i <= index_start; i++) {
             _options.map.addLayer(_options.markers[i]);
