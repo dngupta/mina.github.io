@@ -4,8 +4,8 @@ L.Control.SliderControl = L.Control.extend({
         layers: null,
         timeAttribute: "Year",
         isEpoch: false,     // whether the time attribute is seconds elapsed from epoch
-        startDateIdx: 0,    // where to start looking for a timestring
-        dateStrLength: 19,  // the size of  yyyy-mm-dd hh:mm:ss - if millis are present this will be larger
+        startDateIdx: 1900,    // where to start looking for a timestring
+        dateStrLength: 4,  // the size of  yyyy-mm-dd hh:mm:ss - if millis are present this will be larger
         maxValue: 1960,
         minValue: 1953,
 		value: [1953, 1960],
@@ -26,9 +26,17 @@ L.Control.SliderControl = L.Control.extend({
 
 	extractDatestamp: function(date, options) {
         //if (options.range) {
-            date = (new Date(parseInt(val.match(Config.date_regx))).toString(); // this is year to string
+            date = (new Date(parseInt(val.match(Config.date_regx)))).toString(); // this is year to string
         }
         return date.substr(options.startDateIdx);
+    },
+	
+	
+extractTimestamp: function(time, options) {
+        if (options.isEpoch) {
+            time = (new Date(parseInt(time))).toString(); // this is local time
+        }
+        return time.substr(options.startTimeIdx, options.startTimeIdx + options.timeStrLength);
     },
 	
 	
@@ -53,7 +61,7 @@ L.Control.SliderControl = L.Control.extend({
 
         // Create a control sliderContainer with a jquery ui slider
         var sliderContainer = L.DomUtil.create('div', 'slider', this._container);
-        $(sliderContainer).append('<div id="leaflet-slider" style="width:250px"><div class="ui-slider-handle"></div><div id="slider-timestamp" style="width:250px; margin-top:13px; background-color:#FFFFFF; text-align:center; border-radius:5px;"></div></div>');
+        $(sliderContainer).append('<div id="leaflet-slider" style="width:250px"><div class="ui-slider-handle"></div><div id="slider-datestamp" style="width:250px; margin-top:13px; background-color:#FFFFFF; text-align:center; border-radius:5px;"></div></div>');
         //Prevent map panning/zooming while using the slider
         $(sliderContainer).mousedown(function () {
             map.dragging.disable();
