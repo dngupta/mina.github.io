@@ -4,7 +4,7 @@ L.Control.SliderControl = L.Control.extend({
         layers: null,
         timeAttribute: "Year",
         isEpoch: false,     // whether the time attribute is seconds elapsed from epoch
-        startDateIdx: 1900,    // where to start looking for a timestring
+        startDateIdx: 1953,    // where to start looking for a timestring
         dateStrLength: 4,  // the size of  yyyy-mm-dd hh:mm:ss - if millis are present this will be larger
         maxValue: 1960,
         minValue: 1953,
@@ -28,7 +28,7 @@ L.Control.SliderControl = L.Control.extend({
         //if (options.range) {
             date = (new Date(parseInt(val.match(Config.date_regx)))).toString(); // this is year to string
         }
-        return date.substr(options.startDateIdx, options.startDateIdx);
+        return date.substr(options.startDateIdx, options.startDateIdx + options.dateStrLength);
     },
 	
     setPosition: function (position) {
