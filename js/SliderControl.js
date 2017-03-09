@@ -13,7 +13,7 @@ L.Control.SliderControl = L.Control.extend({
         markers: null,
         range: true,
         follow: true,
-        alwaysShowDate : true,
+        alwaysShowDate: true,
 		date_regx: /^\d{4}$/, 
         rezoom: null
     },
@@ -28,17 +28,8 @@ L.Control.SliderControl = L.Control.extend({
         //if (options.range) {
             date = (new Date(parseInt(val.match(Config.date_regx)))).toString(); // this is year to string
         }
-        return date.substr(options.startDateIdx);
+        return date.substr(options.startDateIdx, options.startDateIdx);
     },
-	
-	
-extractTimestamp: function(time, options) {
-        if (options.isEpoch) {
-            time = (new Date(parseInt(time))).toString(); // this is local time
-        }
-        return time.substr(options.startTimeIdx, options.startTimeIdx + options.timeStrLength);
-    },
-	
 	
     setPosition: function (position) {
         var map = this._map;
