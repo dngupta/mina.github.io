@@ -128,8 +128,8 @@ var uniMarker = L.geoJson(false, {
 
 	$.getJSON("testData.geojson").filter(function (n) {
 	return n.investigator === "University";
-	surveyMarker.addData(n);
-	surveyMarker.eachLayer(function (layer) {
+	uniMarker.addData(n);
+	uniMarker.eachLayer(function (layer) {
 		layer.addTo(uniMarkerSub);
 		});
 	});
@@ -143,7 +143,7 @@ var uniMarker = L.geoJson(false, {
 var stateMarker = L.geoJson(false, {
 		pointToLayer: function (feature, latlng) {
 					var marker = L.marker (latlng, {
-							icon: uniIcon
+							icon: stateIcon
 			});
 			marker.bindPopup(marker[i].Site +
               '<br><b>Name: </b><br>' + marker[i].State + '<br><br>' + 
@@ -156,8 +156,8 @@ var stateMarker = L.geoJson(false, {
 
 	$.getJSON("testData.geojson").filter(function (n) {
 	return n.investigator === "State";
-	surveyMarker.addData(n);
-	surveyMarker.eachLayer(function (layer) {
+	stateMarker.addData(n);
+	stateMarker.eachLayer(function (layer) {
 		layer.addTo(stateMarkerSub);
 		});
 	});
