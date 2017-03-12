@@ -108,18 +108,18 @@
 	id: 'dngupta.0hm7jnc4',
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
 	
-	var group1 = JSON.parse(testData.geojson).filter(entry) {
-    return entry.year === '1953';
-	});
-	var group2 = JSON.parse(testData.geojson).filter(entry) {
-    return entry.year === '1954';
-	});
-	var group3 = JSON.parse(testData.geojson).filter(entry) {
-    return entry.year === '1955';
-	});
-	var group4 = JSON.parse(testData.geojson).filter(entry) {
-    return entry.year === '1956';
-	});
+	var group1 = JSON.parse(testData.geojson).filter(n) {
+    return n.year === '1953';
+	};
+	var group2 = JSON.parse(testData.geojson).filter(n) {
+    return n.year === '1954';
+	};
+	var group3 = JSON.parse(testData.geojson).filter(n) {
+    return n.year === '1955';
+	};
+	var group4 = JSON.parse(testData.geojson).filter(n) {
+    return n.year === '1956';
+	};
 	
 	$.getJSON("testData.json", function(json) {
         var markers = L.geoJson(json)
