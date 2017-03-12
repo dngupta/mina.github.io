@@ -24,7 +24,7 @@
 	
 	<!-- loads Leaflet -->
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-	<script src="/mina.github.io/js/leaflet.markercluster.layersupport.js"></script>
+	<script src="https://raw.githubusercontent.com/ghybs/Leaflet.MarkerCluster.LayerSupport/master/leaflet.markercluster.layersupport-src.js"></script>
 	
 	<!-- loads data -->
 	<script src="/mina.github.io/testData.geojson"></script>
@@ -123,12 +123,11 @@
 {
 	var popup = markers[i].Site +
               '<br><b>Name: </b><br>' + markers[i].State + '<br><br>' + 
-			 '<br/><b>Year: </b>' + markers[i].Year +
+			  '<br/><b>Year: </b>' + markers[i].Year +
               '<br/><b>Accuracy: </b> ' + markers[i].Acc +
               '<br/><b>Institute: </b> ' + markers[i].Institute;
 
-	var m = L.marker([markers[i].Latitude, markers[i].Longitude], {icon: myIcon})
-                  .bindPopup(popup);
+	var m = L.marker([markers[i].Latitude, markers[i].Longitude], {icon: myIcon}).bindPopup(popup);
 	markerClusters.addLayer(m);
 }
 	map.addLayer(markerClusters);
