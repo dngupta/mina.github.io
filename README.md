@@ -2,9 +2,9 @@
 
 MINA is a [Web-based platform](http://dngupta.github.io/mina.github.io) developed for the Michigan State University Advanced Institute on Digital Archaeology Method and Practice.  The code is on an MIT license and borrows from other repositories with similar licenses. *Collaborators are welcome to add to this project.* 
 
-### MINA aims to encourage intellectual interest in developing visualization tools appropriate for archaeology, and to promote Indian archaeology. 
+##### MINA aims to encourage intellectual interest in developing visualization tools appropriate for archaeology, and to promote Indian archaeology
 
-  **A key challenge in Indian archaeology is the relative lack of digital (and digitized) archaeological data**
+#####A key challenge in Indian archaeology is the relative lack of digital (and digitized) archaeological data
 
 At present, data are drawn from *Indian Archaeology - A Review* (IAR), an annual in-house publication of the Archaeological Survey of    India (Survey). The Survey is the national department for archaeology and heritage management in India. IAR consists of summaries of  archaeological field investigations that were carried out during each calendar year. The current focus of the project is on the years   between 1953 and 1960. 
 
