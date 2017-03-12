@@ -46,7 +46,7 @@
 	
     <!-- MAP -->
 	<div id="map"></div>
-	<div>
+	<div class="container">
 	<input id="add" type="button" value="Add AutoMCG to Map" />
 	<input id="remove" type="button" value="Remove AutoMCG from Map" />
 	<table>
@@ -112,16 +112,16 @@
 	</script>
 	
 	<script>
-	var group1 = testData.geojson.features.filter(function (n) {
+	var group1 = GeoJSON.parse("testData.geojson").filter(function (n) {
     return n.year === "1953";
 });
-	var group2 = testData.geojson.features.filter(function (n) {
+	var group2 = GeoJSON.parse("testData.geojson").filter(function (n) {
     return n.year === "1954";
 });
-	var group3 = testData.geojson.features.filter(function (n) {
+	var group3 = GeoJSON.parse("testData.geojson").filter(function (n) {
     return n.year === "1955";
 });
-	var group4 = testData.geojson.features.filter(function (n) {
+	var group4 = GeoJSON.parse("testData.geojson").filter(function (n) {
     return n.year === "1956";
 });
 	
