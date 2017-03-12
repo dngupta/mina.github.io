@@ -46,9 +46,10 @@
 	
     <!-- MAP -->
 	<div id="map"></div>
+	<div>
 	<input id="add" type="button" value="Add AutoMCG to Map" />
 	<input id="remove" type="button" value="Remove AutoMCG from Map" />
-<table>
+	<table>
 	<tr>
 		<th>1953</th>
 		<td><button data-group="1" data-op="checkIn">checkIn</button></td>
@@ -77,8 +78,8 @@
 		<td><button data-group="4" data-op="addLayer">addLayer</button></td>
 		<td><button data-group="4" data-op="removeLayer">removeLayer</button></td>
 	</tr>
-</table>
-	
+	</table>
+	</div>
 
     <!-- FOOTER -->  
     <div class="footer">
@@ -109,16 +110,16 @@
     accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
 	
 	var group1 = JSON.parse(testData.geojson).filter(n) {
-    return n.year === '1953';
+    return n.year === '1953'
 	};
 	var group2 = JSON.parse(testData.geojson).filter(n) {
-    return n.year === '1954';
+    return n.year === '1954'
 	};
 	var group3 = JSON.parse(testData.geojson).filter(n) {
-    return n.year === '1955';
+    return n.year === '1955'
 	};
 	var group4 = JSON.parse(testData.geojson).filter(n) {
-    return n.year === '1956';
+    return n.year === '1956'
 	};
 	
 	$.getJSON("testData.json", function(json) {
