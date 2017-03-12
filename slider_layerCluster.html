@@ -112,16 +112,16 @@
 	</script>
 	
 	<script>
-	var group1 = JSON.parse("testData.geojson").filter(function (n) {
+	var group1 = testData.geojson.features.filter(function (n) {
     return n.year === "1953";
 });
-	var group2 = JSON.parse("testData.geojson").filter(function (n) {
+	var group2 = testData.geojson.features.filter(function (n) {
     return n.year === "1954";
 });
-	var group3 = JSON.parse("testData.geojson").filter(function (n) {
+	var group3 = testData.geojson.features.filter(function (n) {
     return n.year === "1955";
 });
-	var group4 = JSON.parse("testData.geojson").filter(function (n) {
+	var group4 = testData.geojson.features.filter(function (n) {
     return n.year === "1956";
 });
 	
