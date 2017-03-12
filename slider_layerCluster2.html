@@ -112,22 +112,26 @@
 	</script>
 	
 	<script>
-	$.getJSON("testData.geojson", function(json) {
-        var markers = L.geoJson(json)
+	var markers = omnivore.csv('/mina.github.io/data/IAR1950s_170225.csv')
 		.on('ready', function(layer) {
 	map.fitBounds(markers.getBounds());
 	markerClusters.addLayer(markers);
 	map.addLayer(markerClusters); 
-	this.eachLayer(function(marker) {
-	marker.bindPopup(marker.toGeoJSON().properties.Site + '<br><b>State: </b>' + marker.toGeoJSON().properties.State + '<br><b>Year: </b>' + 
-	marker.toGeoJSON().properties.Year +  '<br/><b>Institution: </b> ' + 
-	marker.toGeoJSON().properties.Institute, {autoPanPadding: [5,55]});
-			});
-		});
-	});	
+		});	
 	var markerClusters = L.markerClusterGroup();
-		for (var i = 0; i < markers.length; ++i);
-	
+		for (var i = 0; i < markers.length; ++i)
+{
+	var popup = markers[i].Site +
+              '<br><b>Name: </b><br>' + markers[i].State + '<br><br>' + 
+			 '<br/><b>Year: </b>' + markers[i].Year +
+              '<br/><b>Accuracy: </b> ' + markers[i].Acc +
+              '<br/><b>Institute: </b> ' + markers[i].Institute;
+
+	var m = L.marker([markers[i].Latitude, markers[i].Longitude], {icon: myIcon})
+                  .bindPopup(popup);
+	markerClusters.addLayer(m);
+}
+	map.addLayer(markerClusters);
 	var mcgLayerSupportGroup = L.markerClusterGroup.layerSupport(),
 		group1 = L.layerGroup(),
 		group2 = L.layerGroup(),
