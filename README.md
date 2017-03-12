@@ -1,6 +1,6 @@
 # Welcome to MINA | Map Indian Archaeology
 
-MINA is a Web-based platform developed for the Michigan State University Advanced Institute on Digital Archaeology Method and Practice.  The code is on an MIT license and borrows from other repositories with similar licenses. *Collaborators are welcome to add to this project* 
+MINA is a [Web-based platform](http://dngupta.github.io/mina.github.io) developed for the Michigan State University Advanced Institute on Digital Archaeology Method and Practice.  The code is on an MIT license and borrows from other repositories with similar licenses. *Collaborators are welcome to add to this project.* 
 
 ### MINA aims to encourage intellectual interest in developing visualization tools appropriate for archaeology, and to promote Indian archaeology. 
 
