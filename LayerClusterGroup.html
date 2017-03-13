@@ -78,6 +78,38 @@
 	</script>
 	<script>
 	
+	// All icon 
+	var allIcon = L.icon ({
+			iconUrl: "mina.github.io/images/pin48.png",
+			iconSize: [16, 16]
+});
+var surveyMarker = L.geoJson(false, {
+		pointToLayer: function (feature, latlng) {
+			var marker = L.marker (latlng, {
+				icon: allIcon
+			});
+			marker.bindPopup(marker[i].Site +
+              '<br><b>Name: </b><br>' + marker[i].State + '<br><br>' + 
+			  '<br/><b>Year: </b>' + marker[i].Year +
+              '<br/><b>Accuracy: </b> ' + marker[i].Acc +
+              '<br/><b>Institute: </b> ' + marker[i].Institute);
+			  return marker;
+		}
+	}).addTo(map);
+
+$(document).ready(function () {
+             $.getJSON("testData.geojson", function (data) {
+				    var objects = [];
+	            $.each(data.features, function (idx, n) {
+	            if (n.investigator === "Survey" && n.investigator === "University" && n.investigator === "State") {
+	            surveyMarker.addData(n);
+	            surveyMarker.eachLayer(function (layer) {
+		               layer.addTo(surveyMarkerSub);
+		              });
+		          }
+        });
+     });
+});
 	// Survey icon & load geojson
 	var surveyIcon = L.icon({
 			iconUrl: "mina.github.io/images/triangle.png",
@@ -183,6 +215,7 @@ $(document).ready(function () {
 	// Overlay
 	
 	var overlayMaps = {
+		"All": allMarker,
 		"Survey": surveyMarker,
 		"University": uniMarker,
 		"State": stateMarker
@@ -193,6 +226,7 @@ $(document).ready(function () {
 	
 	// Check in sub groups
 	mcg.checkIn([
+        allMarker,
 		surveyMarker,
 		uniMarker,
 		stateMarker
