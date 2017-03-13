@@ -98,7 +98,7 @@ var allMarker = L.geoJson(false, {
 	}).addTo(map);
 
 $(document).ready(function () {
-             $.getJSON("testData.geojson", function (data) {
+             $.getGeoJSON("testData.geojson", function (data) {
 				    var objects = [];
 	            $.each(data.features, function (idx, n) {
 	            if (n.investigator === "Survey" && n.investigator === "University" && n.investigator === "State") {
@@ -131,7 +131,7 @@ var surveyMarker = L.geoJson(false, {
 	}).addTo(map);
 
 $(document).ready(function () {
-             $.getJSON("testData.geojson", function (data) {
+             $.getGeoJSON("testData.geojson", function (data) {
 				    var objects = [];
 	            $.each(data.features, function (idx, n) {
 	            if (n.investigator === "Survey") {
@@ -166,7 +166,7 @@ var uniMarker = L.geoJson(false, {
 	}).addTo(map);
 
 $(document).ready(function () {
-             $.getJSON("testData.geojson", function (data) {
+             $.getGeoJSON("testData.geojson", function (data) {
 				    var objects = [];
 	            $.each(data.features, function (idx, n) {
 	            if (n.investigator === "University") {
@@ -200,7 +200,7 @@ var stateMarker = L.geoJson(false, {
 	}).addTo(map);
 
 $(document).ready(function () {
-             $.getJSON("testData.geojson", function (data) {
+             $.getGeoJSON("testData.geojson", function (data) {
 				    var objects = [];
 	            $.each(data.features, function (idx, n) {
 	            if (n.investigator === "State") {
