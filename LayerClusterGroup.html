@@ -78,12 +78,12 @@
 	</script>
 	<script>
 	
-	// All icon 
+	// All icon & geojson
 	var allIcon = L.icon ({
 			iconUrl: "mina.github.io/images/pin48.png",
 			iconSize: [16, 16]
 });
-var surveyMarker = L.geoJson(false, {
+var allMarker = L.geoJson(false, {
 		pointToLayer: function (feature, latlng) {
 			var marker = L.marker (latlng, {
 				icon: allIcon
@@ -102,9 +102,9 @@ $(document).ready(function () {
 				    var objects = [];
 	            $.each(data.features, function (idx, n) {
 	            if (n.investigator === "Survey" && n.investigator === "University" && n.investigator === "State") {
-	            surveyMarker.addData(n);
-	            surveyMarker.eachLayer(function (layer) {
-		               layer.addTo(surveyMarkerSub);
+	            allMarker.addData(n);
+	            allMarker.eachLayer(function (layer) {
+		               layer.addTo(allMarkerSub);
 		              });
 		          }
         });
