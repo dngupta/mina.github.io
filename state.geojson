@@ -1,0 +1,4505 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.241792,25.002566 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhinmal",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1953,
+    "Field":"Excavation",
+    "Dated":"Medieval",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes historical significance as capital of Gurjaras; medieval structures, bricks",
+    "Reference":"IAR 1954: 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.796752,34.094378 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mumma Khan",
+    "District":"Srinagar",
+    "State":"Jammu and Kashmir",
+    "Year":1953,
+    "Field":"Excavation",
+    "Dated":"Pravarasena",
+    "Investigator":"State",
+    "Institute":"Kashmir State",
+    "Notes":"notes historical significance as founded by Pravarasena; coins, structures, Afghan period",
+    "Reference":"IAR 1954: 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.480000,17.844700 ]
+    },
+    "properties": {
+    "Precision":9,
+    "Site":"Topran",
+    "District":"Medak",
+    "State":"Andhra Pradesh",
+    "Year":1953,
+    "Field":"Exploration",
+    "Dated":"Megalithic",
+    "Investigator":"State",
+    "Institute":"Hyderabad State",
+    "Notes":"notes vurials",
+    "Reference":"IAR 1954: 38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.063474,12.617431 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kudalur",
+    "District":"Mysore",
+    "State":"Karnataka",
+    "Year":1953,
+    "Field":"Exploration",
+    "Dated":"Medieval",
+    "Investigator":"State",
+    "Institute":"Mysore State",
+    "Notes":"notes metallic images, medieval temple",
+    "Reference":"IAR 1954: 38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.011837,26.044194 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Raipur",
+    "District":"Kota",
+    "State":"Rajasthan",
+    "Year":1953,
+    "Field":"Exploration",
+    "Dated":"Gupta",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes Jaina images, inscriptions",
+    "Reference":"IAR 1954: 38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.718970,24.586395 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ahar",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1954,
+    "Field":"Excavation",
+    "Dated":"Microlithic",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes distance to Railway Station; previous work; in medieval inscriptions is Aghatapura and capital of Guhila kings; locally known as Dhulkot; 30ft occupation, one break: black-and-red ware+ microliths = 'extension from central and western India'; shapes in historical sites similiar to northern India and Madhya Bharat; includes photos",
+    "Reference":"IAR 1955: 14-15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.434694,17.424270 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"South Hyderabad",
+    "District":"Hyderabad",
+    "State":"Andhra Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"State",
+    "Institute":"Hyderabad State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.102026,16.904936 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Ter",
+    "District":"Hyderabad",
+    "State":"Andhra Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"Andhra",
+    "Investigator":"State",
+    "Institute":"Hyderabad State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.382567,22.214820 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Kalavad",
+    "District":"Halar",
+    "State":"Gujarat",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Gujarat State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.370291,21.468982 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Arena",
+    "District":"Sorath",
+    "State":"Gujarat",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Gujarat State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.370291,21.468982 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Boricha",
+    "District":"Sorath",
+    "State":"Gujarat",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Gujarat State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.475919,20.843683 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sutrapada",
+    "District":"Sorath",
+    "State":"Gujarat",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Gujarat State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.370291,21.468982 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhadaria",
+    "District":"Sorath",
+    "State":"Gujarat",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Gujarat State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.747324,24.513182 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhanpura",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"10th-11th",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.742964,24.615873 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Navli",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"10th-11th",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.827248,24.626864 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kethuli",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"10th-11th",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Taksake-swar",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"10th-11th",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.783659,24.718522 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hinglagarh",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"10th-11th",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chainpur",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"10th-11th",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sheopur",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"10th-11th",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.540875,19.626291 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Charthana",
+    "District":"Parbhani",
+    "State":"Maharashtra",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Hyderabad State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.775032,17.094416 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Madharam",
+    "District":"Nalgonda",
+    "State":"Andhra Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Hyderabad State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.266725,17.528743 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Patancheru",
+    "District":"Medak",
+    "State":"Andhra Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Hyderabad State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.324479,17.380686 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gandipet",
+    "District":"Hyderabad",
+    "State":"Andhra Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Hyderabad State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.504610,17.914880 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kalyani",
+    "District":"Bidar",
+    "State":"Karnataka",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Hyderabad State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.405998,20.888211 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Prabhas Patan",
+    "District":"Gir Somnath",
+    "State":"Gujarat",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Gujarat State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.268187,26.645819 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Abaneri",
+    "District":"Dausa",
+    "State":"Rajasthan",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.098497,25.754640 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Kiradu",
+    "District":"Barmer",
+    "State":"Rajasthan",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.890945,21.661879 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Amra",
+    "District":"Halar",
+    "State":"Gujarat",
+    "Year":1955,
+    "Field":"Excavation",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Saurashtra State",
+    "Notes":"notes proximity to stream, 3 miles from Lakhabaval; Harappan pottery; 'inverted firing, showing that the technique was known to Harappans'",
+    "Reference":"IAR 1956: 07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.350758,21.481794 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Somnath",
+    "District":"Sorath",
+    "State":"Gujarat",
+    "Year":1955,
+    "Field":"Excavation",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Saurashtra State",
+    "Notes":"notes proximity from Prabhas Patan, 2 miles; five successive periods: lustrous Rangpur II and steatite beads, microliths, lustrous red ware, burnished black-red ware like central and south India, plain red ware, structures of rubble and red polished ware with Gupta and Valabhi coins",
+    "Reference":"IAR 1956: 7-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.720755,24.587982 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ahar",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1955,
+    "Field":"Excavation",
+    "Dated":"Chalcolithic",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes three periods: microliths, pottery, beads; black-cream ware; no third period, PGW absent,  but 'designs on black-and-red ware Period 1 were strongly reminiscent of those on the former ie PGW'",
+    "Reference":"IAR 1956: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.405998,20.888211 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Prabhas Patan",
+    "District":"Sorath",
+    "State":"Gujarat",
+    "Year":1956,
+    "Field":"Excavation",
+    "Dated":"Chalcolithic",
+    "Investigator":"State",
+    "Institute":"Bombay State",
+    "Notes":"notes six periods; 'shapes and incised patterns agreed with those on late Harappan pottery in Gujarat'; includes photos",
+    "Reference":"IAR 1957: 16-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.402048,26.423456 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jajmau",
+    "District":"Kanpur",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Excavation",
+    "Dated":"NBPW",
+    "Investigator":"State",
+    "Institute":"Uttar Pradesh State",
+    "Notes":"notes brick temples, sculptures, pottery",
+    "Reference":"IAR 1957: 29 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.411414,27.489502 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Unchgaon",
+    "District":"Sitapur",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Excavation",
+    "Dated":"Medieval",
+    "Investigator":"State",
+    "Institute":"Uttar Pradesh State",
+    "Notes":"notes brick temples, sculptures, pottery",
+    "Reference":"IAR 1957: 29 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.496606,27.746713 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Baragaon",
+    "District":"Sitapur",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Excavation",
+    "Dated":"Medieval",
+    "Investigator":"State",
+    "Institute":"Uttar Pradesh State",
+    "Notes":"notes brick temples, sculptures, pottery",
+    "Reference":"IAR 1957: 29 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.148732,25.758438 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ashtabhuja",
+    "District":"Ballia",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Excavation",
+    "Dated":"9th-10th",
+    "Investigator":"State",
+    "Institute":"Uttar Pradesh State",
+    "Notes":"notes brick temples, sculptures, pottery",
+    "Reference":"IAR 1957: 29 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.148732,25.758438 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lakhneswar-dih",
+    "District":"Ballia",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Excavation",
+    "Dated":"NBPW",
+    "Investigator":"State",
+    "Institute":"Uttar Pradesh State",
+    "Notes":"notes brick temples, sculptures, pottery",
+    "Reference":"IAR 1957: 29 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.852451,13.051599 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jadigenahalli",
+    "District":"Bangalore",
+    "State":"Karnataka",
+    "Year":1956,
+    "Field":"Excavation",
+    "Dated":"Megalithic",
+    "Investigator":"State",
+    "Institute":"Mysore State",
+    "Notes":"notes cairn circles; pits, sarcophagus, iron",
+    "Reference":"IAR 1957: 34-35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.223270,21.630059 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Dhanora",
+    "District":"Drug",
+    "State":"Madhya Pradesh",
+    "Year":1956,
+    "Field":"Excavation",
+    "Dated":"Megalithic",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"notes group of five hundred megaliths - 'view to ascertaining their nature and possible connexions with the megaliths of peninsular India and links, if any, with their counterparts prevailing among the present-day aboriginals of Bastar'",
+    "Reference":"IAR 1957: 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.403287,26.976774 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khinsvar",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes microliths",
+    "Reference":"IAR 1957: 80-83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.460978,22.223711 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Harinarayanpur",
+    "District":"24 Parganas",
+    "State":"West Bengal",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Early Historical",
+    "Investigator":"State",
+    "Institute":"Asutosh Museum",
+    "Notes":"notes structures, sculptures",
+    "Reference":"IAR 1957: 80-83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.936871,26.612913 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Devasthan",
+    "District":"Nagaon",
+    "State":"Assam",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"10-11th",
+    "Investigator":"State",
+    "Institute":"Assam State",
+    "Notes":"notes structures, sculptures",
+    "Reference":"IAR 1957: 80-83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.880865,24.392499 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jagat",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Medieval",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes structures, sculptures",
+    "Reference":"IAR 1957: 80-83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.838966,24.180737 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kejad",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Medieval",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes structures, sculptures",
+    "Reference":"IAR 1957: 80-83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.894830,23.894905 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hathai",
+    "District":"Dungarpur",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Medieval",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes structures, sculptures",
+    "Reference":"IAR 1957: 80-83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.717330,23.844019 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Amihar",
+    "District":"Dungarpur",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Medieval",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes structures, sculptures",
+    "Reference":"IAR 1957: 80-83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.053696,26.486015 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Narhad",
+    "District":"Jaipur",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Medieval",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes structures, sculptures",
+    "Reference":"IAR 1957: 80-83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.787271,26.912434 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Baya",
+    "District":"Jaipur",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Medieval",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes structures, sculptures",
+    "Reference":"IAR 1957: 80-83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.403287,26.976774 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khinsvar",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Medieval",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"notes structures, sculptures",
+    "Reference":"IAR 1957: 80-83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.989902,17.079649 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kistnapuram",
+    "District":"Nalgonda",
+    "State":"Andhra Pradesh",
+    "Year":1957,
+    "Field":"Excavation",
+    "Dated":"Iron Age",
+    "Investigator":"State",
+    "Institute":"Andhra State",
+    "Notes":"notes submergence with Nagarjunakonda; crude furnaces, iron slag, stone-circles, also inscriptions and microliths",
+    "Reference":"IAR 1958: 9-10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.041941,18.186066 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Atter",
+    "District":"Osmanabad",
+    "State":"Maharashtra",
+    "Year":1957,
+    "Field":"Excavation",
+    "Dated":"NBPW",
+    "Investigator":"State",
+    "Institute":"Bombay State",
+    "Notes":"notes proximity to Terna; pottery, coins, iron, lithics; collected charred rice, wheat and pulses and terracottas",
+    "Reference":"IAR 1958: 23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mori",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"Notes completion of dam on Chambal; 266 sq miles to be sumberged, so investigation \"to ensure that no valuable archaeological relics are lost\";  handaxes, cleavers, disoids; thirty rockshelters; red ochre paintings of animals, dancing human figures and pastoral scenes, like \"Series III-IV of DH Gordon\".",
+    "Reference":"IAR 1958: 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chibbarnala",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"Notes paintings of different periods based on style - superimposed layers; animals, hunting scences; also microliths, agate and chalcedony; includes map and line drawings",
+    "Reference":"IAR 1958: 26-28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sitakhardi",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"Notes geometrical designs",
+    "Reference":"IAR 1958: 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Deopur",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"Notes two sites and black-on-red painted pottery and microliths",
+    "Reference":"IAR 1958: 28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.408251,24.208862 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Awra",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"Notes potsherds - black-on-red ware, microliths",
+    "Reference":"IAR 1958: 28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pasewa",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1957,
+    "Field":"Excavation",
+    "Dated":"Microlithic",
+    "Investigator":"State",
+    "Institute":"Madhya Pradesh State",
+    "Notes":"Notes network of brick walls, pottery; folded glass beads, terracotta bulls, figurines",
+    "Reference":"IAR 1958: 28-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.402048,26.423456 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jajmau",
+    "District":"Kanpur",
+    "State":"Uttar Pradesh",
+    "Year":1957,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Uttar Pradesh State",
+    "Notes":"NBPW, iron implements, ivory bangles, weights, grey ware",
+    "Reference":"IAR 1958: 49"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.778789,19.371804 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Utnoor",
+    "District":"Mahbubnagar",
+    "State":"Andhra Pradesh",
+    "Year":1958,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of AP",
+    "Notes":"Ash deposit; postholes; chert, chalcedony blades; pottry; c-14 test by British Museum = 4120",
+    "Reference":"IAR 1959: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Rojdi",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"Pottery; blades; copper; beads; includes illustrations",
+    "Reference":"IAR 1959: 19-21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Randal Dadwa",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"Contains cemetery; extended skeleton; bowls, dishes",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bodiyo",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dhankanio-2",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dhutar-pur",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dumiani",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ghorwada",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.644241,22.839036 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kerali",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lukhela",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ran-daliyo",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.691839,22.372054 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Taraghada",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Tetariyo",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.753273,21.784551 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Vadasada",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.482613,21.794597 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Vegadi",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.816455,22.083178 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ardoi",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Devalka",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gadhiyo",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gardo",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Goriya",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gundai-ni-dhar",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hanuman-valo",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.817941,22.230665 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kotharia",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Madhi",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mochiwadar",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.774641,22.094787 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pipalia",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Rajkot",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.068178,21.658613 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Roghada",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.129998,22.511818 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Satapar",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Simoi",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.913068,22.013305 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Vadia",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"nearest villages noted",
+    "Reference":"IAR 1959: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.495481,24.497677 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jalod",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Palaeolithic and rock shelter paintings; includes plates",
+    "Reference":"IAR 1959: 27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Shankhudhar",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Palaeolithic and rock shelter paintings; includes plates",
+    "Reference":"IAR 1959: 27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.638266,24.478000 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Modi",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1958,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Palaeolithic and rock shelter paintings; includes plates",
+    "Reference":"IAR 1959:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kedareswar",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Palaeolithic and rock shelter paintings; includes plates",
+    "Reference":"IAR 1959:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.783659,24.718522 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hinglajgarh",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Palaeolithic and rock shelter paintings; includes plates",
+    "Reference":"IAR 1959:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Indragarh",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1958,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Siva temple; stone insciption",
+    "Reference":"IAR 1959:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sitakhardi",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Palaeolithic and rock shelter paintings; includes plates",
+    "Reference":"IAR 1959:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.437363,24.422165 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Manoti",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Chalcolithic",
+    "Reference":"IAR 1959:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Shankhudhar",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Chalcolithic and ring wells",
+    "Reference":"IAR 1959:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.692345,12.302300 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"T. Narasipur",
+    "District":"Mysore",
+    "State":"Karnataka",
+    "Year":1958,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Mysore",
+    "Notes":"Stone axes; Neolithic pottery; megalithic pottery; includes plates",
+    "Reference":"IAR 1959: 32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.911483,31.514318 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Una Tahsil",
+    "District":"Hoshiarpur",
+    "State":"Punjab",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Council of Scientific and Industrial Research",
+    "Notes":"Siwaliks survey",
+    "Reference":"IAR 1959: 40-41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.037279,15.828126 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Billasurgam",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Council of Scientific and Industrial Research",
+    "Notes":"Caves and rock shelters",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.037279,15.828126 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Krishnamakona",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Council of Scientific and Industrial Research",
+    "Notes":"Caves and rock shelters",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.037279,15.828126 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sanyasulgavi",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Council of Scientific and Industrial Research",
+    "Notes":"Caves and rock shelters",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.037279,15.828126 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gurlagutta",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Council of Scientific and Industrial Research",
+    "Notes":"Caves and rock shelters",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.139696,15.350901 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Yaganti",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Council of Scientific and Industrial Research",
+    "Notes":"Caves and rock shelters",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.925347,15.379100 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Giddalur",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Council of Scientific and Industrial Research",
+    "Notes":"Caves and rock shelters",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.921443,15.139393 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sannarasamma Hill",
+    "District":"Bellary",
+    "State":"Karnataka",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Council of Scientific and Industrial Research",
+    "Notes":"Tools; neolithic axes; \"importance of discovery lies in the fact that such cores are found in the flint-factory sites at Sukkur and Rohri in Sind\"",
+    "Reference":"IAR 1960: 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.574392,23.116346 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jhansighat",
+    "District":"Narsinghpur",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Council of Scientific and Industrial Research",
+    "Notes":"Survey along tributaries of the Narmada; tools",
+    "Reference":"IAR 1960: 22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.408251,24.208862 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Awra",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Series of mounds; historical; no NBPW; sturctures; iron arrowheads",
+    "Reference":"IAR 1960: 24-25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.437363,24.422165 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Manoti",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Three trenches; seven successive periods; \"after initial destruction of site by flood, the habitation was protected by a huge mud-brick wall. Another major flood, indicated by a thick sandy gravel, once more affected the site, and after it came a change of culture\"",
+    "Reference":"IAR 1960: 22-24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.230404,24.171125 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nahargarh",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Survey along Chambal, Undakhal; Tools; pottery",
+    "Reference":"IAR 1960: 22-24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Koyali",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Survey along Chambal, Undakhal; Tools; pottery",
+    "Reference":"IAR 1960: 22-24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.290195,24.288747 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sanjit",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Madhya Pradesh",
+    "Notes":"Survey along Chambal, Undakhal; Tools; pottery",
+    "Reference":"IAR 1960: 22-24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.220193,14.127187 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"T.Narasipur",
+    "District":"Mysore",
+    "State":"Karnataka",
+    "Year":1959,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"State",
+    "Institute":"Government of Mysore",
+    "Notes":"",
+    "Reference":"IAR 1960: 38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Amrana",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Belan",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.841725,22.965761 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gala",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ghatsila",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ghumto",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.753831,22.280567 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gunjana",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hajanabi",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.892731,23.000061 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jetpur",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jhikri",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.033772,21.902545 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Johpur",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.675127,22.853187 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kantipur",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.662574,22.899722 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Modpur",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nagalpur",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.562738,22.685629 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pithad",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.546573,21.908106 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Rangpur",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.547732,23.098688 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Raopur",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Bombay",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.780410,11.258753 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Panniyannur Amsom",
+    "District":"Kozhikode",
+    "State":"Kerala",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Cave",
+    "Investigator":"State",
+    "Institute":"Kerala State",
+    "Notes":"",
+    "Reference":"IAR 1960: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.654793,10.786730 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chakkyar Kundam",
+    "District":"Palghat",
+    "State":"Kerala",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Temple",
+    "Investigator":"State",
+    "Institute":"Kerala State",
+    "Notes":"",
+    "Reference":"IAR 1960: 67-68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.031978,13.152606 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bebbur",
+    "District":"Tumkur",
+    "State":"Karnataka",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Temple",
+    "Investigator":"State",
+    "Institute":"Mysore State",
+    "Notes":"",
+    "Reference":"IAR 1960: 73"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.258018,20.440786 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Madhupur",
+    "District":"Cuttack",
+    "State":"Orissa",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Temple",
+    "Investigator":"State",
+    "Institute":"Orissa State",
+    "Notes":"",
+    "Reference":"IAR 1960: 73"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.325253,20.409908 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Deuli",
+    "District":"Cuttack",
+    "State":"Orissa",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Images",
+    "Investigator":"State",
+    "Institute":"Orissa State",
+    "Notes":"",
+    "Reference":"IAR 1960: 73"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.882990,20.462521 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dharmasala",
+    "District":"Cuttack",
+    "State":"Orissa",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Images",
+    "Investigator":"State",
+    "Institute":"Orissa State",
+    "Notes":"",
+    "Reference":"IAR 1960: 73"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.824540,20.296059 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhubaneswar",
+    "District":"Cuttack",
+    "State":"Orissa",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Images",
+    "Investigator":"State",
+    "Institute":"Orissa State",
+    "Notes":"",
+    "Reference":"IAR 1960: 73"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.882990,20.462521 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pratappur",
+    "District":"Cuttack",
+    "State":"Orissa",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Images",
+    "Investigator":"State",
+    "Institute":"Orissa State",
+    "Notes":"",
+    "Reference":"IAR 1960: 73"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.135742,21.116933 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sainkul",
+    "District":"Kendujhar",
+    "State":"Orissa",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Images",
+    "Investigator":"State",
+    "Institute":"Orissa State",
+    "Notes":"",
+    "Reference":"IAR 1960: 73"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.222083,21.603177 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hanumandhoro",
+    "District":"Amreli",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.222083,21.603177 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dhuapnio",
+    "District":"Amreli",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khetarvalo",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Old Alatala",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.842309,21.493203 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sonpari",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Devalio",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.972735,21.421514 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhegali",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jilada",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chandgadh",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mahadevayo",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.627286,21.407319 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ranigam",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.080888,21.742553 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khodiyar",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khalavad",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lakhavav",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Keriya Old",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Laliyo",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nehur",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Holidhar",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.881807,21.714791 ]
+    },
+    "properties": {
+    "Precision":9,
+    "Site":"Makavana",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Aledhar",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.963845,22.061461 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Patana",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.757800,21.824024 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Timbi",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Patana-II",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Keravalo",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pasegam",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khanderio",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.483365,21.966118 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Old Rampara",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Charanio",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Old Tarpada",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jivani",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.151930,21.764473 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Vaharvo",
+    "District":"Bhavnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.057730,22.470702 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lakhan Timbo",
+    "District":"Jamnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.484844,22.738063 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Tarana",
+    "District":"Jamnagar",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.859741,23.733733 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khakhra Dera",
+    "District":"Kutch",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 68.769153,23.814453 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lakhpat",
+    "District":"Kutch",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.746583,23.399661 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mevasa",
+    "District":"Kutch",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Vasai",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.681533,22.446599 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gadhada-I",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gadhada-2",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gadhada-3",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khakhra Bela-1",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khakhra Bela-2",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"RP",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.802160,22.303895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khakhra Bela-3",
+    "District":"Rajkot",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Harappan",
+    "Investigator":"State",
+    "Institute":"Government of Gujarat",
+    "Notes":"",
+    "Reference":"IAR 1961: 6-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.693067,22.678213 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Chandraketugarh",
+    "District":"24 Parganas",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Excavation",
+    "Dated":"Temple",
+    "Investigator":"State",
+    "Institute":"Asutosh Museum",
+    "Notes":"",
+    "Reference":"IAR 1961: 39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.471366,17.368507 ]
+    },
+    "properties": {
+    "Precision":9,
+    "Site":"Gowlipura",
+    "District":"Hyderabad",
+    "State":"Andhra Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Image",
+    "Investigator":"State",
+    "Institute":"Andhra State",
+    "Notes":"",
+    "Reference":"IAR 1961: 57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.397394,23.670614 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Devnimori",
+    "District":"Sabarkantha",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"State",
+    "Institute":"Gujarat State",
+    "Notes":"",
+    "Reference":"IAR 1961: 58"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.780410,11.258753 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Edakal",
+    "District":"Kozhikode",
+    "State":"Kerala",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Stone circles",
+    "Investigator":"State",
+    "Institute":"Kerala State",
+    "Notes":"",
+    "Reference":"IAR 1961: 58"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.780410,11.258753 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Cheengeri-Desom",
+    "District":"Kozhikode",
+    "State":"Kerala",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Stone circles",
+    "Investigator":"State",
+    "Institute":"Kerala State",
+    "Notes":"",
+    "Reference":"IAR 1961: 58"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.780410,11.258753 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ambalavayal-Amsom",
+    "District":"Kozhikode",
+    "State":"Kerala",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Stone circles",
+    "Investigator":"State",
+    "Institute":"Kerala State",
+    "Notes":"",
+    "Reference":"IAR 1961: 58"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.780410,11.258753 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nenmeni",
+    "District":"Kozhikode",
+    "State":"Kerala",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Stone circles",
+    "Investigator":"State",
+    "Institute":"Kerala State",
+    "Notes":"",
+    "Reference":"IAR 1961: 58"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.614140,8.893212 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Poothamkiara",
+    "District":"Quilon",
+    "State":"Kerala",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Stone circles",
+    "Investigator":"State",
+    "Institute":"Kerala State",
+    "Notes":"",
+    "Reference":"IAR 1961: 59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.654793,10.786730 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pallavaeer",
+    "District":"Palghat",
+    "State":"Kerala",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Stone circles",
+    "Investigator":"State",
+    "Institute":"Kerala State",
+    "Notes":"",
+    "Reference":"IAR 1961: 59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.014352,10.643083 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Ponnani",
+    "District":"Thrissur",
+    "State":"Kerala",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"BRW",
+    "Investigator":"State",
+    "Institute":"Kerala State",
+    "Notes":"",
+    "Reference":"IAR 1961: 59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.088501,10.613900 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Koonamoochi",
+    "District":"Thrissur",
+    "State":"Kerala",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"BRW",
+    "Investigator":"State",
+    "Institute":"Kerala State",
+    "Notes":"",
+    "Reference":"IAR 1961: 59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.695970,13.242081 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Devanahalli",
+    "District":"Bangalore",
+    "State":"Karnataka",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Stone circles",
+    "Investigator":"State",
+    "Institute":"Mysore State",
+    "Notes":"",
+    "Reference":"IAR 1961: 64"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.480952,13.103704 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Tarabanahalli",
+    "District":"Bangalore",
+    "State":"Karnataka",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Russet Ware",
+    "Investigator":"State",
+    "Institute":"Mysore State",
+    "Notes":"",
+    "Reference":"IAR 1961: 64"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.116592,15.765836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sondatti",
+    "District":"Belgaum",
+    "State":"Karnataka",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Fortress",
+    "Investigator":"State",
+    "Institute":"Mysore State",
+    "Notes":"",
+    "Reference":"IAR 1961: 64"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.007808,15.458924 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sudi",
+    "District":"Dharwar",
+    "State":"Karnataka",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Temple",
+    "Investigator":"State",
+    "Institute":"Mysore State",
+    "Notes":"",
+    "Reference":"IAR 1961: 64"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.316437,26.020012 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Baghera",
+    "District":"Ajmer",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"",
+    "Reference":"IAR 1961: 65"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.098497,25.754640 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Kiradu",
+    "District":"Barmer",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"",
+    "Reference":"IAR 1961: 65"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.489515,27.216981 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bharatpur outskirts",
+    "District":"Bharatpur",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"State",
+    "Institute":"Bharatpur Museum",
+    "Notes":"",
+    "Reference":"IAR 1961: 65"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.621536,23.941011 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gangadhar",
+    "District":"Jhalawar",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Ring Wells",
+    "Investigator":"State",
+    "Institute":"Archaeology and Museums, Udaipur",
+    "Notes":"",
+    "Reference":"IAR 1961: 66"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.864753,25.213816 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kakoni",
+    "District":"Kota",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"State",
+    "Institute":"Kotah Museum",
+    "Notes":"",
+    "Reference":"IAR 1961: 66"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.739271,24.445895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chandravati",
+    "District":"Sirohi",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"State",
+    "Institute":"Rajasthan State",
+    "Notes":"",
+    "Reference":"IAR 1961: 66"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.080624,23.226613 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kalla-Lalbazar",
+    "District":"Bankura",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.236953,23.411626 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Manoharand Saharjora",
+    "District":"Bankura",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.886005,22.924641 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kankradara",
+    "District":"Bankura",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.078604,23.232415 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kachinda",
+    "District":"Bankura",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.119218,22.431147 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jhargram",
+    "District":"Bankura",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.078604,23.232415 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jaypanda",
+    "District":"Bankura",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.842697,24.357502 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhutan",
+    "District":"Birbhum",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.842697,24.357502 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Birbhum",
+    "District":"Birbhum",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.365208,23.332078 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Purulia",
+    "District":"Purulia",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.782460,25.246909 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"West Dinajpur",
+    "District":"Uttar Dinajpur",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.335277,23.495341 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sagar-Bhanga",
+    "District":"Burdwan",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.861479,23.232421 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khrupir-Jangal",
+    "District":"Burdwan",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.395956,23.497627 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gopalpur",
+    "District":"Burdwan",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.368666,23.517989 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Arrah",
+    "District":"Burdwan",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.498771,23.595961 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Satkahonia",
+    "District":"Burdwan",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.861479,23.232421 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bilgava",
+    "District":"Burdwan",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.861479,23.232421 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Rajar-Dhipi",
+    "District":"Burdwan",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.861479,23.232421 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Burdwan",
+    "District":"Burdwan",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.861479,23.232421 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Maynaguri",
+    "District":"Burdwan",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Temple",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.381073,22.408038 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Organda",
+    "District":"Midnapore",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Temple",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.381073,22.408038 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sildah",
+    "District":"Midnapore",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.693067,22.678213 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Chandraketugarh",
+    "District":"24 Parganas",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Terracottas",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.460978,22.223711 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Harinarayanpur",
+    "District":"24 Parganas",
+    "State":"West Bengal",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Neolithic",
+    "Investigator":"State",
+    "Institute":"State of West Bengal",
+    "Notes":"",
+    "Reference":"IAR 1961: 68"
+    }
+  }
+]
+}
