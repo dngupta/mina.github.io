@@ -100,7 +100,7 @@ var allMarker = L.geoJson(false, {
 $(document).ready(function () {
              $.getJSON("testData.geojson", function (data) {
 				    var objects = [];
-	            $.each(data.features, function (idx, n) {
+	            $.each(data.properties, function (idx, n) {
 	            if (n.investigator === "Survey" && n.investigator === "University" && n.investigator === "State") {
 	            allMarker.addData(n);
 	            allMarker.eachLayer(function (layer) {
