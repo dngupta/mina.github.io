@@ -133,14 +133,18 @@ var uniMarker = L.geoJson(false, {
 		}
 	}).addTo(map);
 
-var data = geoJSON.parse("testData.geoJson"); 
-	$.each(geoJSON.parse(data), function (idx, n) {
-	        if (n.investigator === "University") {
+$(document).ready(function () {
+             $.getJSON("testData.geojson", function (data) {
+				    var objects = [];
+	            $.each(data.features, function (idx, n) {
+	            if (n.investigator === "University") {
 	            uniMarker.addData(n);
 	            uniMarker.eachLayer(function (layer) {
-		        layer.addTo(uniMarkerSub);
-		        });
-		      }
+		               layer.addTo(uniMarkerSub);
+		              });
+		          }
+        });
+     });
 });
 
 	//state icon & load geojson
@@ -163,14 +167,19 @@ var stateMarker = L.geoJson(false, {
 		}
 	}).addTo(map);
 
-	$.getJSON("testData.geojson").filter(function (n) {
-	return n.investigator === "State";
-	stateMarker.addData(n);
-	stateMarker.eachLayer(function (layer) {
-		layer.addTo(stateMarkerSub);
-		});
-	});
-	
+$(document).ready(function () {
+             $.getJSON("testData.geojson", function (data) {
+				    var objects = [];
+	            $.each(data.features, function (idx, n) {
+	            if (n.investigator === "State") {
+	            stateMarker.addData(n);
+	            stateMarker.eachLayer(function (layer) {
+		               layer.addTo(stateMarkerSub);
+		              });
+		          }
+        });
+     });
+});
 	// Overlay
 	
 	var overlayMaps = {
