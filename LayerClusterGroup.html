@@ -88,17 +88,14 @@ var allMarker = L.geoJson(false, {
 			var marker = L.marker (latlng, {
 				icon: allIcon
 			});
-			marker.bindPopup(marker[i].Site +
-              '<br><b>Name: </b><br>' + marker[i].State + '<br><br>' + 
-			  '<br/><b>Year: </b>' + marker[i].Year +
-              '<br/><b>Accuracy: </b> ' + marker[i].Acc +
-              '<br/><b>Institute: </b> ' + marker[i].Institute);
-			  return marker;
-		}
+			marker.bindPopup("<strong>" + feature.properties.Site + "</strong><br/>" + feature.properties.State + " " + feature.properties.Year + " " + feature.properties.Acc + "<br/>" + " " +
+		  feature.properties.Institute + " ");
+		return marker;
+	  }
 	}).addTo(map);
 
 $(document).ready(function () {
-             $.getJSON("testData.geojson", function (feature, layer) {
+             $.getJSON("testData.geojson", function (key, val) {
 				    var data = [];
 	            $.each(data[features].properties, function (f, n) {
 	            if (n.investigator === "Survey" && n.investigator === "University" && n.investigator === "State") {
@@ -121,13 +118,10 @@ var surveyMarker = L.geoJson(false, {
 			var marker = L.marker (latlng, {
 				icon: surveyIcon
 			});
-			marker.bindPopup(marker[i].Site +
-              '<br><b>Name: </b><br>' + marker[i].State + '<br><br>' + 
-			  '<br/><b>Year: </b>' + marker[i].Year +
-              '<br/><b>Accuracy: </b> ' + marker[i].Acc +
-              '<br/><b>Institute: </b> ' + marker[i].Institute);
-			  return marker;
-		}
+			marker.bindPopup("<strong>" + feature.properties.Site + "</strong><br/>" + feature.properties.State + " " + feature.properties.Year + " " + feature.properties.Acc + "<br/>" + " " +
+		  feature.properties.Institute + " ");
+		return marker;
+	  }
 	}).addTo(map);
 
 $(document).ready(function () {
@@ -154,13 +148,10 @@ var uniMarker = L.geoJson(false, {
 			var marker = L.marker (latlng, {
 				icon: uniIcon
 			});
-			marker.bindPopup(marker[i].Site +
-              '<br><b>Name: </b><br>' + marker[i].State + '<br><br>' + 
-			  '<br/><b>Year: </b>' + marker[i].Year +
-              '<br/><b>Accuracy: </b> ' + marker[i].Acc +
-              '<br/><b>Institute: </b> ' + marker[i].Institute);
-			  return marker;
-		}
+			marker.bindPopup("<strong>" + feature.properties.Site + "</strong><br/>" + feature.properties.State + " " + feature.properties.Year + " " + feature.properties.Acc + "<br/>" + " " +
+		  feature.properties.Institute + " ");
+		return marker;
+	  }
 	}).addTo(map);
 
 $(document).ready(function () {
@@ -187,13 +178,10 @@ var stateMarker = L.geoJson(false, {
 					var marker = L.marker (latlng, {
 							icon: stateIcon
 			});
-			marker.bindPopup(marker[i].Site +
-              '<br><b>Name: </b><br>' + marker[i].State + '<br><br>' + 
-			  '<br/><b>Year: </b>' + marker[i].Year +
-              '<br/><b>Accuracy: </b> ' + marker[i].Acc +
-              '<br/><b>Institute: </b> ' + marker[i].Institute);
-			  return marker;
-		}
+			marker.bindPopup("<strong>" + feature.properties.Site + "</strong><br/>" + feature.properties.State + " " + feature.properties.Year + " " + feature.properties.Acc + "<br/>" + " " +
+		  feature.properties.Institute + " ");
+		return marker;
+	  }
 	}).addTo(map);
 
 $(document).ready(function () {
