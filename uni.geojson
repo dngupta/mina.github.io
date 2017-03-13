@@ -1,0 +1,7425 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.347806,22.110005 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Maheswar",
+    "District":"Khargone",
+    "State":"Madhya Pradesh",
+    "Year":1953,
+    "Field":"Excavation",
+    "Dated":"Harappan",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes historical periods, proto-microlithic, proto-neolithic; includes photo",
+    "Reference":"IAR 1954: 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.498298,23.447089 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Langhnaj",
+    "District":"Ahmedabad",
+    "State":"Gujarat",
+    "Year":1953,
+    "Field":"Excavation",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"MS University, Baroda",
+    "Notes":"notes previous work by HD Sankalia; microlithics, 7 human skeletons - semi fossilized and 'highly-flexed position indicating burials'; dating based on presence of calcium shows old surface lay between 2ft to 4ft from present surface and 1 skeleton",
+    "Reference":"IAR 1954: 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.403171,25.361054 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kausambi",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1953,
+    "Field":"Excavation",
+    "Dated":"1st-2nd BC",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"notes importance 1st BC - 1st AD and previous work in 1951; defensive walls, monastery, stupas, sculptures, terracottas and inscriptions, Jaina as modern; includes photos",
+    "Reference":"IAR 1954: 9-10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.189009,25.601133 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kumrahar",
+    "District":"Patna",
+    "State":"Bihar",
+    "Year":1953,
+    "Field":"Excavation",
+    "Dated":"Sunga",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"notes previous work, DB Spooner, 1912; pillared hall at Pataliputra; four periods - Sunga: 150BC-100AD, 100-300AD, 300-450AD, 450-600AD based on strutures, pottery; points to pottery similarity with Bairat, Rajasthan, Rupar, Punjab",
+    "Reference":"IAR 1954: 9-10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.647851,23.787177 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Vadnagar",
+    "District":"Mehsana",
+    "State":"Gujarat",
+    "Year":1953,
+    "Field":"Excavation",
+    "Dated":"2nd-3rd",
+    "Investigator":"University",
+    "Institute":"MS University, Baroda",
+    "Notes":"notes red polished ware, and past names of site; continuous sequence 3 periods: 100-200AD, crude pottery, 200-600, flourishing stage of city, red polished ware, 600-1000AD, coarse red-slipped with design; notes similarity with pottery from Kathiawar, Baraoda and Timberva",
+    "Reference":"IAR 1954: 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.634425,21.825895 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sirpur",
+    "District":"Raipur",
+    "State":"Madhya Pradesh",
+    "Year":1953,
+    "Field":"Excavation",
+    "Dated":"Medieval",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"notes historical significance as capital of Pandava;  sculptures, includes photos",
+    "Reference":"IAR 1954: 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.059299,19.188151 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Tisgaon",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1953,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes two sites",
+    "Reference":"IAR 1954: 37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.629247,18.748136 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ghargaon",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1953,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes microliths and pottery",
+    "Reference":"IAR 1954: 37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.190588,19.576124 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sangamner",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1953,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes microliths and pottery",
+    "Reference":"IAR 1954: 37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.928106,19.551177 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nevasa",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1953,
+    "Field":"Exploration",
+    "Dated":"Chalcolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes microliths and pottery",
+    "Reference":"IAR 1954: 37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.885090,19.586798 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pravara Sangam",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1953,
+    "Field":"Exploration",
+    "Dated":"Chalcolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes microliths and pottery",
+    "Reference":"IAR 1954: 37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhojapuri",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1953,
+    "Field":"Exploration",
+    "Dated":"Chalcolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes microliths and pottery",
+    "Reference":"IAR 1954: 37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.879515,19.438337 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Paithan",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1953,
+    "Field":"Exploration",
+    "Dated":"Chalcolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes microliths and pottery",
+    "Reference":"IAR 1954: 37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.920703,19.546888 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nevasa",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1954,
+    "Field":"Excavation",
+    "Dated":"Neolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes paleolithic, neolithic-chalcolithic, early historical, Roman-Satavahana and Muslim; lithics, fossils, aggradation of river, pottery, storage jars, burials, huts; dated to 1000 BC 'on basis of its affinity with the Stone Axe Culture of Brahmagiri and microlithic blade-industry of Navda Toli'; coins includes figures",
+    "Reference":"IAR 1955: 5-9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kausambi",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1954,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"notes previous work; monastery, rampart, gateway, coins; includes plan and photos",
+    "Reference":"IAR 1955: 16-18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.186814,25.592766 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kumrahar",
+    "District":"Patna",
+    "State":"Bihar",
+    "Year":1954,
+    "Field":"Excavation",
+    "Dated":"Mauryan",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"notes previous work, DB Spooner, 1912 disproved; stupas, figures; includes photos",
+    "Reference":"IAR 1955: 18-19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.381073,22.408038 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Tildah",
+    "District":"Midnapore",
+    "State":"West Bengal",
+    "Year":1954,
+    "Field":"Excavation",
+    "Dated":"Gupta",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"notes structures, pottery",
+    "Reference":"IAR 1955: 23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.780967,22.751069 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sirpur",
+    "District":"Raipur",
+    "State":"Madhya Pradesh",
+    "Year":1954,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"notes monastery, bricks, coins, pottery; includes plan",
+    "Reference":"IAR 1955: 24-26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.995572,25.910928 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Karian",
+    "District":"Darbhanga",
+    "State":"Bihar",
+    "Year":1954,
+    "Field":"Excavation",
+    "Dated":"900-1800",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"notes structural remains",
+    "Reference":"IAR 1955: 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.896004,26.111868 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Baligarh",
+    "District":"Darbhanga",
+    "State":"Bihar",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.164727,25.916245 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dharhara",
+    "District":"Purnia",
+    "State":"Bihar",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.115518,25.996113 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chakramdas",
+    "District":"Muzaffarpur",
+    "State":"Bihar",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.473525,25.374756 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pirnagara",
+    "District":"Munger",
+    "State":"Bihar",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.600591,14.681888 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lingarau-palem",
+    "District":"Anantapur",
+    "State":"Andhra Pradesh",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.007808,15.458924 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Herakal",
+    "District":"Dharwar",
+    "State":"Karnataka",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"Andhra",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.143463,15.342263 ]
+    },
+    "properties": {
+    "Precision":9,
+    "Site":"Ittagi",
+    "District":"Dharwar",
+    "State":"Karnataka",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"Megalithic",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.710031,16.830171 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pattadakal",
+    "District":"Bijapur",
+    "State":"Karnataka",
+    "Year":1954,
+    "Field":"Exploration",
+    "Dated":"Megalithic",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"notes pottery",
+    "Reference":"IAR 1955: 59-62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.386742,25.240847 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bariyari",
+    "District":"Banda",
+    "State":"Uttar Pradesh",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"notes proximity to Kausambi and tributary of Yamuna; 3 terraces, Madras complex, Levallois, and Upper Paleolithic, microlithic, no pottery ",
+    "Reference":"IAR 1956: 04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.338021,25.479622 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Siddapura",
+    "District":"Banda",
+    "State":"Uttar Pradesh",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"notes lithics, bone tools and horn, pottery",
+    "Reference":"IAR 1956: 04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.338021,25.479622 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khoh",
+    "District":"Banda",
+    "State":"Uttar Pradesh",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"notes proximity to Karvi within 8 mile radius; stone celts",
+    "Reference":"IAR 1956: 04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.929068,25.391276 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Agarhunda",
+    "District":"Banda",
+    "State":"Uttar Pradesh",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"notes proximity to Karvi within 8 mile radius; stone celts",
+    "Reference":"IAR 1956: 04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.338021,25.479622 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Marjadpura",
+    "District":"Banda",
+    "State":"Uttar Pradesh",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"notes proximity to Karvi within 8 mile radius; stone celts",
+    "Reference":"IAR 1956: 04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.338021,25.479622 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chakond",
+    "District":"Banda",
+    "State":"Uttar Pradesh",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"notes proximity to Karvi within 8 mile radius; stone celts",
+    "Reference":"IAR 1956: 04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.928106,19.551177 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nevasa",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes Godavari and Pravara basins; Series I on dolerite and II on chert, agate, jasper, Levallois in between",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.005428,19.540630 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Akola",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes 100 mile distance between Akola and Pravana-Sangam - Series I and II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.118857,19.532021 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dhandharphal",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.645899,19.574869 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Belapur",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.888722,19.204544 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kolhar",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kadit Khurd",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II and pottery",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.219372,19.350367 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Shenvadigaon",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.784176,19.512185 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kopare",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.854368,19.568904 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Punatgaon",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.697126,18.880233 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chikhali",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I and II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Vanghikhurd",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I and II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.163900,19.242400 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sangam",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I and II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.874470,19.606494 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Belpandhari",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes Godavari basin; 20 mile radius from Nevasa; tools and fossil bones; Series I and II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.361622,19.330649 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Warkhed",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes Godavari basin; 20 mile radius from Nevasa; tools and fossil bones; Series I and II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.968367,19.524963 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kalegaon",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes Godavari basin; 20 mile radius from Nevasa; tools and fossil bones; Series I and II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Shivyogamandir",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"notes work in Bombay-Karnataka; pebble-bed; Series I",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.625249,19.560470 ]
+    },
+    "properties": {
+    "Precision":9,
+    "Site":"Angavadi",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"Series I, II, III (microliths on chert)",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bagalkot",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"Series I and II",
+    "Reference":"IAR 1956: 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kerkal",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"Series I and II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.888722,19.204544 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kolhar",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"Series I and II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Almatti",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"Series I and II",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bilgi",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"Series II and III",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Shidlaphadi",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"notes rock-shelter, microliths, pottery; inscriptions - 5-6thAD",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hangal",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"occupational deposit",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Banavasi",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"occupational deposit",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hale-Bankapur",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Kannada Research Institute",
+    "Notes":"occupational deposit",
+    "Reference":"IAR 1956: 05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.928106,19.551177 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nevasa",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Excavation",
+    "Dated":"Neolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes four periods: Stone age series I and II, periods III, IV, V, VI; III has burials, unoccupied gap before IV, early historic or Satavahana: use Wheeler's date and coins; V is Indo-Roman, VI is Medieval; includes drawings",
+    "Reference":"IAR 1956: 8-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kausambi",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1955,
+    "Field":"Excavation",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"notes historical significance; stupa; includes plan",
+    "Reference":"IAR 1956: 17-19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.137565,25.594095 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pataliputra",
+    "District":"Patna",
+    "State":"Bihar",
+    "Year":1955,
+    "Field":"Excavation",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"notes pottery, structures, bricks, figurines, copper, gold, iron, upto medieval, 1600; includes photos",
+    "Reference":"IAR 1956: 19-23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.780967,22.751069 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sirpur",
+    "District":"Raipur",
+    "State":"Madhya Pradesh",
+    "Year":1955,
+    "Field":"Excavation",
+    "Dated":"Sarabhapura",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"notes gold coin, structures, copper coins, monastery; includes photos",
+    "Reference":"IAR 1956: 26-27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.843009,18.344010 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khed",
+    "District":"Pune",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes Series II",
+    "Reference":"IAR 1958: 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.721306,18.733959 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Induri",
+    "District":"Pune",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes Series II",
+    "Reference":"IAR 1958: 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.492859,18.660050 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chinchani",
+    "District":"Pune",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes Series II",
+    "Reference":"IAR 1958: 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mandasor",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes tools; previous work",
+    "Reference":"IAR 1958: 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.069295,24.076836 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sonita",
+    "District":"Mandasor",
+    "State":"Madhya Pradesh",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes tools; previous work",
+    "Reference":"IAR 1958: 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.597945,11.454776 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pykara",
+    "District":"Nilgiris",
+    "State":"Tamil Nadu",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes flakes",
+    "Reference":"IAR 1958: 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.050575,18.520708 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Theur",
+    "District":"Pune",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes microliths",
+    "Reference":"IAR 1958: 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.801302,19.418668 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sopara",
+    "District":"Thane",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Early Historical",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes pottery, microliths",
+    "Reference":"IAR 1956: 72"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ram Doh",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Medieval",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes temples, sculptures",
+    "Reference":"IAR 1956: 73-74"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.896004,26.111868 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Uchaitha",
+    "District":"Darbhanga",
+    "State":"Bihar",
+    "Year":1955,
+    "Field":"Exploration",
+    "Dated":"Medieval",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"notes temples, sculptures",
+    "Reference":"IAR 1956: 73-74"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.970558,24.020594 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kanthar",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 7-8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Multanpura",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mahadeo-Ghat",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.118376,25.021815 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Smasan-Ghat",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dhikola",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chikla",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.507143,24.761868 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nahargarh",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Alvi-Mahadeo",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Itali",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.765892,25.013471 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Basai",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I and II; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.322087,24.603877 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Morwan",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ratanzana",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.285231,25.128897 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kalyanpura",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chittorgarh",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bagh Caves",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Navda Toli",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.936151,25.169753 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Maheswar",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mandaleswar",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series I; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kharki-Mata",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series II; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.471613,24.509777 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khanpura",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series II; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Suara",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series II; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.727854,24.642088 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Borkheri",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series II; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.648826,24.538387 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Narsinga",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series II; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Choli",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series II; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sanjit",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series II; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sonkatch",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: series II; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ram-Ghat",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: microliths; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.969097,25.085170 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Parmar-Kheri",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: microliths and painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Deoguraria",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: microliths; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Patalpani",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: microliths; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kalikund",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: microliths; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.800996,24.623582 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nagda",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Tungni",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Metwas",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Takraoda",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Maori",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ghata-Buod",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Betnia",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.725110,24.579449 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pseva",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kasrawad",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.765892,24.347758 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khera",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lohari",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dhodhar",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Badnawar",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kanwan",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bilawadi",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dharhara",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ashta",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley, and attributes: painted pottery; includes photos, map",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.750092,20.903098 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Prakashe",
+    "District":"Dhule",
+    "State":"Maharashtra",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes proximity to Tapti; paleoliths",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.480392,19.706908 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Pimplas",
+    "District":"Dhule",
+    "State":"Maharashtra",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes proximity to Tapti; paleoliths",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.223802,20.811643 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Eklahre",
+    "District":"Dhule",
+    "State":"Maharashtra",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley: Upper Godavari Valley; Series I, black cotton soil",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.388070,20.977756 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gangapur",
+    "District":"Dhule",
+    "State":"Maharashtra",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley: Upper Godavari Valley; Series I, black cotton soil",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.648983,19.395657 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Nevasa",
+    "District":"Dhule",
+    "State":"Maharashtra",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"organized by river valley: Upper Godavari Valley; Series I, black cotton soil",
+    "Reference":"IAR 1957: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.564434,25.133699 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Barkacha",
+    "District":"Mirzapur",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"Vidhyan region; previous work by James Cockburn; microliths and rock paintaings",
+    "Reference":"IAR 1957: 13-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.843096,25.790678 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Kotwa",
+    "District":"Mirzapur",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Microlithic",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"Vidhyan region; previous work by James Cockburn; microliths and rock paintaings",
+    "Reference":"IAR 1957: 13-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.201069,24.810673 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Basauli",
+    "District":"Mirzapur",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"Vidhyan region; previous work by James Cockburn; microliths and rock paintaings",
+    "Reference":"IAR 1957: 13-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.358751,24.901271 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dhobaha",
+    "District":"Mirzapur",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"Vidhyan region; previous work by James Cockburn; microliths and rock paintaings",
+    "Reference":"IAR 1957: 13-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.564434,25.133699 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kandakot Hill",
+    "District":"Mirzapur",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"Vidhyan region; previous work by James Cockburn; microliths and rock paintaings",
+    "Reference":"IAR 1957: 13-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.564434,25.133699 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lekhania",
+    "District":"Mirzapur",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"Vidhyan region; previous work by James Cockburn; microliths and rock paintaings",
+    "Reference":"IAR 1957: 13-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.949239,24.965648 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sonepur",
+    "District":"Gaya",
+    "State":"Bihar",
+    "Year":1956,
+    "Field":"Excavation",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"notes five periods; pottery, 'on basis of the present framework of early Indian chronology, Periods I and II would probably date back to earlier than 600 BC and Period V would come down to 50BC'",
+    "Reference":"IAR 1957: 19-20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kausambi",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1956,
+    "Field":"Excavation",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"notes rampart, bastion, pillars",
+    "Reference":"IAR 1957: 28-29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.693067,22.678213 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Chandraketur-garh",
+    "District":"24 Parganas",
+    "State":"West Bengal",
+    "Year":1956,
+    "Field":"Excavation",
+    "Dated":"Mauryan",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"notes culture-sequence",
+    "Reference":"IAR 1957: 29-30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.870963,18.548867 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Deccan College",
+    "District":"Pune",
+    "State":"Maharashtra",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes Series II",
+    "Reference":"IAR 1957: 78"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.843009,18.344010 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khed",
+    "District":"Pune",
+    "State":"Maharashtra",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes Series I, II, III",
+    "Reference":"IAR 1957: 78"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.832644,18.931640 ]
+    },
+    "properties": {
+    "Precision":9,
+    "Site":"Bombay area",
+    "District":"Bombay",
+    "State":"Maharashtra",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes Series I and II",
+    "Reference":"IAR 1957: 78"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.582978,22.177285 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Maheswar",
+    "District":"Khargone",
+    "State":"Madhya Pradesh",
+    "Year":1956,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II",
+    "Reference":"IAR 1957: 78"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.614989,21.833524 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Navdatoli",
+    "District":"Khargone",
+    "State":"Madhya Pradesh",
+    "Year":1957,
+    "Field":"Excavation",
+    "Dated":"Chalcolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"notes domestic architecture, ceramics, artefacts",
+    "Reference":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.081783,26.003818 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Vaisali",
+    "District":"Muzaffarpur",
+    "State":"Bihar",
+    "Year":1957,
+    "Field":"Excavation",
+    "Dated":"Lichchhavis",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"notes tank and stupa and proximity to fortified city; Lichchhavis; based on bricks and plan, pottery is NBPW (600-200BC): 'archaeological and traditional evidences combine to indicate, suggests that the excavated stupa represented the original Lichchhavi stupa, though the absence of any inscription on the casket makes it difficult to be definite on the point'",
+    "Reference":"IAR 1958: 10-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.614989,21.833524 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Navdatoli",
+    "District":"Khargone",
+    "State":"Madhya Pradesh",
+    "Year":1957,
+    "Field":"Excavation",
+    "Dated":"Chalcolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Horizontal excavation on Mound 4; measured 800ft n-s and 600ft e-w; close houses=nucleated settlement; round, oblong, square houses; pottery; microliths; beads; metal axes, bangles, fish-hooks, nail parers, chisels, pins of copper and bronze; stone rings, mace-heads, saddle querns, rubbers, hammer stones, axe; evidence of agriculture - charred grains; hearth;  compares pottery to Cemetery B (Sialk, Iran) to date Navdatoli 1200-700 BC",
+    "Reference":"IAR 1958: 30-31, 33, 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.597222,20.650346 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhimkand",
+    "District":"Dhenkanal",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survey along Brahmani River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.597222,20.650346 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chakrasil",
+    "District":"Dhenkanal",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survey along Brahmani River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.081631,20.667183 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Harichandanpur",
+    "District":"Dhenkanal",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survey along Brahmani River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.202357,20.613114 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hindol",
+    "District":"Dhenkanal",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survey along Brahmani River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.597222,20.650346 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kaliakata",
+    "District":"Dhenkanal",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survey along Brahmani River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.308452,20.809236 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kharagprasad",
+    "District":"Dhenkanal",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survey along Brahmani River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.280007,20.989808 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kulei",
+    "District":"Dhenkanal",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survey along Brahmani River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.597222,20.650346 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pallahara",
+    "District":"Dhenkanal",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survey along Brahmani River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.597222,20.650346 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Parang",
+    "District":"Dhenkanal",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survey along Brahmani River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.216816,20.950103 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Talcher",
+    "District":"Dhenkanal",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survey along Brahmani River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.418731,22.008698 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Banspal",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"no real microlith\" in Orissa",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.418731,22.008698 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bonaikala",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"no real microlith\" in Orissa",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.924848,22.099324 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Barasol",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"no real microlith\" in Orissa",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.236548,22.080632 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bar Manda",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"no real microlith\" in Orissa",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.284413,22.211080 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bijatala",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"no real microlith\" in Orissa",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.418731,22.008698 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Domuhani",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"no real microlith\" in Orissa",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.648514,21.730694 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ghantasila",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"no real microlith\" in Orissa",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.734093,21.893180 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mahulia",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"no real microlith\" in Orissa",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.418731,22.008698 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Naujora",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"no real microlith\" in Orissa",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.703906,21.797304 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pratappur",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"no real microlith\" in Orissa",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.170089,22.270932 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Rairangpur",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"no real microlith\" in Orissa",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.043175,22.124003 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhalundungri",
+    "District":"Sundargarh",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survery along Saphei River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.043175,22.124003 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhanjgarh",
+    "District":"Sundargarh",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survery along Saphei River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.043175,22.124003 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bishalburv",
+    "District":"Sundargarh",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survery along Saphei River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.043175,22.124003 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jangra",
+    "District":"Sundargarh",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survery along Saphei River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.032603,22.182997 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khuntagaon",
+    "District":"Sundargarh",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survery along Saphei River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.043175,22.124003 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kurbadi",
+    "District":"Sundargarh",
+    "State":"Orissa",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"survery along Saphei River",
+    "Reference":"IAR 1958: 41-42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.710981,32.324617 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nagrota",
+    "District":"Kangra",
+    "State":"Punjab",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"lithics and associated terraces",
+    "Reference":"IAR 1958: 43"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.139243,32.001745 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Guler",
+    "District":"Kangra",
+    "State":"Punjab",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"Stone Age",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"lithics and associated terraces; absence of \"typical tools of the Madras handaxe culture\"; commingling noted in Potwar regin",
+    "Reference":"IAR 1958: 43"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kausambi",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1957,
+    "Field":"Excavation",
+    "Dated":"Early Historical",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"gateway; grey ware pottery",
+    "Reference":"IAR 1957: 45-48"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.040165,25.331310 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Rajghat",
+    "District":"Varanasi",
+    "State":"Uttar Pradesh",
+    "Year":1957,
+    "Field":"Excavation",
+    "Dated":"Early Historical",
+    "Investigator":"University",
+    "Institute":"BHU",
+    "Notes":"NBPW; 1940s salvage excavations while railway construction; Barna River, Ganga; Lai Khan tomb area selected for dig",
+    "Reference":"IAR 1958: 50-51"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.969831,14.466756 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chandraketur-garh",
+    "District":"24 Parganas",
+    "State":"West Bengal",
+    "Year":1957,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"Gupta; \"five successive occupational periods\"; includes illustration of culture by period",
+    "Reference":"IAR 1958: 51-53"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.874250,19.203184 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Junnar",
+    "District":"Pune",
+    "State":"Maharashtra",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Roman amphorae",
+    "Reference":"IAR 1958: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.295687,18.782640 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Karegaon",
+    "District":"Pune",
+    "State":"Maharashtra",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Nevasa-Jorwe pottery; paleo tools",
+    "Reference":"IAR 1958: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.881600,18.542093 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bund Garden",
+    "District":"Pune",
+    "State":"Maharashtra",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; Series II",
+    "Reference":"IAR 1958: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.863460,18.752416 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Shikarpur",
+    "District":"Pune",
+    "State":"Maharashtra",
+    "Year":1957,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"\"Huge basaltic or dolerite flakes \"; Vel River",
+    "Reference":"IAR 1958: 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.974072,16.013978 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nallamala Hills",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"46 sites with \"Stone Age cultures\"; megalithic sites; survey along Rallavagu and Bhavanasi",
+    "Reference":"IAR 1959: 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.081783,26.003818 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Vaisali",
+    "District":"Muzaffarpur",
+    "State":"Bihar",
+    "Year":1958,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Baked bricks; NBPW; \"at ruins of fort known as Raja-Visal-Ka-garh\"",
+    "Reference":"IAR 1959: 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.582978,22.177285 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Maheswar",
+    "District":"Khargone",
+    "State":"Madhya Pradesh",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Large and small flakes; along river terraces of Narmada",
+    "Reference":"IAR 1959: 28-29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.614989,21.833524 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Navdatoli",
+    "District":"Khargone",
+    "State":"Madhya Pradesh",
+    "Year":1958,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Pottery; copper; chalcedony; includes plates; \"presence of such bowls may imply contacts with Iran\", \"points to an Iranian pentration in central India\"; carbon dating at Upenn = 1631 to 1375 BC",
+    "Reference":"IAR 1959: 30-31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.666605,22.064992 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Champua",
+    "District":"Kendujhar",
+    "State":"Orissa",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1959: 36-38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.581685,21.628933 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ramla",
+    "District":"Kendujhar",
+    "State":"Orissa",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1959: 36-38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.603777,22.169653 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kandalia",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1959: 36-38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.899811,21.628830 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Patna",
+    "District":"Kendujhar",
+    "State":"Orissa",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1959: 36-38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.278069,21.152842 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jagannathpur",
+    "District":"Kendujhar",
+    "State":"Orissa",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1959: 36-38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.083629,22.401522 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bahalda",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1959: 36-38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.170089,22.270932 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Rairangpur",
+    "District":"Mayurbhanj",
+    "State":"Orissa",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1959: 36-38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.581685,21.628933 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Udaipur",
+    "District":"Kendujhar",
+    "State":"Orissa",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1959: 36-38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.581685,21.628933 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ramla",
+    "District":"Kendujhar",
+    "State":"Orissa",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1959: 36-38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.002153,26.001335 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Luni",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.331043,25.806656 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Singari",
+    "District":"Marwar",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.331043,25.806656 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pali",
+    "District":"Marwar",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.383672,26.452812 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Govindgarh",
+    "District":"Ajmer",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626868,25.188185 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hamirgarh",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.586953,25.321377 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Surubganj",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.638579,25.261647 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mandpia",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.010000,25.260062 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bigod",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.277072,25.624435 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jahazpur",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.381816,25.758218 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Deoli",
+    "District":"Tonk",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.556054,25.881975 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Banthali",
+    "District":"Tonk",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.679984,25.996103 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mahuwa",
+    "District":"Tonk",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.789472,26.162040 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Tonk",
+    "District":"Tonk",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.641795,24.891618 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Chitor",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series I tools; includes maps",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.583074,25.816373 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Samdari",
+    "District":"Bharmer",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II tools; includes map",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.037576,26.039976 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Shikarpura",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II tools; includes map",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.609466,26.222390 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhawi",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II tools; includes map",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.024309,26.238947 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pickak",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II tools; includes map",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.331043,25.806656 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhandei",
+    "District":"Marwar",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II tools; includes map",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.331043,25.806656 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Danawasni",
+    "District":"Marwar",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II tools; includes map",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.659401,25.928089 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Sojet",
+    "District":"Marwar",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II tools; includes map",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.331043,25.806656 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dhaneri",
+    "District":"Marwar",
+    "State":"Rajasthan",
+    "Year":1958,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Series II tools; includes map",
+    "Reference":"IAR 1959: 41-45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kausambi",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1958,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"pottery; structures",
+    "Reference":"IAR 1959: 46-47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.693067,22.678213 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Chandraketugarh",
+    "District":"24 Parganas",
+    "State":"West Bengal",
+    "Year":1958,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"structures; culture-history",
+    "Reference":"IAR 1959: 55-56"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.644129,15.885296 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Krishnapuram",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools; note terraces at rivers; megaliths at some",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.037279,15.828126 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Yeguvacherlopalli",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools; note terraces at rivers; megaliths at some",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.276089,14.979475 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gollapalli",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools; note terraces at rivers; megaliths at some",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.037279,15.828126 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Yerragondapalem",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools; note terraces at rivers; megaliths at some",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.037279,15.828126 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Malinthapadu",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools; note terraces at rivers; megaliths at some",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.936741,15.752974 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Markapur",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools; note terraces at rivers; megaliths at some",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.037279,15.828126 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ummadivaram",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools; note terraces at rivers; megaliths at some",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.060201,15.759112 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Tandrapad",
+    "District":"Kurnool",
+    "State":"Andhra Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools; note terraces at rivers; megaliths at some",
+    "Reference":"IAR 1960: 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Rajarappa",
+    "District":"Hazaribagh",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lotapahar",
+    "District":"Hazaribagh",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.653598,24.208441 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pratappur",
+    "District":"Palamau",
+    "State":"Jharkhand",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kuchaijharia",
+    "District":"Singhbhum",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chas",
+    "District":"Singhbhum",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lotapahar",
+    "District":"Singhbhum",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dobo",
+    "District":"Singhbhum",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Tamolia",
+    "District":"Singhbhum",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kuju",
+    "District":"Singhbhum",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chandil",
+    "District":"Singhbhum",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.482135,22.583414 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Ghatsila",
+    "District":"Singhbhum",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chakulia",
+    "District":"Singhbhum",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Microliths; Stone Age sites; includes illustration",
+    "Reference":"IAR 1960: 12-14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.949239,24.965648 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sonpur",
+    "District":"Gaya",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"Pottery",
+    "Reference":"IAR 1960: 14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.081783,26.003818 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Vaisali",
+    "District":"Muzaffarpur",
+    "State":"Bihar",
+    "Year":1959,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"pottery; structures",
+    "Reference":"IAR 1960: 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.993297,23.847670 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Devimori",
+    "District":"Sabarkantha",
+    "State":"Gujarat",
+    "Year":1959,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"MS University, Baroda",
+    "Notes":"Buddhist stupa",
+    "Reference":"IAR 1960: 19-21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.485279,25.412442 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Lalitpur",
+    "District":"Jhansi",
+    "State":"Uttar Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Paleo tools",
+    "Reference":"IAR 1960: 21-22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.926854,24.786235 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kotha",
+    "District":"Guna",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Paleo tools",
+    "Reference":"IAR 1960: 21-22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.928106,19.551177 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nevasa",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1959,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Six periods: early paleo, middle, chalcolithic (1500-1000BC), early historical (2nd BC-1AD), Indo-Roman (100-300AD), Muslim-Maratha (15-18th AD); includes plates",
+    "Reference":"IAR 1960: 25-28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.567565,19.534040 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gangapur",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1960: 28-29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.752898,19.138980 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Tapovan",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1960: 28-29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.866064,19.477153 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Tamasvadi",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1960: 28-29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nandur-Madhmeswar",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1960: 28-29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.915039,19.520494 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Vite",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1960: 28-29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.947371,19.550150 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mehenduri",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1960: 28-29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Induri",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1960: 28-29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.005428,19.540630 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Akola",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"Tools",
+    "Reference":"IAR 1960: 28-29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.010000,25.260062 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bigod",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.638579,25.261647 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mandpia",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.681027,25.227138 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mangrup",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.586953,25.321377 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Potla",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.544864,25.297881 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pur",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.024606,25.223969 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sand",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.631260,25.224762 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sarupganj",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chitorgarh",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.055177,26.224483 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhetanda",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.788151,25.889587 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dundara",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.024309,26.238947 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Golio",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.024309,26.238947 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hundgacin",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.024309,26.238947 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pipad",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.614121,26.019478 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sojat",
+    "District":"Jodhpur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.712479,24.585445 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bichri",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.706017,24.615679 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhuwana",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.865952,24.625606 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dabok",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.960820,24.146409 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gadha",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.691835,24.598620 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hiaro",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.712479,24.585445 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jagannathpur",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.950677,24.654883 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Karanpur",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.473078,23.941146 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kheri",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.223802,24.033889 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mander",
+    "District":"Udaipur",
+    "State":"Rajasthan",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Acchola",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1960: 46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.194474,25.235965 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Onaur",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1960: 46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sarainkala",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1960: 46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.803306,25.736634 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Unchadih",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1960: 46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.940768,25.552115 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Upraura",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1960: 46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kausambi",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1959,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1960: 46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.564434,25.133699 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pataudh",
+    "District":"Mirzapur",
+    "State":"Uttar Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.564434,25.133699 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hathinala",
+    "District":"Mirzapur",
+    "State":"Uttar Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.693067,22.678213 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Ghandraketugarh",
+    "District":"24 Parganas",
+    "State":"West Bengal",
+    "Year":1959,
+    "Field":"Excavation",
+    "Dated":"?",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1960: 50-52"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.737807,23.838805 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Abchand",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Rock-shelters",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1960: 70"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.795786,23.855351 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Makronia",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Lithics",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1960: 70"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.737807,23.838805 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pithoria",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Temple",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1960: 70"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.065495,23.639891 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Rehli",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1960: 70"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.016474,23.389756 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Deori",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1960: 70"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.196340,24.176337 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bina",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1960: 70"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.164994,24.088986 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Eran",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1960: 70"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.903801,23.009748 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dharampuri",
+    "District":"Sehore",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1960: 71"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.495291,23.813757 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Shamsabad",
+    "District":"Vidisha",
+    "State":"Madhya Pradesh",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1960: 71"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.192111,18.404585 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mahenduri",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1959,
+    "Field":"Exploration",
+    "Dated":"BRW",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1960: 72"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.284213,25.309239 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Antichak",
+    "District":"Bhagalpur",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Excavation",
+    "Dated":"Buddhist",
+    "Investigator":"University",
+    "Institute":"University of Patna",
+    "Notes":"",
+    "Reference":"IAR 1961: 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.999431,24.795452 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Goriya-Khoh",
+    "District":"Gaya",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Drain",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.949239,24.965648 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sonpur",
+    "District":"Gaya",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Excavation",
+    "Dated":"Microliths",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.413669,25.068703 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhimbandh",
+    "District":"Munger",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.473525,25.374756 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Karkhup",
+    "District":"Munger",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Iron slag",
+    "Investigator":"University",
+    "Institute":"University of Patna",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.475324,25.368200 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Jamalpur Hill",
+    "District":"Munger",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Patna",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Paharpur",
+    "District":"Santal Parganas",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mohantada",
+    "District":"Santal Parganas",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bandarkola",
+    "District":"Santal Parganas",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Amjani",
+    "District":"Santal Parganas",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Parer-kola",
+    "District":"Santal Parganas",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Patna",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chhoti Suraj Bera Hill",
+    "District":"Santal Parganas",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Patna",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kathi-Kunda",
+    "District":"Santal Parganas",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Patna",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Amrapara",
+    "District":"Santal Parganas",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Patna",
+    "Notes":"",
+    "Reference":"IAR 1961: 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.313119,25.096074 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Masanjore",
+    "District":"Santal Parganas",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Patna",
+    "Notes":"",
+    "Reference":"IAR 1961: 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.114869,26.001251 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Baniya",
+    "District":"Muzaffarpur",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Excavation",
+    "Dated":"Three Periods",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"",
+    "Reference":"IAR 1961: 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.099950,25.992640 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lalpura",
+    "District":"Muzaffarpur",
+    "State":"Bihar",
+    "Year":1960,
+    "Field":"Excavation",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"KP Jayaswal Research Institute",
+    "Notes":"",
+    "Reference":"IAR 1961: 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.397394,23.670614 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Devnimori",
+    "District":"Sabarkantha",
+    "State":"Gujarat",
+    "Year":1960,
+    "Field":"Excavation",
+    "Dated":"Vihara",
+    "Investigator":"University",
+    "Institute":"MS University, Baroda",
+    "Notes":"",
+    "Reference":"IAR 1961: 8-11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.297978,24.634820 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Betwa banks",
+    "District":"Guna",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.737807,23.838805 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bina banks",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.808136,23.525110 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dhasan banks",
+    "District":"Vidisha",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.986407,23.181467 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Manot",
+    "District":"Jabalpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.959838,23.416804 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mandla",
+    "District":"Jabalpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.986407,23.181467 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bahmni",
+    "District":"Jabalpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.802357,23.130590 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bheraghat",
+    "District":"Jabalpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.830769,23.109891 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Lametaghat",
+    "District":"Jabalpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.874312,23.109412 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Tilwaraghat",
+    "District":"Jabalpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.996194,23.098148 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nimkhera",
+    "District":"Jabalpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.902478,23.005273 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Saliwara",
+    "District":"Jabalpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.780638,23.107832 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sakri",
+    "District":"Jabalpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.312954,23.122413 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kastara",
+    "District":"Jabalpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.194353,22.946557 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Devakachar",
+    "District":"Narsinghpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.101220,22.990127 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ratikarar",
+    "District":"Narsinghpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.990956,23.063234 ]
+    },
+    "properties": {
+    "Precision":5,
+    "Site":"Barmanghat",
+    "District":"Narsinghpur",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.736967,22.744108 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jhilpiparia",
+    "District":"Hoshangabad",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.351510,22.911497 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sandia",
+    "District":"Hoshangabad",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.341552,22.906358 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Seoni",
+    "District":"Hoshangabad",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.736967,22.744108 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hoshangabad",
+    "District":"Hoshangabad",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.736967,22.744108 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dongarwara",
+    "District":"Hoshangabad",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 13-17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.164994,24.088986 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Eran",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Excavation",
+    "Dated":"Microliths",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1961: 17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.749592,19.095208 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hathi Well",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.928106,19.551177 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nevasa",
+    "District":"Ahmednagar",
+    "State":"Maharashtra",
+    "Year":1960,
+    "Field":"Excavation",
+    "Dated":"Chalcolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 19-22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.852010,19.204516 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kandivli",
+    "District":"Bombay Suburban",
+    "State":"Maharashtra",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 22-26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.789509,19.164008 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Madh",
+    "District":"Bombay Suburban",
+    "State":"Maharashtra",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 22-26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.783386,19.160443 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Yerangal Point",
+    "District":"Bombay Suburban",
+    "State":"Maharashtra",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Microliths",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 22-26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.972718,19.017173 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chandoli-Khurd",
+    "District":"Pune",
+    "State":"Maharashtra",
+    "Year":1960,
+    "Field":"Excavation",
+    "Dated":"Jorwe",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 26-27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.418062,25.753154 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bigod",
+    "District":"Barmer",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Lithics",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 29-31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chitorgarh",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Lithics",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 29-31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.626922,24.888744 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Nathdwara",
+    "District":"Chittorgarh",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Lithics",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 29-31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.200323,26.396345 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dhaneri",
+    "District":"Pali",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Lithics",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 29-31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.383672,26.452812 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Govindgarh",
+    "District":"Ajmer",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Lithics",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 29-31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.853659,25.195610 ]
+    },
+    "properties": {
+    "Precision":null,
+    "Site":"Banner",
+    "District":"Banner",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Lithics",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 29-31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.532721,28.040134 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sankara",
+    "District":"Aligarh",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"PGW",
+    "Investigator":"University",
+    "Institute":"Muslim Aligarh University",
+    "Notes":"",
+    "Reference":"IAR 1961: 32-33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Draupadi-ghat",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Ring Wells",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1961: 33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sir Tej Bahadur Sapru Hospital",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1961: 33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.718525,25.317408 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chilla",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1961: 33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.874337,25.487856 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Govindpur",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1961: 33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.876384,25.484294 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Salori",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1961: 33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bharadwaj-Asram",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Kushan",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1961: 33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.836489,25.430333 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dariabad",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1961: 33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.990296,25.492771 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Mirapur",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"NBPW",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1961: 33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.846311,25.435801 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Kausambi",
+    "District":"Allahabad",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Excavation",
+    "Dated":"Palace",
+    "Investigator":"University",
+    "Institute":"University of Allahabad",
+    "Notes":"",
+    "Reference":"IAR 1961: 33-35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.689509,27.692653 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Atranjikhera",
+    "District":"Etah",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"PGW",
+    "Investigator":"University",
+    "Institute":"Muslim Aligarh University",
+    "Notes":"",
+    "Reference":"IAR 1961: 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.625688,25.224868 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Lalitpur",
+    "District":"Hamirpur",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.924527,25.758935 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Burwar",
+    "District":"Hamirpur",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.152627,25.954804 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Barod",
+    "District":"Hamirpur",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.152627,25.954804 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dhaura",
+    "District":"Hamirpur",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.152627,25.954804 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Sihora",
+    "District":"Hamirpur",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.152627,25.954804 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Ghat Semra",
+    "District":"Hamirpur",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.152627,25.954804 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Hasrai",
+    "District":"Hamirpur",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.152627,25.954804 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Gonchi",
+    "District":"Hamirpur",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.040165,25.331310 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Rajghat",
+    "District":"Varanasi",
+    "State":"Uttar Pradesh",
+    "Year":1960,
+    "Field":"Excavation",
+    "Dated":"PGW",
+    "Investigator":"University",
+    "Institute":"BHU",
+    "Notes":"",
+    "Reference":"IAR 1961: 35-39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.736967,22.744108 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Dongarwara",
+    "District":"Hoshangabad",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Calcutta",
+    "Notes":"",
+    "Reference":"IAR 1961: 60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.737807,23.838805 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Abchand",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1961: 62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.199190,24.074084 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Bhapson",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1961: 62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.187792,24.096621 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Chandera",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1961: 62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.176394,24.107443 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Reta",
+    "District":"Sagar",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Paleolithic",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1961: 62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.518840,24.501631 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Jasso",
+    "District":"Satna",
+    "State":"Madhya Pradesh",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Sculptures",
+    "Investigator":"University",
+    "Institute":"University of Saugor",
+    "Notes":"",
+    "Reference":"IAR 1961: 62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.544864,25.297881 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Pur",
+    "District":"Bhilwara",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Temple",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 65"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.871181,27.541435 ]
+    },
+    "properties": {
+    "Precision":3,
+    "Site":"Khurdi",
+    "District":"Nagaur",
+    "State":"Rajasthan",
+    "Year":1960,
+    "Field":"Exploration",
+    "Dated":"Copper Hoard",
+    "Investigator":"University",
+    "Institute":"Deccan College",
+    "Notes":"",
+    "Reference":"IAR 1961: 66"
+    }
+  }
+]
+}
