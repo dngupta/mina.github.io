@@ -98,13 +98,20 @@ var surveyMarker = L.geoJson(false, {
 		}
 	}).addTo(map);
 
-	$.getJSON("testData.geojson").filter(function (n) {
-	return n.investigator === "Survey";
-	surveyMarker.addData(n);
-	surveyMarker.eachLayer(function (layer) {
-		layer.addTo(surveyMarkerSub);
-		});
-	});
+$(document).ready(function () {
+             $.getJSON("testData.geojson", function (data) {
+				    var objects = [];
+	            $.each(data.features, function (idx, n) {
+	            if (n.investigator === "Survey") {
+	            surveyMarker.addData(n);
+	            surveyMarker.eachLayer(function (layer) {
+		               layer.addTo(surveyMarkerSub);
+		              });
+		          }
+        });
+     });
+});
+
 	
 	//uni icon & load geojson
 	var uniIcon = L.icon({
@@ -126,13 +133,15 @@ var uniMarker = L.geoJson(false, {
 		}
 	}).addTo(map);
 
-	$.getJSON("testData.geojson").filter(function (n) {
-	return n.investigator === "University";
-	uniMarker.addData(n);
-	uniMarker.eachLayer(function (layer) {
-		layer.addTo(uniMarkerSub);
-		});
-	});
+var data = geoJSON.parse("testData.geoJson"); 
+	$.each(geoJSON.parse(data), function (idx, n) {
+	        if (n.investigator === "University") {
+	            uniMarker.addData(n);
+	            uniMarker.eachLayer(function (layer) {
+		        layer.addTo(uniMarkerSub);
+		        });
+		      }
+});
 
 	//state icon & load geojson
 	var stateIcon = L.icon({
