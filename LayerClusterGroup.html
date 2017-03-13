@@ -98,7 +98,7 @@ var allMarker = L.geoJson(false, {
 	}).addTo(map);
 
 $(document).ready(function () {
-             $.getJSON("testData.geojson", function (features) {
+             $.getJSON("testData.geojson", function (feature, layer) {
 				    var data = [];
 	            $.each(data.features.properties, function (f, n) {
 	            if (n.investigator === "Survey" && n.investigator === "University" && n.investigator === "State") {
@@ -131,7 +131,7 @@ var surveyMarker = L.geoJson(false, {
 	}).addTo(map);
 
 $(document).ready(function () {
-             $.getJSON("testData.geojson", function (features) {
+             $.getJSON("testData.geojson", function (feature, layer) {
 				    var data = [];
 	            $.each(data.features.properties, function (f, n) {
 	            if (n.investigator === "Survey") {
@@ -143,8 +143,6 @@ $(document).ready(function () {
         });
      });
 });
-
-	
 	//uni icon & load geojson
 	var uniIcon = L.icon({
 			iconUrl: 'mina.github.io/images/circle.png',
@@ -166,7 +164,7 @@ var uniMarker = L.geoJson(false, {
 	}).addTo(map);
 
 $(document).ready(function () {
-             $.getJSON("testData.geojson", function (features) {
+             $.getJSON("testData.geojson", function (feature, layer) {
 				    var data = [];
 	            $.each(data.features.properties, function (f, n) {
 	            if (n.investigator === "University") {
@@ -178,7 +176,6 @@ $(document).ready(function () {
         });
      });
 });
-
 	//state icon & load geojson
 	var stateIcon = L.icon({
 			iconUrl: 'mina.github.io/images/square.png',
@@ -200,7 +197,7 @@ var stateMarker = L.geoJson(false, {
 	}).addTo(map);
 
 $(document).ready(function () {
-             $.getJSON("testData.geojson", function (features) {
+             $.getJSON("testData.geojson", function (feature, layer) {
 				    var data = [];
 	            $.each(data.features.properties, function (f, n) {
 	            if (n.investigator === "State") {
@@ -234,8 +231,7 @@ $(document).ready(function () {
 	
 	// Layer Switcher
 	L.control.layers(overlayMaps).addTo(map);
-	
-	</script>
+</script>
 	
 
 <!-- Google Analytics -->
