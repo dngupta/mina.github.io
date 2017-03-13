@@ -97,7 +97,7 @@ var allMarker = L.geoJson(false, {
 $(document).ready(function () {
              $.getJSON("testData.geojson", function (key, val) {
 				    var data = [];
-	            $.each(data[features].properties, function (f, n) {
+	            $.each(feature.properties, function (f, n) {
 	            if (n.investigator === "Survey" && n.investigator === "University" && n.investigator === "State") {
 	            allMarker.addData(n);
 	            allMarker.eachLayer(function (layer) {
@@ -127,7 +127,7 @@ var surveyMarker = L.geoJson(false, {
 $(document).ready(function () {
              $.getJSON("testData.geojson", function (feature, layer) {
 				    var data = [];
-	            $.each(data.features.properties, function (f, n) {
+	            $.each(data.feature.properties, function (f, n) {
 	            if (n.investigator === "Survey") {
 	            surveyMarker.addData(n);
 	            surveyMarker.eachLayer(function (layer) {
@@ -157,7 +157,7 @@ var uniMarker = L.geoJson(false, {
 $(document).ready(function () {
              $.getJSON("testData.geojson", function (feature, layer) {
 				    var data = [];
-	            $.each(data.features.properties, function (f, n) {
+	            $.each(data.feature.properties, function (f, n) {
 	            if (n.investigator === "University") {
 	            uniMarker.addData(n);
 	            uniMarker.eachLayer(function (layer) {
@@ -187,7 +187,7 @@ var stateMarker = L.geoJson(false, {
 $(document).ready(function () {
              $.getJSON("testData.geojson", function (feature, layer) {
 				    var data = [];
-	            $.each(data.features.properties, function (f, n) {
+	            $.each(data.feature.properties, function (f, n) {
 	            if (n.investigator === "State") {
 	            stateMarker.addData(n);
 	            stateMarker.eachLayer(function (layer) {
