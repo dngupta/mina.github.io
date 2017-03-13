@@ -98,9 +98,9 @@ var allMarker = L.geoJson(false, {
 	}).addTo(map);
 
 $(document).ready(function () {
-             $.getJSON("testData.geojson", function (feature, layer) {
+             $.getJSON("testData.geojson", function () {
 				    var data = [];
-	            $.each(features.properties, function (f, n) {
+	            $.each(data.features.properties, function (f, n) {
 	            if (n.investigator === "Survey" && n.investigator === "University" && n.investigator === "State") {
 	            allMarker.addData(n);
 	            allMarker.eachLayer(function (layer) {
