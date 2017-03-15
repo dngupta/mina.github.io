@@ -79,15 +79,10 @@
 	<script>
 	
 	// All icon & geojson
-	var allIcon = L.icon ({
-			iconUrl: "mina.github.io/images/pin48.png",
-			iconSize: [48, 48]
-});
+	
 var allMarker = L.geoJson(false, {
 		pointToLayer: function (feature, latlng) {
-			var marker = L.marker (latlng, {
-				icon: allIcon
-			});
+			var marker = L.marker (latlng);
 			marker.bindPopup("<strong>" + feature.properties.Site + "</strong><br/>" + feature.properties.State + " " + feature.properties.Year + " " + feature.properties.Acc + "<br/>" + " " +
 		  feature.properties.Institute + " ");
 		return marker;
@@ -99,16 +94,10 @@ $.getJSON("testData.geojson", function(data) {
 	});
 	
 	// Survey icon & load geojson
-	var surveyIcon = L.icon({
-			iconUrl: "mina.github.io/images/triangle.png",
-			iconSize: [48, 39]
-});
 	
 var surveyMarker = L.geoJson(false, {
 		pointToLayer: function (feature, latlng) {
-			var marker = L.marker (latlng, {
-				icon: surveyIcon
-			});
+			var marker = L.marker (latlng);
 			marker.bindPopup("<strong>" + feature.properties.Site + "</strong><br/>" + feature.properties.State + " " + feature.properties.Year + " " + feature.properties.Acc + "<br/>" + " " +
 		  feature.properties.Institute + " ");
 		return marker;
@@ -120,16 +109,10 @@ var surveyMarker = L.geoJson(false, {
 	});
 
 	//uni icon & load geojson
-	var uniIcon = L.icon({
-			iconUrl: 'mina.github.io/images/circle.png',
-			iconSize: [48, 48]
-});
-	
+
 var uniMarker = L.geoJson(false, {
 		pointToLayer: function (feature, latlng) {
-			var marker = L.marker (latlng, {
-				icon: uniIcon
-			});
+			var marker = L.marker (latlng);
 			marker.bindPopup("<strong>" + feature.properties.Site + "</strong><br/>" + feature.properties.State + " " + feature.properties.Year + " " + feature.properties.Acc + "<br/>" + " " +
 		  feature.properties.Institute + " ");
 		return marker;
@@ -141,16 +124,10 @@ var uniMarker = L.geoJson(false, {
 	});
 	
 	//state icon & load geojson
-	var stateIcon = L.icon({
-			iconUrl: 'mina.github.io/images/square.png',
-			iconSize: [48, 48]
-	});
 	
 var stateMarker = L.geoJson(false, {
 		pointToLayer: function (feature, latlng) {
-					var marker = L.marker (latlng, {
-							icon: stateIcon
-			});
+					var marker = L.marker (latlng);
 			marker.bindPopup("<strong>" + feature.properties.Site + "</strong><br/>" + feature.properties.State + " " + feature.properties.Year + " " + feature.properties.Acc + "<br/>" + " " +
 		  feature.properties.Institute + " ");
 		return marker;
