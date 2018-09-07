@@ -2,7 +2,7 @@ var xhr = require('corslite'),
     csv2geojson = require('csv2geojson'),
     wellknown = require('wellknown'),
     polyline = require('polyline'),
-    topojson = require('topojson/topojson.js'),
+    topojson = require('topojson'),
     toGeoJSON = require('togeojson');
 
 module.exports.polyline = polylineLoad;
@@ -26,8 +26,11 @@ module.exports.wkt = wktLoad;
 module.exports.wkt.parse = wktParse;
 
 function addData(l, d) {
-    if ('addData' in l) l.addData(d);
-    if ('setGeoJSON' in l) l.setGeoJSON(d);
+    if ('setGeoJSON' in l) {
+        l.setGeoJSON(d);
+    } else if ('addData' in l) {
+        l.addData(d);
+    }
 }
 
 /**

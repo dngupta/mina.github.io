@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/mapbox/leaflet-omnivore.svg)](https://travis-ci.org/mapbox/leaflet-omnivore)
-
 # leaflet-omnivore
 
 ![](https://farm8.staticflickr.com/7373/12376158164_e335b4e61d_b.jpg)
@@ -164,7 +162,7 @@ cd leaflet-omnivore
 npm install
 
 # to build leaflet-omnivore.js
-npm run build
+npm run prepublish
 ```
 
 `leaflet-omnivore.js` and `leaflet-omnivore.min.js` are **built files** generated
