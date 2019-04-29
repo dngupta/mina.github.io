@@ -13,10 +13,10 @@ Data for MINA are drawn from *Indian Archaeology - A Review* (IAR), an annual in
 Location information (place name, district name, state name) have been extracted manually, and then geocoded using a [Python script]   (https://github.com/cmaene/pythonGeocodeWithGeopy/blob/master/geocodeBatchApi.py). The data are most appropriate for national-scale   analysis. Additional information on these investigations include the year of investigation, the kind of investigation (survey or  excavation), the investigating institution and archaeologist(s). These data are available as CSV. They are summarized as a [Web map](http://dngupta.github.io/mina.github.io)
 
 ##### Project History
-The following blog posts were written as MINA was being built:
-		1. Sept 2015. Map Indian Archaeology - http://digitalarchaeology.msu.edu/map-indian-archaeology/
-		1. Jan 2016. Place names, Coordinates and Geocoding - http://digitalarchaeology.msu.edu/indian-archaeology-place-names-coordinates-and-geocoding/
-		1. Feb 2016. Spatial, Temporal and Thematic Imperfections - http://digitalarchaeology.msu.edu/spatial-temporal-and-thematic-imperfections-and-visualization/
-		1. Mar 2016. Github and Mapbox - http://digitalarchaeology.msu.edu/switching-gears-github-mapbox/
-		1. June 2016. Error Checking - http://digitalarchaeology.msu.edu/error-checking-and-a-big-screen/
-		1. July 2016. Visualizing Geo-information - http://digitalarchaeology.msu.edu/reducing-visual-load-and-visualizing-geo-information
+<p>The following blog posts were written as MINA was being built:</p>
+    *Sept 2015. Map Indian Archaeology - http://digitalarchaeology.msu.edu/map-indian-archaeology/
+    *Jan 2016. Place names, Coordinates and Geocoding - http://digitalarchaeology.msu.edu/indian-archaeology-place-names-coordinates-and-geocoding/
+    *Feb 2016. Spatial, Temporal and Thematic Imperfections - http://digitalarchaeology.msu.edu/spatial-temporal-and-thematic-imperfections-and-visualization/
+    *Mar 2016. Github and Mapbox - http://digitalarchaeology.msu.edu/switching-gears-github-mapbox/
+    *June 2016. Error Checking - http://digitalarchaeology.msu.edu/error-checking-and-a-big-screen/
+    *July 2016. Visualizing Geo-information - http://digitalarchaeology.msu.edu/reducing-visual-load-and-visualizing-geo-information
