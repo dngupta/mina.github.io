@@ -14,9 +14,9 @@ Location information (place name, district name, state name) have been extracted
 
 ##### Project History
 <p>The following blog posts were written as MINA was being built:</p>
- 1. Sept 2015. Map Indian Archaeology - http://digitalarchaeology.msu.edu/map-indian-archaeology/
- 2. Jan 2016. Place names, Coordinates and Geocoding - http://digitalarchaeology.msu.edu/indian-archaeology-place-names-coordinates-and-geocoding/
- 3. Feb 2016. Spatial, Temporal and Thematic Imperfections - http://digitalarchaeology.msu.edu/spatial-temporal-and-thematic-imperfections-and-visualization/
- 4. Mar 2016. Github and Mapbox - http://digitalarchaeology.msu.edu/switching-gears-github-mapbox/
- 5. June 2016. Error Checking - http://digitalarchaeology.msu.edu/error-checking-and-a-big-screen/
- 6. July 2016. Visualizing Geo-information - http://digitalarchaeology.msu.edu/reducing-visual-load-and-visualizing-geo-information
+<p>Sept 2015. Map Indian Archaeology - http://digitalarchaeology.msu.edu/map-indian-archaeology/</p>
+<p>Jan 2016. Place names, Coordinates and Geocoding - http://digitalarchaeology.msu.edu/indian-archaeology-place-names-coordinates-and-geocoding/</p>
+<p>Feb 2016. Spatial, Temporal and Thematic Imperfections - http://digitalarchaeology.msu.edu/spatial-temporal-and-thematic-imperfections-and-visualization/</p>
+<p>Mar 2016. Github and Mapbox - http://digitalarchaeology.msu.edu/switching-gears-github-mapbox/</p>
+<p>June 2016. Error Checking - http://digitalarchaeology.msu.edu/error-checking-and-a-big-screen/</p>
+<p>July 2016. Visualizing Geo-information - http://digitalarchaeology.msu.edu/reducing-visual-load-and-visualizing-geo-information</p>
