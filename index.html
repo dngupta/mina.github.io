@@ -157,10 +157,10 @@ $(window).on("resize", function () {
 	<script>
 var map = L.map('map').setView([23.215757, 80.042289], 5);
 
-L.tileLayer ('https://a.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+L.tileLayer ('https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
     maxZoom: 18,
-	id: 'dngupta.0hm7jnc4',
-    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiI3ZTUzNDI5MmUyYTBmNDA1NjhmMjViNGI4YTBmNTAxYyJ9.qpu0vHj2vN-pyclLRaj2Uw'}).addTo(map);
+    accessToken: 'pk.eyJ1IjoiZG5ndXB0YSIsImEiOiJja2hoODQ0YW4xOGc0MnJwNWVsM3BicGttIn0.oY6IpkC5M8ExGvx0jmNu3A'}).addTo(map);
 
 //enter path for .csv here
 var markers = omnivore.csv('/mina.github.io/data/IAR1950s_170225.csv')
