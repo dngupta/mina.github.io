@@ -10,7 +10,7 @@ A key challenge in Indian archaeology is the relative lack of digital (and digit
 
 Data for MINA are drawn from *Indian Archaeology - A Review* (IAR), an annual in-house publication of the Archaeological Survey of India (Survey). The Survey is the national department for archaeology and heritage management in India. IAR consists of summaries of archaeological field investigations that were carried out during each calendar year. The current focus of the project is on the years between 1953 and 1960.
 
-Location information (place name, district name, state name) have been extracted manually, and then geocoded using a [Python script] (https://github.com/cmaene/pythonGeocodeWithGeopy/blob/master/geocodeBatchApi.py). The data are most appropriate for national-scale analysis. Additional information on these investigations include the year of investigation, the kind of investigation (survey or  excavation), the investigating institution and archaeologist(s). These data are available as CSV. They are available as a [Web map](http://dngupta.github.io/mina.github.io)
+Location information (place name, district name, state name) have been extracted manually, and then geocoded using a [Python script](https://github.com/cmaene/pythonGeocodeWithGeopy/blob/master/geocodeBatchApi.py). The data are most appropriate for national-scale analysis. Additional information on these investigations include the year of investigation, the kind of investigation (survey or  excavation), the investigating institution and archaeologist(s). These data are available as CSV. They are available as a [Web map](http://dngupta.github.io/mina.github.io)
 
 ##### Project History
 <p>The following blog posts were written as MINA was being built:</p>
