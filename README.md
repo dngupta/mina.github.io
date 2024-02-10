@@ -14,4 +14,4 @@ Location information (place name, district name, state name) have been extracted
 
 ##### Project History
 <p>The following provides an overview of MINA:</p>
-<p>Gupta, N., Rajesh S.V, S. Chatterjee, Abhayan G.S. (2021). MINA | Map Indian Archaeology: opening post-colonial archaeological research in the Indian context through Web-based geovisualization. [*LivingMaps Review*](https://www.livingmaps.org/neha-gupta) </p>
+<p>Gupta, N., Rajesh S.V, S. Chatterjee, Abhayan G.S. (2021). MINA | Map Indian Archaeology: opening post-colonial archaeological research in the Indian context through Web-based geovisualization. [LivingMaps Review](https://www.livingmaps.org/neha-gupta)</p>
