@@ -13,10 +13,5 @@ Data for MINA are drawn from *Indian Archaeology - A Review* (IAR), an annual in
 Location information (place name, district name, state name) have been extracted manually, and then geocoded using a [Python script](https://github.com/cmaene/pythonGeocodeWithGeopy/blob/master/geocodeBatchApi.py). The data are most appropriate for national-scale analysis. Additional information on these investigations include the year of investigation, the kind of investigation (survey or  excavation), the investigating institution and archaeologist(s). These data are available as CSV. They are available as a [Web map](http://dngupta.github.io/mina.github.io)
 
 ##### Project History
-<p>The following blog posts were written as MINA was being built:</p>
-<p>Sept 2015. Map Indian Archaeology - http://digitalarchaeology.msu.edu/map-indian-archaeology/</p>
-<p>Jan 2016. Place names, Coordinates and Geocoding - http://digitalarchaeology.msu.edu/indian-archaeology-place-names-coordinates-and-geocoding/</p>
-<p>Feb 2016. Spatial, Temporal and Thematic Imperfections - http://digitalarchaeology.msu.edu/spatial-temporal-and-thematic-imperfections-and-visualization/</p>
-<p>Mar 2016. Github and Mapbox - http://digitalarchaeology.msu.edu/switching-gears-github-mapbox/</p>
-<p>June 2016. Error Checking - http://digitalarchaeology.msu.edu/error-checking-and-a-big-screen/</p>
-<p>July 2016. Visualizing Geo-information - http://digitalarchaeology.msu.edu/reducing-visual-load-and-visualizing-geo-information</p>
+<p>The following provides an overview of MINA:</p>
+<p>Gupta, N., Rajesh S.V, S. Chatterjee, Abhayan G.S. (2021). MINA | Map Indian Archaeology: opening post-colonial archaeological research in the Indian context through Web-based geovisualization. [*LivingMaps Review*](https://www.livingmaps.org/neha-gupta) </p>
